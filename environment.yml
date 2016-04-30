@@ -1,0 +1,10 @@
+name: mtd
+dependencies:
+  - python=3.4
+  - ipython-notebook
+  - bokeh
+  - requests
+  - pandas
+  - pip:
+    - oauth2
+    - Click

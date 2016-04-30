@@ -1,0 +1,560 @@
+,cik,companyname,entityid,primaryexchange,primarysymbol,siccode,sicdescription
+0,0000706688,AARON'S INC,2480,NYSE,AAN,7359,"Equipment Rental and Leasing, Not Elsewhere Classified"
+1,0000824142,AAON INC,938,Nasdaq Global Market,AAON,3585,Air-Conditioning and Warm Air Heating Equipment and Commercial a
+2,0000881890,ABAXIS INC,11929,Nasdaq Global Market,ABAX,3829,"Measuring and Controlling Devices, Not Elsewhere Classified"
+3,0001551152,ABBVIE INC.,883230,NYSE,ABBV,2834,Pharmaceutical Preparations
+4,0000001800,ABBOTT LABORATORIES,5054,NYSE,ABT,2834,Pharmaceutical Preparations
+5,0000001750,AAR CORP,8804,NYSE,AIR,3720,Aircraft And Parts
+6,0001580808,"A10 NETWORKS, INC.",910463,NYSE,ATEN,3576,Computer Communications Equipment
+7,0000910638,3D SYSTEMS CORP,5580,NYSE,DDD,7372,Prepackaged Software
+8,0000066740,3M CO,5248,NYSE,MMM,3841,Surgical and Medical Instruments and Apparatus
+9,0000815094,ABIOMED INC,4093,Nasdaq Global Market,ABMD,3841,Surgical and Medical Instruments and Apparatus
+10,0000712034,ACCO BRANDS CORP,582568,NYSE,ACCO,2780,"Blankbooks, Looseleaf Binders, And Bookbinding"
+11,0000880984,"ACORN ENERGY, INC.",3582,OTC,ACFN,8711,Engineering Services
+12,0001044435,ACTIVE POWER INC,76141,Nasdaq Capital Market,ACPW,4911,Electric Services
+13,0000817979,ACCURIDE CORP,50901,NYSE,ACW,3714,Motor Vehicle Parts and Accessories
+14,0001018840,ABERCROMBIE & FITCH CO /DE/,6231,NYSE,ANF,5651,Family Clothing Stores
+15,0001138723,ACCURAY INC,104630,Nasdaq Global Market,ARAY,3841,Surgical and Medical Instruments and Apparatus
+16,0000006955,ACTUANT CORP,1718,NYSE,ATU,3590,Miscellaneous Industrial And Commercial
+17,0000718877,"ACTIVISION BLIZZARD, INC.",9358,Nasdaq Global Market,ATVI,7372,Prepackaged Software
+18,0001144215,ACUITY BRANDS INC,88293,NYSE,AYI,3640,Electric Lighting And Wiring Equipment
+19,0001090872,AGILENT TECHNOLOGIES INC,8244,NYSE,A,3826,Laboratory Analytical Instruments
+20,0000785787,AEP INDUSTRIES INC,3900,Nasdaq Global Market,AEPI,3081,Unsupported Plastics Film and Sheet
+21,0000880266,AGCO CORP /DE,8527,NYSE,AGCO,3523,Farm Machinery and Equipment
+22,0001009891,AIR INDUSTRIES GROUP,71457,NYSE MKT,AIRI,3728,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified"
+23,0000816159,AIR METHODS CORP,6171,Nasdaq Global Market,AIRM,4522,"Air Transportation, Nonscheduled"
+24,0000040888,"AEROJET ROCKETDYNE HOLDINGS, INC.",10017,NYSE,AJRD,3760,Guided Missiles And Space Vehicles And Parts
+25,0000002969,AIR PRODUCTS & CHEMICALS INC /DE/,7570,NYSE,APD,2810,Industrial Inorganic Chemicals
+26,0000804212,AIRGAS INC,3632,NYSE,ARG,5084,Industrial Machinery and Equipment
+27,0001368622,AEROVIRONMENT INC,722088,Nasdaq Global Market,AVAV,3721,Aircraft
+28,0000004281,ALCOA INC.,10803,NYSE,AA,3350,"Rolling, Drawing, And Extruding Of Nonferrous"
+29,0000819793,ALBANY INTERNATIONAL CORP /DE/,9956,NYSE,AIN,2221,"Broadwoven Fabric Mills, Manmade Fiber and Silk"
+30,0000915913,ALBEMARLE CORP,8245,NYSE,ALB,2821,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elasto"
+31,0000897077,ALAMO GROUP INC,5734,NYSE,ALG,3523,Farm Machinery and Equipment
+32,0001097149,ALIGN TECHNOLOGY INC,80922,Nasdaq Global Market,ALGN,3842,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies"
+33,0001145460,ALERE INC.,89370,NYSE,ALR,2835,In Vitro and In Vivo Diagnostic Substances
+34,0000886125,ALCATEL LUCENT,10386,NYSE,ALU,3661,Telephone and Telegraph Apparatus
+35,0001344413,ALEXZA PHARMACEUTICALS INC.,694307,Nasdaq Global Market,ALXA,2834,Pharmaceutical Preparations
+36,0001018963,ALLEGHENY TECHNOLOGIES INC,4515,NYSE,ATI,3317,Steel Pipe and Tubes
+37,0001101215,ALLIANCE DATA SYSTEMS CORP,70958,NYSE,ADS,7389,"Business Services, Not Elsewhere Classified"
+38,0001122342,ALLIANCE FIBER OPTIC PRODUCTS INC,79266,Nasdaq Capital Market,AFOP,3674,Semiconductors and Related Devices
+39,0001344980,"ALLIANCE HOLDINGS GP, L.P.",691539,Nasdaq Global Market,AHGP,1221,Bituminous Coal and Lignite Surface Mining
+40,0001579241,ALLEGION PLC,908913,NYSE,ALLE,7381,"Detective, Guard, and Armored Car Services"
+41,0001365767,ALLOT COMMUNICATIONS LTD.,724863,Nasdaq Global Market,ALLT,3576,Computer Communications Equipment
+42,0001411207,ALLISON TRANSMISSION HOLDINGS INC,755761,NYSE,ALSN,3714,Motor Vehicle Parts and Accessories
+43,0000046129,ALLIED MOTION TECHNOLOGIES INC,6560,Nasdaq Global Market,AMOT,3825,Instruments for Measuring and Testing of Electricity and Electri
+44,0001387467,ALPHA & OMEGA SEMICONDUCTOR LTD,732422,Nasdaq Global Market,AOSL,3674,Semiconductors and Related Devices
+45,0001086600,ALLIANCE RESOURCE PARTNERS LP,9984,Nasdaq Global Market,ARLP,1221,Bituminous Coal and Lignite Surface Mining
+46,0001350653,"ALPHATEC HOLDINGS, INC.",698514,Nasdaq Global Market,ATEC,3841,Surgical and Medical Instruments and Apparatus
+47,0000919012,AMERICAN EAGLE OUTFITTERS INC,1498,NYSE,AEO,5651,Family Clothing Stores
+48,0001374535,ALTRA INDUSTRIAL MOTION CORP.,722111,Nasdaq Global Market,AIMC,3569,"General Industrial Machinery and Equipment, Not Elsewhere"
+49,0001280263,AMBARELLA INC,622350,Nasdaq Global Market,AMBA,3674,Semiconductors and Related Devices
+50,0001488139,"AMERESCO, INC.",825041,NYSE,AMRC,1700,Construction - Special Trade Contractors
+51,0001018724,AMAZON COM INC,7235,Nasdaq Global Market,AMZN,5961,Catalog and Mail-Order Houses
+52,0001344596,"AMERICAN RAILCAR INDUSTRIES, INC.",693099,Nasdaq Global Market,ARII,3743,Railroad Equipment
+53,0000005768,"AMERICAN SCIENCE & ENGINEERING, INC.",9591,Nasdaq Global Market,ASEI,3844,X-Ray Apparatus and Tubes and Related Irradiation Apparatus
+54,0001062231,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,11434,NYSE,AXL,3714,Motor Vehicle Parts and Accessories
+55,0000764180,"ALTRIA GROUP, INC.",8363,NYSE,MO,2111,Cigarettes
+56,0001140859,AMERISOURCEBERGEN CORP,86687,NYSE,ABC,5122,"Drugs, Drug Proprietaries, and Druggists' Sundries"
+57,0000006281,ANALOG DEVICES INC,11545,Nasdaq Global Market,ADI,3674,Semiconductors and Related Devices
+58,0000006284,ANALOGIC CORP,8785,Nasdaq Global Market,ALOG,3825,Instruments for Measuring and Testing of Electricity and Electri
+59,0001037868,AMETEK INC/,6134,NYSE,AME,3621,Motors and Generators
+60,0001047127,"AMKOR TECHNOLOGY, INC.",7044,Nasdaq Global Market,AMKR,3674,Semiconductors and Related Devices
+61,0000880807,AMERICAN SUPERCONDUCTOR CORP /DE/,11268,Nasdaq Global Market,AMSC,3621,Motors and Generators
+62,0000006176,AMPCO PITTSBURGH CORP,10196,NYSE,AP,3561,Pumps and Pumping Equipment
+63,0000820313,AMPHENOL CORP /DE/,6530,NYSE,APH,3678,Electronic Connectors
+64,0000720500,AMTECH SYSTEMS INC,9297,Nasdaq Global Market,ASYS,3559,"Special Industry Machinery, Not Elsewhere Classified"
+65,0000320193,APPLE INC,2035,Nasdaq Global Market,AAPL,3571,Electronic Computers
+66,0000109563,APPLIED INDUSTRIAL TECHNOLOGIES INC,5946,NYSE,AIT,5080,"Machinery, Equipment, And Supplies"
+67,0000006951,APPLIED MATERIALS INC /DE,2730,Nasdaq Global Market,AMAT,3674,Semiconductors and Related Devices
+68,0000711065,APPLIED MICRO CIRCUITS CORP,9399,Nasdaq Global Market,AMCC,3674,Semiconductors and Related Devices
+69,0000006845,"APOGEE ENTERPRISES, INC.",11973,Nasdaq Global Market,APOG,3231,"Glass Products, Made of Purchased Glass"
+70,0000896622,APTARGROUP INC,2149,NYSE,ATR,3089,"Plastics Products, Not Elsewhere Classified"
+71,0000052795,ANIXTER INTERNATIONAL INC,6085,NYSE,AXE,5063,"Electrical Apparatus and Equipment Wiring Supplies, and Construc"
+72,0000719866,ARCTIC CAT INC,6923,Nasdaq Global Market,ACAT,3790,Miscellaneous Transportation Equipment
+73,0001508478,ARCOS DORADOS HOLDINGS INC.,851067,NYSE,ARCO,5812,Eating Places
+74,0001141107,ARRIS GROUP INC,86730,Nasdaq Global Market,ARRS,3663,Radio and Television Broadcasting and Communications Equipment
+75,0000916529,AROTECH CORP,4613,Nasdaq Global Market,ARTX,3690,"Miscellaneous Electrical Machinery, Equipment,"
+76,0000007536,ARROW ELECTRONICS INC,10480,NYSE,ARW,5065,"Electronic Parts and Equipment, Not Elsewhere Classified"
+77,0000007431,ARMSTRONG WORLD INDUSTRIES INC,462,NYSE,AWI,3089,"Plastics Products, Not Elsewhere Classified"
+78,0000819689,ARRHYTHMIA RESEARCH TECHNOLOGY INC /DE/,7961,NYSE MKT,HRT,3845,Electromedical and Electrotherapeutic Apparatus
+79,0001243429,ARCELORMITTAL,411933,NYSE,MT,3312,"Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling "
+80,0000008146,ASTRO MED INC /NEW/,9911,Nasdaq Global Market,ALOT,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+81,0001026980,ASIA PACIFIC WIRE & CABLE CORP LTD,2505,Nasdaq Global Market,APWC,3357,Drawing and Insulating of Nonferrous Wire
+82,0000007623,ARTS WAY MANUFACTURING CO INC,4281,Nasdaq Capital Market,ARTW,3523,Farm Machinery and Equipment
+83,0001305014,ASHLAND INC.,652025,NYSE,ASH,5160,Chemicals And Allied Products
+84,0000316888,AVINO SILVER & GOLD MINES LTD,188963,NYSE MKT,ASM,1000,Metal Mining
+85,0000937966,ASML HOLDING NV,10888,Nasdaq Global Market,ASML,3559,"Special Industry Machinery, Not Elsewhere Classified"
+86,0001498301,"ASCENA RETAIL GROUP, INC.",835398,Nasdaq Global Market,ASNA,5600,Retail-Apparel & Accessory Stores
+87,0000792987,ASTEC INDUSTRIES INC,11104,Nasdaq Global Market,ASTE,3531,Construction Machinery and Equipment
+88,0000008063,ASTRONICS CORP,8929,Nasdaq Global Market,ATRO,3728,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified"
+89,0001113232,AXCELIS TECHNOLOGIES INC,75852,Nasdaq Global Market,ACLS,3559,"Special Industry Machinery, Not Elsewhere Classified"
+90,0000896841,"AVID TECHNOLOGY, INC.",3925,Nasdaq Global Market,AVID,3861,Photographic Equipment and Supplies
+91,0001377789,"AVIAT NETWORKS, INC.",723464,Nasdaq Global Market,AVNW,3663,Radio and Television Broadcasting and Communications Equipment
+92,0000008868,AVON PRODUCTS INC,1328,NYSE,AVP,2844,"Perfumes, Cosmetics, and Other Toilet Preparations"
+93,0000008858,AVNET INC,7983,NYSE,AVT,5065,"Electronic Parts and Equipment, Not Elsewhere Classified"
+94,0000859163,AVX CORP,461,NYSE,AVX,3670,Electronic Components And Accessories
+95,0000805264,AXIALL CORP/DE/,73,NYSE,AXLL,2821,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elasto"
+96,0000861361,B/E AEROSPACE INC,1194,Nasdaq Global Market,BEAV,2531,Public Building and Related Furniture
+97,0000009092,BADGER METER INC,3683,NYSE,BMI,3824,Totalizing Fluid Meters and Counting Devices
+98,0000009984,BARNES GROUP INC,9112,NYSE,B,3490,Miscellaneous Fabricated Metal Products
+99,0000010456,BAXTER INTERNATIONAL INC,9422,NYSE,BAX,3841,Surgical and Medical Instruments and Apparatus
+100,0000886158,BED BATH & BEYOND INC,6869,Nasdaq Global Market,BBBY,5700,"Retail-Home Furniture, Furnishings & Equipment Stores"
+101,0000009892,BARD C R INC /NJ/,2734,NYSE,BCR,3841,Surgical and Medical Instruments and Apparatus
+102,0000010795,BECTON DICKINSON & CO,7018,NYSE,BDX,3841,Surgical and Medical Instruments and Apparatus
+103,0001059272,"BEBE STORES, INC.",295,Nasdaq Global Market,BEBE,2330,"Women's, Misses', And Juniors' Outerwear"
+104,0000808362,BAKER HUGHES INC,4375,NYSE,BHI,3533,Oil and Gas Field Machinery and Equipment
+105,0000890491,BARNES & NOBLE INC,11529,NYSE,BKS,5940,Miscellaneous Shopping Goods Stores
+106,0000009389,BALL CORP,7440,NYSE,BLL,3411,Metal Cans
+107,0000010329,BASSETT FURNITURE INDUSTRIES INC,7609,Nasdaq Global Market,BSET,2511,"Wood Household Furniture, Except Upholstered"
+108,0000764478,BEST BUY CO INC,11055,NYSE,BBY,5731,"Radio, Television, and Consumer Electronics Stores"
+109,0000913142,BELDEN INC.,2365,NYSE,BDC,3357,Drawing and Insulating of Nonferrous Wire
+110,0001156388,BIG 5 SPORTING GOODS CORP,89980,Nasdaq Global Market,BGFV,5940,Miscellaneous Shopping Goods Stores
+111,0000863436,BENCHMARK ELECTRONICS INC,4079,NYSE,BHE,3672,Printed Circuit Boards
+112,0000012208,BIO RAD LABORATORIES INC,10455,NYSE,BIO,3826,Laboratory Analytical Instruments
+113,0000811240,"BIOLASE, INC",753,Nasdaq Capital Market,BIOL,3843,Dental Equipment and Supplies
+114,0000011199,BEMIS CO INC,6339,NYSE,BMS,2670,"Converted Paper And Paperboard Products, Except"
+115,0000012927,BOEING CO,11757,NYSE,BA,3721,Aircraft
+116,0000849547,BLACK BOX CORP,4311,Nasdaq Global Market,BBOX,3576,Computer Communications Equipment
+117,0000913277,"BLACK DIAMOND, INC.",1118,Nasdaq Global Market,BDE,3949,"Sporting and Athletic Goods, Not Elsewhere Classified"
+118,0001000683,BLONDER TONGUE LABORATORIES INC,10673,NYSE MKT,BDR,3663,Radio and Television Broadcasting and Communications Equipment
+119,0001574774,"BIOTELEMETRY, INC.",904857,Nasdaq Global Market,BEAT,3841,Surgical and Medical Instruments and Apparatus
+120,0001179821,BIRKS GROUP INC.,376591,NYSE MKT,BGI,5944,Jewelry Stores
+121,0001091171,BLUE NILE INC,154202,Nasdaq Global Market,NILE,5944,Jewelry Stores
+122,0001443646,BOOZ ALLEN HAMILTON HOLDING CORP,786199,NYSE,BAH,8742,Management Consulting Services
+123,0000014195,BRIGGS & STRATTON CORP,7022,NYSE,BGG,3510,Engines And Turbines
+124,0000878079,BON TON STORES INC,1993,Nasdaq Global Market,BONT,5311,Department Stores
+125,0000746598,BRADY CORP,1042,NYSE,BRC,3990,Miscellaneous Manufacturing Industries
+126,0000885725,BOSTON SCIENTIFIC CORP,10001,NYSE,BSX,3841,Surgical and Medical Instruments and Apparatus
+127,0000719135,BOVIE MEDICAL CORP,6675,NYSE MKT,BVX,3841,Surgical and Medical Instruments and Apparatus
+128,0000908255,BORGWARNER INC,5681,NYSE,BWA,3714,Motor Vehicle Parts and Accessories
+129,0000014930,BRUNSWICK CORP,11459,NYSE,BC,3510,Engines And Turbines
+130,0000885245,BUCKLE INC,8024,NYSE,BKE,5651,Family Clothing Stores
+131,0001316835,"BUILDERS FIRSTSOURCE, INC.",664289,Nasdaq Global Market,BLDR,5211,Lumber and Other Building Materials Dealers
+132,0001009626,BROCADE COMMUNICATIONS SYSTEMS INC,7476,Nasdaq Global Market,BRCD,3576,Computer Communications Equipment
+133,0001109354,BRUKER CORP,75311,Nasdaq Global Market,BRKR,3826,Laboratory Analytical Instruments
+134,0000933974,BROOKS AUTOMATION INC,7353,Nasdaq Global Market,BRKS,3559,"Special Industry Machinery, Not Elsewhere Classified"
+135,0001120370,"BROADWIND ENERGY, INC.",78375,Nasdaq Capital Market,BWEN,3360,Nonferrous Foundries (castings)
+136,0001267130,CABELAS INC,600278,NYSE,CAB,5940,Miscellaneous Shopping Goods Stores
+137,0001615817,C&J ENERGY SERVICES LTD.,945761,NYSE,CJES,1389,"Oil and Gas Field Services, Not Elsewhere Classified"
+138,0000016058,CACI INTERNATIONAL INC /DE/,5935,NYSE,CACI,7373,Computer Integrated Systems Design
+139,0001173382,CAE INC,114626,NYSE,CAE,3690,"Miscellaneous Electrical Machinery, Equipment,"
+140,0000014707,CALERES INC,8869,NYSE,CAL,3140,"Footwear, Except Rubber"
+141,0001406666,"CALIX, INC",750845,NYSE,CALX,4899,"Communications Services, Not Elsewhere Classified"
+142,0000941548,CAMERON INTERNATIONAL CORP,9356,NYSE,CAM,3533,Oil and Gas Field Machinery and Equipment
+143,0000730255,CALAMP CORP.,3997,Nasdaq Global Market,CAMP,3663,Radio and Television Broadcasting and Communications Equipment
+144,0000016040,CABOT CORP,70,NYSE,CBT,2890,Miscellaneous Chemical Products
+145,0000812701,CALGON CARBON CORP,4085,NYSE,CCC,2810,Industrial Inorganic Chemicals
+146,0000813672,CADENCE DESIGN SYSTEMS INC,1065,Nasdaq Global Market,CDNS,7372,Prepackaged Software
+147,0000837465,CALLAWAY GOLF CO,7974,NYSE,ELY,3949,"Sporting and Athletic Goods, Not Elsewhere Classified"
+148,0000018230,CATERPILLAR INC,1532,NYSE,CAT,3531,Construction Machinery and Equipment
+149,0001175609,"CAVIUM, INC.",113084,Nasdaq Global Market,CAVM,3674,Semiconductors and Related Devices
+150,0000018396,CDI CORP,5570,NYSE,CDI,7363,Help Supply Services
+151,0001306830,CELANESE CORP,654118,NYSE,CE,2820,"Plastics Materials And Synthetic Resins, Synthetic"
+152,0000003197,CECO ENVIRONMENTAL CORP,11381,Nasdaq Global Market,CECE,3564,Industrial and Commercial Fans and Blowers and Air Purification 
+153,0000804753,CERNER CORP /MO/,11494,Nasdaq Global Market,CERN,7373,Computer Integrated Systems Design
+154,0001030894,CELESTICA INC,58895,NYSE,CLS,3672,Printed Circuit Boards
+155,0001037760,CEPHEID,75057,Nasdaq Global Market,CPHD,3826,Laboratory Analytical Instruments
+156,0000864559,CASCADE MICROTECH INC,79840,Nasdaq Global Market,CSCD,3825,Instruments for Measuring and Testing of Electricity and Electri
+157,0000278166,CAVCO INDUSTRIES INC,13892,Nasdaq Global Market,CVCO,2451,Mobile Homes
+158,0001027884,CHICAGO BRIDGE & IRON CO N V,1776,NYSE,CBI,1700,Construction - Special Trade Contractors
+159,0000830524,CHASE CORP,2207,NYSE MKT,CCF,3640,Electric Lighting And Wiring Equipment
+160,0001020214,CERUS CORP,11233,Nasdaq Global Market,CERS,3841,Surgical and Medical Instruments and Apparatus
+161,0001037962,CGG,49284,NYSE,CGG,1382,Oil and Gas Field Exploration Services
+162,0001091862,CHEMTURA CORP,1226,NYSE,CHMT,2820,"Plastics Materials And Synthetic Resins, Synthetic"
+163,0000215419,CHECKPOINT SYSTEMS INC,8255,NYSE,CKP,3669,"Communications Equipment, Not Elsewhere Classified"
+164,0001100682,CHARLES RIVER LABORATORIES INTERNATIONAL INC,69864,NYSE,CRL,8731,Commercial Physical and Biological Research
+165,0001015155,CHARLES & COLVARD LTD,11968,Nasdaq Global Market,CTHR,3910,"Jewelry, Silverware, And Plated Ware"
+166,0000093410,CHEVRON CORP,9178,NYSE,CVX,2911,Petroleum Refining
+167,0000892553,CHART INDUSTRIES INC,7819,Nasdaq Global Market,GTLS,3443,Fabricated Plate Work (Boiler Shops)
+168,0001091883,CIRCOR INTERNATIONAL INC,1157,NYSE,CIR,3490,Miscellaneous Fabricated Metal Products
+169,0000020740,CLARCOR INC.,8243,NYSE,CLC,3714,Motor Vehicle Parts and Accessories
+170,0000796505,"CLEARFIELD, INC.",11934,Nasdaq Global Market,CLFD,3661,Telephone and Telegraph Apparatus
+171,0001368265,CLEAN ENERGY FUELS CORP.,720002,Nasdaq Global Market,CLNE,4932,Gas and Other Services Combined
+172,0000021076,CLOROX CO /DE/,1435,NYSE,CLX,2842,"Specialty Cleaning, Polishing, and Sanitation Preparations"
+173,0001567094,CNH INDUSTRIAL N.V.,906559,NYSE,CNHI,3531,Construction Machinery and Equipment
+174,0001116132,COACH INC,76950,NYSE,COH,3100,Leather & Leather Products
+175,0000772406,CIRRUS LOGIC INC,2665,Nasdaq Global Market,CRUS,3674,Semiconductors and Related Devices
+176,0000858877,"CISCO SYSTEMS, INC.",3894,Nasdaq Global Market,CSCO,3576,Computer Communications Equipment
+177,0000877890,CITRIX SYSTEMS INC,11184,Nasdaq Global Market,CTXS,7372,Prepackaged Software
+178,0001420800,COLFAX CORP,766392,NYSE,CFX,3561,Pumps and Pumping Equipment
+179,0000851205,COGNEX CORP,5967,Nasdaq Global Market,CGNX,3823,"Industrial Instruments for Measurement, Display, and Control of "
+180,0000021665,COLGATE PALMOLIVE CO,10500,NYSE,CL,2844,"Perfumes, Cosmetics, and Other Toilet Preparations"
+181,0000022444,COMMERCIAL METALS CO,7874,NYSE,CMC,3312,"Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling "
+182,0001005229,COLUMBUS MCKINNON CORP,7942,Nasdaq Global Market,CMCO,3531,Construction Machinery and Equipment
+183,0000021510,COHERENT INC,9583,Nasdaq Global Market,COHR,3826,Laboratory Analytical Instruments
+184,0000021535,COHU INC,744,Nasdaq Global Market,COHU,3825,Instruments for Measuring and Testing of Electricity and Electri
+185,0001050797,COLUMBIA SPORTSWEAR CO,8195,Nasdaq Global Market,COLM,2300,Apparel & Other Finishd Prods of Fabrics & Similar Matl
+186,0001049606,COMPX INTERNATIONAL INC,2916,NYSE MKT,CIX,3420,"Cutlery, Handtools, And General Hardware"
+187,0000023197,COMTECH TELECOMMUNICATIONS CORP /DE/,5566,Nasdaq Global Market,CMTL,3663,Radio and Television Broadcasting and Communications Equipment
+188,0000816956,CONMED CORP,225,Nasdaq Global Market,CNMD,3845,Electromedical and Electrotherapeutic Apparatus
+189,0001345126,COMPASS DIVERSIFIED HOLDINGS,693381,NYSE,CODI,2510,Household Furniture
+190,0000711404,COOPER COMPANIES INC,6327,NYSE,COO,3851,Ophthalmic Goods
+191,0000024491,COOPER TIRE & RUBBER CO,3845,NYSE,CTB,3011,Tires and Inner Tubes
+192,0001290900,"COMMERCIAL VEHICLE GROUP, INC.",636513,Nasdaq Global Market,CVGI,3714,Motor Vehicle Parts and Accessories
+193,0000022701,COMMUNICATIONS SYSTEMS INC,951,Nasdaq Global Market,JCS,3661,Telephone and Telegraph Apparatus
+194,0001219601,CROWN HOLDINGS INC,398687,NYSE,CCK,3411,Metal Cans
+195,0001000229,CORE LABORATORIES N V,28937,NYSE,CLB,1389,"Oil and Gas Field Services, Not Elsewhere Classified"
+196,0001320461,COOPER-STANDARD HOLDINGS INC.,669084,NYSE,CPS,3714,Motor Vehicle Parts and Accessories
+197,0000025445,CRANE CO /DE/,11823,NYSE,CR,3490,Miscellaneous Fabricated Metal Products
+198,0000949158,CRAY INC,7875,Nasdaq Global Market,CRAY,3571,Electronic Computers
+199,0000895419,CREE INC,1713,Nasdaq Global Market,CREE,3674,Semiconductors and Related Devices
+200,0000784199,CRYOLIFE INC,10026,NYSE,CRY,3841,Surgical and Medical Instruments and Apparatus
+201,0000020629,CSS INDUSTRIES INC,2651,NYSE,CSS,2771,Greeting Cards
+202,0000889348,CPI AEROSTRUCTURES INC,6205,NYSE MKT,CVU,3728,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified"
+203,0000024741,CORNING INC /NY,4903,NYSE,GLW,3357,Drawing and Insulating of Nonferrous Wire
+204,0000723603,CULP INC,1624,NYSE,CFI,2211,"Broadwoven Fabric Mills, Cotton"
+205,0000026172,CUMMINS INC,9590,NYSE,CMI,3510,Engines And Turbines
+206,0000026058,CTS CORP,9780,NYSE,CTS,3672,Printed Circuit Boards
+207,0000026076,CUBIC CORP /DE/,11672,NYSE,CUB,3829,"Measuring and Controlling Devices, Not Elsewhere Classified"
+208,0001108967,"CUI GLOBAL, INC.",74063,Nasdaq Capital Market,CUI,5065,"Electronic Parts and Equipment, Not Elsewhere Classified"
+209,0001162461,CUTERA INC,94568,Nasdaq Global Market,CUTR,3845,Electromedical and Electrotherapeutic Apparatus
+210,0000026324,CURTISS WRIGHT CORP,5870,NYSE,CW,3590,Miscellaneous Industrial And Commercial
+211,0000768411,CYBEROPTICS CORP,4329,Nasdaq Global Market,CYBE,3827,Optical Instruments and Lenses
+212,0000885306,CYNOSURE INC,316365,Nasdaq Global Market,CYNO,3845,Electromedical and Electrotherapeutic Apparatus
+213,0000791915,CYPRESS SEMICONDUCTOR CORP /DE/,3231,Nasdaq Global Market,CY,3674,Semiconductors and Related Devices
+214,0000915779,DAKTRONICS INC /SD/,894,Nasdaq Global Market,DAKT,3990,Miscellaneous Manufacturing Industries
+215,0000026780,DANA HOLDING CORP,2038,NYSE,DAN,3714,Motor Vehicle Parts and Accessories
+216,0000315189,DEERE & CO,12512,NYSE,DE,3523,Farm Machinery and Equipment
+217,0000910521,DECKERS OUTDOOR CORP,5154,NYSE,DECK,3021,Rubber and Plastics Footwear
+218,0000313616,DANAHER CORP /DE/,7081,NYSE,DHR,3823,"Industrial Instruments for Measurement, Display, and Control of "
+219,0001101396,"DELTA APPAREL, INC",70522,NYSE MKT,DLA,5130,"Apparel, Piece Goods, And Notions"
+220,0001521332,DELPHI AUTOMOTIVE PLC,856325,NYSE,DLPH,3714,Motor Vehicle Parts and Accessories
+221,0000027996,DELUXE CORP,2415,NYSE,DLX,2780,"Blankbooks, Looseleaf Binders, And Bookbinding"
+222,0000028823,DIEBOLD INC,1277,NYSE,DBD,3578,"Calculating and Accounting Machines, Except Electronic Computers"
+223,0000896985,DESTINATION MATERNITY CORP,7748,Nasdaq Global Market,DEST,5621,Women's Clothing Stores
+224,0001411658,DIGITILITI INC,756089,OTC,DIGI,3572,Computer Storage Devices
+225,0001089063,DICKS SPORTING GOODS INC,373757,NYSE,DKS,5940,Miscellaneous Shopping Goods Stores
+226,0001365038,DEMAND MEDIA INC.,710930,NYSE,DMD,7374,Computer Processing and Data Preparation and Processing Services
+227,0000707388,DIGIRAD CORP,90024,Nasdaq Global Market,DRAD,3845,Electromedical and Electrotherapeutic Apparatus
+228,0001093557,DEXCOM INC,112654,Nasdaq Global Market,DXCM,3841,Surgical and Medical Instruments and Apparatus
+229,0000818479,DENTSPLY SIRONA INC.,10307,Nasdaq Global Market,XRAY,3843,Dental Equipment and Supplies
+230,0000029644,DONALDSON CO INC,1528,NYSE,DCI,3564,Industrial and Commercial Fans and Blowers and Air Purification 
+231,0000028917,DILLARDS INC,11112,NYSE,DDS,5311,Department Stores
+232,0000029002,DIODES INC /DEL/,10636,Nasdaq Global Market,DIOD,3674,Semiconductors and Related Devices
+233,0001308547,"DOLBY LABORATORIES, INC.",655607,NYSE,DLB,6794,Patent Owners and Lessors
+234,0000868780,"DORMAN PRODUCTS, INC.",3363,Nasdaq Global Market,DORM,3714,Motor Vehicle Parts and Accessories
+235,0000029905,DOVER CORP,9123,NYSE,DOV,3530,"Construction, Mining, And Materials Handling"
+236,0000029915,DOW CHEMICAL CO /DE/,6197,NYSE,DOW,2821,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elasto"
+237,0001287213,"DOUGLAS DYNAMICS, INC",631367,NYSE,PLOW,3531,Construction Machinery and Equipment
+238,0000034067,DYNAMIC MATERIALS CORP,927,Nasdaq Global Market,BOOM,3390,Miscellaneous Primary Metal Products
+239,0000030305,DUCOMMUN INC /DE/,574,NYSE,DCO,3728,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified"
+240,0000030554,DUPONT E I DE NEMOURS & CO,2344,NYSE,DD,2820,"Plastics Materials And Synthetic Resins, Synthetic"
+241,0001042893,DRIL-QUIP INC,11793,NYSE,DRQ,3533,Oil and Gas Field Machinery and Equipment
+242,0000915778,DSP GROUP INC /DE/,4270,Nasdaq Global Market,DSPG,3674,Semiconductors and Related Devices
+243,0000714603,DST SYSTEMS INC,9134,NYSE,DST,7374,Computer Processing and Data Preparation and Processing Services
+244,0001226308,"DTS, INC.",404378,Nasdaq Global Market,DTSI,6794,Patent Owners and Lessors
+245,0000763744,DREW INDUSTRIES INC,10037,NYSE,DW,3714,Motor Vehicle Parts and Accessories
+246,0001297401,"DREAMWORKS ANIMATION SKG, INC.",643604,Nasdaq Global Market,DWA,7812,Motion Picture and Video Tape Production
+247,0001446140,"EASTERN SECURITY & PROTECTION SERVICES, INC.",789138,OTC,EAST,3669,"Communications Equipment, Not Elsewhere Classified"
+248,0000031462,ECOLAB INC.,7317,NYSE,ECL,2840,"Soap, Detergents, And Cleaning Preparations;"
+249,0000031347,ECHELON CORP,9502,Nasdaq Global Market,ELON,3576,Computer Communications Equipment
+250,0000915389,EASTMAN CHEMICAL CO,2209,NYSE,EMN,2821,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elasto"
+251,0000726514,ELECTRO SCIENTIFIC INDUSTRIES INC,2782,Nasdaq Global Market,ESIO,3690,"Miscellaneous Electrical Machinery, Equipment,"
+252,0001027664,ELBIT SYSTEMS LTD,97149,Nasdaq Global Market,ESLT,3728,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified"
+253,0001551182,EATON CORP PLC,884574,NYSE,ETN,3590,Miscellaneous Industrial And Commercial
+254,0001099800,EDWARDS LIFESCIENCES CORP,69863,NYSE,EW,3842,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies"
+255,0000031235,EASTMAN KODAK CO,10271,NYSE,KODK,3861,Photographic Equipment and Supplies
+256,0001415404,ECHOSTAR CORP,761637,Nasdaq Global Market,SATS,3663,Radio and Television Broadcasting and Communications Equipment
+257,0000867374,ELECTRONICS FOR IMAGING INC,7904,Nasdaq Global Market,EFII,3576,Computer Communications Equipment
+258,0001013606,ENDOLOGIX INC /DE/,6460,Nasdaq Global Market,ELGX,3841,Surgical and Medical Instruments and Apparatus
+259,0001024672,ELTEK LTD,1243,Nasdaq Capital Market,ELTK,3672,Printed Circuit Boards
+260,0000790070,EMC CORP,6149,NYSE,EMC,3572,Computer Storage Devices
+261,0000808326,EMCORE CORP,9224,Nasdaq Global Market,EMKR,3674,Semiconductors and Related Devices
+262,0000032604,EMERSON ELECTRIC CO,7137,NYSE,EMR,3600,Electronic & Other Electrical Equipment (No Computer Equip)
+263,0001632790,"ENERGIZER HOLDINGS, INC.",956875,NYSE,ENR,3690,"Miscellaneous Electrical Machinery, Equipment,"
+264,0001421517,"ENERGY RECOVERY, INC.",774558,Nasdaq Global Market,ERII,3559,"Special Industry Machinery, Not Elsewhere Classified"
+265,0001355444,EMBRAER S.A.,701759,NYSE,ERJ,3721,Aircraft
+266,0000850460,ENCORE WIRE CORP,10648,Nasdaq Global Market,WIRE,3350,"Rolling, Drawing, And Extruding Of Nonferrous"
+267,0001001250,ESTEE LAUDER COMPANIES INC,6669,NYSE,EL,2844,"Perfumes, Cosmetics, and Other Toilet Preparations"
+268,0000033488,ESCALADE INC,5621,Nasdaq Global Market,ESCA,3949,"Sporting and Athletic Goods, Not Elsewhere Classified"
+269,0000866706,ESCO TECHNOLOGIES INC,10694,NYSE,ESE,3669,"Communications Equipment, Not Elsewhere Classified"
+270,0000033619,ESTERLINE TECHNOLOGIES CORP,5377,NYSE,ESL,3823,"Industrial Instruments for Measurement, Display, and Control of "
+271,0000355999,ESSENDANT INC,6263,Nasdaq Global Market,ESND,5110,Paper And Paper Products
+272,0000753568,EXAR CORP,8154,NYSE,EXAR,3674,Semiconductors and Related Devices
+273,0001483510,"EXPRESS, INC.",821458,NYSE,EXPR,5600,Retail-Apparel & Accessory Stores
+274,0001561627,EXONE CO,896804,Nasdaq Global Market,XONE,3555,Printing Trades Machinery and Equipment
+275,0001078271,EXTREME NETWORKS INC,4504,Nasdaq Global Market,EXTR,3576,Computer Communications Equipment
+276,0000892534,EZCHIP SEMICONDUCTOR LTD,77657,Nasdaq Global Market,EZCH,3576,Computer Communications Equipment
+277,0000917491,FARO TECHNOLOGIES INC,9228,Nasdaq Global Market,FARO,3829,"Measuring and Controlling Devices, Not Elsewhere Classified"
+278,0000815556,FASTENAL CO,8709,Nasdaq Global Market,FAST,5200,"Retail-Building Materials, Hardware, Garden Supply"
+279,0001036960,FAIRCHILD SEMICONDUCTOR INTERNATIONAL INC,11493,Nasdaq Global Market,FCS,3674,Semiconductors and Related Devices
+280,0001419581,FEDERAL-MOGUL HOLDINGS CORP,765138,Nasdaq Global Market,FDML,3714,Motor Vehicle Parts and Accessories
+281,0001048695,F5 NETWORKS INC,1870,Nasdaq Global Market,FFIV,3576,Computer Communications Equipment
+282,0001408710,FABRINET,761699,NYSE,FN,3661,Telephone and Telegraph Apparatus
+283,0000277509,FEDERAL SIGNAL CORP /DE/,5234,NYSE,FSS,3711,Motor Vehicles and Passenger Car Bodies
+284,0000034088,EXXON MOBIL CORP,3810,NYSE,XOM,2911,Petroleum Refining
+285,0000914329,FEI CO,11288,Nasdaq Global Market,FEIC,3826,Laboratory Analytical Instruments
+286,0001370880,"FIREEYE, INC.",716732,Nasdaq Global Market,FEYE,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+287,0000866374,FLEXTRONICS INTERNATIONAL LTD.,6240,Nasdaq Global Market,FLEX,3672,Printed Circuit Boards
+288,0000354908,FLIR SYSTEMS INC,11007,Nasdaq Global Market,FLIR,3812,"Search, Detection, Navigation, Guidance, Aeronautical, and Nauti"
+289,0000030625,FLOWSERVE CORP,10295,NYSE,FLS,3561,Pumps and Pumping Equipment
+290,0000037472,FLEXSTEEL INDUSTRIES INC,11972,Nasdaq Global Market,FLXS,2510,Household Furniture
+291,0001094739,FINISAR CORP,10098,Nasdaq Global Market,FNSR,3674,Semiconductors and Related Devices
+292,0000035214,FERRO CORP,6319,NYSE,FOE,2851,"Paints, Varnishes, Lacquers, Enamels, and Allied Products"
+293,0001274494,"FIRST SOLAR, INC.",612718,Nasdaq Global Market,FSLR,3674,Semiconductors and Related Devices
+294,0000928054,FLOTEK INDUSTRIES INC/CN/,10317,NYSE,FTK,2890,Miscellaneous Chemical Products
+295,0000037996,FORD MOTOR CO,3404,NYSE,F,3711,Motor Vehicles and Passenger Car Bodies
+296,0001519751,"FORTUNE BRANDS HOME & SECURITY, INC.",854565,NYSE,FBHS,1520,General Building Contractors-Residential Buildings
+297,0001401257,"FORUM ENERGY TECHNOLOGIES, INC.",745737,NYSE,FET,3533,Oil and Gas Field Machinery and Equipment
+298,0000850209,"FOOT LOCKER, INC.",3199,NYSE,FL,5661,Shoe Stores
+299,0001162194,FLUIDIGM CORP,95194,Nasdaq Global Market,FLDM,3826,Laboratory Analytical Instruments
+300,0001039399,FORMFACTOR INC,97357,Nasdaq Global Market,FORM,3674,Semiconductors and Related Devices
+301,0000883569,"FOSSIL GROUP, INC.",10914,Nasdaq Global Market,FOSL,3873,"Watches, Clocks, Clockwork Operated Devices, and Parts"
+302,0000352825,FOSTER L B CO,9710,Nasdaq Global Market,FSTR,5051,Metals Service Centers and Offices
+303,0001135152,FMC TECHNOLOGIES INC,84192,NYSE,FTI,3533,Oil and Gas Field Machinery and Equipment
+304,0001262039,FORTINET INC,592969,Nasdaq Global Market,FTNT,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+305,0000886128,FUELCELL ENERGY INC,11801,Nasdaq Global Market,FCEL,3690,"Miscellaneous Electrical Machinery, Equipment,"
+306,0000831259,FREEPORT-MCMORAN INC,9706,NYSE,FCX,1000,Metal Mining
+307,0000039020,FREQUENCY ELECTRONICS INC,9136,Nasdaq Global Market,FEIM,3825,Instruments for Measuring and Testing of Electricity and Electri
+308,0000038725,FRANKLIN ELECTRIC CO INC,9530,Nasdaq Global Market,FELE,3621,Motors and Generators
+309,0001424929,FOX FACTORY HOLDING CORP,768346,Nasdaq Global Market,FOXF,3751,"Motorcycles, Bicycles, and Parts"
+310,0001340786,"FUEL SYSTEMS SOLUTIONS, INC.",713520,Nasdaq Global Market,FSYS,3714,Motor Vehicle Parts and Accessories
+311,0000039368,FULLER H B CO,8424,NYSE,FUL,2891,Adhesives and Sealants
+312,0001320854,"FREIGHTCAR AMERICA, INC.",667710,Nasdaq Global Market,RAIL,3743,Railroad Equipment
+313,0000886035,GENERAL CABLE CORP /DE/,5885,NYSE,BGC,3357,Drawing and Insulating of Nonferrous Wire
+314,0000040533,GENERAL DYNAMICS CORP,8084,NYSE,GD,3730,Ship And Boat Building And Repairing
+315,0000040545,GENERAL ELECTRIC CO,3994,NYSE,GE,3600,Electronic & Other Electrical Equipment (No Computer Equip)
+316,0000821002,G III APPAREL GROUP LTD /DE/,7297,Nasdaq Global Market,GIII,2300,Apparel & Other Finishd Prods of Fabrics & Similar Matl
+317,0001467858,GENERAL MOTORS CO,808625,NYSE,GM,3711,Motor Vehicles and Passenger Car Bodies
+318,0001474735,GENERAC HOLDINGS INC.,814154,NYSE,GNRC,3621,Motors and Generators
+319,0000918580,GAMING PARTNERS INTERNATIONAL CORP,2697,Nasdaq Global Market,GPIC,3944,"Games, Toys, and Children's Vehicles, Except Dolls and Bicycles"
+320,0000039911,GAP INC,5266,NYSE,GPS,5651,Family Clothing Stores
+321,0001121788,GARMIN LTD,79286,Nasdaq Global Market,GRMN,3812,"Search, Detection, Navigation, Guidance, Aeronautical, and Nauti"
+322,0000042888,GRACO INC,1519,NYSE,GGG,3561,Pumps and Pumping Equipment
+323,0000716314,GRAHAM CORP,3652,NYSE,GHM,3560,General Industrial Machinery And Equipment
+324,0001136294,GLOBAL POWER EQUIPMENT GROUP INC.,84605,OTC,GLPW,3443,Fabricated Plate Work (Boiler Shops)
+325,0001237831,GLOBUS MEDICAL INC,409317,NYSE,GMED,3841,Surgical and Medical Instruments and Apparatus
+326,0001537054,GOGO INC.,870586,Nasdaq Global Market,GOGO,4899,"Communications Services, Not Elsewhere Classified"
+327,0001652044,ALPHABET INC.,976409,Nasdaq Global Market,GOOGL,7370,"Computer Programming, Data Processing, And"
+328,0000042682,GORMAN RUPP CO,1504,NYSE MKT,GRC,3561,Pumps and Pumping Equipment
+329,0001366868,"GLOBALSTAR, INC.",715019,NYSE MKT,GSAT,4899,"Communications Services, Not Elsewhere Classified"
+330,0000042582,GOODYEAR TIRE & RUBBER CO /OH/,7599,Nasdaq Global Market,GT,3011,Tires and Inner Tubes
+331,0001114483,"GREATBATCH, INC.",76381,NYSE,GB,3690,"Miscellaneous Electrical Machinery, Equipment,"
+332,0000923120,GREENBRIER COMPANIES INC,4487,NYSE,GBX,3743,Railroad Equipment
+333,0000043920,GREIF INC,3269,NYSE,GEF,3412,"Metal Shipping Barrels, Drums, Kegs, and Pails"
+334,0000912463,GUESS INC,473,NYSE,GES,2340,"Women's, Misses', Children's, And Infants'"
+335,0000050725,GRIFFON CORP,6455,NYSE,GFF,3442,"Metal Doors, Sash, Frames, Molding, and Trim Manufacturing"
+336,0000104889,GRAHAM HOLDINGS CO,6915,NYSE,GHC,8200,Services-Educational Services
+337,0001408075,GRAPHIC PACKAGING HOLDING CO,755802,NYSE,GPK,2650,Paperboard Containers And Boxes
+338,0001076930,GSI GROUP INC,1402,Nasdaq Global Market,GSIG,3690,"Miscellaneous Electrical Machinery, Equipment,"
+339,0001126741,GSI TECHNOLOGY INC,631002,Nasdaq Global Market,GSIT,3674,Semiconductors and Related Devices
+340,0001375557,"GUIDANCE SOFTWARE, INC.",720991,Nasdaq Global Market,GUID,7372,Prepackaged Software
+341,0001122304,AETNA INC /PA/,79071,NYSE,AET,6324,Hospital and Medical Service Plans
+342,0000004977,AFLAC INC,1814,NYSE,AFL,6321,Accident and Health Insurance
+343,0001004434,"AFFILIATED MANAGERS GROUP, INC.",3249,NYSE,AMG,6282,Investment Advice
+344,0000916789,HELEN OF TROY LTD,11502,Nasdaq Global Market,HELE,3634,Electric Housewares and Fans
+345,0000004447,HESS CORP,4416,NYSE,HES,2911,Petroleum Refining
+346,0000047217,HP INC,9437,NYSE,HPQ,3570,Computer And Office Equipment
+347,0000047518,"HILL-ROM HOLDINGS, INC.",197,NYSE,HRC,3841,Surgical and Medical Instruments and Apparatus
+348,0001000228,HENRY SCHEIN INC,6732,Nasdaq Global Market,HSIC,5047,"Medical, Dental, and Hospital Equipment and Supplies"
+349,0000047111,HERSHEY CO,9347,NYSE,HSY,2060,Sugar And Confectionery Products
+350,0000899051,ALLSTATE CORP,9797,NYSE,ALL,6331,"Fire, Marine, and Casualty Insurance"
+351,0000040729,ALLY FINANCIAL INC.,12134,NYSE,ALLY,6172,Finance Lessors
+352,0001178670,"ALNYLAM PHARMACEUTICALS, INC.",375375,Nasdaq Global Market,ALNY,2834,Pharmaceutical Preparations
+353,0000772897,HUTCHINSON TECHNOLOGY INC,3406,Nasdaq Global Market,HTCH,3679,"Electronic Components, Not Elsewhere Classified"
+354,0000315374,HURCO COMPANIES INC,506,Nasdaq Global Market,HURC,3823,"Industrial Instruments for Measurement, Display, and Control of "
+355,0001173514,"HYSTER-YALE MATERIALS HANDLING, INC.",111266,NYSE,HY,3537,"Industrial Trucks, Tractors, Trailers, and Stackers"
+356,0000813762,ICAHN ENTERPRISES L.P.,10940,Nasdaq Global Market,IEP,2911,Petroleum Refining
+357,0000352541,ALLIANT ENERGY CORP,9036,NYSE,LNT,4931,Electric and Other Services Combined
+358,0001124804,"ALLSCRIPTS HEALTHCARE SOLUTIONS, INC.",80758,Nasdaq Global Market,MDRX,7373,Computer Integrated Systems Design
+359,0000004904,AMERICAN ELECTRIC POWER CO INC,2135,NYSE,AEP,4911,Electric Services
+360,0001423689,AMERICAN CAPITAL AGENCY CORP,770217,Nasdaq Global Market,AGNC,6798,Real Estate Investment Trusts
+361,0000005272,AMERICAN INTERNATIONAL GROUP INC,1878,NYSE,AIG,6331,"Fire, Marine, and Casualty Insurance"
+362,0001562401,AMERICAN HOMES 4 RENT,894390,NYSE,AMH,6798,Real Estate Investment Trusts
+363,0001053507,AMERICAN TOWER CORP /MA/,2533,NYSE,AMT,6798,Real Estate Investment Trusts
+364,0000904163,AMERICAN NATIONAL INSURANCE CO /TX/,379491,Nasdaq Global Market,ANAT,6311,Life Insurance
+365,0000004962,AMERICAN EXPRESS CO,8450,NYSE,AXP,6199,Finance Services
+366,0000921582,IMAX CORP,6834,NYSE,IMAX,3861,Photographic Equipment and Supplies
+367,0001014111,IMATION CORP,7934,NYSE,IMN,3695,Magnetic And Optical Recording Media
+368,0000049938,IMPERIAL OIL LTD,99068,NYSE MKT,IMO,2911,Petroleum Refining
+369,0000318154,AMGEN INC,2668,Nasdaq Global Market,AMGN,2836,"Biological Products, Except Diagnostic Substances"
+370,0000820027,AMERIPRISE FINANCIAL INC,14081,NYSE,AMP,6282,Investment Advice
+371,0000821026,"ANDERSONS, INC.",10981,Nasdaq Global Market,ANDE,5150,Farm-product Raw Materials
+372,0000006494,ANDREA ELECTRONICS CORP,1781,OTC,ANDR,3663,Radio and Television Broadcasting and Communications Equipment
+373,0000773910,ANADARKO PETROLEUM CORP,940,NYSE,APC,1311,Crude Petroleum and Natural Gas
+374,0001410636,"AMERICAN WATER WORKS COMPANY, INC.",755335,NYSE,AWK,4941,Water Supply
+375,0001223862,INFOBLOX INC,401158,NYSE,BLOX,7374,Computer Processing and Data Preparation and Processing Services
+376,0001138639,INFINERA CORP,106988,Nasdaq Global Market,INFN,3661,Telephone and Telegraph Apparatus
+377,0001054905,INNOSPEC INC.,4911,Nasdaq Global Market,IOSP,2800,Chemicals & Allied Products
+378,0001466258,INGERSOLL-RAND PLC,807673,NYSE,IR,3822,Automatic Controls for Regulating Residential and Commercial Env
+379,0000008670,AUTOMATIC DATA PROCESSING INC,4969,Nasdaq Global Market,ADP,7374,Computer Processing and Data Preparation and Processing Services
+380,0000350698,"AUTONATION, INC.",266,NYSE,AN,5500,Retail-Auto Dealers & Gasoline Stations
+381,0000915912,AVALONBAY COMMUNITIES INC,11282,NYSE,AVB,6798,Real Estate Investment Trusts
+382,0000866787,AUTOZONE INC,5925,NYSE,AZO,5531,Auto and Home Supply Stores
+383,0000088790,INTRICON CORP,10074,Nasdaq Global Market,IIN,3670,Electronic Components And Accessories
+384,0000896878,INTUIT INC,7525,Nasdaq Global Market,INTU,7372,Prepackaged Software
+385,0001035267,INTUITIVE SURGICAL INC,51057,Nasdaq Global Market,ISRG,3842,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies"
+386,0001001902,INTEVAC INC,778,Nasdaq Global Market,IVAC,3559,"Special Industry Machinery, Not Elsewhere Classified"
+387,0000356028,"CA, INC.",5517,Nasdaq Global Market,CA,7372,Prepackaged Software
+388,0000858470,CABOT OIL & GAS CORP,666,NYSE,COG,1311,Crude Petroleum and Natural Gas
+389,0001053112,CABLEVISION SYSTEMS CORP /NY,46742,NYSE,CVC,4841,Cable and Other Pay Television Services
+390,0000858339,CAESARS ENTERTAINMENT CORP,10936,Nasdaq Global Market,CZR,7011,Hotels and Motels
+391,0000318996,KEY ENERGY SERVICES INC,6768,NYSE,KEG,1389,"Oil and Gas Field Services, Not Elsewhere Classified"
+392,0001601046,"KEYSIGHT TECHNOLOGIES, INC.",928983,NYSE,KEYS,3823,"Industrial Instruments for Measurement, Display, and Control of "
+393,0001487101,KEYW HOLDING CORP,824906,Nasdaq Global Market,KEYW,7373,Computer Integrated Systems Design
+394,0000719733,KEY TRONIC CORP,4550,Nasdaq Global Market,KTCC,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+395,0000906193,KEY TECHNOLOGY INC,7397,Nasdaq Global Market,KTEC,3550,"Special Industry Machinery, Except Metalworking"
+396,0000815097,CARNIVAL CORP,1684,NYSE,CCL,4400,Water transportation
+397,0000927628,CAPITAL ONE FINANCIAL CORP,2112,NYSE,COF,6021,National Commercial Banks
+398,0000056047,KIRBY CORP,6294,NYSE,KEX,4400,Water transportation
+399,0001056285,"KIRKLAND'S, INC",51345,Nasdaq Global Market,KIRK,5990,"Retail Stores, Not Elsewhere Classified"
+400,0001506307,"KINDER MORGAN, INC.",841972,NYSE,KMI,4922,Natural Gas Transmission
+401,0001170010,CARMAX INC,105402,NYSE,KMX,5500,Retail-Auto Dealers & Gasoline Stations
+402,0001324404,"CF INDUSTRIES HOLDINGS, INC.",673987,NYSE,CF,2870,Agricultural Chemicals
+403,0001130310,CENTERPOINT ENERGY INC,90900,NYSE,CNP,4911,Electric Services
+404,0000018926,"CENTURYLINK, INC",7620,NYSE,CTL,4813,"Telephone Communications, Except Radiotelephone"
+405,0000056978,KULICKE & SOFFA INDUSTRIES INC,7576,Nasdaq Global Market,KLIC,3674,Semiconductors and Related Devices
+406,0000056873,KROGER CO,8915,NYSE,KR,5411,Grocery Stores
+407,0001069258,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",447,Nasdaq Global Market,KTOS,3760,Guided Missiles And Space Vehicles And Parts
+408,0001007587,KVH INDUSTRIES INC \DE\,8318,Nasdaq Global Market,KVHI,3663,Radio and Television Broadcasting and Communications Equipment
+409,0000316709,SCHWAB CHARLES CORP,3197,NYSE,SCHW,6211,"Security Brokers, Dealers, and Flotation Companies"
+410,0000023217,CONAGRA FOODS INC /DE/,6976,NYSE,CAG,2000,Food and kindred products
+411,0000749038,CONCURRENT COMPUTER CORP/DE,10214,Nasdaq Global Market,CCUR,3571,Electronic Computers
+412,0001070412,CONSOL ENERGY INC,4900,NYSE,CNX,1221,Bituminous Coal and Lignite Surface Mining
+413,0000023082,COMPUTER SCIENCES CORP,15,NYSE,CSC,7373,Computer Integrated Systems Design
+414,0001358071,CONCHO RESOURCES INC,704146,NYSE,CXO,1311,Crude Petroleum and Natural Gas
+415,0000874396,"LIFETIME BRANDS, INC",2553,Nasdaq Global Market,LCUT,3420,"Cutlery, Handtools, And General Hardware"
+416,0000866970,LIGHTING SCIENCE GROUP CORP,7876,OTC,LSCG,3640,Electric Lighting And Wiring Equipment
+417,0000732834,"CONTINENTAL RESOURCES, INC",54422,NYSE,CLR,1311,Crude Petroleum and Natural Gas
+418,0000900075,COPART INC,4293,Nasdaq Global Market,CPRT,5500,Retail-Auto Dealers & Gasoline Stations
+419,0001043000,CAPITAL SENIOR LIVING CORP,82,NYSE,CSU,8050,Nursing And Personal Care Facilities
+420,0001062047,CONVERGYS CORP,3790,NYSE,CVG,7373,Computer Integrated Systems Design
+421,0001047862,CONSOLIDATED EDISON INC,44617,NYSE,ED,4931,Electric and Other Services Combined
+422,0000059527,LINCOLN ELECTRIC HOLDINGS INC,2859,Nasdaq Global Market,LECO,3540,Metalworking Machinery And Equipment
+423,0000059478,LILLY ELI & CO,6837,NYSE,LLY,2834,Pharmaceutical Preparations
+424,0000836157,LINDSAY CORP,9402,NYSE,LNN,3523,Farm Machinery and Equipment
+425,0000016918,"CONSTELLATION BRANDS, INC.",1073,NYSE,STZ,2080,Beverages
+426,0000715957,DOMINION RESOURCES INC /VA/,8334,NYSE,D,4911,Electric Services
+427,0001393612,DISCOVER FINANCIAL SERVICES,738752,NYSE,DFS,6141,Personal Credit Institutions
+428,0000029534,DOLLAR GENERAL CORP,1605,NYSE,DG,5331,Variety Stores
+429,0001001082,DISH NETWORK CORP,2702,Nasdaq Global Market,DISH,4841,Cable and Other Pay Television Services
+430,0000935703,DOLLAR TREE INC,8110,Nasdaq Global Market,DLTR,5331,Variety Stores
+431,0001439567,"UNITED STATES SHORT OIL FUND, LP",783158,NYSE,DNO,6221,Commodity Contracts Brokers and Dealers
+432,0001129155,MARINE PRODUCTS CORP,81510,NYSE,MPX,3730,Ship And Boat Building And Repairing
+433,0000277595,ENERGEN CORP,4432,NYSE,EGN,1311,Crude Petroleum and Natural Gas
+434,0001276187,"ENERGY TRANSFER EQUITY, L.P.",616715,NYSE,ETE,4922,Natural Gas Transmission
+435,0000064996,MERCURY GENERAL CORP,2681,NYSE,MCY,6331,"Fire, Marine, and Casualty Insurance"
+436,0000701811,MENTOR GRAPHICS CORP,7256,Nasdaq Global Market,MENT,7373,Computer Integrated Systems Design
+437,0001356104,"MELLANOX TECHNOLOGIES, LTD.",722089,Nasdaq Global Market,MLNX,3674,Semiconductors and Related Devices
+438,0000856982,MERIT MEDICAL SYSTEMS INC,11301,Nasdaq Global Market,MMSI,3841,Surgical and Medical Instruments and Apparatus
+439,0001113256,MERITOR INC,75881,NYSE,MTOR,3714,Motor Vehicle Parts and Accessories
+440,0000794172,MERIDIAN BIOSCIENCE INC,11506,Nasdaq Global Market,VIVO,2835,In Vitro and In Vivo Diagnostic Substances
+441,0000906107,EQUITY RESIDENTIAL,6121,NYSE,EQR,6798,Real Estate Investment Trusts
+442,0000922621,ERIE INDEMNITY CO,11292,Nasdaq Global Market,ERIE,6411,"Insurance Agents, Brokers, and Service"
+443,0000920522,ESSEX PROPERTY TRUST INC,4810,NYSE,ESS,6798,Real Estate Investment Trusts
+444,0000896156,ETHAN ALLEN INTERIORS INC,3096,NYSE,ETH,2511,"Wood Household Furniture, Except Upholstered"
+445,0000065270,METHODE ELECTRONICS INC,7372,NYSE,MEI,3678,Electronic Connectors
+446,0000724004,MESA LABORATORIES INC /CO,3476,Nasdaq Global Market,MLAB,3823,"Industrial Instruments for Measurement, Display, and Control of "
+447,0001037646,METTLER TOLEDO INTERNATIONAL INC/,1150,NYSE,MTD,3826,Laboratory Analytical Instruments
+448,0001532063,EXPRESS SCRIPTS HOLDING CO.,865380,Nasdaq Global Market,ESRX,5912,Drug Stores and Proprietary Stores
+449,0000746515,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,1552,Nasdaq Global Market,EXPD,4731,Arrangement of Transportation of Freight and Cargo
+450,0001324424,"EXPEDIA, INC.",671535,Nasdaq Global Market,EXPE,4700,Transportation services
+451,0001289490,EXTRA SPACE STORAGE INC.,635181,NYSE,EXR,6798,Real Estate Investment Trusts
+452,0001326801,FACEBOOK INC,673740,Nasdaq Global Market,FB,7370,"Computer Programming, Data Processing, And"
+453,0001013237,FACTSET RESEARCH SYSTEMS INC,9200,NYSE,FDS,7370,"Computer Programming, Data Processing, And"
+454,0001530721,MICHAEL KORS HOLDINGS LTD,869036,NYSE,KORS,3100,Leather & Leather Products
+455,0000827054,MICROCHIP TECHNOLOGY INC,698,Nasdaq Global Market,MCHP,3674,Semiconductors and Related Devices
+456,0000723125,MICRON TECHNOLOGY INC,4934,Nasdaq Global Market,MU,3674,Semiconductors and Related Devices
+457,0001031296,FIRSTENERGY CORP,3689,NYSE,FE,4911,Electric Services
+458,0000036966,FIRST HORIZON NATIONAL CORP,5314,NYSE,FHN,6021,National Commercial Banks
+459,0000798354,FISERV INC,6043,Nasdaq Global Market,FISV,7374,Computer Processing and Data Preparation and Processing Services
+460,0001175454,FLEETCOR TECHNOLOGIES INC,113328,NYSE,FLT,7389,"Business Services, Not Elsewhere Classified"
+461,0001051741,FIRST NIAGARA FINANCIAL GROUP INC,9598,Nasdaq Global Market,FNFG,6021,National Commercial Banks
+462,0000066382,MILLER HERMAN INC,2204,Nasdaq Global Market,MLHR,2520,Office Furniture
+463,0000924822,MILLER INDUSTRIES INC /TN/,1189,NYSE,MLR,3713,Truck and Bus Bodies
+464,0000051253,INTERNATIONAL FLAVORS & FRAGRANCES INC,974,NYSE,IFF,2860,Industrial Organic Chemicals
+465,0000051434,INTERNATIONAL PAPER CO /NEW/,5956,NYSE,IP,2621,Paper Mills
+466,0000051644,"INTERPUBLIC GROUP OF COMPANIES, INC.",2893,NYSE,IPG,7311,Advertising Agencies
+467,0001045810,NVIDIA CORP,4967,Nasdaq Global Market,NVDA,3674,Semiconductors and Related Devices
+468,0001413447,NXP SEMICONDUCTORS N.V.,757890,Nasdaq Global Market,NXPI,3674,Semiconductors and Related Devices
+469,0001333170,"NXSTAGE MEDICAL, INC.",680141,Nasdaq Global Market,NXTM,3845,Electromedical and Electrotherapeutic Apparatus
+470,0000073756,OCEANEERING INTERNATIONAL INC,10241,NYSE,OII,1389,"Oil and Gas Field Services, Not Elsewhere Classified"
+471,0001095348,O2MICRO INTERNATIONAL LTD,81241,Nasdaq Global Market,OIIM,3674,Semiconductors and Related Devices
+472,0001117106,NETSUITE INC,99214,NYSE,N,7372,Prepackaged Software
+473,0001065280,NETFLIX INC,75377,Nasdaq Global Market,NFLX,7841,Video Tape Rental
+474,0000912750,NEWFIELD EXPLORATION CO /DE/,5114,NYSE,NFX,1311,Crude Petroleum and Natural Gas
+475,0001265888,NEUSTAR INC,598815,NYSE,NSR,4899,"Communications Services, Not Elsewhere Classified"
+476,0000910073,NEW YORK COMMUNITY BANCORP INC,6740,NYSE,NYCB,6036,"Savings Institutions, Not Federally Chartered"
+477,0001294016,RUCKUS WIRELESS INC,639489,NYSE,RKUS,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+478,0000029669,RR DONNELLEY & SONS CO,9636,Nasdaq Global Market,RRD,2750,Commercial Printing
+479,0001094392,RUDOLPH TECHNOLOGIES INC,9091,NYSE,RTEC,3823,"Industrial Instruments for Measurement, Display, and Control of "
+480,0001075531,PRICELINE GROUP INC.,3671,Nasdaq Global Market,PCLN,7389,"Business Services, Not Elsewhere Classified"
+481,0001126328,PRINCIPAL FINANCIAL GROUP INC,80236,NYSE,PFG,6321,Accident and Health Insurance
+482,0000080661,PROGRESSIVE CORP/OH/,5247,NYSE,PGR,6331,"Fire, Marine, and Casualty Insurance"
+483,0001045609,"PROLOGIS, INC.",2909,NYSE,PLD,6798,Real Estate Investment Trusts
+484,0001127703,PROASSURANCE CORP,80698,NYSE,PRA,6331,"Fire, Marine, and Casualty Insurance"
+485,0001137774,PRUDENTIAL FINANCIAL INC,85324,NYSE,PRU,6311,Life Insurance
+486,0000092679,SPARTON CORP,6683,NYSE,SPA,3672,Printed Circuit Boards
+487,0000789132,SPECTRANETICS CORP,10254,Nasdaq Global Market,SPNC,3845,Electromedical and Electrotherapeutic Apparatus
+488,0000832813,EXCAL ENTERPRISES INC,8345,OTC,EXCL,6512,Operators of Nonresidential Buildings
+489,0000788784,PUBLIC SERVICE ENTERPRISE GROUP INC,3677,NYSE,PEG,4931,Electric and Other Services Combined
+490,0001393311,PUBLIC STORAGE,738412,NYSE,PSA,6798,Real Estate Investment Trusts
+491,0000081061,PUBLIX SUPER MARKETS INC,9792,OTC,PUSH,5411,Grocery Stores
+492,0000101295,UNITED GUARDIAN INC,11543,Nasdaq Global Market,UG,2844,"Perfumes, Cosmetics, and Other Toilet Preparations"
+493,0000084129,RITE AID CORP,7792,NYSE,RAD,5912,Drug Stores and Proprietary Stores
+494,0000095029,STURM RUGER & CO INC,2945,NYSE,RGR,3480,"Ordnance And Accessories, Except Vehicles And"
+495,0000315213,HALF ROBERT INTERNATIONAL INC /DE/,232,NYSE,RHI,7363,Help Supply Services
+496,0001024795,SUN HYDRAULICS CORP,10303,Nasdaq Global Market,SNHY,3490,Miscellaneous Fabricated Metal Products
+497,0001517396,STRATASYS LTD.,877906,Nasdaq Global Market,SSYS,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+498,0000933034,STRATTEC SECURITY CORP,5931,Nasdaq Global Market,STRT,3714,Motor Vehicle Parts and Accessories
+499,0000310764,STRYKER CORP,4535,NYSE,SYK,3841,Surgical and Medical Instruments and Apparatus
+500,0001291361,SYNERON MEDICAL LTD.,643049,Nasdaq Global Market,ELOS,3845,Electromedical and Electrotherapeutic Apparatus
+501,0001034054,SBA COMMUNICATIONS CORP,9400,Nasdaq Global Market,SBAC,4899,"Communications Services, Not Elsewhere Classified"
+502,0000754737,SCANA CORP,3780,NYSE,SCG,4931,Electric and Other Services Combined
+503,0000311337,SUNCOR ENERGY INC,1108,NYSE,SU,2911,Petroleum Refining
+504,0000817720,SYNAPTICS INC,84225,Nasdaq Global Market,SYNA,7371,Computer Programming Services
+505,0000095953,SYNALLOY CORP,7664,Nasdaq Global Market,SYNL,3317,Steel Pipe and Tubes
+506,0001043509,SONIC AUTOMOTIVE INC,5783,NYSE,SAH,5500,Retail-Auto Dealers & Gasoline Stations
+507,0001001838,SOUTHERN COPPER CORP/,1219,NYSE,SCCO,1000,Metal Mining
+508,0001610793,"STATE NATIONAL COMPANIES, INC.",938262,Nasdaq Global Market,SNC,6331,"Fire, Marine, and Casualty Insurance"
+509,0000092122,SOUTHERN CO,11164,NYSE,SO,4911,Electric Services
+510,0001489096,"THERMON GROUP HOLDINGS, INC.",825741,NYSE,THR,3620,Electrical Industrial Apparatus
+511,0000097745,THERMO FISHER SCIENTIFIC INC.,2432,NYSE,TMO,3829,"Measuring and Controlling Devices, Not Elsewhere Classified"
+512,0000097476,TEXAS INSTRUMENTS INC,4121,Nasdaq Global Market,TXN,3674,Semiconductors and Related Devices
+513,0000217346,TEXTRON INC,7162,NYSE,TXT,3720,Aircraft And Parts
+514,0000092380,SOUTHWEST AIRLINES CO,9327,NYSE,LUV,4512,"Air Transportation, Scheduled"
+515,0001373835,SPECTRA ENERGY CORP.,719909,NYSE,SE,4923,Natural Gas Transmission and Distribution
+516,0000007332,SOUTHWESTERN ENERGY CO,3988,NYSE,SWN,1311,Crude Petroleum and Natural Gas
+517,0000730263,THOR INDUSTRIES INC,7201,NYSE,THO,3716,Motor Homes
+518,0000098246,TIFFANY & CO,4691,NYSE,TIF,5944,Jewelry Stores
+519,0001524025,"TILLY'S, INC.",859034,NYSE,TLYS,5600,Retail-Apparel & Accessory Stores
+520,0000750556,SUNTRUST BANKS INC,1112,NYSE,STI,6021,National Commercial Banks
+521,0000095521,SUPERVALU INC,10077,NYSE,SVU,5411,Grocery Stores
+522,0001021162,TRIUMPH GROUP INC,6556,NYSE,TGI,3720,Aircraft And Parts
+523,0000864749,TRIMBLE NAVIGATION LTD /CA/,1734,Nasdaq Global Market,TRMB,3829,"Measuring and Controlling Devices, Not Elsewhere Classified"
+524,0000099780,TRINITY INDUSTRIES INC,11633,NYSE,TRN,3743,Railroad Equipment
+525,0000842633,TRIMAS CORP,13723,Nasdaq Global Market,TRS,3460,Metal Forgings And Stampings
+526,0001382158,TRINA SOLAR LTD,728079,NYSE,TSL,3674,Semiconductors and Related Devices
+527,0000100493,TYSON FOODS INC,3674,NYSE,TSN,2015,Poultry Slaughtering and Processing
+528,0001465740,TWO HARBORS INVESTMENT CORP.,806562,NYSE,TWO,6798,Real Estate Investment Trusts
+529,0001418091,"TWITTER, INC.",763922,NYSE,TWTR,7370,"Computer Programming, Data Processing, And"
+530,0000074208,"UDR, INC.",3416,NYSE,UDR,6798,Real Estate Investment Trusts
+531,0000036104,US BANCORP \DE\,11930,NYSE,USB,6021,National Commercial Banks
+532,0000757011,USG CORP,8285,NYSE,USG,3270,"Concrete, Gypsum, And Plaster Products"
+533,0001166388,VERINT SYSTEMS INC,96725,Nasdaq Global Market,VRNT,7373,Computer Integrated Systems Design
+534,0000731766,UNITEDHEALTH GROUP INC,8792,NYSE,UNH,6324,Hospital and Medical Service Plans
+535,0001090727,UNITED PARCEL SERVICE INC,10216,NYSE,UPS,4210,"Trucking And Courier Services, Except Air"
+536,0001067701,UNITED RENTALS INC /DE,54051,NYSE,URI,7359,"Equipment Rental and Leasing, Not Elsewhere Classified"
+537,0000821130,UNITED STATES CELLULAR CORP,2839,NYSE,USM,4812,Radiotelephone Communications
+538,0001082554,UNITED THERAPEUTICS CORP,5683,Nasdaq Global Market,UTHR,2834,Pharmaceutical Preparations
+539,0001111335,VISTEON CORP,75297,NYSE,VC,3714,Motor Vehicle Parts and Accessories
+540,0001129260,"VOCERA COMMUNICATIONS, INC.",113414,NYSE,VCRA,3669,"Communications Equipment, Not Elsewhere Classified"
+541,0000839923,VODAFONE GROUP PUBLIC LTD CO,6799,Nasdaq Global Market,VOD,4812,Radiotelephone Communications
+542,0001487952,"VISHAY PRECISION GROUP, INC.",824763,NYSE,VPG,3670,Electronic Components And Accessories
+543,0001403161,VISA INC.,748327,NYSE,V,7389,"Business Services, Not Elsewhere Classified"
+544,0000875320,VERTEX PHARMACEUTICALS INC / MA,599,Nasdaq Global Market,VRTX,2834,Pharmaceutical Preparations
+545,0001378718,"WESCO AIRCRAFT HOLDINGS, INC",724080,NYSE,WAIR,5072,Hardware
+546,0000929008,WESCO INTERNATIONAL INC,4358,NYSE,WCC,5063,"Electrical Apparatus and Equipment Wiring Supplies, and Construc"
+547,0000912833,WEST MARINE INC,495,Nasdaq Global Market,WMAR,5500,Retail-Auto Dealers & Gasoline Stations
+548,0000105770,WEST PHARMACEUTICAL SERVICES INC,13806,NYSE,WST,3060,"Fabricated Rubber Products, Not Elsewhere"
+549,0001024657,WEST CORP,9156,Nasdaq Global Market,WSTC,7389,"Business Services, Not Elsewhere Classified"
+550,0001255474,WHITING PETROLEUM CORP,420440,NYSE,WLL,1311,Crude Petroleum and Natural Gas
+551,0000108516,WORTHINGTON INDUSTRIES INC,9753,NYSE,WOR,3310,"Steel Works, Blast Furnaces, And Rolling And"
+552,0000776867,WHITE MOUNTAINS INSURANCE GROUP LTD,5324,NYSE,WTM,6331,"Fire, Marine, and Casualty Insurance"
+553,0001365135,WESTERN UNION CO,711432,NYSE,WU,7389,"Business Services, Not Elsewhere Classified"
+554,0001555365,WHITEWAVE FOODS CO,887169,NYSE,WWAV,2020,Dairy Products
+555,0000108312,"WOODWARD, INC.",11583,Nasdaq Global Market,WWD,3620,Electrical Industrial Apparatus
+556,0001091907,WORLD WRESTLING ENTERTAINMENTINC,7520,NYSE,WWE,7812,Motion Picture and Video Tape Production
+557,0000110471,WOLVERINE WORLD WIDE INC /DE/,335,NYSE,WWW,3140,"Footwear, Except Rubber"
+558,0000106535,WEYERHAEUSER CO,4423,NYSE,WY,6798,Real Estate Investment Trusts
