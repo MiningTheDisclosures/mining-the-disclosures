@@ -5,6 +5,12 @@ dependencies:
   - bokeh
   - requests
   - pandas
+  - beautiful-soup
+  - nltk
+  - scikit-learn
   - pip:
     - oauth2
     - Click
+    - flask
+    - flask-restful
+    - feedparser
