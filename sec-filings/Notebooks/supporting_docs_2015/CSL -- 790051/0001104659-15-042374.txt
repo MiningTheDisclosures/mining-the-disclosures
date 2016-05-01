@@ -1,0 +1,345 @@
+<SEC-DOCUMENT>0001104659-15-042374.txt : 20150601
+<SEC-HEADER>0001104659-15-042374.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601143230
+ACCESSION NUMBER:		0001104659-15-042374
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CARLISLE COMPANIES INC
+		CENTRAL INDEX KEY:			0000790051
+		STANDARD INDUSTRIAL CLASSIFICATION:	FABRICATED RUBBER PRODUCTS, NEC [3060]
+		IRS NUMBER:				311168055
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09278
+		FILM NUMBER:		15902793
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11605 NORTH COMMUNITY HOUSE ROAD
+		STREET 2:		SUITE 600
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28277
+		BUSINESS PHONE:		704-501-1100
+
+	MAIL ADDRESS:	
+		STREET 1:		11605 NORTH COMMUNITY HOUSE ROAD
+		STREET 2:		SUITE 600
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28277
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>a15-13123_1sd.htm
+<DESCRIPTION>SD
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C.&#160; 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;SD</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Specialized Disclosure Report</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">CARLISLE COMPANIES INCORPORATED</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-9278</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">31-1168055</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other jurisdiction of</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer</font></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">incorporation or organization)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">File Number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Identification No.)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">11605 North Community House Road, Suite&nbsp;600, Charlotte, North Carolina 28277</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive office, including zip code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Michael Roberson,&nbsp;Esq.&#160; (704) 501-1120</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name and telephone number, including area code, of the person to contact in connection with this report)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box to indicate the rule&nbsp;pursuant to which this form is being filed, and provide the period to which the information in this form applies:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Rule&nbsp;13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108647\15-13123-1\task7438020\13123-1-ba.htm',USER='108647',CD='Jun  1 18:29 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Section&nbsp;1 &#151; Conflict Minerals Disclosure</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ITEM 1.01</font></b><font size="2" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b>Conflict Minerals Disclosure and Report</b></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conflict Minerals Disclosure</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Carlisle Companies Incorporated&#146;s Conflict Minerals Report is filed as Exhibit&nbsp;1.01 hereto and is publicly available at www.carlisle.com. The content of any website referred to in the Form&nbsp;SD or this Exhibit&nbsp;is included for general information only and is not incorporated by reference into the Form&nbsp;SD or this Exhibit&nbsp;filed with the SEC.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ITEM 1.02&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Exhibit</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">A copy of the Company&#146;s Conflict Minerals Report is provided as Exhibit&nbsp;1.01 hereto.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Section&nbsp;2 &#151; Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ITEM 2.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Exhibit&nbsp;1.01 - Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_080206_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\108647\15-13123-1\task7438020\13123-1-ba.htm',USER='108647',CD='Jun  1 18:29 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></u></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">June&nbsp;1,   2015</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Carlisle   Companies Incorporated</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>    </td>
+<td width="43%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:43.34%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/   Steven J. Ford</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>    </td>
+<td width="43%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:43.34%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Steven   J. Ford</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>    </td>
+<td width="43%" valign="top" style="padding:0in 0in 0in 0in;width:43.34%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Vice   President and Chief Financial Officer</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_093653_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\108647\15-13123-1\task7438020\13123-1-ba.htm',USER='108647',CD='Jun  1 18:29 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>a15-13123_1ex1d01.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit&nbsp;1.01</font></b></p>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Carlisle Companies Incorporated</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conflict Minerals Report</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For the Year Ended December&nbsp;31, 2014</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This Conflict Minerals Report (the &#147;Report&#148;) of Carlisle Companies Inc. (&#147;Carlisle,&#148; &#147;The Company,&#148; &#147;we,&#148; &#147;us,&#148; or &#147;our&#148;) has been prepared pursuant to Rule&nbsp;13p-1 and Form&nbsp;SD (the &#147;Rule&#148;) promulgated under the Securities Exchange Act of 1934, as amended, for the year ended December&nbsp;31, 2014.&#160; The Rule&nbsp;was adopted by the Securities and Exchange Commission (&#147;SEC&#148;) to implement reporting and disclosure requirements related to conflict minerals as directed by the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (&#147;the Act&#148;).</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Rule&nbsp;imposes certain reporting obligations on SEC registrants whose manufactured products contain conflict minerals which are necessary to the functionality or production of their products.&#160; Conflict minerals are defined as cassiterite, columbite-tantalite, gold, wolframite, and their derivatives, which are limited to tin, tantalum, tungsten, and gold (&#147;3TG&#148;) for the purposes of this assessment.&#160; These requirements apply to registrants whatever the geographic origin of the conflict minerals and whether or not they fund armed conflict.&#160; Please refer to the Rule&nbsp;for definitions of the terms used in this Report, unless otherwise defined herein.&#160; Please also note that the report presented herein is not audited.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Company Overview</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Carlisle is a diversified manufacturing company consisting of five segments which manufacture and distribute a broad range of products.&#160; Carlisle&#146;s five segments are Carlisle Construction Materials (&#147;CCM&#148;), Carlisle Interconnect Technologies (&#147;CIT&#148;), Carlisle Brake and Friction (&#147;CBF&#148;), Carlisle FoodService Products (&#147;CFSP&#148;), and Carlisle Fluid Technologies (&#147;CFT&#148;).&#160; Please note that CFT was acquired by Carlisle on April&nbsp;1, 2015.&#160; As such, we did not include CFT in any of the procedures or results noted herein.&#160; CFT was added to our conflict minerals program as of the date of acquisition.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Products Overview</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CCM manufactures and sells rubber, thermoplastic polyolefin, and polyvinyl chloride membrane roofing systems. CCM also manufactures and distributes energy-efficient rigid foam insulation panels for substantially all roofing applications. Through its coatings and waterproofing operation, CCM manufactures and sells liquid and spray-applied waterproofing membranes, vapor and air barriers, and HVAC duct sealants and hardware for the commercial and residential construction markets.&#160; Raw materials for this segment include EPDM polymer, TPO polymer, carbon black, processing oils, solvents, asphalt, methylene diphenyldiisocyanate, polyol, polyester fabric, black facer paper, oriented strand board, clay, and various packaging materials.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CIT designs and manufactures high-performance wire, cable, connectors, contacts, and cable assemblies for the transfer of power and data primarily for the aerospace, medical, defense electronics, test and measurement equipment, and select industrial markets. Raw materials for this segment include gold, copper conductors that are plated with tin, nickel, or silver, polyimide tapes, polytetrafluoroethylene (&#147;PTFE&#148;) tapes, PTFE fine powder resin, thermoplastic resins, stainless steel, beryllium copper rod, machined metals, plastic parts, and various marking and identification materials. Key raw materials are typically sourced worldwide.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CBF manufactures off-highway braking systems and friction products for off-highway, on-highway, aircraft, and other industrial applications. CBF also includes the performance racing group which markets and sells high-performance motorsport braking products. The brake manufacturing operations require the use of various metal products such as castings, pistons, springs, and bearings. Raw materials used by CBF include fiberglass, phenolic resin, metallic chips, copper and iron powders, steel, custom-fabricated cellulose sheet, and various other organic materials. Raw materials are sourced worldwide.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CFSP manufactures and distributes various commercial and institutional foodservice products and industrial brooms, brushes, and mops.&#160; Raw materials used by the FoodService Products segment include polymer resins, stainless steel, and aluminum. Key raw materials are sourced nationally.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108647\15-13123-1\task7438020\13123-1-kc.htm',USER='108647',CD='Jun  1 18:29 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Based on a review of the raw materials used by the segments and discussions with key operations personnel across all segments, the Company determined that CIT is the segment with the highest utilization of 3TG.&#160; It has been determined that CBF and CFSP have significantly less utilization of 3TG than CIT, and that CCM does not use materials in the manufacturing process that contain conflict minerals.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conflict Minerals Policy</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We have adopted a conflict minerals policy which is publicly available on our website at www.carlisle.com under &#147;Corporate Responsibility.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Reasonable Country of Origin Inquiries</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company performed a detailed scoping exercise led by key operating and purchasing personnel that included reviewing all purchases over a twelve month period to identify any 3TG and corresponding suppliers.&#160; Any item that was known to contain 3TG or that could potentially contain 3TG was traced to the supplier and said supplier was noted as &#147;in scope&#148; for the purposes of supplier inquiries and review for the year ended December&nbsp;31, 2014.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">For the year ended December&nbsp;31, 2014, the Company&#146;s reasonable country of origin (&#147;RCOI&#148;) and due diligence inquiries focused primarily on CIT and CBF.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Due Diligence Performed</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Carlisle undertook systematic due diligence to determine the status of the conflict minerals used in its businesses.&#160; Our due diligence efforts have been designed to conform, in all material respects, with the framework presented by The Organisation for Economic Co-operation and Development (&#147;OECD&#148;) in the publication <i>OECD (2013) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition, OECD Publishing</i> and the related Supplements for gold and for tin, tantalum and tungsten, an internationally recognized due diligence framework.&#160; The OECD Due Diligence Guidance includes the following five-step program:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Step 1: Establish strong company management systems</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Step 2: Identify and assess risks in the supply chain</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Step 3: Design and implement a strategy to respond to identified risks</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Step 4: Support independent third party audits of supply chain</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Step 5: Report annually on supply chain due diligence</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Establish Strong Company Management Systems</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As noted above, we have adopted a conflict minerals policy related to our sourcing of 3TG.&#160; The policy has been provided to our suppliers and is publicly available on our company website.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We have established a management system to support supply chain due diligence related to 3TG.&#160; The management group responsible for overseeing Carlisle&#146;s compliance with the Rule&nbsp;includes our Assistant General Counsel, Vice President of Procurement, and CIT Director of Supplier Development.&#160; Additionally, we engaged a professional services firm to augment the internal management group responsible for the design and implementation of our planned due diligence.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Identify and Assess Risks in the Supply Chain</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company sent the Conflict Minerals Reporting Template developed by the Conflict-Free Sourcing Initiative (&#147;CFSI&#148;) template to every supplier determined to be in scope.&#160; The template was developed to facilitate disclosure and communication of information regarding smelters and refiners that provide material to a manufacturer&#146;s supply chain.&#160; The template includes questions regarding a direct supplier&#146;s conflict-free policy, its due diligence process, and information about the supply chain such as the names and locations of smelters and refiners as well as the origin of 3TG used by those facilities.&#160; Carlisle continued to receive supply chain responses through April&nbsp;30, 2015.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108647\15-13123-1\task7438020\13123-1-kc.htm',USER='108647',CD='Jun  1 18:29 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The responses to the CFSI surveys have been reviewed and data have been compiled.&#160; We reviewed the responses against criteria developed to determine which responses required further engagement with our suppliers. These criteria included untimely or incomplete responses as well as inconsistencies within the data reported in the template.&#160; We continue to work directly with these suppliers to obtain updated and more detailed responses.&#160; Carlisle operational personnel have conducted additional inquiries with suppliers to better understand survey responses and identify smelters and refineries, in addition to mines and countries of origin.&#160; We also evaluated the responses for identification of smelters and refiners, have compiled a listing of all identified smelters and refiners, and have compared our listing to the CFSI Compliant Smelter and Refiner listing.&#160; We rely on the certification of CFSI to assist in identifying compliant smelters and refiners.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We continue to send templates to in scope suppliers and we continue to work through responses.&#160; We are following up with suppliers who have not provided responses to our inquiries.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Design and Implement a Strategy to Respond to Identified Risks</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As noted above, Carlisle has adopted a conflict minerals policy.&#160; Updates of our due diligence efforts are provided to senior management on a regular basis.&#160; We also have a conflict minerals steering committee whose purpose is to respond to identified risks.&#160; Additionally, we have implemented a risk mitigation response plan to monitor and track suppliers, smelters, and refiners identified through CFSI template responses.&#160; During 2014, we did not identify any instance where it was necessary to implement risk mitigation efforts, temporarily suspend business, or disengage with a supplier.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Support Independent Third Party Audits of Supply Chain</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Carlisle does not typically have a direct relationship with 3TG smelters and refiners, and therefore does not perform or direct audits of these entities.&#160; We rely on the CFSI&#146;s Conflict-Free Smelter Program to perform audits of smelters and the related certification.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Report Annually on Supply Chain Due Diligence</font></i></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This Conflict Minerals Report constitutes our annual report on our 3TG due diligence, is available on our website at www.carlisle.com, and is an Exhibit&nbsp;to this Form&nbsp;SD.&nbsp; The content of any website referred to in the Form&nbsp;SD or this Exhibit&nbsp;is included for general information only and is not incorporated by reference into the Form&nbsp;SD or this Exhibit&nbsp;filed with the SEC.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Results of Due Diligence</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We sent 799 CFSI surveys for the year ended December&nbsp;31, 2014, and approximately 30% of our suppliers provided usable and valid initial responses.&#160; We utilized the initial responses to compile a listing of all identified smelters and refiners.&#160; We compared this listing of smelters and refiners to the CFSI Compliant Smelter and Refiner listing, and we continue to analyze existing responses and make secondary inquiries of suppliers.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company has determined that seeking information about 3TG smelters and refiners in our supply chain by using the CFSI template represents the most reasonable effort we can make to determine the mines or locations of origin of the 3TG in our supply chain.&#160; With respect to the supplier responses received, we have no reason to believe that any conflict minerals originating from Covered Countries and benefiting armed groups have been supplied by any of the respondents.&#160; However, since we have not received all responses and have not completed all additional inquiries, we are unable to determine the country of origin of some conflict minerals or whether they originated from recycled or scrap sources.&#160; As such, Carlisle has determined in good faith that for calendar year 2014 the conflict minerals status resulting from its due diligence efforts is &#147;DRC conflict undeterminable.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Due Diligence Procedures to be Performed</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Looking toward the forthcoming reporting period, Carlisle will continue to implement steps to improve the information gathered from its due diligence to further mitigate the risk that its necessary conflict minerals benefit armed groups.&#160; We will continue to work to increase the response rate of suppliers and will continue to evaluate</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108647\15-13123-1\task7438020\13123-1-kc.htm',USER='108647',CD='Jun  1 18:29 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">responses to the CFSI surveys with the expectation that the implementation of our new third-party developed software will help increase efficiency and also help identify any necessary follow-up procedures.&#160; We will perform a detailed review of all smelters and refiners identified by respondents along with cross-referencing our listing of smelters and refiners with the CFSI database of conflict-free smelters and refiners.&#160; Additionally, the due diligence plan executed to date will be fully implemented at Carlisle Fluid Technologies. This will include executives and supply chain management teams completing a supplier scoping exercise, sending CFSI surveys to any supplier selling goods to Carlisle that may contain 3TG minerals, detailed analysis of all survey responses, and additional inquiries as necessary.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108647\15-13123-1\task7438020\13123-1-kc.htm',USER='108647',CD='Jun  1 18:29 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

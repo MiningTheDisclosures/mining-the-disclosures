@@ -1,0 +1,424 @@
+<SEC-DOCUMENT>0001193125-15-206797.txt : 20150529
+<SEC-HEADER>0001193125-15-206797.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529164736
+ACCESSION NUMBER:		0001193125-15-206797
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVNET INC
+		CENTRAL INDEX KEY:			0000008858
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC [5065]
+		IRS NUMBER:				111890605
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0628
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04224
+		FILM NUMBER:		15900187
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2211 SOUTH 47TH STREET
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85034
+		BUSINESS PHONE:		4806432000
+
+	MAIL ADDRESS:	
+		STREET 1:		2211 SOUTH 47TH STREET
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85034
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d932781dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, DC 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED DISCLOSURE REPORT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>AVNET, INC.
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>New York</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-4224</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>11-1890605</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2211 South 47th Street, </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Phoenix, Arizona 85034 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Erin Lewin </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Senior Vice
+President and General Counsel </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(480)&nbsp;643-2000 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and telephone number, including area code, of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>person to contact in connection with this report) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to
+indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 &#150; CONFLICT MINERALS DISCLOSURE </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>CONFLICT MINERALS DISCLOSURE AND REPORT </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Conflict Minerals Disclosure</B> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Form SD is filed by Avnet, Inc. (together with its consolidated subsidiaries, the &#147;Company&#148;) pursuant to Rule 13p-1 (the &#147;Rule&#148;) under
+the Securities Exchange Act of 1934, as amended, for the reporting period January&nbsp;1, 2014, to December&nbsp;31, 2014. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A copy of the Company&#146;s
+Conflict Minerals Report is provided as Exhibit 1.01 to the Form SD and may be found publicly on the Company&#146;s website at http://www.avnet.com/ under the &#147;Who we are &#150; Corporate Responsibility&#148; links. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>EXHIBIT </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company has filed, as an exhibit to this Form SD, the Conflict Minerals Report. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 &#150; EXHIBITS </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>EXHIBITS </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exhibit 1.01 &#150; Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form
+SD. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: May&nbsp;29, 2015</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">By: /s/ Kevin Moriarty</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Kevin Moriarty</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><I>Chief
+Financial Officer</I></P></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d932781dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Conflict Minerals Report </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Introduction
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This is the Conflict Minerals Report of Avnet, Inc., together with its consolidated subsidiaries (herein referred to as &#147;Avnet&#148; or the
+&#147;Company&#148;), for calendar year 2014 in accordance with Rule 13p-1 under the Securities Exchange Act of 1934 (the &#147;Rule&#148;). Conflict Minerals are defined as cassiterite, columbite-tantalite, gold, wolframite, and their derivatives,
+which are limited to tin, tantalum, tungsten, and gold (collectively &#147;3TG&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Avnet is a global value-added distributor of electronic
+components, enterprise computer and storage products, IT solutions and services, and embedded subsystems. The Company creates a vital link in the technology supply chain that connects the world&#146;s leading electronic component and computer
+product manufacturers and software developers with a global customer base of original equipment manufacturers, electronic manufacturing services providers, original design manufacturers, systems integrators, independent software vendors and
+value-added resellers. The Company distributes electronic components, computer products and software, as received from its suppliers or through a customized solution, and offers assembly and other value-added services. In addition, the Company
+provides engineering design, materials management and logistics services, system integration and configuration, and supply chain services customized to meet specific requirements of customers and suppliers. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Conflict Minerals Policy </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company adopted a Conflicts
+Minerals Policy, which provides, in part, that: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">As a global value-added distributor of electronic components, enterprise computer and
+storage products, IT solutions and services, and embedded subsystems, Avnet promotes the traceability of these minerals and the transparency of the supply chain. Avnet firmly believes that its customers should be fully informed about the products
+they purchase. While Avnet, as a distributor, is not able to certify as to the country of origin of the minerals contained in the products manufactured by Avnet&#146;s suppliers, Avnet is committed to working with its customers to supply products
+that meet the customer&#146;s specifications. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">With respect to those limited aspects of Avnet&#146;s business that manufacture or contract
+to manufacture products that contain conflict minerals that are necessary to the functionality or production of the product, Avnet does not directly purchase any conflict minerals from any source and endeavors not to purchase products that contain
+conflict minerals that directly or indirectly finance or benefit armed groups in the [Democratic Republic of Congo] or adjoining countries. Avnet expects its suppliers to these aspects of its business to only source minerals from responsible sources
+and provide Avnet with proper verification of the country of origin and source of the materials used in the products they supply to it. Avnet fully understands the importance of this issue to its customers and is committed to supply chain
+initiatives and overall corporate social responsibility and sustainability efforts that work towards a conflict free supply chain. Avnet is encouraging all of its suppliers to likewise support these efforts and make information on the origin of
+their product components easily accessible on their websites. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Conflict Minerals Policy is available on the Company&#146;s website at
+http://www.avnet.com/ under the &#147;Who we are &#150; Corporate Responsibility&#148; links. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Overview </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Rule requires that the Company disclose in an annual Form SD and associated Conflict Minerals Report information regarding any 3TG that is &#147;necessary
+to the functionality or production&#148; of any products that the Company manufactures or contracts to be manufactured. Further, the Rule requires that the Company conduct a reasonable country of origin investigation to determine whether any such
+3TG originated in the Democratic Republic of the Congo or its adjoining countries (the &#147;Covered Countries&#148;) or is from recycled or scrap sources. If, based on the Company&#146;s reasonable country of origin inquiry, the Company knows that
+any of the Company&#146;s </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+necessary 3TG originated in the Covered Countries and are not from recycled or scrap sources, or the Company has reason to believe that the Company&#146;s necessary 3TG may have originated in the
+Covered Countries and the Company has reason to believe that such 3TG may not be from recycled or scrap sources, the Company is required to exercise due diligence on the source and chain of custody of such 3TG that conforms to a nationally or
+internationally recognized due diligence framework. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Design of the Company&#146;s Reasonable Country of Origin Inquiry and Due Diligence Process
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company&#146;s 3TG program was divided into the (i)&nbsp;program definition and scoping phase, (ii)&nbsp;country of origin inquiry and due
+diligence phase, and (iii)&nbsp;reporting phase. The Company&#146;s program was designed to conform in all material respects to the framework in the <I>Organisation for Economic Co-operation and Development Due Diligence Guidance for Responsible
+Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition </I>(the &#147;OECD Framework&#148;). The Company&#146;s reasonable country of origin inquiry was designed such that it functioned as the first step of the
+Company&#146;s due diligence measures. Consequently, the Company does not separately discuss its reasonable country of origin inquiry in the following discussion. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Products </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In response to the Rule, the Company reviewed
+its operations to determine which parts of its business, if any, may be subject to the disclosure requirements of the Rule. As provided by the Rule, this process did not include products that were not entered into the stream of commerce in the
+calendar year ended December&nbsp;31, 2014, or products manufactured or contracted to be manufactured by entities acquired by the Company after April 2013. As a result of the process discussed in greater detail below, the Company determined that the
+following products were subject to the disclosure requirements of the Rule for the calendar year 2014: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Embedded systems manufactured or contracted to be manufactured by Avnet (Lifecycle Solutions); </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Products manufactured or contracted to be manufactured by RGS; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Electromechanical solutions manufactured or contracted to be manufactured by DEM Manufacturing; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Avnet Design Kits manufactured or contracted to be manufactured by Avnet; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Development boards manufactured or contracted to be manufactured by EBV; and </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">ArchiTech Boards manufactured or contracted to be manufactured by Silica. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">These products are hereinafter
+referred to as the &#147;Covered Products.&#148; </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Due Diligence Framework </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As noted in the Company&#146;s Conflict Minerals Policy, the Company does not purchase 3TG directly from any mine, refiner or smelter. The Company&#146;s
+supply chain with respect to the Covered Products is highly complex and there are many parties in the supply chain between the Company&#146;s direct supplier and the mine from which the 3TG originated. Because of the Company&#146;s
+&#147;downstream&#148; position in the supply chain, it followed the principles outlined in the OECD Framework for downstream companies with no direct relationships to smelters or refiners. In this context, &#147;downstream&#148; refers to the
+supply chain from smelters and refiners to retailers; it includes companies such as the Company, as well as product and component manufacturers. In this regard, the Company must rely on its suppliers to provide information regarding the country of
+origin and chain of custody of the 3TG included in the Covered Products. It is likely that years of engagement and propagation of expectations through many tiers of the supply chain will be necessary before information returned to downstream
+companies, such as the Company, may be considered accurate and complete. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Due Diligence Efforts </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company&#146;s due diligence efforts for calendar year 2014 included the following steps: </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Establish company management systems</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As part of the Company&#146;s 3TG program, the Company created a
+governance team and a working team. The governance team is responsible for ensuring that the Company&#146;s program meets regulatory requirements and enterprise goals, and to provide direction to the working team. The working team is responsible for
+the day-to-day execution of the Company&#146;s program, diligence efforts and risk mitigation strategy. The Company also established a policy with respect to sourcing of minerals from the Covered Countries and published this statement on the
+Company&#146;s website. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Identify and assess risks in the supply chain</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company performed the following steps to identify and
+assess risks in the supply chain: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The first phase of the Company&#146;s 3TG program consisted of identifying those business segments that manufactured or contracted to manufacture products reasonably believed to contain 3TG. As a global value-added
+distributor, a significant percentage of the Company&#146;s operations were deemed to be out of scope of the Rule. At this stage, the Company determined that the Covered Products were within scope of the Rule. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Company next set out to determine which active suppliers to the Covered Products supply materials or components that may contain 3TG that are necessary to the functionality or production of the Covered Products.
+Once those suppliers were determined, the Company contacted each supplier and provided them with the 3TG reporting template (the &#147;Template&#148;) created by the Conflict Free Sourcing Initiative (the &#147;CFSI&#148;). The Company felt that the
+Template was the most appropriate way to exercise due diligence on the source and chain of custody of the 3TG in the Covered Products and to determine whether the 3TG included in the Covered Products came from recycled or scrap sources.
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Template included questions relating to, among other items, the use of 3TG in the supplier&#146;s products, the supplier&#146;s due diligence efforts, the source and chain of custody of any 3TG in the
+supplier&#146;s products, and whether the supplier has a policy on conflict-free sourcing. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Upon receipt of a Template or other relevant information from a supplier, the responses were evaluated for plausibility, completion and predetermined red flags. To the extent that a completed Template or other relevant
+information was not provided by a supplier, the Company followed up with such unresponsive supplier to request compliance with the Company&#146;s request. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Company continued to follow-up with all unresponsive suppliers during calendar year 2014 and into 2015 to the extent necessary. Smelters identified in the responses received were compared against the list of
+facilities that have been identified as &#147;conflict free&#148; through the CFSI Conflict Free Smelter Program for 3TG (&#147;CFSP&#148;). </TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>3.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Design and implement a strategy to respond to identified risks</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company has designed and implemented
+a number of steps to respond to the identified risks in its supply chain: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Company sent all of its direct suppliers that were part of the due diligence process the Template and has publicly disclosed the Company&#146;s expectations regarding their participation in the Company&#146;s due
+diligence process. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Company designed a risk mitigation approach to manage suppliers that may potentially not be deemed &#147;conflict free&#148; pursuant to the Rule. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Company worked with suppliers on an as-needed basis to understand the requirements of the Rule. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Company sought to include 3TG related provisions in new or amended supplier agreements with respect to the Covered Products and has included 3TG related diligence in the Company&#146;s acquisition activity.
+</TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Company has implemented processes for new product introductions and changes to the bill of materials for the Covered Products to help ensure compliance with the Company&#146;s 3TG program. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Company has established procedures for employees, shareholders, suppliers and customers to communicate concerns about the Company&#146;s policies. </TD></TR></TABLE>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>4)</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Carry out independent third-party audit of smelter/refiner due diligence practices</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company is a
+downstream consumer of 3TG and is generally many steps removed from smelters and refiners who provide minerals and ores. The Company does not purchase 3TG from smelters or refiners, and does not, to the best of the Company&#146;s knowledge, directly
+purchase from any of the Covered Countries. Therefore, as contemplated by the OECD Framework for downstream companies, the Company did not perform direct audits of smelters and refiners within the supply chain. Instead, as noted above, the
+Company&#146;s due diligence efforts relied on cross-industry initiatives such as those led by the CFSI, such as the CFSP, to conduct smelter and refiner due diligence. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>5)</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Report annually on supply chain due diligence</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This report and the associated Form SD are available
+online on the Company&#146;s website at http://www.avnet.com/ under the &#147;Who we are &#150; Corporate Responsibility&#148; links. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Efforts to
+Determine the Mine or Location of Origin with the Greatest Possible Specificity </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Rule requires that the Company provide a description of the
+Covered Products, the facilities used to process the 3TG in those products, the country of origin of the 3TG in those products, and the efforts to determine the mine or location of origin with the greatest possible specificity. Based on the
+information that the Company has been able to collect through the Template and other information, it is unable to definitively determine the identity of the upstream smelters from which its suppliers source 3TG or the mine or location of origin of
+the 3TG included in the Covered Products. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Steps to be Taken in Calendar 2015 </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As the Company endeavors not to purchase products that contain 3TG that directly or indirectly finance or benefit armed groups in the Covered Countries, in
+order to mitigate the risk of purchasing such products, the Company has continued with its 3TG program discussed above during calendar year 2015. Specifically, the Company has pursued and will continue to pursue the following steps: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the Company will continue to pursue obtaining further information from suppliers of 3TG; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the Company will proactively analyze whether any 3TG materials are present in future products that the Company develops or to the extent it revises the materials included in existing Covered Products; </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the Company will seek to include 3TG related provisions in new or amended supplier agreements with respect to the Covered Products; and </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the Company will monitor its ethics alert line for issues related to the Company&#146;s 3TG program. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 4 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

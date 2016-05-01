@@ -1,0 +1,2066 @@
+<SEC-DOCUMENT>0001193125-15-205822.txt : 20150529
+<SEC-HEADER>0001193125-15-205822.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529112035
+ACCESSION NUMBER:		0001193125-15-205822
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERIZON COMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0000732712
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				232259884
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08606
+		FILM NUMBER:		15897855
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1095 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-395-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		1095 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BELL ATLANTIC CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d930295dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:14pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED
+DISCLOSURE REPORT </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>VERIZON COMMUNICATIONS INC. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>(Exact name of the registrant as specified in its charter) </I></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-8606</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>23-2259884</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><I>(State or other jurisdiction of incorporation</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><I>or organization)</I></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><I>(Commission File Number)</I></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><I>(IRS Employer Identification No.)</I></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>1095 Avenue of the Americas</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York, New York</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>10036</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><I>(Address of principal executive offices)</I></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><I>(Zip code)</I></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>Mary Louise Weber,
+Esq.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(908)&nbsp;559-5636 </U> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><I>(Name and telephone number, including area code, of the </I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><I>person to contact in connection with this report.) </I></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form
+applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 &#150; Conflict Minerals Disclosure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.01 Conflict Minerals Disclosure and Report </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Verizon Communications Inc. has issued a Conflict Minerals Report for the period from January&nbsp;1, 2014 to December&nbsp;31, 2014. A copy
+of the Conflict Minerals Report is filed herewith as Exhibit 1.01 and is available at http://www.verizon.com/about/financial-reporting-summary. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.02 Exhibit </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">See Item&nbsp;2.01 </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 &#150;
+Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2.01 Exhibits </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Exhibit 1.01 &#150; Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">SIGNATURE </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Verizon Communications Inc.</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3" ALIGN="center">(Registrant)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 29, 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">/s/ Francis J. Shammo</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Francis J. Shammo</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Executive Vice President and Chief Financial Officer</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d930295dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">Exhibit 1.01 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Verizon Communications Inc. Conflict Minerals Report for Calendar Year 2014 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This is the Conflict Minerals Report (&#147;CMR&#148;) of Verizon Communications Inc. (&#147;Verizon&#148;, &#147;Company&#148; or &#147;we&#148;) for the
+reporting period covering January&nbsp;1, 2014 through December&nbsp;31, 2014 in accordance with Rule 13p-1 under the Securities Exchange Act of 1934 (the &#147;Conflict Minerals Rule&#148;) and Form SD. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Introduction </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Conflict Minerals Rule requires issuers
+to annually file a Form SD with the United States Securities and Exchange Commission to disclose information regarding the use and origin of &#147;Conflict Minerals&#148; necessary for the functionality or production of products manufactured or
+contracted to be manufactured by such issuer. Under the Conflict Minerals Rule, &#147;Conflict Minerals&#148; currently include columbite-tantalite (coltan), cassiterite, gold, wolframite, and also their derivatives tantalum, tin and tungsten. We
+refer to gold, tantalum, tin and tungsten collectively as &#147;3TG&#148;. The purpose of the Conflict Minerals Rule is to discover if covered issuers&#146; use of 3TG may have directly or indirectly financed or benefitted armed groups in the
+Democratic Republic of Congo and its adjoining countries (the &#147;DRC Region&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This CMR describes how Verizon&#146;s Conflict Minerals due
+diligence program is designed, as well as what steps have been taken to implement the due diligence program and determine in good faith the country of origin, source, and chain of custody of the minerals used in the Verizon products that are within
+the scope of the Conflict Minerals Rule (see &#147;Product Description and Determination&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This CMR is based on information available at the time
+of filing. This CMR may contain forward-looking statements regarding steps to be taken in the future as we improve our due diligence measures with respect to 3TG, and those statements are subject to risks and uncertainties. References to any website
+in this Form SD or CMR do not incorporate information from that website within this filing. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Forward-looking statements are subject to risks and
+uncertainties that could cause actual actions or performance to differ materially from those expressed in the forward-looking statements. These risks and uncertainties include, but are not limited to, (1)&nbsp;the implementation of satisfactory
+traceability and other compliance measures by our direct and indirect suppliers on a timely basis or at all, (2)&nbsp;whether smelters and refiners and other market participants responsibly source Conflict Minerals, (3)&nbsp;internal and external
+resource constraints, and (4)&nbsp;political and regulatory developments, whether in the DRC Region, the United States or elsewhere. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date
+of filing of this CMR. We do not intend, and undertake no obligation, to publish revised forward-looking statements to reflect events or circumstances after the date of filing of this CMR or to reflect the occurrence of unanticipated events. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Reasonable Country of Origin Inquiry </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In accordance with
+the Conflict Minerals Rule, Verizon&#146;s compliance process includes a &#147;reasonable country of origin inquiry&#148; (&#147;RCOI&#148;) seeking the location of the smelters or refiners used to refine or process the 3TG used in products that are
+within the scope of the Conflict Minerals Rule. Verizon requested that its relevant supplier complete a Conflict Minerals Reporting Template (the &#147;CFSI Template&#148;) to support our Conflict Minerals due diligence program. The CFSI Template
+was developed by the Conflict Free Sourcing Initiative (the &#147;CFSI,&#148; see http://www.conflictfreesourcing.org) to assist companies in determining the smelters or refiners contributing 3TG to their products. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">With respect to the products described in the &#147;Product Description and Determination&#148; section of this
+CMR (the &#147;Covered Products&#148;), Verizon received a CFSI Template response from its supplier that jointly covered both products. Therefore Verizon could not definitely determine which smelter/refiner contributed to which specific Verizon
+product. Certain areas of the CFSI Template submission we received were incomplete. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Verizon is a member of the CFSI. As a CFSI member, Verizon has access
+to country of origin information for smelters/refiners known to CFSI. Some of the smelters/refiners disclosed by our supplier were indicated by the CFSI country of origin data to source 3TG from the DRC Region. Accordingly, Verizon is required to
+exercise due diligence on the source and chain of custody of the 3TG within the affected Verizon products. Verizon&#146;s due diligence process is described below. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Due Diligence Framework </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Verizon designed its due
+diligence process to conform, in all material respects, with the Organization for Economic Cooperation and Development&#146;s Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas and
+accompanying Supplements (the &#147;OECD Framework&#148;) as applicable for &#147;downstream companies&#148; (as defined in the OECD Framework), taking into account Verizon&#146;s position in the 3TG supply chain and the fact that Verizon does not
+typically contract to manufacture the products associated with its business, and typically has limited engagement with suppliers beyond its direct suppliers. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The OECD Framework recommends a five step process for Conflict Minerals due diligence. Verizon&#146;s implementation of these five steps is described below.
+</P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">STEP 1: ESTABLISHING STRONG COMPANY MANAGEMENT SYSTEMS </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Verizon has taken the following steps to strengthen its company management systems with respect to Conflict Minerals matters: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>&#149; Established a Conflict Minerals Policy</I>. Our Conflict Minerals policy communicates Verizon&#146;s perspective regarding the use of Conflict
+Minerals, our support of certain cross-industry efforts to address them, and our intent to avoid sourcing 3TG that directly or indirectly benefit non-state armed groups. It also references (and excerpts) a section within our Supplier Code of Conduct
+devoted to Conflict Minerals. That Supplier Code of Conduct subsection sets forth expectations for our suppliers, including the need for suppliers to assist us with any required RCOI investigations, and the requirement that suppliers of applicable
+products complete a CFSI Template to support our Conflict Minerals due diligence programs. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our Conflict Minerals policy can be found on the web at: </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>http://www.verizon.com/about/responsibility/policies/</U> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>&#149; Created a Team of Appropriate Personnel to Support Conflict Minerals Due Diligence</I>. We assembled an internal team to support our compliance plan.
+The team includes representatives from our Legal, Sustainability, Global Corporate Citizenship, Supply Chain, External Communications and Internal Audit functions, as well as the appropriate Sourcing teams responsible for managing relevant supplier
+relationships. Team members periodically review the goals for our Conflict Minerals compliance program, with Legal, Sourcing, Internal Audit and Supply Chain teams taking primary responsibility for supplier-facing diligence and compliance measures.
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I></I>&#149; <I>Established a System of Controls and Transparency Over the Mineral Supply Chain. </I></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Because Verizon does not typically contract to manufacture the products associated with our business, much of our visibility into the mineral supply chain
+must necessarily come via our suppliers. Verizon has inserted a detailed set of contractual provisions in its supply contracts for products within the scope of Verizon&#146;s reporting obligations under the Conflict Minerals Rule. The provisions
+require the supplier to establish processes consistent with the Conflict Minerals Rule and the OECD Framework in order to determine the smelters or refiners from which the 3TG originates. The contract provision also requires Supplier&#146;s periodic
+engagement with Verizon with respect to Conflict Minerals due diligence. The provision requires that the supplier complete and submit a CFSI Template for review by Verizon. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The contractual provisions described above are detailed and collaborative, requiring periodic meetings and resource dedication to assure that due diligence
+proceeds throughout each reporting period. The collaborative nature of the provisions is designed to strengthen engagement with our suppliers in accordance with the OECD Framework. The contractual provisions are separate and in addition to the
+Conflict Minerals-related obligations contained within our Supplier Code of Conduct and our Conflict Minerals policy. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>&#149; Provided a Company-level
+Grievance Mechanism. &#151;</I> In accordance with our public Supplier Code of Conduct, issues with respect to Conflict Minerals can be reported at any time to our Office of Ethics and Business Conduct through the VZ Compliance Guideline at
+844-VZGUIDE (844.894.8433)&nbsp;(within the U.S.), (+)800.0.624.0007 (outside the U.S.), or online at www.verizonguideline.com. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">STEP 2: IDENTIFYING AND
+ASSESSING RISKS </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We use the CSFI Template for data collection. The contractual provisions referred to in Step 1 provide a schedule for delivery of the CFSI
+Template by suppliers first in draft and then final form, allowing additional time to address any &#145;red flags&#146; as required by the Conflict Minerals Rule. Typically, the CFSI Template reflects the list of smelters or refiners known by the
+supplier, or reported to our direct supplier by its own sub-tier suppliers, that contribute 3TG contained in the product to which the CFSI Template relates. We then compare this list with CFSI&#146;s smelter/refiner information. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">STEP 3: RESPONDING TO IDENTIFIED RISKS </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We conducted our first
+round of Conflict Minerals sourcing data collection in the third quarter of 2014. Upon receipt of CFSI Templates from our supplier, we analyzed the responses and where smelters/refiners were not listed as compliant with the CFSI audit protocols or
+were not listed as &#147;active&#148; (that is, having committed to undergo a CFSI facility audit) within CFSI&#146;s audit program, we engaged our supplier for further information and a strategy to manage and mitigate identified risks. In response,
+we received a limited number of certifications with respect to several of those smelters not indicated to be compliant. We reported to management on the findings derived from the measures taken under Step 2 above. We also took or will take the
+additional steps described in the section below titled &#147;Steps Taken Or To Be Taken in 2015 To Mitigate Risk And Improve Due Diligence.&#148; Due to our downstream position in the supply chain, we believe that seeking information about 3TG
+smelters/refiners in our supply chain and otherwise participating in the CFSI program as described represents a reasonable effort to determine the mines or locations of origin of 3TG in our supply chain. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I></I>STEP 4: AUDITING SUPPLY CHAIN DUE DILIGENCE<I>. </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Because we do not have a direct relationship with any smelter or refiner for minerals contained in our products, we are unable to conduct audits of these
+entities. Instead, as recommended by the OECD Framework, we participate in industry initiatives for the development and implementation of a smelter/refiner audit program through our membership in the CFSI, which administers the Conflict Free Smelter
+audit program. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I></I>STEP 5: PUBLICALLY REPORTING ON SUPPLY CHAIN DUE DILIGENCE<I>. </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our Form SD and CMR for 2014 are publicly available on Verizon&#146;s website at http://www.verizon.com/about/financial-reporting-summary. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Results of Due Diligence</I></B>. As a result of the due diligence described above, we identified, based on data we received from our supplier, 162
+unique smelters or refiners contributing 3TG contained in our Covered Products for 2014. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on data we received from our supplier, we believe that the
+smelters/refiners listed (with their geographic location) on Annex I may have contributed 3TG to our Covered Products. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Of the 162 smelters or refiners
+identified, 82 were included on the CFSI list of certified Conflict Free Smelters as of February 2015. Based on data we have access to as members of the CFSI regarding compliant smelters/refiners, we believe that the 3TG used in our Covered Products
+from those smelters or refiners may have come from the countries listed on Annex II, or from recycled or scrap materials. Certain of the CFSI-compliant smelters/refiners have not disclosed their sourcing locations to CFSI, so additional countries
+may have contributed 3TG to those smelters/refiners. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Of the remaining 80 smelters or refiners, an additional 18 facilities were reflected as
+&#147;active&#148; within the CFSI audit program as of February 2015. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Consistent with our Conflict Minerals Policy, which encourages the responsible
+sourcing of minerals from within the DRC Region, five CFSI-compliant smelters or refiners sourced from within the DRC Region, and an additional four CFSI-compliant smelters or refiners sourced from the Democratic Republic of Congo itself. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We do not have additional information regarding the smelters/refiners not identified as compliant by the CFSI. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Steps Taken Or To Be Taken In 2015 To Mitigate Risk And Improve Due Diligence: </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">During the first quarter of 2015, members of Verizon&#146;s Internal Audit team travelled to certain of our supplier&#146;s locations in Taiwan and China and
+performed a review of certain aspects of our supplier&#146;s Conflict Minerals practices as described in their CFSI Template submission to us. We obtained copies of our supplier&#146;s Conflict Minerals policy and found that our supplier requires
+its second-tier suppliers to avoid the use of 3TG that may finance armed groups in the DRC Region, and to disclose the country of origin for all Conflict Minerals used, and further requires its second tier suppliers to provide their upstream
+suppliers with a copy of supplier&#146;s Conflict Minerals policy. Additionally, as part of this review, our team also selected a sample of seven second-tier component </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">suppliers to confirm that each of those seven provided a CFSI Template to our direct supplier, and that all smelters reported by such second tier suppliers (a
+total of 16) within their CFSI Template submissions were also present on our direct supplier&#146;s CFSI Template. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We will continue to mitigate risk and improve our due diligence process including, but not limited to, taking the
+following steps: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2015, we will continue to engage with suppliers to gain better visibility into our 3TG supply chains, and encourage the further
+adoption of the CFSI Template. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2015, we will continue to be an active member of the CFSI. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2015, we will continue to work with direct suppliers and engage with our supply chain to increase the quality of the data provided to us. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As smelter/refiner auditing regimes mature, we will refine and improve contractual provisions that direct suppliers to prefer sources from smelters/refiners
+that are listed as certified by the CFSI. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We will send letters to smelters/refiners identified in our supply chains that are not yet compliant with the
+CFSI program, and for which we are able to verify contact information, expressing Verizon&#146;s concerns in regards to Conflict Minerals and encouraging those smelters/refiners to participate in the CFSI program. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>PRODUCT DESCRIPTION AND DETERMINATION </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The due diligence measures set forth above, including the RCOI, were undertaken with respect to suppliers of products that Verizon contracts to manufacture
+listed below. The products described below are complex devices with many subcomponents contributed by sub-suppliers at multiple tiers within the supply chain. As a result of such measures, the below products are &#147;DRC Conflict
+Undeterminable&#148; as defined in the Conflict Minerals Rule: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">FiOS Quantum Gateway Router </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">FiOS uIPC (This equipment will be used to provide a consumer Verizon service not yet deployed in 2014 that is to be returned to Verizon by the customer once the service terminates) </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Annex I </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="67%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>3TG</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:25.05pt; font-size:10pt; font-family:Times New Roman"><B>Metal</B></P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><B>Smelter Name</B></P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1.00pt solid #000000"><B>Smelter&nbsp;Country</B></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Heraeus Ltd. Hong Kong</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hong Kong</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mitsui Mining and Smelting Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mitsubishi Materials Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Sumitomo Metal Mining Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kojima Chemicals Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Heraeus Precious Metals GmbH &amp; Co. KG</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Germany</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Asahi Pretec Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Eco-System Recycling Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ishifuku Metal Industry Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiangxi Copper Company Limited</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JX Nippon Mining &amp; Metals Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Matsuda Sangyo Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Nihon Material Co. LTD</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Solar Applied Materials Technology Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Taiwan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tanaka Kikinzoku Kogyo K.K.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tokuriki Honten Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Johnson Matthey Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan Mint</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">The Refinery of Shandong Gold Mining Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zhongyuan Gold Smelter of Zhongjin Gold Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China National Gold Group Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Guangdong Jinding Gold Limited</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Shandong Zhaojin Gold &amp; Silver Refinery Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Metalor Technologies SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Switzerland</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Heimerle + Meule GmbH</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Germany</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Navoi Mining and Metallurgical Combinat</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Uzbekistan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Western Australian Mint trading as The Perth Mint</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Australia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">LS-NIKKO Copper Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea,&nbsp;Republic&nbsp;of</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Argor-Heraeus SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Switzerland</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Dowa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Metalor USA Refining Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Royal Canadian Mint</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Canada</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CCR Refinery &#150; Glencore Canada Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Canada</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Inner Mongolia Qiankun Gold and Silver Refinery Share Company Limited</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Umicore SA Business Unit Precious Metals Refining</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Belgium</TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="67%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United Precious Metal Refining, Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Allgemeine Gold-und Silberscheideanstalt A.G.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Germany</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Materion</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Chugai Mining</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Johnson Matthey Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Canada</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Valcambi SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Switzerland</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Caridad</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mexico</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Metalor Technologies (Hong Kong) Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hong Kong</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Aida Chemical Industries Co. Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Yokohama Metal Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Sabin Metal Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Rand Refinery (Pty) Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">South Africa</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ohio Precious Metals, LLC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">So Accurate Group, Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Chimet S.p.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Italy</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Asaka Riken Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Torecom</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea,&nbsp;Republic&nbsp;of</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hwasung CJ Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea, Republic of</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">AngloGold Ashanti C&oacute;rrego do S&iacute;tio Miner&ccedil;&atilde;o</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Brazil</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PAMP SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Switzerland</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">SEMPSA Joyer&iacute;a Plater&iacute;a SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Spain</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Daejin Indus Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea, Republic of</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Do Sung Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea, Republic of</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea Metal Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea, Republic of</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">SAMWON METALS Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea, Republic of</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Almalyk&nbsp;Mining&nbsp;and&nbsp;Metallurgical&nbsp;Complex&nbsp;(AMMC)</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Uzbekistan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Aurubis AG</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Germany</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kazzinc Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kazakhstan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">FSE Novosibirsk Refinery</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Russian&nbsp;Federation</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">DaeryongENC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Korea, Republic of</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kennecott Utah Copper LLC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Umicore Brasil Ltda</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Brazil</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Cendres &amp; M&eacute;taux SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Switzerland</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">The Great Wall Gold and Silver Refinery of China</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zijin Mining Group Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Aneka Tambang (Persero) Tbk</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Prioksky Plant of Non-Ferrous Metals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Russian&nbsp;Federation</TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="68%"></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">L&#146; azurde Company For Jewelry</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Saudi Arabia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Atasay Kuyumculuk Sanayi Ve Ticaret A.S.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Turkey</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">YAMAMOTO PRECIOUS METAL CO., LTD.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Daye Non-Ferrous Metals Mining Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Luoyang Zijin Yinhui Metal Smelt Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Yunnan Copper Industry Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Bukit Timah</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Thaisarco</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Thailand</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Malaysia Smelting Corporation (MSC)</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Malaysia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Timah (Persero), Tbk</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mitsubishi Materials Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Yunnan Tin Company, Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">EM Vinto</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Bolivia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Minsur</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Peru</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">OMSA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Bolivia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China Tin Group Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Yunnan Chengfeng Non-ferrous Metals Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gejiu Zi-Li</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Huichang Jinshunda Tin Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Bangka Putra Karya</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Stanindo Inti Perkasa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Metallo Chimique</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Belgium</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Tambang Timah</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Belitung Industri Sejahtera</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Minera&ccedil;&atilde;o Taboca S.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Brazil</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CV United Smelting</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gejiu Non-Ferrous Metal Processing Co. Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT REFINED BANGKA TIN</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Fenix Metals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Poland</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Artha Cipta Langgeng</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Babel Inti Perkasa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Alpha</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United&nbsp;States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CV Serumpun Sebalai</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Mitra Stania Prima</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Tinindo Inter Nusa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiangxi Nanshan</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kai Unita Trade Limited Liability Company</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Eunindo Usaha Mandiri</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="67%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Sariwiguna Binasentosa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT DS Jaya Abadi</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Novosibirsk Integrated Tin Works</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Russian&nbsp;Federation</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Linwu Xianggui Smelter Co.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Bangka Tin Industry</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CNMC (Guangxi) PGMA Co. Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Minmetals Ganzhou Tin Co. Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Cooper Santa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Brazil</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Prima Timah Utama</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Soft Metais, Ltda.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Brazil</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Rui Da Hung</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Taiwan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Estanho de Rond&ocirc;nia S.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Brazil</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck Group</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Germany</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Global Advanced Metals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ulba</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kazakhstan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Exotech Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ningxia Orient Tantalum Industry Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zhuzhou Cement Carbide</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">F&amp;X Electro-Materials Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Duoluoshan</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Plansee</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Austria</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mitsui Mining &amp; Smelting</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hi-Temp</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Conghua Tantalum and Niobium Smeltry</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JiuJiang JinXin Nonferrous Metals Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Solikamsk Metal Works</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Russian&nbsp;Federation</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kemet Blue Powder</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Telex</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalite Resources</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">South Africa</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">LSM Brasil S.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Brazil</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Taki Chemicals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zhuzhou Cemented Carbide Group Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Global Tungsten &amp; Powders Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ganzhou Huaxing Tungsten Products Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Xiamen Tungsten (H.C.) Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Wolfram Company CJSC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Russian&nbsp;Federation</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Guangdong Xianglu Tungsten Industry Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Chongyi Zhangyuan Tungsten Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hunan Chun-Chang Nonferrous Smelting &amp; Concentrating Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">HC Starck GmbH</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Germany</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Wolfram Bergbau und H&uuml;tten AG</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Austria</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ganzhou Non-ferrous Metals Smelting Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Fujian Jinxin Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kennametal Huntsville</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hunan Chenzhou Mining Group Co.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan New Metals Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tejing (Vietnam) Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Vietnam</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">A.L.M.T. Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Dayu Weiliang Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kennametal Fallon</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United States</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Xiamen Tungsten Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ganzhou Seadragon W &amp; Mo Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Annex II </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Argentina </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Australia </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Austria </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Belgium </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Bolivia </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Brazil </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Burma </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Canada </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Chile </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">China </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Colombia </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Czech Republic </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Djibouti </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Egypt </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Estonia </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ethiopia </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">France </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Germany </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Guyana </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hungary </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">India </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indonesia </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ireland </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Israel </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ivory Coast </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Japan </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Kazakhstan </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Laos </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Luxembourg </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Madagascar </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Malaysia </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mongolia </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Burma </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Netherlands </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Nigeria </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Peru </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Portugal </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Russia </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sierra Leone </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Singapore </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Slovakia </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">South Korea </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Spain </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Suriname </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Switzerland </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Taiwan </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thailand </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">United Kingdom </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Kenya </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mozambique </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">South Africa </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Angola </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Burundi </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Central African Republic </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Republic of Congo </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rwanda </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">South Sudan </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Tanzania </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Uganda </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Zambia </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Democratic Republic of Congo </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

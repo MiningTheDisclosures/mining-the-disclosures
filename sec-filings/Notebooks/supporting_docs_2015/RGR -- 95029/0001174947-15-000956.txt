@@ -1,0 +1,465 @@
+<SEC-DOCUMENT>0001174947-15-000956.txt : 20150529
+<SEC-HEADER>0001174947-15-000956.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529170142
+ACCESSION NUMBER:		0001174947-15-000956
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STURM RUGER & CO INC
+		CENTRAL INDEX KEY:			0000095029
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORDNANCE & ACCESSORIES, (NO VEHICLES/GUIDED MISSILES) [3480]
+		IRS NUMBER:				060633559
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10435
+		FILM NUMBER:		15900337
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 LACEY PLACE
+		CITY:			SOUTHPORT
+		STATE:			CT
+		ZIP:			06490
+		BUSINESS PHONE:		2032597843
+
+	MAIL ADDRESS:	
+		STREET 2:		1 LACEY PLACE
+		CITY:			SOUTHPORT
+		STATE:			CT
+		ZIP:			06490
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>sd-14125_rgr.htm
+<DESCRIPTION>SD
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">UNITED STATES</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">SECURITIES AND EXCHANGE COMMISSION</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>FORM SD</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Specialized Disclosure Report</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>STURM, RUGER &amp; COMPANY, INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Exact Name of Registrant as Specified in its
+Charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 35%; padding-right: 4pt; padding-left: 4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>DELAWARE</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(State or Other Jurisdiction of Incorporation)</P></TD>
+    <TD STYLE="width: 33%; padding-right: 4pt; padding-left: 4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>001-10435</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Commission File Number)</P></TD>
+    <TD STYLE="width: 32%; padding-right: 4pt; padding-left: 4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>06-0633559</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(IRS Employer Identification Number)</P></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 63%; padding-right: 5.4pt; padding-left: 5.4pt; font-weight: normal; font-size: 10pt; text-align: center"><B>ONE LACEY PLACE, SOUTHPORT, CONNECTICUT</B></TD>
+    <TD STYLE="width: 37%; padding-right: 5.4pt; padding-left: 5.4pt; font-weight: normal; font-size: 10pt; text-align: center"><B>06890</B></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-size: 10pt; text-align: center">(Address of Principal Executive Offices)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-size: 10pt; text-align: center">(Zip Code)</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-size: 10pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-size: 10pt; text-align: center">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-size: 10pt; text-align: center"><B>Kevin B. Reid, Sr.</B></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-size: 10pt; text-align: center"><B>(203) 259-7843</B></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-size: 10pt; text-align: center">(Name and telephone number, including area code, of the person to contact in connection with this report)</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt">Check the appropriate box to indicate the rule pursuant to
+which this form is being filed, and provide the period to which the information in this form applies:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 12pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.25in">[x]</TD><TD>Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014.</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --> of 6</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-indent: -1in"><B>Section 1 &ndash; Conflict Minerals
+Disclosure</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-indent: -1in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 1in; text-indent: -1in"><B>Item 1.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conflict Minerals Disclosure
+and Report</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 6pt">A copy of Sturm, Ruger &amp; Company, Inc.&rsquo;s Conflict
+Minerals Report is filed as Exhibit 1.01 hereto and is publicly available at www.ruger.com/corporate.</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0">Item 1.02 Exhibits</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Section 2 &ndash; Exhibits</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Item 2.01 Exhibits</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The following exhibit is filed as part of this report:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 1.01 &ndash; Conflict Minerals Report as required by Items
+1.01 and 1.02 on this Form.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">SIGNATURES</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">STURM, RUGER &amp; COMPANY, INC.</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="width: 0.25in">&nbsp;</TD>
+    <TD STYLE="width: 0.5in">&nbsp;</TD>
+    <TD STYLE="width: 3in">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>By:</TD>
+    <TD COLSPAN="2" STYLE="text-decoration: underline"><U>/S/ THOMAS A. DINEEN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>Name:</TD>
+    <TD>Thomas A. Dineen</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Title:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Principal Financial Officer,</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Principal Accounting Officer,</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Vice President, Treasurer and</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif">Chief Financial Officer</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Dated: May 29, 2015</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></TD></TR></TABLE></DIV>
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>ex1-01.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 4.65pt 0 0; text-align: right; text-indent: 0.5in">Exhibit 1.01</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 41.9pt 0 0; text-align: center"><B>Conflict Minerals Report of Sturm,
+Ruger &amp; Company, Inc.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">This is the Conflict Minerals Report of Sturm, Ruger &amp;
+Company, Inc. (&ldquo;Ruger&rdquo;) for calendar year 2014 (&ldquo;Reporting Period&rdquo;) in accordance with Rule 13p-1 (&ldquo;Rule
+13p-1&rdquo;) under the Securities Exchange Act of 1934. Rule 13p-1 and Form SD require the disclosure of certain information if
+a company manufactures or contracts to manufacture products for which certain &ldquo;Conflict Minerals&rdquo; (as defined below)
+are present in the products and necessary to the functionality of such products. &ldquo;Conflict Minerals&rdquo; are defined as
+cassiterite, wolframite, columbite-tantalite, gold and their derivatives, which are tin, tungsten and tantalum (&ldquo;3TG&rdquo;)
+mined in the Democratic Republic of the Congo and in the adjoining countries (&ldquo;Covered Countries&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">This report has been prepared by management of Ruger. The
+information includes the activities of all divisions, which we are required to consolidate. Ruger is one of the nation&rsquo;s
+leading manufacturers of rugged, reliable firearms for the commercial sporting market. The only full-line manufacturer of American-made
+firearms, Ruger offers consumers over 400 variations of more than 30 product lines. For more than 60 years, Ruger has been a model
+of corporate and community responsibility. Our motto, &ldquo;Arms Makers for Responsible Citizens,&rdquo; echoes the importance
+of these principles as we work hard to deliver quality and innovative firearms. Ruger has been in business since 1949 and was incorporated
+in its present form under the laws of the State of Delaware in 1969. Ruger&rsquo;s principal executive office is located in Southport,
+CT, and its manufacturing facilities are located in Mayodan, NC, Newport, NH, and Prescott, AZ.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">In accordance with Rule 13p-1, Ruger conducted a Reasonable
+Country of Origin Inquiry (&ldquo;RCOI&rdquo;) for 3TG contained within its products, and conducted due diligence to determine
+the Conflict Minerals status of the necessary parts and raw materials used in its firearms manufacturing business. Ruger&rsquo;s
+RCOI and due diligence processes and efforts were developed in accordance with the 2nd edition of The Organization for Economic
+Cooperation and Development (&ldquo;OECD&rdquo;) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected
+and High-Risk Areas (&ldquo;OECD Guidance&rdquo;), an internationally recognized due diligence framework. Ruger designed its due
+diligence process to conform in all material respects with the OECD Guidance framework.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0"><B>RCOI/Due Diligence Process</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">Ruger conducted a good faith RCOI relating to 3TG contained
+within its products. This good faith RCOI was designed to determine whether any 3TG used in Ruger products originate in the Covered
+Countries and/or whether any 3TG contained within Ruger products comes from recycled or scrap sources.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1; Value: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">As a company in the firearms manufacturing business, Ruger
+is several levels removed from the actual mining of 3TG. As a result, Ruger relies upon its direct suppliers and publicly available
+data about them to obtain information regarding the origin of any 3TG that is contained within Ruger&rsquo;s products, including
+where possible, the smelters of the 3TG. Similarly, many of Ruger&rsquo;s suppliers depend on their suppliers for this information.
+Ruger&rsquo;s response is limited by its ability to obtain accurate information regarding the source of 3TG from its suppliers.
+Ruger does not purchase raw ore or unrefined 3TG and makes no purchases in the Covered Countries.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">As the first step in the good faith RCOI, Ruger worked
+to identify suppliers which were potentially providing materials and components that contain 3TG. This list was refined during
+2014, and Ruger sent letters to each identified supplier that: (i) described the reporting obligations imposed by Section 1502
+of the Dodd-Frank Wall Street Reform and Consumer Protection Act; and (ii) requested information regarding the presence and sourcing
+of 3TG used in the materials and components supplied to the Company during the Reporting Period. Suppliers were asked to provide
+this information through the use of the most recent EICC/GeSI Conflict Minerals Reporting Template.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">Ruger developed an escalation process for suppliers who
+were non-responsive to the initial request, or who provided responses which were unclear. Ruger engaged further with certain suppliers
+relating to their responses to ensure that the request was understood and complied with. Ruger then compared the smelters and refiners
+identified in the supply-chain survey against the list of smelter facilities which have been identified as Conflict Free by programs
+such as the EICC/GeSI Conflict Free Smelter program for 3TG.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0"><B>Conflict Minerals Disclosure</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">In order to manage the scope of the task, Ruger relies
+upon its suppliers to provide information on the origin of any 3TG contained in the parts or raw materials supplied to the Company.
+Based upon these responses, Ruger has determined that 69.0% of its suppliers are DRC Conflict Free, and 21.1% are DRC conflict
+undeterminable (because the suppliers were unable to confirm to Ruger the ultimate source of the 3TG). 9.9% of Ruger&rsquo;s suppliers
+did not respond to Ruger&rsquo;s request. No supplier identified parts or raw materials supplied to Ruger as originating in the
+Covered Counties. Therefore, Ruger has determined in good faith that for calendar year 2014, the substantial majority of its 3TG
+used in its product is &ldquo;DRC Conflict Free,&rdquo; and a relatively small portion remains &ldquo;DRC conflict undeterminable.&rdquo;
+The DRC conflict undeterminable 3TG is located in the metal components of Ruger&rsquo;s firearm products, which are manufactured
+in its three manufacturing facilities. Ruger makes this determination due to a lack of information from some of its suppliers for
+certain parts and raw materials used in the production of </P>
+
+<!-- Field: Page; Sequence: 2; Value: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">firearms to conclude whether the parts and raw materials contain 3TG,
+or whether the necessary Conflict Minerals originated in the Covered Countries.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">This Report has not been subject to an independent private
+sector audit as allowed under Rule 13p-1, which provides a temporary accommodation for the first two years following November 13,
+2012.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 10pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 3.2pt 0 0">Ruger does not have a direct relationship with 3TG smelters
+and refiners, nor do we perform direct audits of entities that provide our supply chain with 3TG. For the purposes of the reasonable
+country of origin inquiry, Ruger continued to receive supply chain responses through May 20, 2015. In the next compliance period,
+Ruger intends to obtain full reporting compliance from its suppliers and implement steps to gather additional information during
+its due diligence to identify parts and raw materials that contain any Conflict Minerals.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 3.2pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 3.2pt 0 0"><I>The Company may, from time to time, make forward-looking
+statements and projections concerning future expectations. Such statements are based on current expectations and are subject to
+certain qualifying risks and uncertainties. Readers are cautioned not to place undue reliance on these forward-looking statements,
+which speak only as of the date made. The Company undertakes no obligation to publish revised forward-looking statements to reflect
+events or circumstances after the date such forward-looking statements are made or to reflect the occurrence of subsequent unanticipated
+events.</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 6pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Value: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></TD></TR></TABLE></DIV>
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 12pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

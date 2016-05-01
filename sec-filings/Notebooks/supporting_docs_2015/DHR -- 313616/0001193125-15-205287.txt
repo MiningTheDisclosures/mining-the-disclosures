@@ -1,0 +1,379 @@
+<SEC-DOCUMENT>0001193125-15-205287.txt : 20150529
+<SEC-HEADER>0001193125-15-205287.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529074758
+ACCESSION NUMBER:		0001193125-15-205287
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DANAHER CORP /DE/
+		CENTRAL INDEX KEY:			0000313616
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				591995548
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08089
+		FILM NUMBER:		15897169
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVE. N.W.
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037-1701
+		BUSINESS PHONE:		2028280850
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 PENNSYLVANIA AVE. N.W.
+		STREET 2:		SUITE 800W
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20037-1701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DMG INC
+		DATE OF NAME CHANGE:	19850221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d933005dsd.htm
+<DESCRIPTION>SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Specialized Disclosure Report </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Danaher
+Corporation </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact Name of Registrant as Specified in Charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-8089</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>59-1995548</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or Other Jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File No.)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification Number)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>2200 Pennsylvania Ave. N.W., Suite 800W</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Washington, D.C.</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>20037-1701</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of Principal Executive Offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>James F. O&#146;Reilly </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>202-828-0850 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and
+telephone number, including area code, of the </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>person to contact in connection with this report) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form
+applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 &#151; Conflict Minerals Disclosure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.01 Conflict Minerals Disclosure and Report </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Conflict Minerals Disclosure </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Form SD of Danaher
+Corporation (the &#147;Company&#148;) is filed pursuant to Rule 13p-1 promulgated under the Securities Exchange Act of 1934, as amended, for the reporting period January&nbsp;1, 2014 to December&nbsp;31, 2014. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A copy of the Company&#146;s Conflict Minerals Report is provided as Exhibit 1.01 to this Form SD, and is publicly available at <U>www.danaher.com</U> under
+the heading &#147;Investors &#150; Corporate Governance.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rule 13p-1 (the &#147;Rule&#148;) requires disclosure of certain information when a
+company manufactures or contracts to manufacture products for which the minerals specified in the Rule are necessary to the functionality or production of those products. The specified minerals are gold, columbite-tantalite (coltan), cassiterite and
+wolframite, including their derivatives, which are limited to tantalum, tin and tungsten (the &#147;Conflict Minerals&#148;). The &#147;Covered Countries&#148; for the purposes of the Rule are the Democratic Republic of the Congo, the Republic of
+the Congo, the Central African Republic, South Sudan, Uganda, Rwanda, Burundi, Tanzania, Zambia and Angola. Certain of the Company&#146;s operations manufacture, or contract to manufacture, products for which the Conflict Minerals are necessary to
+the functionality or production of those products. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company has conducted a reasonable country of origin inquiry regarding the Conflict Minerals. This
+inquiry was reasonably designed to determine whether any of the Conflict Minerals originated in the Covered Countries and whether any of the Conflict Minerals may be from recycled or scrap sources. The Company&#146;s reasonable country of origin
+inquiry was part of its due diligence on the source and chain of custody of the Conflict Minerals. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on this reasonable country of origin inquiry,
+the Company has reason to believe that certain of its necessary Conflict Minerals may have originated in the Covered Countries and are not from recycled or scrap sources. The Company&#146;s due diligence on the source and chain of custody of the
+Conflict Minerals, including its efforts to determine the countries of origin of the Conflict Minerals, are described in the Company&#146;s Conflict Minerals Report. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.02 Exhibit </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As specified in Section&nbsp;2,
+Item&nbsp;2.01 of this Form SD, the Company is hereby filing its Conflict Minerals Report as Exhibit 1.01 to this report. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 &#151;
+Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2.01 Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The following
+exhibit is filed as part of this report. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1.01</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Conflict Minerals Report of Danaher Corporation.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly
+authorized undersigned. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">DANAHER CORPORATION</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Daniel L. Comas</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">May&nbsp;29, 2015</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:10pt">Daniel L. Comas</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:10pt">Executive Vice President &#150; Chief Financial Officer</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD WIDTH="89%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:39.10pt; font-size:8pt; font-family:Times New Roman"><B>Exhibit No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">1.01</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Conflict Minerals Report of Danaher Corporation.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d933005dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Danaher Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Conflict Minerals Report </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the reporting period from January&nbsp;1, 2014 to December&nbsp;31, 2014 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Conflict Minerals Report (the &#147;Report&#148;) of Danaher Corporation (the &#147;Company&#148;) has been prepared pursuant to Rule 13p-1 and Form SD
+(the &#147;Rule&#148;) promulgated under the Securities Exchange Act of 1934, as amended, for the reporting period January&nbsp;1, 2014 to December&nbsp;31, 2014. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Rule requires disclosure of certain information when a company manufactures or contracts to manufacture products and the minerals specified in the Rule
+are necessary to the functionality or production of those products. The specified minerals, which we collectively refer to in this Report as the &#147;Conflict Minerals,&#148; are gold, columbite-tantalite (coltan), cassiterite and wolframite,
+including their derivatives, which are limited to tantalum, tin and tungsten. The &#147;Covered Countries&#148; for the purposes of the Rule and this Report are the Democratic Republic of the Congo, the Republic of the Congo, the Central African
+Republic, South Sudan, Uganda, Rwanda, Burundi, Tanzania, Zambia and Angola. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Description of the Company&#146;s Products Covered by this Report
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Report relates to products: (i)&nbsp;for which Conflict Minerals are necessary to the functionality or production of that product; (ii)&nbsp;that
+were manufactured, or contracted to be manufactured, by the Company; and (iii)&nbsp;for which the manufacture was completed during calendar year 2014. These products, which are referred to in this Report collectively as the &#147;Covered
+Products,&#148; consist of professional, medical, industrial and commercial products serving the test&nbsp;&amp; measurement, environmental, life sciences&nbsp;and diagnostics, dental and industrial technologies business segments. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The Company&#146;s Reasonable Country of Origin Inquiry and Due Diligence Process </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Overview </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company has conducted a reasonable country
+of origin inquiry regarding the Conflict Minerals. This inquiry was reasonably designed to determine whether any of the Conflict Minerals originated in the Covered Countries and whether any of the Conflict Minerals may be from recycled or scrap
+sources. The Company&#146;s reasonable country of origin inquiry was part of its due diligence on the source and chain of custody of the Conflict Minerals. Based on this reasonable country of origin inquiry, the Company has reason to believe that
+certain of its necessary Conflict Minerals may have originated in the Covered Countries and are not from recycled or scrap sources. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Design of Due
+Diligence Process </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company&#146;s due diligence on the source and chain of custody of the Conflict Minerals, including its efforts to determine the
+countries of origin of the Conflict Minerals, was designed to conform to the framework in the <I>Organisation for Economic Co-operation and Development Due Diligence Guidance for Responsible Supply Chain of Minerals from Conflict-Affected and High
+Risk Areas: Second Edition</I>, including the related supplements on gold, tin, tantalum and tungsten (the &#147;OECD Guidance&#148;), and is described below. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Policy </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company adopted a policy related to the
+Conflict Minerals (the &#147;Company Policy&#148;), incorporating the standards set forth in the OECD Guidance. The policy states the Company&#146;s commitment to sourcing components and materials from companies that share its values regarding
+respect for human rights, integrity and environmental responsibility and complying with the OECD Guidance and Section&nbsp;1502 of the Dodd-Frank Act, and requires the Company&#146;s suppliers to be or become &#147;conflict-free&#148; and source
+only from conflict-free smelters. Under the policy, each Company supplier is </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+required to provide completed Conflict-Free Sourcing Initiative (&#147;CFSI&#148;) Conflict Minerals Reporting Template (the &#147;Template&#148;) declarations evidencing such supplier&#146;s
+commitment to becoming conflict-free and documenting countries of origin for the Conflict Minerals that it purchases. This policy is available at <U>www.danaher.com</U> under the heading &#147;Investors&#148; and &#147;Corporate Governance.&#148;
+</P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Internal Management Structure </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company has
+implemented an internal management structure to execute the reasonable country of origin inquiry and due diligence process. The structure consists of a member of Company senior management with overall responsibility for the reasonable country of
+origin inquiry and the due diligence process; a member of the Company&#146;s corporate procurement department with dedicated responsibility for the design and execution of the reasonable country of origin inquiry and due diligence process; and an
+appointed employee at each of the Company&#146;s operating companies with responsibility for discharging the operating company&#146;s responsibilities in connection with the reasonable country of origin inquiry and due diligence process. The Company
+has also implemented a Company-level grievance mechanism (described in the Company Policy) to allow interested parties to voice concerns or reports of possible violations of the Company Policy </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Due Diligence Process </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company&#146;s supply chain
+with respect to the Covered Products is complex, and there are many third parties in the supply chain between the ultimate manufacturer of the Covered Products and the original sources of Conflict Minerals. In this regard, the Company does not
+purchase Conflict Minerals directly from mines, smelters or refiners. The Company must therefore rely on its suppliers to provide information regarding the origin of Conflict Minerals that are included in the Covered Products. Moreover, the Company
+believes that the smelters and other refiners (&#147;smelters&#148;) of the Conflict Minerals are best situated to identify the sources of Conflict Minerals, and therefore has structured its due diligence process to ultimately identify the
+applicable smelters of Conflict Minerals in the Company&#146;s supply chain. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company designed its due diligence process to encompass the suppliers
+(&#147;suppliers&#148;) that provided to the Company components and materials that may contain Conflict Minerals necessary to the functionality or production of products that the Company manufactured or contracted to manufacture and for which the
+manufacture was completed during calendar year 2014. The Company determined the suppliers in scope by obtaining from each of its operating companies a list of the operating company&#146;s suppliers, classified into three groups based on the nature
+of the components and materials supplied: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">suppliers considered unlikely to be supplying components or materials containing Conflict Minerals (&#147;unlikely Conflict Minerals suppliers&#148;); </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">suppliers considered likely to be supplying components or materials containing Conflict Minerals (&#147;likely Conflict Minerals suppliers&#148;); and </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">suppliers as to which it is uncertain whether the supplier is supplying components or materials containing Conflict Minerals (&#147;uncertain suppliers&#148;). </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company included in the scope of its process (i)&nbsp;all likely Conflict Minerals suppliers, and (ii)&nbsp;each uncertain supplier with whom the
+Company&#146;s annual spend exceeded a de minimis threshold. The number of suppliers included in the scope of the inquiry exceeded 10,000. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company
+contacted each supplier in scope and requested the name and contact details for the person responsible for the supplier&#146;s Conflict Minerals compliance. The Company then emailed to each such supplier contact a copy of the Company Policy and a
+link to the Template and requested that such supplier return to the Company a completed Template with respect to all components and materials that such supplier provides to the Company. The Company followed up with the suppliers that did not respond
+to the Company&#146;s initial outreach, and also followed up with suppliers who submitted data that appeared to be incomplete or incorrect. As necessary, the Company also educated suppliers regarding the reasons for requesting the Conflict Minerals
+data and answered supplier questions relating thereto. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Results of Due Diligence Process </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In many cases, suppliers were unable to identify the smelters or countries of origin in their supply chain, while other suppliers responded by providing
+information related to all of the items the supplier produces without identifying smelters specific to the items purchased by the Company. While the Company compiled a list of the smelters that were identified in the responses provided by the
+suppliers, and reviewed publicly available information (including the CFSI website) for information regarding the Conflict Minerals sourcing practices of the identified smelters, based on the information received from the Company&#146;s suppliers
+the Company is unable to connect specific smelters to its product categories for 2014. Therefore, the Company is unable to disclose the facilities that processed the Conflict Minerals or identify the countries of origin or mines or location of
+origin of the Conflict Minerals contained in specific products. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Risk Mitigation and Due Diligence Improvement </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company expects to take the following steps, among others, to improve its due diligence measures and to further mitigate the risk that the necessary
+Conflict Minerals contained in the Company&#146;s products finance or benefit armed groups in the Covered Countries: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">continuing to seek to include in new supplier contracts a commitment by the supplier to (a)&nbsp;take steps necessary to enable the Company to comply with the Rule, and (b)&nbsp;be or become &#147;conflict-free&#148;
+and source only from conflict-free smelters; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">continuing to engage with suppliers to improve the accuracy and completeness of the information provided to the Company about the Company&#146;s supply chain; and </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">encouraging suppliers to encourage their smelters to obtain a &#147;conflict-free&#148; designation from an independent, third-party auditor. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

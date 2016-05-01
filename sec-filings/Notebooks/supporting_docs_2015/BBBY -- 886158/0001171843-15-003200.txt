@@ -1,0 +1,2081 @@
+<SEC-DOCUMENT>0001171843-15-003200.txt : 20150529
+<SEC-HEADER>0001171843-15-003200.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529160041
+ACCESSION NUMBER:		0001171843-15-003200
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BED BATH & BEYOND INC
+		CENTRAL INDEX KEY:			0000886158
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-HOME FURNITURE, FURNISHINGS & EQUIPMENT STORES [5700]
+		IRS NUMBER:				112250488
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0227
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20214
+		FILM NUMBER:		15899427
+
+	BUSINESS ADDRESS:	
+		STREET 1:		650 LIBERTY AVENUE
+		CITY:			UNION
+		STATE:			NJ
+		ZIP:			07083
+		BUSINESS PHONE:		2013791520
+
+	MAIL ADDRESS:	
+		STREET 1:		715 MORRIS AVENUE
+		CITY:			SPRINGFIELD
+		STATE:			NJ
+		ZIP:			07081
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>gffsd_052915.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Nasdaqomx-->
+    <!--Document Created using EDGARizerAgent 5.4.6.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">United States</font></div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Securities and Exchange Commission</font></div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Washington, D.C. 20549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">FORM SD</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SPECIALIZED DISCLOSURE REPORT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Bed Bath &amp; Beyond Inc.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Exact name of registrant as specified in its charter)</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font size="2">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+</div>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="33%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">New York</font></div>
+</td>
+<td valign="top" width="34%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">0-20214</font></div>
+</td>
+<td valign="top" width="33%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">11-2250488</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="33%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(State or other jurisdiction of </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">incorporation or organization)</font></div>
+</td>
+<td valign="top" width="34%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Commission</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">File Number)</font></div>
+</td>
+<td valign="top" width="33%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(IRS Employer </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Identification No.)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div align="left">&#160;</div>
+
+<div align="left">&#160;</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="50%" style="TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">650 Liberty Avenue</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Union, New Jersey</font></div>
+</td>
+<td valign="top" width="50%" style="TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">07083</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="50%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Address of principal executive offices)</font></div>
+</td>
+<td valign="top" width="50%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Zip Code)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Michael J. Callahan</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(908) 688-0888 </font></font>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Name and telephone number, including area code, of the</font></font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">person to contact in connection with this report.)</font></font></font></div>
+</div>
+
+<br>
+</div>
+
+<div>&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td nowrap valign="top" width="4%" style="TEXT-ALIGN: left"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; TEXT-DECORATION: underline">&#160;&#160; X&#160;&#160;&#160; </font></td>
+<td width="96%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014.</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt"><table cellpadding="0" cellspacing="0" style="width: 100%"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 70.45pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Section 1 &#8211; Conflict Minerals Disclosure</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 70.45pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 1.01&#160;&#160;Conflict Minerals Disclosure and Report</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 70.45pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">As required by Rule 13p-1 under the Securities Exchange Act of 1934, as amended, and Form SD, a Conflict Minerals Report is provided as an Exhibit to this Form SD and is available at the following Internet website:&#160;&#160;http://www.bedbathandbeyond.com under the Investor Relations, SEC Filings section.&#160;&#160;The information contained on the Company&#8217;s website is not incorporated by reference into this Form SD or the Conflict Minerals Report and should not be considered part of this Form SD or the Conflict Minerals Report.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Information concerning conflict minerals from recycled or scrap sources that may be contained in the Company&#8217;s in-scope products is included in the Conflict Minerals Report and is incorporated in this Form SD by reference.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 1.02 Exhibit</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Conflict Minerals Report required by Item 1.01 is filed as Exhibit 1.01 to this Form SD.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Section 2 &#8211; Exhibits</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 2.01&#160;&#160;Exhibits</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 63pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 1.01</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Conflict Minerals Report<font style="DISPLAY: inline; FONT-WEIGHT: bold">&#160;</font>for the calendar year ended December 31, 2014.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt"><table cellpadding="0" cellspacing="0" style="width: 100%"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div style="display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify"></div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt times new roman">
+<tr>
+<td colspan="2" style="text-align: left; vertical-align: top">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">BED BATH &amp; BEYOND INC.</font></div>
+</td>
+<td style="vertical-align: top"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td style="vertical-align: top"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td colspan="2" style="text-align: left; vertical-align: top">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Registrant)</font></div>
+</td>
+<td style="vertical-align: top"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td style="vertical-align: top"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td colspan="2" style="text-align: left; vertical-align: top"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td style="vertical-align: top"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td style="vertical-align: top"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td style="text-align: left; vertical-align: top; width: 3%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">By:</font></td>
+<td style="vertical-align: top; width: 30%; border-bottom: black 1.1pt solid; text-align: left">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline">/s/&#160;&#160;Susan E. Lattmann</font></font></div>
+</td>
+<td style="text-align: left; vertical-align: top; width: 10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td style="text-align: left; vertical-align: top; width: 57%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">May 29, 2015</font></div>
+</td>
+</tr><tr>
+<td colspan="3" style="text-align: left; vertical-align: top"><div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt times new roman">Name: <font style="display: inline; font: 10pt times new roman">&#160;</font>Susan E. Lattmann</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt times new roman">Title: Chief Financial Officer and Treasurer</font></div>
+
+</td>
+<td style="vertical-align: top"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt"><table cellpadding="0" cellspacing="0" style="width: 100%"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div style="display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify"></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">EXHIBIT INDEX</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="7%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Exhibit</font></font></div>
+</td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></td>
+<td align="left" valign="top" width="92%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Description</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="7%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="92%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td align="left" valign="top" width="7%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1.01</font></div>
+</td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="92%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Conflict Minerals Report for the calendar year ended December 31, 2014.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>exh_101.htm
+<DESCRIPTION>EXHIBIT 1.01
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Nasdaqomx-->
+    <!--Document Created using EDGARizerAgent 5.4.6.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff">
+<div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Exhibit 1.01</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 60.9pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Conflict Minerals Report</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Bed Bath &amp; Beyond Inc. has included this Conflict Minerals Report as an Exhibit to its Form SD in respect of 2014 as required by Rule 13p-1 under the Securities Exchange Act of 1934, as amended, and Form SD (collectively, the "Conflict Minerals Rule").&#160;&#160;The date of filing of this Conflict Minerals Report is May 29, 2015.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Unless otherwise indicated, the term "Company" refers collectively to Bed Bath &amp; Beyond Inc. and subsidiaries.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">As used herein, "Conflict Minerals" are gold, columbite-tantalite, cassiterite, wolframite and the derivatives tantalum, tin and tungsten, without regard to the location of origin of the minerals or derivatives.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Forward-Looking Statements</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">This document contains forward-looking statements within the meaning of the federal securities laws.&#160;&#160;Any statements that do not relate to historical or current facts or matters are forward-looking statements.&#160;&#160;Forward-looking statements can be identified by the use of words, such as "intend" and the like, or the use of the future tense.&#160;&#160;Statements concerning current conditions may also be forward-looking if they imply a continuation of current conditions.&#160;&#160;Examples of forward-looking statements include, but are not limited to, statements concerning the additional steps that the Company intends to take to mitigate the risk that Conflict Minerals that are necessary to the functionality or production of private label products that it contracts to manufacture benefit armed groups.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Forward-looking statements are subject to risks and uncertainties that could cause actual actions or performance to differ materially from those expressed in the forward-looking statements.&#160;&#160;These risks and uncertainties include, but are not limited to, (1) the continued implementation of satisfactory traceability and other compliance measures by the Company&#8217;s direct and indirect suppliers on a timely basis or at all, (2) whether smelters and refiners and other market participants responsibly source Conflict Minerals, (3) the ability to obtain and retain necessary internal and external resources, and (4) political and regulatory developments, whether in the Democratic Republic of the Congo (the "DRC") region, the United States or elsewhere.&#160;&#160;Undue reliance should not be placed on these forward-looking statements, which speak only as of the date of the filing of this document.&#160;&#160;The Company does not intend, and undertakes no obligation, to publish revised forward-looking statements to reflect events or circumstances after the date of the filing of this document or to reflect the occurrence of unanticipated events.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Applicability of the Conflict Minerals Rule to the Company</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company is a retailer which operates under the names Bed Bath &amp; Beyond, Christmas Tree Shops, Christmas Tree Shops andThat! or andThat!, Harmon or Harmon Face Values, buybuy BABY and World Market, Cost Plus World Market or Cost Plus.&#160;&#160;The Company also operates Linen Holdings, a provider of a variety of textile products, amenities and other goods to institutional customers in the hospitality, cruise line, healthcare and other industries.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"></div></div>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt"><table cellpadding="0" cellspacing="0" style="width: 100%"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="text-indent: 0pt; display: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company sells a wide assortment of domestics merchandise and home furnishings. Domestics merchandise includes categories such as bed linens and related items, bath items and kitchen textiles. Home furnishings include categories such as kitchen and tabletop items, fine tabletop, basic housewares, general home furnishings, consumables and certain juvenile products.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In fiscal 2014, the Company purchased merchandise from approximately 8,600 suppliers.&#160;&#160;The Company purchases substantially all of its merchandise in the United States, the majority from domestic sources and the balance from importers. The Company purchases a small amount of its merchandise directly from overseas sources.&#160;&#160;The Company believes that most merchandise, other than brand name goods, is available from a variety of sources and that most brand name goods can be replaced with comparable merchandise.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Most of the Company's products are brand name goods or private label goods that it does not contract to manufacture.&#160;&#160;The Company has determined that it is subject to the requirements of the Conflict Minerals Rule because of the degree of influence that it exercises over the design, materials, parts, ingredients or components of some of these private label products that contain necessary Conflict Minerals.&#160;&#160;For a list of the Company&#8217;s in-scope product categories, see "Product Information:&#160;&#160;In-Scope Products" below.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For a majority of its private label products, the Company does not have the requisite level of influence over the design, materials, parts, ingredients or components of the products for the products to be in-scope.&#160;&#160;Therefore, those private label products and the related suppliers, and the brand name goods sold by the Company, are not in-scope for purposes of the Company&#8217;s compliance with the Conflict Minerals Rule.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For
+2014, the Company identified 124 suppliers of potentially in-scope products (the &ldquo;Suppliers&rdquo;).&#160;&#160;The potentially in-scope
+Suppliers represent less than 2% of the Company&#8217;s entire supplier base for fiscal 2014.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">The Company&#8217;s Conflict Minerals Policy</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company has adopted a policy for the supply chain of Conflict Minerals ("Conflict Minerals Policy").</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Conflict Minerals Policy includes, but is not limited to, the Company&#8217;s expectations that its private label suppliers:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify"></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">1.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Source Conflict Minerals only from sources that do not contribute to conflict or further human rights abuses;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Adopt and comply with a conflict free sourcing policy that is consistent with the Company&#8217;s Conflict Minerals Policy and the Company&#8217;s publicly posted Code of Conduct, and require its direct and indirect suppliers to do the same;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Determine which of the Company&#8217;s products incorporate Conflict Minerals;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">4.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Map the supply chains associated with the supplier&#8217;s products, including by engaging suppliers to identify the smelters and refiners used in the supplier&#8217;s supply chains to process Conflict Minerals and determining whether the Conflict Minerals are recycled, scrap or original extraction;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">5.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Obtain and prepare documentation supporting the origin determination for any Conflict Minerals incorporated into the supplier&#8217;s products; and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">6.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Otherwise put in place policies, procedures and frameworks that are consistent with the Organisation for Economic Co-operation and Development's Due Diligence Guidance for Responsible Supply Chains of Minerals From Conflict-Affected and High-Risk Areas (the "OECD Guidance").</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Reasonable Country of Origin Inquiry Information</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">As required by the Conflict Minerals Rule, for 2014, the Company conducted a "reasonable country of origin inquiry" ("RCOI").&#160;&#160;The Company designed its RCOI in good faith to determine the origin of Conflict Minerals that are necessary to the functionality or production of products that it contracts to manufacture.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The
+Company's outreach included the 124 Suppliers that it identified as potentially having contracted to
+manufacture for the Company products that contain necessary Conflict Minerals.&#160;&#160;The Company determined which of its
+suppliers and products were potentially in-scope for 2014 through an internal product survey system.&#160;&#160;The survey
+system solicited information from buyers and product development regarding the level of involvement the Company had in the
+manufacturing of potentially in-scope private label products.&#160;&#160;The potentially in-scope products list formed the
+basis of the Company&#8217;s list of Suppliers.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify"></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company&#8217;s Suppliers identified 43 smelters and refiners that may be in the Company&#8217;s supply chain.&#160;&#160;Based on the Company's reasonable country of origin inquiry, it concluded that 33 of these smelters and refiners sourced entirely from outside of the DRC and its adjoining countries, including from recycled or scrap sources, as described under "Smelters and Refiners."&#160;&#160;The Company's conclusions concerning mineral origin are based on information provided by a third-party information management service provider (the "Service Provider") that the Company used to complement its internal management processes.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For 2014, the Company was unable to determine the origin of at least a portion of the necessary Conflict Minerals in each of its in-scope products.&#160;&#160;None of the necessary Conflict Minerals contained in the in-scope products were determined by the Company to directly or indirectly finance or benefit armed groups in the DRC or an adjoining country.&#160;&#160;However, the Company did not conclude that any of its in-scope products were "DRC conflict free." The terms "adjoining country," "armed group" and "DRC conflict free" have the meanings contained in the Conflict Minerals Rule.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the Conflict Minerals Rule, based on the results of the Company's RCOI, it was required to conduct due diligence for 2014. These due diligence efforts are discussed below.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -1pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For its RCOI, to the extent applicable, the Company utilized the same processes and procedures as for its due diligence.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Due Diligence Framework</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Design Framework</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For 2014, the Company utilized due diligence measures relating to Conflict Minerals that are intended to conform with, in all material respects, the applicable criteria set forth in the OECD Guidance (Second Edition 2013).</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Selected Elements of Design Framework</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="display: block; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The OECD Guidance has established a five-step framework for due diligence as a basis for responsible global supply chain management of minerals from conflict-affected and high-risk areas.&#160;&#160;Selected elements of the Company's program design are discussed below.&#160;&#160;However, these are not all of the discrete procedures of the program that the Company has put in place to help ensure that the Conflict Minerals contained in its products are responsibly sourced.&#160;&#160;The headings below conform to the headings used in the OECD Guidance for each of the five steps.&#160;&#160;Selected due diligence measures that the Company took in respect of 2014 are discussed under "Due Diligence Program Execution."</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"></div></div>
+
+<!-- Field: Page; Sequence: 4; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">1.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">OECD Guidance Step One:</font> "Establish strong company management systems"</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">a.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company has adopted a Conflict Minerals Policy.&#160;&#160;In addition to being publicly disclosed through its Corporate Responsibility Report, the Conflict Minerals Policy is made available to suppliers through the Company's Quality Assurance Manuals.&#160;&#160;The Company also distributes the Conflict Minerals Policy internally to relevant employees.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">b.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company has a Conflict Minerals Committee charged with managing the Company&#8217;s Conflict Minerals compliance program.&#160;&#160;The Conflict Minerals Committee is overseen by senior personnel in the Company&#8217;s legal department.&#160;&#160;The following functional areas are represented on the Conflict Minerals Committee: buying; finance; legal; logistics; product development; and quality assurance.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">c.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company utilizes specialist outside counsel to assist it with its Conflict Minerals compliance program.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">d.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company trains internal personnel from buying, finance, logistics, product development and quality assurance functional areas on the Conflict Minerals Rule, the OECD Guidance and the Company&#8217;s Conflict Minerals compliance program.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">e.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company utilizes an internally developed product survey system to identify potentially in-scope products and suppliers.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">f.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company utilizes the Service Provider to, on its behalf, (i) engage in information gathering and outreach with in-scope suppliers; (ii) review and validate in-scope supplier information; (iii) identify risks based on smelter and refiner sourcing practices of in-scope suppliers; and (iv) store records of due diligence processes, findings, and resulting decisions in an electronic database.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 18pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">g.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company uses the Conflict Minerals Reporting Template (&#8220;CMRT&#8221;) developed by the Conflict-Free Sourcing Initiative to obtain information from in-scope suppliers and identify smelters and refiners in its supply chain.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">h.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company has a policy requiring the maintenance of business records relating to Conflict Minerals due diligence processes, findings and resulting decisions for at least five years.&#160;&#160;The Company maintains its records relating to Conflict Minerals due diligence processes, findings and resulting decisions in electronic format.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 5; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="display: block"></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">i.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company has a grievance mechanism for reporting violations of the Company&#8217;s Conflict Minerals Policy.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">OECD Guidance Step Two:</font> "Identify and assess risk in the supply chain"</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">a.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Inquiries concerning the usage and source of Conflict Minerals in in-scope suppliers&#8217; products, as well as information concerning their related compliance measures, are made by the Company and the Service Provider on the Company&#8217;s behalf.&#160;&#160;Potentially in-scope suppliers are requested to complete a CMRT.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">b.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company and the Service Provider follow up with in-scope suppliers that do not respond to the request within the specified time frame.&#160;&#160;The information is requested from each in-scope supplier multiple times to the extent the in-scope supplier continues to be non-responsive.&#160;&#160;After multiple requests, if a response is not received from an in-scope supplier, the request is escalated to the applicable buying group within the Company.&#160;&#160;Telephone calls and emails are used as a means of follow up.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">c.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company and the Service Provider review the responses received from in-scope suppliers.&#160;&#160;The Service Provider reviews the responses received from suppliers for plausibility, consistency and gaps.&#160;&#160;It follows up by email or phone with suppliers that submit a response that triggers specified quality control flags.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">d.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">To the extent that a completed CMRT identifies a smelter or refiner, the Service Provider reviews the information provided against the list of "compliant" or equivalent smelters and refiners published in connection with the CFSI&#8217;s Conflict-Free Smelter Program (&#8220;CFSP&#8221;), the London Bullion Market Association (&#8220;LBMA&#8221;) Good Delivery List and the Responsible Jewelry Council&#8217;s (&#8220;RJC&#8221;) Chain-of-Custody Certification.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">e.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">To the extent that a smelter or refiner identified by an in-scope supplier is not certified as compliant or the equivalent by an independent third-party, the Service Provider attempts to contact that smelter or refiner to gain information about its sourcing practices, including origin and transfer, and to determine the source and chain of custody of the Conflict Minerals.&#160;&#160;Internet research is also performed to determine whether there are any outside sources of information regarding the smelter's or refiner's sourcing practices.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"></div></div>
+
+<!-- Field: Page; Sequence: 6; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="text-indent: 0pt; display: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">f.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">If a supplier is unable to provide information concerning the processors of Conflict Minerals in its supply chain, the Service Provider requests information on the supplier's suppliers of products or components which may have required Conflict Minerals for their functionality or production ("Tier 2 suppliers").&#160;&#160;The Tier 2 suppliers, and subsequent tiers of suppliers as identified to the Service Provider, are then contacted by the Service Provider.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">g.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Suppliers are requested to certify to the accuracy of the information contained in the completed CMRT.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="BACKGROUND-COLOR: transparent; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="BACKGROUND-COLOR: transparent; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="BACKGROUND-COLOR: transparent; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3</font>.</font></font></font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">OECD Guidance Step Three:</font> "Design and implement a strategy to respond to identified risks"</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">a.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Conflict Minerals Committee reports the findings of its supply chain risk assessment to senior personnel in the Company&#8217;s legal department and senior management.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">b.</font></div>
+</td>
+<td>
+<div style="text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company initiates a tiered risk mitigation strategy that, depending upon the particular facts and circumstances, contemplates continued engagement with the supplier to achieve progressive improvement or the suspension or discontinuation of business with the supplier.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">4.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">OECD Guidance Step Four:</font> "Carry out independent third-party audit of supply chain due diligence at identified points in the supply chain"</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In connection with the Company&#8217;s due diligence, the Service Provider, on the Company&#8217;s behalf, utilizes information made available by the CFSP, LBMA&#8217;s, and RJC concerning independent third-party audits of smelters and refiners.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">5.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline; TEXT-DECORATION: underline">OECD Guidance Step Five:</font> <font style="FONT-STYLE: italic; DISPLAY: inline">"Report on supply chain due diligence"</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company files a Form SD and, to the extent applicable, a Conflict Minerals Report with the Securities and Exchange Commission and makes the filing available on its website.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 7; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify"></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Due Diligence Program Execution</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 11.5pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In furtherance of the Company&#8217;s Conflict Minerals due diligence, the Company performed the following due diligence measures with respect to 2014.&#160;&#160;These are not all of the discrete measures that the Company took with respect to 2014 in furtherance of its Conflict Minerals compliance program or pursuant to the Conflict Minerals Rule and the OECD Guidance.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">1.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company sent requests to 124 Suppliers to provide it with a completed CMRT.&#160;&#160;The Company or the Service Provider followed up by email or phone with the Suppliers that did not provide a response within the time frame specified in the request.&#160;&#160;Ninety-nine percent of the Suppliers responded to the request for information.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company and the Service Provider reviewed the responses received from the Suppliers.&#160;&#160;The Service Provider reviewed the responses received from the Suppliers for plausibility, consistency and gaps.&#160;&#160;It followed up by email or phone with Suppliers that submitted a response that triggered specified quality control flags.&#160;&#160;If a Supplier identified the presence of Conflict Minerals in its products but did not provide smelter or refiner information, the Company requested that the Supplier provide an updated response that contains smelter and refiner information.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">With respect to those completed CMRTs that identified a smelter or refiner, the Service Provider reviewed the information provided against the list of compliant or equivalent smelters and refiners published in connection with the CFSP, the LBMA's Good Delivery List and the RJC's Chain-of-Custody Certification.&#160;&#160;Twenty-six of the smelters and refiners identified by Suppliers were listed as compliant and six were listed as active by the CFSI as of April 15, 2015.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">4.</font></div>
+</td>
+<td style="text-align: left">
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For those smelters and refiners identified by a Supplier that were not listed as compliant or the equivalent by an independent third-party, the Service Provider attempted to contact the smelter or refiner to gain information about its sourcing practices, including origin and transfer, and to determine the source and chain of custody of the Conflict Minerals.&#160;&#160;Internet research also was performed to determine whether there are any outside sources of information regarding the smelter's or refiner's sourcing practices.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 8; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->8<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify"></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">5.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">With respect to those Suppliers that were unable to provide information concerning the processors of Conflict Minerals in their supply chains, the Service Provider requested information on the supplier's Tier 2 suppliers of products or components which may have required Conflict Minerals for their functionality or production.&#160;&#160;The Tier 2 suppliers, and subsequent tiers of suppliers as identified to the Service Provider, were then contacted by the Service Provider.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">6.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Conflict Minerals Committee reported the findings of its supply chain risk assessment to senior personnel in the Company&#8217;s legal department and senior management.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">7.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the Company's risk management strategy, the Company removed from its supply chain one Supplier that did not respond to repeated requests to complete the CMRT.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 45pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">8.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In addition, to mitigate the risk that the necessary Conflict Minerals contained in the Company's in-scope products directly or indirectly finance or benefit armed groups in the DRC or an adjoining country, the Company took the actions below in respect of the 2014 compliance period:</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">a.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company sent a letter to all suppliers that were in-scope for 2013.&#160;&#160;The letter: (i) included a summary of the Company&#8217;s Conflict Minerals Policy; (ii) included information on the consequences for supplier non-compliance with information requests related to Conflict Minerals; and (iii) invited suppliers to ask questions regarding the Conflict Minerals Rule.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">b.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company sent a letter to all suppliers that were in-scope for 2013 but<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font>failed to submit a completed response to the Company's 2013 Conflict Minerals Survey, indicating the Company&#8217;s expectations for their complete responses to any inquiries regarding the Company&#8217;s 2014 Conflict Minerals survey.&#160;&#160;The letter: (i) included a summary of the Company&#8217;s Conflict Minerals Policy; (ii) included information on the consequences for supplier non-compliance with information requests related to Conflict Minerals; and (iii) invited suppliers to ask questions regarding the Conflict Minerals Rule.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">c.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company developed an internal product survey system to identify potentially in-scope products and suppliers.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 9; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->9<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="text-align: justify; display: block"></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">d.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company revised its Conflict Minerals Policy to include a grievance mechanism.&#160;&#160;The revised Conflict Minerals Policy was made available to suppliers through the Company&#8217;s Quality Assurance Manuals and disclosed publicly through its Corporate Responsibility Report.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">e.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Suppliers were requested to certify to the accuracy of the information contained in the completed CMRT.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">f.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company internally reviewed the compliance by selected higher-volume Suppliers with certain aspects of the Conflict Minerals Policy.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">g.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company incorporated review of selected suppliers' Conflict Minerals sourcing policies into its social compliance program.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 45pt">&#160;</td>
+<td style="TEXT-ALIGN: left; WIDTH: 36pt">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">h.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company's internal audit function reviewed its processes relating to Conflict Minerals compliance.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 11.5pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Product Information: In-Scope Products</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The in-scope products for which Suppliers identified the use of Conflict Minerals included products from the furniture, closet organization, general battery operated, LED lighting, and general electronics categories.&#160;&#160;Not all of the products in these categories were in-scope.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Smelters and Refiners</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In connection with the Company's RCOI or due diligence, as applicable, the Suppliers identified to the Company the smelters and refiners listed below as either having or potentially having processed the necessary Conflict Minerals contained in the Company&#8217;s in-scope products in 2014.&#160;&#160;Due to the Company's position in the supply chain, which is discussed earlier in this Conflict Minerals Report, the Company relies on its suppliers for accurate smelter and refiner information and its due diligence measures do not provide absolute certainty regarding the source and chain of custody of the necessary Conflict Minerals contained in the Company's in-scope products.&#160;&#160;Please see the notes that accompany the table for important information concerning the information presented.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 10; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->10<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="display: block; margin-left: 0pt; margin-right: 0pt; text-align: justify"></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"></div>
+
+<div align="left">
+<table cellpadding="4" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-TOP: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Mineral</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+</td>
+<td valign="top" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-TOP: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Smelter or Refiner Name</font></div>
+</td>
+<td valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-TOP: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Status</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Alpha</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CV United Smelting</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Empresa Metallurgica Vinto</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gejiu Non-Ferrous Metal Processing Co. Ltd.</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Malaysia Smelting Corporation (MSC)</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Metallo Chimique</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Minera&#231;&#227;o Taboca S.A.</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Minsur</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Mitsubishi Materials Corporation</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Operaciones Metalurgical S.A.</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Babel Inti Perkasa</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Bangka Putra Karya</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Belitung Industri Sejahtera</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Bukit Timah</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Eunindo Usaha Mandiri</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Mitra Stania Prima</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Refined Banka Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Sariwiguna Binasentosa</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Stanindo Inti Perkasa</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Tambang Timah</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Timah (Persero), Tbk</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Tinindo Inter Nusa</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Thaisarco</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Yunnan Tin Company Limited</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr></table>
+
+<div>&#160;</div></div></div>
+
+<!-- Field: Page; Sequence: 11; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->11<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="text-align: left"><div></div>
+
+<div>&#160;</div>
+
+<div align="left">
+<table cellpadding="4" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-TOP: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-TOP: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">China Tin Group Co., Ltd.</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-TOP: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Active</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Artha Cipta Langgeng</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Active</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Billiton Makmur Lestari</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Active</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Justindo</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Active</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Sumber Jaya Indah</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Active</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Yunnan Chengfeng Non-ferrous Metals Co.,Ltd.</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Active</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CNMC (Guangxi) PGMA Co. Ltd.</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CV Nurjanah</font></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CV Serumpun Sebalai</font></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gejiu Zi-Li</font></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Huichang Jinshunda Tin Co. Ltd</font></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Kai Unita Trade Limited Liability Company</font></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Alam Lestari Kencana</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Bangka Kudai Tin</font></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Bangka Timah Utama Sejahtera</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Fang Di MulTindo</font></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Pelat Timah Nusantara Tbk</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tungsten</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Japan New Metals Co., Ltd.</font></div>
+</td>
+<td align="left" valign="top" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tungsten</font></div>
+</td>
+<td align="left" valign="bottom" width="50%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Xiamen Tungsten Co., Ltd.</font></div>
+</td>
+<td align="left" valign="bottom" width="30%" style="BORDER-BOTTOM: black 1.1pt solid; BORDER-LEFT: black 1.1pt solid; BORDER-RIGHT: black 1.1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr></table>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><a name="page_da73401_1_5"><!--EFPlaceholder--></a><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company notes the following in connection with the above table:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 36pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">a.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Not all of the included smelters and refiners may have processed the necessary Conflict Minerals contained in the Company&#8217;s in-scope products, since some Suppliers reported at a &#8220;company level,&#8221; meaning that they reported the Conflict Minerals contained in all of their products, not just those in the products that they sold to the Company.&#160;&#160;Some Suppliers also may have reported smelters and refiners that were not in the Company&#8217;s supply chain due to over-inclusiveness in the information received from their suppliers or for other reasons.&#160;&#160;In addition, the smelters and refiners reflected above may not include all of the smelters and refiners in the Company&#8217;s supply chain, since some Suppliers did not identify any smelters or refiners and because not all Suppliers responded to the Company&#8217;s inquiries.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 12; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->12<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="display: block"></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 36pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">b.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The table only includes entities that were listed as smelters or refiners by an independent third-party.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 36pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">c.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Smelter or refiner status information in the table is as of April 15, 2015.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 36pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">d.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">"Compliant" means that a smelter or refiner was listed as compliant with the Conflict-Free Smelter Program's ("CSFP") assessment protocols, including through mutual recognition, or was indicated as "Re-audit in process."&#160;&#160;Included smelters and refiners were not necessarily Compliant for all or part of 2014 and may not continue to be Compliant for any future period.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 36pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">e.</font></div>
+</td>
+<td>
+<div style="text-indent: 0pt; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">"Active" means that the smelter or refiner was listed as having submitted a signed Agreement for the Exchange of Confidential Information and Auditee Agreement contracts to the CFSP or, according to information published by the CFSI, the smelter has agreed to complete a CFSP validation audit within two years of membership issuance by the Tungsten Industry &#8211; Council Minerals Council.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 36pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">f.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">A smelter or refiner is listed as "Known" if it was not Compliant or Active and is listed on the CMRT Standard Smelter Name Tab.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td>&#160;</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="TEXT-ALIGN: center; WIDTH: 36pt">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">g.</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Smelter or refiner status reflected in the table is based solely on information made publicly available by CFSI without independent verification by the Company.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Country of Origin Information</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The identified countries of origin of the Conflict Minerals processed by the Compliant smelters and refiners listed in the table above may have included the countries in the categories listed below.&#160;&#160;The Company has not been able to reliably determine the country of origin of any of the other smelters or refiners described in the table.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"></div></div>
+
+<!-- Field: Page; Sequence: 13; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->13<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="text-indent: 0pt; display: block"><br>
+</div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">L1 &#8211; Countries that are not identified as conflict regions or plausible areas of smuggling or export of from these regions of Conflict Minerals: Argentina, Australia, Austria, Belgium, Brazil, Chile, China, Colombia, Cote d&#8217;Ivoire, Czech Republic, Djibouti, Egypt, Estonia, Ethiopia, France, Germany, Guyana, India, Indonesia, Ireland, Israel, Japan, Lao People&#8217;s Democratic Republic, Luxembourg, Madagascar, Malaysia, Mongolia, Myanmar, Netherlands, Nigeria, Peru, Plurinational State of Bolivia, Portugal, Republic of Korea, Russian Federation, Sierra Leone, Singapore, Suriname, Switzerland, Thailand, United Kingdom, United States and Zimbabwe.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">L2 &#8211; Countries that are known or plausible countries for smuggling, export out of region or transit of materials containing Conflict Minerals: Kenya, Mozambique and South Africa.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">L3 &#8211; The DRC and its nine adjoining countries: Angola, Burundi, Central African Republic, Republic of Congo, Rwanda, South Sudan, Uganda, United Republic of Tanzania and Zambia.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">DRC &#8211; The Democratic Republic of the Congo.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Alternatively, or in addition, some of the Compliant smelters and refiners may have sourced from recycled or scrap sources.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company endeavored to determine the mine or location of origin of the necessary Conflict Minerals contained in its in-scope products by requesting that the Suppliers provide it with a completed CMRT.&#160;&#160;For the smelters and refiners that were identified by the Suppliers, to the extent that the origin of their Conflict Minerals was not known to the Service Provider, it attempted to contact the smelter or refiner and/or consulted publicly available information to attempt to determine the mine or location of origin of the Conflict Minerals processed by the smelter or refiner.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Future Risk Mitigation Efforts</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Company intends to take the following additional steps with respect to 2015 to mitigate the risk that the necessary Conflict Minerals in the Company&#8217;s in-scope products benefit armed groups:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">1.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Use Revision 4.0 of the CMRT for its 2015 supplier outreach.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Request that suppliers provide information at a product level (i.e., smelter and refiner information specific to the products that they sold to the Company).</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Continue to review the compliance by selected higher-volume suppliers with certain aspects of the Company&#8217;s Conflict Minerals Policy.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div></div>
+
+<!-- Field: Page; Sequence: 14; Value: 2 -->
+    <div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 4pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->14<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif"><tr><td style="text-align: center; width: 100%">&nbsp;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<div><div style="display: block"></div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">4.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Further engage with Suppliers that did not fully respond to information requests related to the Company&#8217;s Conflict Minerals compliance program for 2014 to help ensure that they provide requested information for 2015.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">5.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Monitor and encourage the continuing development and progress of traceability measures at suppliers.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">6.</font></div>
+</td>
+<td>
+<div style="text-align: left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Communicate to new in-scope private label suppliers the Company&#8217;s sourcing expectations, including through the dissemination of the Conflict Minerals Policy.&#160;&#160;In addition, as new in-scope private label suppliers are added, work with these suppliers to ensure that they understand the requirements of the Conflict Minerals Rule and the OECD Guidance.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">All of these steps are in addition to the steps that the Company took with respect to 2014, which it intends to continue to take with respect to 2015 to the extent applicable.</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt; text-align: left"><font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+
+<div style="display: block; text-align: center"><font style="display: inline; font: 10pt Times New Roman">15</font>
+
+<!-- Field: Rule-Page --><div align="center" style="margin-top: 3pt; margin-bottom: 3pt"><div style="font-size: 1pt; border-top: Black 4pt solid; width: 100%">&nbsp;</div></div><!-- Field: /Rule-Page -->
+
+<font style="display: inline; font: 10pt Times New Roman">&nbsp;</font></div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,2986 @@
+<SEC-DOCUMENT>0001193125-15-208225.txt : 20150601
+<SEC-HEADER>0001193125-15-208225.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601114859
+ACCESSION NUMBER:		0001193125-15-208225
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROCKWELL AUTOMATION INC
+		CENTRAL INDEX KEY:			0001024478
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				251797617
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12383
+		FILM NUMBER:		15902026
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1201 SOUTH 2ND STREET
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53204
+		BUSINESS PHONE:		414-382-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		1201 SOUTH 2ND STREET
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ROCKWELL  AUTOMATION INC
+		DATE OF NAME CHANGE:	20020507
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ROCKWELL INTERNATIONAL CORP
+		DATE OF NAME CHANGE:	19970106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW ROCKWELL INTERNATIONAL CORP
+		DATE OF NAME CHANGE:	19961009
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d932687dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>United States </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>Securities and Exchange Commission </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>Form SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(Specialized Disclosure Report) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Rockwell
+Automation, Inc. </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-12383</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>25-1797617</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="31%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>1201 South Second Street, Milwaukee, Wisconsin</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>53204</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Martin Thomas, Senior VP of Operations and Engineering Services (414-382-2000) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The rule pursuant to which this form is being filed, and the period to which the information in this form applies: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 - Conflict Minerals Disclosure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.01 - Conflict Minerals Disclosure and Report </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Conflict Minerals Disclosure </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A Conflict Minerals Report for the
+calendar year ended December&nbsp;31, 2014 is provided as Exhibit 1.01 and is available at the following Internet website:
+<FONT STYLE="white-space:nowrap">http://www.rockwellautomation.com/rockwellautomation/about-us/sustainability-ethics/integrity-compliance-overview.page?</FONT></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.02 - Exhibit </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation&#146;s
+Conflict Minerals Report required by Item 1.01, attached to this Form&nbsp;SD as Exhibit&nbsp;1.01, is incorporated herein by reference. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 - Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2.01 - Exhibits
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Exhibit 1.01 - Conflict Minerals Report (attached) </B></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly
+authorized undersigned. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="35%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="27%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="36%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Martin Thomas</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Date: June&nbsp;1, 2015</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(Registrant)</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><I>Martin Thomas</I></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"><B>Sr. VP Operations and Engineering Services</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Rockwell Automation</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">(414-382-2000) </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d932687dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Conflict Minerals Report </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><SMALL>OF</SMALL> R<SMALL>OCKWELL</SMALL> A<SMALL>UTOMATION</SMALL>, I<SMALL>NC</SMALL>. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><SMALL>IN</SMALL> <SMALL>ACCORD</SMALL> <SMALL>WITH</SMALL> R<SMALL>ULE</SMALL> 13<SMALL>P</SMALL>-1 <SMALL>UNDER</SMALL> <SMALL>THE</SMALL>
+S<SMALL>ECURITIES</SMALL> E<SMALL>XCHANGE</SMALL> A<SMALL>CT</SMALL> <SMALL>OF</SMALL> 1934 </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This is the Conflict Minerals Report of Rockwell
+Automation, Inc. (the Company or Rockwell Automation) for calendar year 2014 in accord with Rule 13p-1 under the Securities Exchange Act of 1934 (&#147;Rule 13p-1&#148;). Numerous terms in this Conflict Minerals Report are defined in Rule 13p-1 and
+Form SD and the reader is referred to those sources and to 1934 Act Release No.&nbsp;34-67716 (August 22, 2012) for such definitions. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>I.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Introduction </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation is a leading global provider of industrial automation power, control
+and information solutions. The Company has two operating segments: Architecture&nbsp;&amp; Software and Control Products&nbsp;&amp; Solutions. The Architecture&nbsp;&amp; Software segment contains all of the hardware, software and communication
+components of our integrated control and information architecture. The Control Products&nbsp;&amp; Solutions segment portfolio includes electro-mechanical and electronic motor starters, motor and circuit protection devices, AC/DC variable frequency
+drives, push buttons, signaling devices, termination and protection devices, relays, timers and condition sensors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2014, in-scope products include:
+</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Controllers, electronic operator interface devices, electronic input/output devices, communication and networking products industrial computers and Logix controllers </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Rotary and linear motion control products, sensors and machine safety components. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Low and medium voltage electro-mechanical and electronic motor starters, motor and circuit protection devices, AC/DC variable frequency drives, push buttons, signaling devices, termination and protection devices,
+relays, timers and condition sensors. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Packaged solutions such as configured drives and motor control centers and automation and information solutions for manufacturing applications. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation&#146;s supply chain is complex and there are multiple tiers between the Company and the mine. Rockwell Automation relies on its suppliers
+to provide information on the origin of the tin, tantalum, tungsten and gold (3TG)&nbsp;contained in components that are included in Rockwell Automation products. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>II.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Reasonable Country of Origin Inquiry </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>OECD Step 1 &#150; Establish strong company management systems
+</I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As a part of the development and execution of Rockwell Automation&#146;s conflict minerals compliance program, the Company incorporated leading
+practices from multi-industry initiatives such as MAPI (Manufacturers Alliance for Productivity and Innovation), NEMA (National Electrical Manufactures Association), EICC (Electronic Industry Citizen Coalition) and GeSI (Global <FONT
+STYLE="white-space:nowrap">e-Sustainability</FONT> Initiative). </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation utilizes an executive steering committee, and relevant staff functions and technical experts
+(e.g. Legal, Purchasing, Strategic Sourcing, Chemistry&nbsp;&amp; Materials Engineering) to support the Company&#146;s Conflict Minerals program managed by the Engineering Services Project Management Office (Conflict Minerals Team). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation communicated conflict minerals expectations to suppliers and the public via a Conflict Minerals Supply Chain Statement, which is available
+at the following internet website: <U><FONT STYLE="white-space:nowrap">http://www.rockwellautomation.com/rockwellautomation/about-us/sustainability-ethics/integrity-compliance-overview.page</FONT></U>? (Rockwell Automation Conflict Minerals Supply
+Chain Statement April 2015) </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation adopted a conflict minerals transparency contract provision that has been incorporated into purchase
+orders and new contracts and is inserted into existing contracts as they are renewed. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Employees and suppliers can report violations of Rockwell
+Automation&#146;s policies at <U><FONT STYLE="white-space:nowrap">http://www.rockwellautomation.com/rockwellautomation/about-us/sustainability-ethics/ombudsman.page</FONT></U>? </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Existing Rockwell Automation processes for risk mitigation and record retention will be utilized as required. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2013 Rockwell Automation purchased a data management tool to maintain conflict minerals information provided by suppliers. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Companies being evaluated as new suppliers to RA are subjected to a New Supplier Audit process. Questions added in 2014 to this process are used to determine
+a supplier&#146;s conflict minerals engagement. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>OECD Step 2 &#150; Identify and assess risk in the supply chain </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Because of the complexity and size of its supply chain, Rockwell Automation developed a risk-based approach that focused on direct suppliers that it believed
+were likely to provide Rockwell Automation with components and raw materials containing tin, tantalum, tungsten and gold (3TG). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation
+intends to use its suppliers to influence their suppliers and/or smelters and refiners of 3TG. The smelters and refiners are consolidation points for raw ore and are in the best position in the total supply chain to know the origin of the ores. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation provided training materials on its conflict minerals policies to internal Rockwell Automation employees (e.g. supplier quality, corporate
+purchasing, strategic sourcing, sales, design, design support organizations and compliance personnel), and to suppliers as part of its conflict minerals request for information. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To identify sources of 3TG in its products Rockwell Automation: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Conducted a supply-chain survey with all direct suppliers that it believed were likely to provide components and raw materials containing 3TG. (In-scope suppliers) </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">These suppliers were identified based on their alignment with commodities of parts they supply. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Inquiries requested the use of the template managed by the Conflict Free Sourcing Initiative, known as the Conflict Minerals Reporting Template (the CMRT) to identify smelters and refiners in their supply chain. General
+Conflict Minerals and Conflict Free Sourcing Initiative information was provided to all suppliers in the inquiry to help educate them on the requirements, resources and importance of conflict minerals investigations. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Moved from a third-party data collection team in 2014 to an internal data collection team who made initial supplier requests, forwarded responses or questions to the Conflict Mineral Team and tracked supplier responses.
+</TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Used a 5 Step escalation process to drive supplier responses when required. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">If suppliers did not respond in a designated time frame, the contact with suppliers was escalated to the related Buyers, Sourcing Managers, and ultimately, after 5 escalations without a response, it was escalated to
+Sourcing Directors. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Reviewed supplier responses for reasonableness and completeness, and, where appropriate, further inquired of these suppliers to explain their reason for certain answers. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Identified suppliers who did not respond to Rockwell Automation&#146;s 2014 request for information after our defined 5 step escalation process for focused communications in the 2015 data collection process.
+</TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The number of in-scope suppliers included for the 2014 data collection is greater than last year since in 2014 multiple
+supplier locations were contacted. In 2014, Rockwell Automation received information back from approximately 96% of these suppliers (as compared to approximately 53% in 2013). </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Rockwell Automation executives were kept informed of this information through the Product Compliance Council meetings sponsored by the Chief
+Technology Officer, held three times a year at minimum. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>III.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Due Diligence Design and Performance </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Due Diligence Design </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation&#146;s due diligence processes have been designed in conformance with the due diligence related steps of the framework in The Organization
+for Economic Co-operation and Development (OECD) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition (OECD 2013), and related Supplements for gold, tantalum, tin and tungsten
+(OECD Framework). </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Due Diligence Measures Performed </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>OECD Step 3 &#150; Design and implement a strategy to respond to identified risks </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation supported audits of 3TG smelters and refiners conducted by third parties through its participation in, and payment of membership dues to
+the Conflict Free Smelter Initiative. Rockwell Automation became a member of the Conflict Free Sourcing Initiative in 2014. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Suppliers were evaluated
+based on their smelter and refiner information obtained from Conflict Minerals Materials Template (CMRT) declarations. If supplier information indicated they used 3TG from the DRC region, Rockwell Automation used the Conflict Free Sourcing
+Initiative and general public information to determine a smelter or refiner&#146;s conflict minerals status. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Although there was no instance where it was
+necessary to implement risk mitigation or any corrective actions to suppliers in 2014, Rockwell Automation&#146;s risk mitigation efforts would include the following steps if a smelters or refiners were identified as supporting rebel activity. </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Identify the Rockwell components and product affected by this supplier. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Identify specific components Rockwell Automation purchased from that supplier&#146;s conflict source to determine whether corrective action is necessary. </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">-Establish specific correction actions for each supplier and track actions. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">-If corrective action would be required and the supplier refuses to take actions to change that relationship (through either changing their suppliers or driving their suppliers to source only from conflict free sources)
+the supplier would be the subject of additional risk mitigation, which could result in suspended trade or disengagement from Rockwell Automation. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation participated in a Conflict Free Sourcing Initiative committee to contact smelters and refiners to encourage them to participate in the
+audit program. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>OECD Step 4 &#150; Carry out an independent third-party audit of the supply chain due diligence. </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As a member of the Conflict Free Sourcing Initiative, Rockwell Automation supported the audit of smelters and refiners and their efforts to identify the
+country of origin of their 3TG, as described in their website <U>http://www.conflictfreesourcing.org/</U>. Rockwell Automation encouraged its suppliers to become members as well. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>OECD Step 5 &#150; Report on supply chain due diligence </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation files its Conflict Mineral Report on Form SD annually with the SEC. Rockwell Automation also published its Conflict Mineral Report on its
+website annually at <U>http://www.rockwellautomation.com/rockwellautomation/about-us/sustainability-ethics/integrity-compliance-overview.page</U>? (Rockwell Automation Conflict Mineral SD Form 2014) </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>IV.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Smelter and Refiner Disclosures </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Facilities and Country of Origin of 3TG </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Schedule 1 lists the smelters and refiners on the Rockwell Automation Conflict Minerals Materials Template (CMRT). Based on the information provided by
+Rockwell Automation&#146;s suppliers, it cannot be verified that all the smelters identified contributed to parts that ended up in Rockwell Automation products. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation&#146;s CMRT smelter list contains both smelters and refiners that have and have not been evaluated by the Conflict Free Sourcing
+Initiative. Any smelters and refiners on the Rockwell Automation CMRT identified as sourcing from the DRC region were found to be compliant with the CFSI assessment protocol. The data collection was completed as of April&nbsp;30, 2015. The Conflict
+Minerals Materials Template (CMRT) v. 3.02 was published by the Conflict Free Sourcing Initiative on November, 2014 and the Rockwell Automation Conflict Minerals Materials Template (CMRT) list was updated to reflect the facilities confirmed in v.
+3.02. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The country of origin (COO) of the 3TG processed by the Conflict Free Sourcing Initiative verified smelters identified by the Rockwell Automation
+supply chain are believed to be those identified in the Schedule 2. All smelters and refiners who source from the DRC region that have been audited by the Conflict Free Sourcing Initiative are compliant with the Conflict Free Sourcing Initiative
+assessment </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+protocol. Based on the information provided by Rockwell Automation&#146;s suppliers, it cannot be verified that all the Country of Origin identified in Schedule 2 contributed to parts that ended
+up in Rockwell Automation products. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>V.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Future Measures </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rockwell Automation will undertake the following steps during the next compliance
+period: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to provide conflict minerals information to all suppliers included in our request for information process to reinforce Rockwell Automation&#146;s expectations regarding conflict minerals. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Customize the 2015 request for information for suppliers who did not respond to Rockwell Automation&#146;s 2014 request for information, including items such as starting the request for information process earlier in
+the year, and highlighting these non-responders in the escalation process data. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to engage with relevant trade associations to define and improve best practices. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to support the Conflict Free Sourcing Initiative and smelter audits through our membership and participation in subcommittees. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Share non-verified smelter lists with Conflict Free Sourcing Initiative to assist in identifying legitimate smelters and refiners. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to direct suppliers to the Conflict Free Sourcing Initiative organization for information, and encourage them to support the Conflict Free Sourcing Initiative efforts through membership. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Schedule 1 </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Conflict Free Sourcing Initiative smelters
+and refiners identified by Rockwell Automation Supply Chain. Smelters and refiners with an asterisk are compliant with the Conflict Free Sourcing Initiative assessment protocol as of April&nbsp;30, 2014. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="56%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" ALIGN="center"><B>ID</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Metal</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><B>Smelter/Refiner Names</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Smelter/Refiner&nbsp;Country</B></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000015</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Advanced Chemical Company</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">UNITED&nbsp;STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000019</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Aida Chemical Industries Co. Ltd.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000035</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Allgemeine Gold-und Silberscheideanstalt A.G.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000041</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Almalyk Mining and Metallurgical Complex (AMMC)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">UZBEKISTAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000058</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">AngloGold Ashanti C&oacute;rrego do S&iacute;tio Miner&ccedil;&atilde;o</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000077</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Argor-Heraeus SA</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">SWITZERLAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000082</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Asahi Pretec Corporation</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000090</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Asaka Riken Co Ltd</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000103</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Atasay Kuyumculuk Sanayi Ve Ticaret A.S.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">TURKEY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000113</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Aurubis AG</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000128</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Bangko Sentral ng Pilipinas (Central Bank of the Philippines)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">PHILIPPINES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000141</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Bauer Walser AG</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000157</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Boliden AB</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">SWEDEN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000176</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">C. Hafner GmbH + Co. KG</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">GERMANY</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="56%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000180</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Caridad</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">MEXICO</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000185</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CCR Refinery &#150; Glencore Canada Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CANADA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000189</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Cendres &amp; M&eacute;taux SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SWITZERLAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000197</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Yunnan Copper Industry Co Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000233</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Chimet S.p.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">ITALY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000264</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Chugai Mining</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000328</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Daejin Indus Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KOREA,&nbsp;REPUBLIC&nbsp;OF</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000343</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Daye Non-Ferrous Metals Mining Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000359</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Do Sung Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KOREA,&nbsp;REPUBLIC&nbsp;OF</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000362</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Doduco</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000401</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Dowa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000425</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Eco-System Recycling Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000493</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">FSE Novosibirsk Refinery</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">RUSSIAN&nbsp;FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000522</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gansu Seemine Material Hi-Tech Co Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000671</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Hangzhou Fuchunjiang Smelting Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000694</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Heimerle + Meule GmbH</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000707</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Heraeus Ltd. Hong Kong</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">HONG KONG</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000711</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Heraeus Precious Metals GmbH &amp; Co. KG</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000767</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Hunan Chenzhou Mining Group Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000778</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Hwasung CJ Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KOREA,&nbsp;REPUBLIC&nbsp;OF</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000801</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Inner Mongolia Qiankun Gold and Silver Refinery Share Company Limited</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000807</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Ishifuku Metal Industry Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000814</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Istanbul Gold Refinery</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">TURKEY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000823</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Japan Mint</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000855</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Jiangxi Copper Company Limited</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000920</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Johnson Matthey Inc</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000924</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Johnson Matthey Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CANADA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000927</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JSC Ekaterinburg Non-Ferrous Metal Processing Plant</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">RUSSIAN&nbsp;FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000929</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JSC Uralelectromed</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">RUSSIAN&nbsp;FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000937</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JX Nippon Mining &amp; Metals Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000957</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Kazzinc Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KAZAKHSTAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000969</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Kennecott Utah Copper LLC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000981</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Kojima Chemicals Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID000988</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Korea Metal Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KOREA,&nbsp;REPUBLIC&nbsp;OF</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001029</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Kyrgyzaltyn JSC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KYRGYZSTAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001032</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">L&#146; azurde Company For Jewelry</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SAUDI ARABIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001056</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Lingbao Gold Company Limited</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001058</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Lingbao Jinyuan Tonghui Refinery Co. Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001078</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">LS-NIKKO Copper Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KOREA,&nbsp;REPUBLIC&nbsp;OF</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001093</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Luoyang Zijin Yinhui Metal Smelt Co Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001113</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Materion</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001119</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Matsuda Sangyo Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001149</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Metalor Technologies (Hong Kong) Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">HONG KONG</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="54%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="20%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001152</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Metalor Technologies (Singapore) Pte. Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SINGAPORE</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001153</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Metalor Technologies SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SWITZERLAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001157</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Metalor USA Refining Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001161</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Met-Mex Pe&ntilde;oles, S.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">MEXICO</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001188</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Mitsubishi Materials Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001193</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Mitsui Mining and Smelting Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001204</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Moscow Special Alloys Processing Plant</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">RUSSIAN FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001220</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Nadir Metal Rafineri San. Ve Tic. A.&#350;.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">TURKEY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001236</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Navoi Mining and Metallurgical Combinat</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UZBEKISTAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001259</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Nihon Material Co. LTD</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001322</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Ohio Precious Metals, LLC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001325</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Ohura Precious Metal Industry Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001326</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">OJSC &#147;The Gulidov Krasnoyarsk Non-Ferrous Metals Plant&#148; (OJSC Krastvetmet)</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">RUSSIAN FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001328</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">OJSC Kolyma Refinery</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">RUSSIAN FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001352</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">PAMP SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SWITZERLAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001362</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Penglai Penggang Gold Industry Co Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001386</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Prioksky Plant of Non-Ferrous Metals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">RUSSIAN FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001397</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">PT Aneka Tambang (Persero) Tbk</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001498</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">PX Pr&eacute;cinox SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SWITZERLAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001512</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Rand Refinery (Pty) Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SOUTH AFRICA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001534</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Royal Canadian Mint</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CANADA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001546</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Sabin Metal Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001555</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Samduck Precious Metals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KOREA, REPUBLIC OF</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001562</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SAMWON METALS Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KOREA,&nbsp;REPUBLIC&nbsp;OF</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001573</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Schone Edelmetaal</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">NETHERLANDS</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001585</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SEMPSA Joyer&iacute;a Plater&iacute;a SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SPAIN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001622</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Shandong Zhaojin Gold &amp; Silver Refinery Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001754</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">So Accurate Group, Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001756</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SOE Shyolkovsky Factory of Secondary Precious Metals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">RUSSIAN&nbsp;FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001761</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Solar Applied Materials Technology Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">TAIWAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001798</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Sumitomo Metal Mining Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001875</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Tanaka Kikinzoku Kogyo K.K.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001909</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">The Great Wall Gold and Silver Refinery of China</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001916</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">The Refinery of Shandong Gold Mining Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001938</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Tokuriki Honten Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001947</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Tongling nonferrous Metals Group Co.,Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001955</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Torecom</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">KOREA,&nbsp;REPUBLIC&nbsp;OF</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001977</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Umicore Brasil Ltda</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001980</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Umicore SA Business Unit Precious Metals Refining</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">BELGIUM</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID001993</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">United Precious Metal Refining, Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID002003</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Valcambi SA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">SWITZERLAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">CID002030</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Western Australian Mint trading as The Perth Mint</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">*</TD>
+<TD NOWRAP VALIGN="top">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">AUSTRALIA</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="56%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002100</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">YAMAMOTO PRECIOUS METAL CO., LTD.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002129</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Yokohama Metal Co Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002224</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zhongyuan Gold Smelter of Zhongjin Gold Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002243</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zijin Mining Group Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002312</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Guangdong Jinding Gold Limited</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002314</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gold</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Umicore Precious Metals Thailand</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">THAILAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000211</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Changsha South Tantalum Niobium Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000291</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Conghua Tantalum and Niobium Smeltry</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000410</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Duoluoshan</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000456</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Exotech Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000460</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">F&amp;X Electro-Materials Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000616</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Guangdong Zhiyuan New Material Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000731</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hi-Temp</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000914</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JiuJiang JinXin Nonferrous Metals Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000917</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiujiang Tanbre Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000973</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">King-Tan Tantalum Industry Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001076</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">LSM Brasil S.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001163</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Metallurgical Products India (Pvt.) Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001175</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Minera&ccedil;&atilde;o Taboca S.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001192</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mitsui Mining &amp; Smelting</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001200</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Molycorp Silmet A.S.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">ESTONIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001277</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ningxia Orient Tantalum Industry Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001508</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">QuantumClean</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001522</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">RFH Tantalum Smeltry Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001769</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Solikamsk Metal Works</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">RUSSIAN&nbsp;FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001869</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Taki Chemicals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001891</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Telex</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001969</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ulba</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">KAZAKHSTAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002232</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zhuzhou Cement Carbide</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002307</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Yichun Jin Yang Rare Metal Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002492</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hengyang King Xing Lifeng New Materials Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002539</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">KEMET Blue Metals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">MEXICO</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002540</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Plansee SE Liezen</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">AUSTRIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002544</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">THAILAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002545</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck GmbH Goslar</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002546</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck GmbH Laufenburg</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002547</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck Hermsdorf GmbH</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002548</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002549</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002550</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck Smelting GmbH &amp; Co.KG</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002556</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Plansee SE Reutte</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">AUSTRIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002557</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Global Advanced Metals Boyertown</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002558</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Global Advanced Metals Aizu</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="56%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002568</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tantalum</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">KEMET Blue Powder</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000244</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China Rare Metal Materials Company</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000278</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CNMC (Guangxi) PGMA Co. Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000292</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Alpha</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000295</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Cooper Santa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000306</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CV Gita Pesona</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000313</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CV Serumpun Sebalai</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000315</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CV United Smelting</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000402</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Dowa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000438</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">EM Vinto</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BOLIVIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000448</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Estanho de Rond&ocirc;nia S.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000468</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Fenix Metals</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">POLAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000538</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gejiu Non-Ferrous Metal Processing Co. Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000555</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gejiu Zi-Li</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000760</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Huichang Jinshunda Tin Co. Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000942</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Gejiu Kai Meng Industry and Trade LLC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001063</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Linwu Xianggui Smelter Co</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001070</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">China Tin Group Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001105</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Malaysia Smelting Corporation (MSC)</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">MALAYSIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001173</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Minera&ccedil;&atilde;o Taboca S.A.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001182</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Minsur</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PERU</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001191</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mitsubishi Materials Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001305</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Novosibirsk Integrated Tin Works</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">RUSSIAN&nbsp;FEDERATION</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001314</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">O.M. Manufacturing (Thailand) Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">THAILAND</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001337</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">OMSA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BOLIVIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001399</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Artha Cipta Langgeng</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001402</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Babel Inti Perkasa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001412</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Bangka Putra Karya</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001419</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Bangka Tin Industry</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001421</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Belitung Industri Sejahtera</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001428</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Bukit Timah</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001434</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT DS Jaya Abadi</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001438</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Eunindo Usaha Mandiri</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001448</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Karimun Mining</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001453</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Mitra Stania Prima</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001458</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Prima Timah Utama</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001460</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT REFINED BANGKA TIN</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001463</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Sariwiguna Binasentosa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001468</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Stanindo Inti Perkasa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001477</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Tambang Timah</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001482</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Timah (Persero), Tbk</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001490</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Tinindo Inter Nusa</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001539</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Rui Da Hung</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">TAIWAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001758</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Soft Metais, Ltda.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001898</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Thaisarco</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">THAILAND</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="56%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002036</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">White Solder Metalurgia e Minera&ccedil;&atilde;o Ltda.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002158</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Yunnan Chengfeng Non-ferrous Metals Co.,Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002180</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Yunnan Tin Company, Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002468</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Magnu&#146;s Minerais Metais e Ligas LTDA</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002500</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Melt Metais e Ligas S/A</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">BRAZIL</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002503</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT ATD Makmur Mandiri Jaya</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002517</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">O.M. Manufacturing Philippines, Inc.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PHILIPPINES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002530</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">PT Inti Stania Prima</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">INDONESIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000004</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">A.L.M.T. Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000105</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kennametal Huntsville</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000218</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Guangdong Xianglu Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000258</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Chongyi Zhangyuan Tungsten Co Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000345</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Dayu Weiliang Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000499</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Fujian Jinxin Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000568</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Global Tungsten &amp; Powders Corp.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000766</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hunan Chenzhou Mining Group Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000769</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hunan Chun-Chang Nonferrous Smelting &amp; Concentrating Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000825</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan New Metals Co Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">JAPAN</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000868</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ganzhou Non-ferrous Metals Smelting Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000875</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ganzhou Huaxing Tungsten Products Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID000966</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kennametal Fallon</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">UNITED STATES</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID001889</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tejing (Vietnam) Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">VIET NAM</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002011</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Vietnam Youngsun Tungsten Industry Co., Ltd</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">VIET NAM</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002044</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Wolfram Bergbau und H&uuml;tten AG</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">AUSTRIA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002082</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Xiamen Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002095</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Xinhai Rendan Shaoguan Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002313</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiangxi Minmetals Gao&#146;an Non-ferrous Metals Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002315</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ganzhou Jiangwu Ferrotungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002316</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiangxi Yaosheng Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002317</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiangxi Xinsheng Tungsten Industry Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002318</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiangxi Tonggu Non-ferrous Metallurgical &amp; Chemical Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002319</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Malipo Haiyu Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002320</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Xiamen Tungsten (H.C.) Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002321</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiangxi Gan Bei Tungsten Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002494</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ganzhou Seadragon W &amp; Mo Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002513</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Chenzhou Diamond Tungsten Products Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="right">*</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002531</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ganxian Shirui New Material Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002541</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck GmbH</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002542</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">H.C. Starck Smelting GmbH &amp; Co.KG</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">GERMANY</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002543</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Nui Phao H.C. Starck Tungsten Chemicals Manufacturing LLC</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">VIET NAM</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CID002551</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jiangwu H.C. Starck Tungsten Products Co., Ltd.</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">CHINA</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Schedule 2 </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Countries of Origin believed to be associated with the Conflict Free Sourcing Initiative smelters listed in Schedule 1. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ARGENTINA, AUSTRALIA, AUSTRIA, BELGIUM, BOLIVIA, BRAZIL, BURUNDI, CANADA, CHILE, CHINA, COLOMBIA, COTE D&#146;IVOIRE, CZECH REPUBLIC, DJIBOUTI, EGYPT,
+ENGLAND, ESTONIA, ETHIOPIA, FRANCE, GERMANY, GUYANA, HONG KONG, HUNGARY, INDIA, INDONESIA, IRELAND, ISRAEL, JAPAN, KAZAKHSTAN, LAO PEOPLE&#146;S DEMOCRATIC REPUBLIC, LUXEMBOURG, MADEGASCAR, MALAYSIA, MONGOLIA, MYANMAR, NETHERLANDS, NIGERIA, PERU,
+PLURINATIONAL STATE OF BOLIVIA, PORTUGAL, REPUBLIC OF KOREA, RUSSIAN FEDERATION, SIERRA LEONE, SINGAPORE, SLOVAKIA, SPAIN, SURINAME, SWITZERLAND, TAIWAN, THAILAND, UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, UNITED STATES OF AMERICA,
+VIETNAM, ZIMBABWE, KENYA, MOZAMBIQUE, SOUTH AFRICA, ANGOLA, BURUNDI, CENTRAL AFRICAN REPUBLIC, REPUBLIC OF CONGO, ROWANDA, SOUTH SUDAN, UGANDA, UNITED REPUBLIC OF TANZAMIA, ZAMBIA, and THE DEMOCRATIC REPUBLIC OF CONGO. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

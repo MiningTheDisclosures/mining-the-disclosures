@@ -1,0 +1,475 @@
+<SEC-DOCUMENT>0001193125-15-199979.txt : 20150526
+<SEC-HEADER>0001193125-15-199979.hdr.sgml : 20150525
+<ACCEPTANCE-DATETIME>20150526150933
+ACCESSION NUMBER:		0001193125-15-199979
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150526
+DATE AS OF CHANGE:		20150526
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LOCKHEED MARTIN CORP
+		CENTRAL INDEX KEY:			0000936468
+		STANDARD INDUSTRIAL CLASSIFICATION:	GUIDED MISSILES & SPACE VEHICLES & PARTS [3760]
+		IRS NUMBER:				521893632
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11437
+		FILM NUMBER:		15889120
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6801 ROCKLEDGE DR
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20817
+		BUSINESS PHONE:		3018976000
+
+	MAIL ADDRESS:	
+		STREET 1:		6801 ROCKLEDGE DRIVE
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20817
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d927823dsd.htm
+<DESCRIPTION>SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED DISCLOSURE REPORT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Lockheed
+Martin Corporation </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Maryland</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-11437</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>52-1893632</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>6801 Rockledge Drive, Bethesda, Maryland</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>20817</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Brian P. Colan, Vice President and Controller </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(301) 897-6000 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and
+telephone number, including area code, of the person to contact in connection with this report) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to
+indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 - Conflict Minerals Disclosure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.01 Conflict Minerals Disclosure and Report </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Conflict Minerals Disclosure </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A copy of Lockheed Martin
+Corporation&#146;s Conflict Minerals Report is provided as Exhibit 1.01 hereto and is publicly available at </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>http://www.lockheedmartin.com/content/dam/lockheed/data/corporate/documents/Sustainability/conflict-minerals-cmr-2014.pdf</U>. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.02 Exhibit </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As specified in Section&nbsp;2,
+Item&nbsp;2.01 of this Form SD, the Company is hereby filing its Conflict Minerals Report as Exhibit 1.01 to this Form SD. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 - Exhibits
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2.01 Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exhibit 1.01 &#150;
+Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly
+authorized undersigned. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3"><U>Lockheed Martin Corporation</U></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3">(Registrant)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: May 26, 2015</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Brian P. Colan</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Brian P. Colan</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Vice President and Controller</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d927823dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Lockheed Martin Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Conflict Minerals Report </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the Year Ended December&nbsp;31, 2014 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Introduction </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Conflict Minerals Report (the
+&#147;Report&#148;) has been prepared by Lockheed Martin Corporation (hereinafter referred to as the &#147;Company,&#148; &#147;we,&#148; &#147;us,&#148; or &#147;our&#148;) pursuant to Rule 13p-1 (the &#147;Rule&#148;) promulgated under the
+Securities Exchange Act of 1934, as amended. The term &#147;Conflict Minerals&#148; is defined in the Rule and refers to gold and columbite-tantalite (coltan), cassiterite, wolframite, or their derivatives, which are limited to tantalum, tin, and
+tungsten (the &#147;Conflict Minerals&#148; or &#147;3TG&#148;). The Rule requires disclosure of certain information when a company manufactures or contracts to manufacture products containing Conflict Minerals that are necessary to the
+functionality or production of those products if the company has reason to believe that the Conflict Minerals may have originated in the Democratic Republic of the Congo and the adjoining countries of Angola, Burundi, the Central African Republic,
+the Republic of the Congo, Rwanda, South Sudan, Tanzania, Uganda and Zambia (the &#147;Covered Countries&#148;). </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Company and Product Overview </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We are a global security and aerospace company principally engaged in the research, design, development, manufacture, integration and sustainment of advanced
+technology systems, products and services. We also provide a broad range of management, engineering, technical, scientific, logistics, and information services. We operate in five business segments: Aeronautics, Information Systems&nbsp;&amp; Global
+Solutions (IS&amp;GS), Missiles and Fire Control (MFC), Mission Systems and Training (MST), and Space Systems. We organize our business segments based on the nature of the products and services offered: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Aeronautics is engaged in the research, design, development, manufacture, integration, sustainment, support and upgrade of advanced military aircraft, including combat and air mobility aircraft, unmanned air vehicles,
+and related technologies. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">IS&amp;GS provides advanced technology systems and expertise, integrated information technology solutions, and management services across a broad spectrum of applications for civil, defense, intelligence, and other
+government customers; supports the needs of customers in data analytics, cyber security, air traffic management, and energy demand management; provides network-enabled situational awareness, delivers communications and command and control capability
+through complex mission solutions for defense applications, and integrates complex global systems to help our customers gather, analyze, and securely distribute critical intelligence data; and is responsible for various classified systems and
+services in support of vital national security systems. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">MFC provides air and missile defense systems; tactical missiles and air-to-ground precision strike weapon systems; logistics and other technical services; fire control systems; mission operations support, readiness,
+engineering support, and integration services; and manned and unmanned ground vehicles. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">MST provides ship and submarine mission and combat systems; mission systems and sensors for rotary and fixed-wing aircraft; sea and land-based missile defense systems; radar systems; the Littoral Combat Ship (LCS);
+simulation and training services; and unmanned systems and technologies. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Space Systems is engaged in the research and development, design, engineering, and production of satellites, strategic and defensive missile systems, space transportation systems, and various classified systems and
+services in support of vital national security systems. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Covered Products </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We conducted an analysis on the products that we manufacture or contract to be manufactured and found that 3TG are in substantially all of our products (and
+generally are required for their functionality or production as specified under the Rule) included in the Company and Product Overview. These products are collectively referred to in this Report as the &#147;Covered Products.&#148; 3TG is not
+included in the services we provide to our customers. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Supply Chain Description </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our business depends on an extensive global network of suppliers to provide the materials, parts and services to make our final products. As a downstream
+company, generally there are multiple tiers between us and our suppliers and the source of raw materials that enter the manufacturing process. The composition of our supply chain makes it challenging to identify the origin of 3TG used in our
+products. Therefore, we must rely on our direct suppliers to work with their upstream suppliers to provide us with accurate information (e.g., through the reasonable country of origin inquiry described below) about the origin of 3TG in the materials
+and parts that we purchase. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Reasonable Country of Origin Inquiry (&#147;RCOI&#148;) </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The elements of our RCOI were: (i)&nbsp;identification of relevant suppliers, (ii)&nbsp;data collection and (iii)&nbsp;assessment of data to determine whether
+further due diligence is required. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2014, we had direct orders with more than 16,000 active suppliers from more than 50 countries. Because of the
+complexity and size of our supply chain, we developed a risk-based approach that focused on our major direct suppliers identified as manufacturers (the &#147;Supplier Group&#148;). The Supplier Group represented more than 90% of our direct material
+spending in the previous year. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We collected information from the Supplier Group using the template developed by the Electronics Industry Citizenship
+Coalition (EICC) / Global e-Sustainment Initiative (GeSI) (the &#147;EICC Template&#148;). The EICC Template includes questions regarding a direct supplier&#146;s conflict-free policy, its due diligence process, and information about its supply
+chain such as the names and locations of smelters and refiners and the origin of 3TG used by those facilities. During 2014, we introduced a web-based survey tool to expedite supplier input and our management of the large number of survey responses.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on the RCOI, we do not have sufficient information from the Supplier Group to determine the source of the necessary 3TG contained in our products.
+Accordingly, we conducted due diligence on the source and chain of custody of 3TG in our products. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Design of Conflict Minerals Program </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As required by the Rule, we conducted due diligence on the source and chain of custody of the necessary 3TG contained in the Covered Products. Our due
+diligence program has been designed to conform, in all material respects, with the internationally recognized framework presented by The Organisation for Economic Co-operation and Development (OECD) in the publication <I>OECD (2013)&nbsp;Due
+Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition, OECD Publishing</I> (OECD Guidance) and the related supplements for 3TG. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Description of Due Diligence Steps Performed </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The due diligence steps we performed are set forth below according to the five-step framework established by the OECD: </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Step 1: Establish Strong Company Management Systems </U></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We have adopted a Conflict Minerals policy statement related to our commitment to responsible sourcing of materials for our products and our establishment of a compliance plan that is designed to follow the OECD
+framework. This statement is available on our website. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We have in place a management structure to support supply chain due diligence related to Conflict Minerals. This includes: (1)&nbsp;an executive steering committee led by our controller and global supply chain
+executive, which are responsible for our due diligence strategy and our filings and reports under the Rule; (2)&nbsp;a supply chain council, comprised of supply chain leaders from our five business segments, which provide oversight and guidance with
+our due diligence by distributing the EICC Template to the Supplier Group and requesting any necessary follow up information; and (3)&nbsp;a multidisciplinary conflict minerals working group comprised of subject matter experts, including
+representatives from engineering, finance, legal, sustainability, contracts, communications and our five business segments, which identify the suppliers to be included in the Supplier Group and review supplier responses. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We participate with other manufacturers in the Aerospace and Defense sector in the following industry-wide groups and initiatives: co-leader of the Aerospace Industries Association (AIA) Conflict Minerals Working Group
+(CMWG), the National Association of Manufacturers (NAM) Conflict Minerals Implementation Task Force, and the EICC/GeSI Conflict-Free Sourcing Initiative (CFSI). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We are following our established records retention policy that requires us to maintain records related to SEC filings such as the Conflict Minerals reporting for a specified number of years. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We communicate to suppliers our expectations on responsible sourcing of materials through our Supplier Code of Conduct and during 2014 we incorporated the Supplier Code of Conduct in new purchase orders. We maintain a
+Suppliers page on our website that includes the Supplier Code of Conduct and other information. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We have an ethics helpline and dedicated ethics and conflict minerals e-mail addresses that provide employees and suppliers with a mechanism to report violations of our Conflict Minerals compliance program or other
+concerns. This information is available on our website. Our ethics helpline was also included in our annual ethics letter to suppliers. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We brief senior management about the Company&#146;s practices with respect to 3TG due diligence and supply chain. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Step 2: Identify and Assess Risks in the Supply Chain </U></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We support the EICC and GeSI&#146;s CFSI, an industry initiative that audits smelters&#146; and refiners&#146; due diligence activities. As a downstream company, we rely on these initiatives to conduct risk assessment
+at the upstream level. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">With respect to our direct suppliers, we reviewed the responses we received to the EICC Template that we distributed to the Supplier Group in order to gather information about our supply chain. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Under our due diligence procedures, unresponsive suppliers were issued follow-up requests. Unresponsive suppliers were categorized accordingly in our records. Survey responses were evaluated against pre-determined
+criteria, and additional follow-up inquiries were conducted as necessary. Our process allows for escalation of issues to the conflict minerals working group, the supply chain council, and/or the executive steering committee. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">During 2014, we attempted mapping of the upstream sources of 3TG in a specific component in one of our products (an electronics assembly) to aid in the development of a process methodology for tracing of conflict
+minerals in our products as our conflict minerals program matures. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Step 3: Design and Implement a Strategy to Respond to Identified Risks </U></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We have a risk management plan to address concerns that a supplier may be providing us with products that contain 3TG sourced from the Covered Countries. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">If a supplier indicates that it directly or indirectly sources 3TG from the Covered Countries, we request additional information from such supplier. If it is confirmed that a supplier provides products or parts for
+Covered Products that contain 3TG sourced from the Covered Countries, our program risk management procedures allow for mitigation steps, including conducting a review with the program managers from the affected business segments to determine
+appropriate next steps. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">During 2014, we did not identify any instance where it was necessary to implement risk mitigation efforts, temporarily suspend trade or disengage with a member of the Supplier Group. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Step 4: Carry out Independent Third-Party Audit of Smelter/Refiner&#146;s Due Diligence Practices </U></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">We do not perform or direct audits of 3TG smelters or refiners. We rely on audits conducted by third parties through our membership in the CFSI and supplier self-disclosures of certification status. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Step 5: Report Annually on Supply Chain Due Diligence </U></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Report constitutes our annual report on our Conflict Minerals due diligence, and is available on our website at
+<U>http://www.lockheedmartin.com/content/dam/lockheed/data/corporate/documents/Sustainability/conflict-minerals-cmr-2014.pdf</U> and is filed with the SEC. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Results of Our Due Diligence Measures </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Description of
+facilities used to process 3TG; information on country of origin and efforts to determine mine or location of origin </U></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As previously discussed, we found
+that 3TG are in substantially all of our products and requested that the Supplier Group complete the EICC Template to determine the facilities used to process 3TG, the country of origin of the 3TG and the mines or locations of origin of the 3TG in
+our supply chain. The vast majority of the Supplier Group who responded to our EICC Template indicated in their response that the information provided was at a company or divisional level and did not include a list of smelters. A minority of
+responses listed specific smelters and mines, with such responses collectively identifying over 600 smelters and over 200 mines (and in some cases the location of such mines) from which suppliers sourced 3TG. The CFSI Smelter Information Exchange
+has validated more than 250 of these smelters as 3TG smelters, of which approximately 53% were certified conflict-free under the Conflict-Free Smelter Program. The survey data also identified 34 suppliers within the Supplier Group who indicated that
+they used smelters or mines from the Covered Countries that were included in their supply chain, but stated that they sourced from multiple smelters and mines, and also did not disclose a full product line that would enable us to tie a specific mine
+to one of our Covered Products. Because information was generally provided at a company or divisional level and was not tied to specific Covered Products, we did not have sufficient information to identify the facilities that sourced 3TG included in
+our Covered Products, or to identify the country of origin of such 3TG. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Steps We Have Taken, or Will Take, Since December&nbsp;31, 2014 to Mitigate Risk that Conflict Minerals
+Benefit Armed Groups </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Lockheed Martin supports the objective of preventing armed groups in the Covered Countries from benefitting from the sourcing of
+Conflict Minerals from that region.&nbsp;We are committed to responsible sourcing of materials for our products, including the sourcing of Conflict Minerals, and we expect that our suppliers are likewise committed to responsible sourcing.&nbsp;We
+expect our suppliers to take steps to determine if their products contain Conflict Minerals and if so, implement supply chain due diligence processes to identify sources of these minerals and support efforts to eradicate the use of Conflict Minerals
+which directly or indirectly finance or benefit armed groups in the Covered Countries. Accordingly, we intend to take the following steps to further mitigate the risk that the 3TG in our products finance or benefit armed groups in the Covered
+Countries: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to reference the Lockheed Martin Supplier Code of Conduct in new purchase orders and direct suppliers to our Conflict Minerals Policy Statement and web page. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Survey suppliers representing greater than 90% of related direct material spending as part of our RCOI process (and communicate to our suppliers our expectations regarding improvement of the completeness of information
+provided over time). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to participate in the CFSI and in 2015 contribute to the CFSI audit smelter fund with the goal of providing resources sufficient for two smelter audits and conflict free certifications. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Encourage suppliers to participate in the Conflict-Free Smelter Program developed by the CFSI (and engage with our direct suppliers to encourage them to impose requirements on their upstream suppliers to have programs
+to eliminate from their supply chain 3TG from conflict mines and become verified as conflict-free through the Conflict-Free Smelter Program or a similar program). </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

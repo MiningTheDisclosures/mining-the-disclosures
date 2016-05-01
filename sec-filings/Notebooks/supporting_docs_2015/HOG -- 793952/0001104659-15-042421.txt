@@ -1,0 +1,480 @@
+<SEC-DOCUMENT>0001104659-15-042421.txt : 20150601
+<SEC-HEADER>0001104659-15-042421.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601152802
+ACCESSION NUMBER:		0001104659-15-042421
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HARLEY DAVIDSON INC
+		CENTRAL INDEX KEY:			0000793952
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTORCYCLES, BICYCLES & PARTS [3751]
+		IRS NUMBER:				391382325
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09183
+		FILM NUMBER:		15903120
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3700 W JUNEAU AVE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53208
+		BUSINESS PHONE:		414-343-8553
+
+	MAIL ADDRESS:	
+		STREET 1:		3700 W. JUNEAU AVE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53208
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>a15-13199_1sd.htm
+<DESCRIPTION>SD
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">Form&nbsp;SD</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">SPECIALIZED DISCLOSURE REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">Harley-Davidson,&nbsp;Inc.</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact Name of Registrant as Specified in Charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Wisconsin</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-9183</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">39-1382325</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or Other Jurisdiction<br>   of Incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File No.)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(I.R.S. Employer<br>   Identification Number)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">3700 West Juneau Avenue, Milwaukee, Wisconsin</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">53208</font></b></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of Principal Executive Offices)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Zip Code)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="100%" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Paul J. Jones (414) 342-4680</font></b></p>    </td>   </tr>
+<tr>
+<td width="100%" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt 25.75pt;text-align:center;text-indent:-10.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name and telephone   number, including area code, of the<br>   person to contact in connection with this report.)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box to indicate the rule&nbsp;pursuant to which this form is being filed, and provide the period to which the information in this form applies:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.4in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Rule&nbsp;13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108694\15-13199-1\task7438157\13199-1-ba.htm',USER='108694',CD='Jun  1 20:35 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Section&nbsp;1 - Conflict Minerals Disclosure</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Items 1.01 and 1.02 Conflict Minerals Disclosure and Report; Exhibits</font></u></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conflict Minerals Disclosure</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Harley-Davidson,&nbsp;Inc. is providing a Conflict Minerals Report as Exhibit&nbsp;1.01 hereto, and it is publicly available at </font><i><font size="2" style="font-size:10.0pt;font-style:italic;">http://investor.harley-davidson.com/phoenix.zhtml?c=87981&amp;p=irol-sec&amp;locale=en_US&amp;bmLocale=en_US</font></i><font size="2" style="font-size:10.0pt;">.&#160; Among other things, the Conflict Minerals Report includes a discussion of the company&#146;s reasonable country of origin inquiry designed to provide a reasonable basis for us to determine the geographic source of tin, tantalum, tungsten, and gold in our products.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Section&nbsp;2 - Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Exhibit&nbsp;1.01 - Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="49%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:49.76%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">HARLEY-DAVIDSON,&nbsp;INC.</font></b><font size="2" style="font-size:10.0pt;">  </font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="47%" valign="top" style="padding:0in 0in 0in 0in;width:47.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="49%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:49.76%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="47%" valign="top" style="padding:0in 0in 0in 0in;width:47.24%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="49%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:49.76%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="47%" valign="top" style="padding:0in 0in 0in 0in;width:47.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By   </font></p>    </td>
+<td width="46%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:46.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/   Paul J. Jones</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="47%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:47.24%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">June&nbsp;1, 2015</font></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:46.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Paul   J. Jones </font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="47%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:47.24%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Date)</font></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.58%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="padding:0in 0in 0in 0in;width:46.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Vice   President, General Counsel&nbsp;&amp; Secretary</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="47%" valign="top" style="padding:0in 0in 0in 0in;width:47.24%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_114750_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\108694\15-13199-1\task7438157\13199-1-ba.htm',USER='108694',CD='Jun  1 20:35 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>a15-13199_1ex1d01.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit&nbsp;1.01</font></b></p>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Harley-Davidson,&nbsp;Inc.<br> Conflict Minerals Report<br> for the Year Ended December&nbsp;31, 2014</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This conflict minerals report for the year ended December&nbsp;31, 2014 is presented to comply with Rule&nbsp;13p-1 under the Securities Exchange Act of 1934 (the &#147;Rule&#148;).</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Company Overview</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This report has been prepared by management of Harley-Davidson,&nbsp;Inc. (the &#147;Company,&#148; &#147;we,&#148; &#147;us,&#148; or &#147;our&#148;). The information in this report includes the activities of all majority-owned subsidiaries and variable interest entities that are required to be consolidated.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company operates in two segments: the Motorcycles and Related Products segment and the Financial Services segment. The Motorcycles and Related Products segment designs, manufactures and sells at wholesale street legal Harley-Davidson motorcycles as well as a line of motorcycle parts, accessories, general merchandise and related services.&#160; A brief description of each of the product categories comprising the Company&#146;s Motorcycles and Related Products segment is as follows:</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Motorcycles &#151; </font></i><font size="2" style="font-size:10.0pt;">The primary business of our Motorcycles and Related Products segment is to design, manufacture and sell at wholesale street legal Harley-Davidson motorcycles that compete primarily in the market segment consisting of motorcycles with engine displacements of 601cc and greater. The Company&#146;s engines currently range in displacement from 494cc to 1802cc.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We believe it is likely that tin, tantalum, tungsten, and gold (collectively, &#147;3TG&#148;) may be found in some form in all of our motorcycles. However, we believe that the amount and value of 3TG that may be in any given motorcycle is generally <i>de minimis</i> compared to size and value of the motorcycle as a whole.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Parts&nbsp;&amp; Accessories</font></i><font size="2" style="font-size:10.0pt;"> &#151; Parts and accessories products are comprised of replacement parts and mechanical and cosmetic accessories.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">General Merchandise</font></i><font size="2" style="font-size:10.0pt;"> &#151; General merchandise products are comprised of apparel, riding gear and collectibles.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Licensing</font></i><font size="2" style="font-size:10.0pt;"> &#151; The Company licenses the name &#147;Harley-Davidson&#148; and other trademarks owned by the Company or its subsidiaries for a wide range of products.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Other Services</font></i><font size="2" style="font-size:10.0pt;"> &#151; The Company also provides a variety of services to its independent dealers including motorcycle service and business management training programs and customized dealer software packages.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Financial Services segment consists of Harley-Davidson Financial Services (&#147;HDFS&#148;).&#160; HDFS provides wholesale and retail financing as well as insurance and insurance-related programs to Harley-Davidson dealers and their retail customers. HDFS does not manufacture any products that are subject to the Rule.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Supply Chain</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We rely on our direct suppliers to provide information regarding the presence of 3TG in components and materials that they supply to us and the origin of that 3TG &#151; including sources of 3TG that lower tier suppliers supply to them. Our supply chain includes approximately 600 different direct suppliers (excluding suppliers who only provide services to us).&#160; For the purposes of streamlining our compliance efforts described in this report, we treated our licensees the same as direct suppliers. However, we do not believe our relationships with our licensees constitute contracts to manufacture any of our products.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conflict Minerals Statement</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We adopted and disclosed the following Statement on Conflict Minerals:</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><b><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;font-weight:bold;">Harley-Davidson Statement on Conflict Minerals</font></i></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Harley-Davidson is committed to supporting responsible sourcing of its materials from suppliers that share our values around human rights and environmental responsibility. To further this objective, we are committed to complying with the requirements set forth in the final rule&nbsp;regarding the use of &#147;Conflict Minerals&#148; under Section&nbsp;1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and the related rules&nbsp;and regulations issued by the U.S. Securities and Exchange Commission (&#147;SEC&#148;).</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The rules&nbsp;and regulations require certain public companies to perform supply chain due diligence to identify the extent to which their products contain Conflict Minerals originating from the Democratic Republic of Congo and certain adjoining countries (&#147;Covered Countries&#148;). &#147;Conflict Minerals&#148; is currently defined as tin (cassiterite), tungsten (wolframite), tantalum (columbite-tantalite or coltan), and gold.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">In order to support a conflict-free supply chain and comply with the applicable rules&nbsp;and regulations, Harley-Davidson commits to:</font></i></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_115022_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><i><font size="2" style="font-size:10.0pt;font-style:italic;">Support the objectives of the legislation on Conflict Minerals.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><i><font size="2" style="font-size:10.0pt;font-style:italic;">Identify the presence of Conflict Minerals in our supply chain that are or may be necessary to the functionality of our product.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><i><font size="2" style="font-size:10.0pt;font-style:italic;">Develop repeatable processes to determine whether Conflict Minerals in our supply chain, if any, originate from Covered Countries or are derived from recycled or scrap sources.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><i><font size="2" style="font-size:10.0pt;font-style:italic;">Perform a series of supplier inquiries to ensure the responsible sourcing of minerals within our supply chain.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><i><font size="2" style="font-size:10.0pt;font-style:italic;">Educate our suppliers with respect to the SEC reporting requirements related to Conflict Minerals.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><i><font size="2" style="font-size:10.0pt;font-style:italic;">Require all of our suppliers to adhere to the H-D Supplier Code of Conduct, which includes the responsible sourcing of materials.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><i><font size="2" style="font-size:10.0pt;font-style:italic;">Prepare an appropriate disclosure for Harley-Davidson&#146;s required SEC filings on the due diligence performed.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">In addition to the foregoing commitments, we expect our suppliers to perform similar due diligence on the sources of Conflict Minerals in their respective supply chains and make their findings available to us.</font></i></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This statement is publicly available on our website at <i>http://investor.harley-davidson.com/phoenix.zhtml?c=87981&amp;p=irol-govhighlights&amp;locale=en_US&amp;bmLocale=en_US</i>.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Conflict Minerals Compliance Process</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Compliance Framework</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Our compliance measures conformed in all material respects with the framework in The Organisation for Economic Co-operation and Development (&#147;OECD&#148;) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, Second Edition (&#147;OECD Guidance&#148;), and the related Supplements for 3TG.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Statement on Conflict Minerals</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As described above, we adopted a Statement on Conflict Minerals, which is posted on our website at <i>http://investor.harley-davidson.com/phoenix.zhtml?c=87981&amp;p=irol-govhighlights&amp;locale=en_US&amp;bmLocale=en_US</i>.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_115034_5796"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Internal Team and Training</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company has established a steering committee relating to conflict minerals. Our steering committee is overseen by the Vice President &#151; Materials Management of Harley-Davidson Motor Company, and includes a team of subject matter experts from relevant functions such as supply chain, internal audit and legal. The team of subject matter experts is responsible for implementing our conflict minerals compliance strategy. Senior management is briefed about the results of our compliance efforts on a regular basis.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We continued to require participation in internal training programs to educate anyone within the Company that is a potential contact point for suppliers or other external parties regarding the Company&#146;s conflict minerals compliance efforts.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Control Systems</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Our controls aimed at ensuring the completeness and accuracy of our compliance efforts include the integration of our product data repositories with our internal conflict minerals survey tool, mechanisms to identify additional suppliers in our supply base, and the implementation of a standardized follow-up cadence with suppliers based on their survey responses.&#160; Additional controls include our Code of Business Conduct, which outlines expected behaviors for all our employees, and our Supplier Code of Conduct that requires suppliers to cooperate with our conflict minerals and other compliance efforts.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As we do not have direct relationships with 3TG smelters and refiners in the ordinary course of business, we are engaged and actively cooperate with other manufacturers in the motorcycle industry and other sectors to benchmark our compliance efforts and infrastructure with similarly-situated companies. As a member of the Conflict-Free Sourcing Initiative (CFSI), which is an initiative of the Electronic Industry Citizenship Coalition&#174; (EICC&#174;) and The Global e-Sustainability Initiative (GeSI), we are able to leverage benchmarking insight to ensure that our compliance efforts reflect current tools and processes. Our membership in CFSI also provides us with access to country of origin data and a list of smelters that are validated as &#147;conflict free&#148; through CFSI&#146;s Conflict Free Smelter Program.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Grievance Mechanism</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We have longstanding grievance mechanisms that allow employees and suppliers to report violations of the Company&#146;s policies, including our Supplier Code of Conduct.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_115048_2897"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Records Maintenance</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We have retained all relevant documentation from our country of origin inquiry and due diligence measures.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Identify and Assess Risk in Our Supply Chain</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Because of our size, the complexity of our products, and the depth, breadth, and constant evolution of our supply chain, it is difficult for us to identify actors upstream from our direct suppliers.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As described above, our efforts encompassed approximately 600 direct suppliers (excluding suppliers who only provide services to us), which constituted substantially our entire direct supply chain. We rely on suppliers whose materials or components contain 3TG to provide us with information about the source of 3TG contained in those materials or components. Our direct suppliers similarly rely upon information that their suppliers provide to them. Many of the largest suppliers either are SEC registrants and subject to the Rule&nbsp;or are suppliers to other SEC registrants that are subject to the Rule.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Design and Implement a Strategy to Respond to Risks</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company has an approved risk management matrix through which the conflict minerals program is implemented, managed, and monitored. Updates to this risk assessment are provided regularly to senior management.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Report on Supply Chain Due Diligence</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This conflict minerals report is being filed with the SEC as an exhibit to our specialized disclosure report on Form&nbsp;SD and is available on our website at <i>http://investor.harley-davidson.com/phoenix.zhtml?c=87981&amp;p=irol-sec&amp;locale=en_US&amp;bmLocale=en_US</i>.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">3.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Reasonable Country of Origin Inquiry and Results</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Supplier Surveys</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Consistent with our Statement on Conflict Minerals, we designed a country of origin inquiry to provide a reasonable basis for us to determine whether we source 3TG from the Democratic Republic of the Congo or an adjoining country (the &#147;Covered Countries&#148;). We continued to use the inquiry process that we developed with the assistance of an internationally-recognized accounting firm and further enhanced with certain resources and insight that we</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5<a name="PB_5_115110_3020"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">obtained through our membership in CFSI. Our inquiry involved asking approximately 600 suppliers to respond to surveys. We conducted the survey using the Conflict Minerals Reporting Template (the &#147;Template&#148;). The Template is a standardized reporting template developed by CFSI and is intended to facilitate the disclosure and communication of information regarding smelters that provide material to a company&#146;s supply chain. It includes questions regarding a direct supplier&#146;s conflict minerals policy, engagement with its direct suppliers, and a listing of the smelters the direct supplier and its suppliers use. In addition, the template contains questions about the origin of 3TG included in the direct supplier&#146;s products, as well as supplier due diligence. Many companies are using the Template in their compliance processes related to conflict minerals.&#160; Written instructions and recorded training illustrating the use of the tool are available on CFSI&#146;s website.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">To ensure that suppliers understood our expectations, we obtained a conflict minerals contact for each supplier and contacted each supplier that we surveyed by phone, email or other writing.&#160; We offered our suppliers free conflict minerals compliance training, utilizing resources and materials made available to us by CFSI, and made our employees available to answer suppliers&#146; questions.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We continued to maintain a centralized mailbox for routing conflict minerals-related inquires.&#160; We answered all questions that suppliers requiring further clarification presented to us.&#160; We then provided each supplier a copy of the Template to complete for the purposes of conflict minerals tracking.&#160; Furthermore, we reviewed responses to the Template with specific suppliers where we believed additional clarification was necessary.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Survey Responses and Follow-up Engagement</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The following summarizes matters relating to our survey responses:</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">In response to our inquiry, we received substantive responses from approximately 90% of the approximately 600 suppliers that we surveyed. We made at least two follow-up inquiries to each suppler that did not respond to our initial survey, by phone or email. We reviewed the responses against criteria developed to determine which required further engagement with our suppliers. These criteria included untimely or incomplete responses as well as inconsistencies within the data reported in the Template. We worked directly with those suppliers to provide revised responses.</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">The large majority of the responses that we received provided data at the supplier company level or a division/segment level relative to the supplier, rather than at a level directly relating to a part number that the supplier supplies to us, or were</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6<a name="PB_6_115120_7748"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='6',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt .75in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">otherwise unable to specify the smelters or refiners used for components supplied to us. We were therefore unable to determine whether any of the 3TG that these suppliers reported was actually contained in components or parts that the suppliers supplied to us or to validate that any of the smelters or refiners that the suppliers identified are actually in our supply chain.&#160; As a result, we have elected not to present smelter and refiner names in this report.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Approximately 75<b>%</b> of the supplier responses indicated that the suppliers did not use 3TG.</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">In approximately 21<b>%</b> of the responses, the supplier indicated that it used 3TG but that the 3TG it provided to us was not sourced from Covered Countries.</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Approximately 4%, or twenty-two, of the responses contained information suggesting that 3TG that the relevant suppliers use may be sourced from Covered Countries.</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conclusion</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We conducted our country of origin inquiry in good faith, and we believe that such inquiry was reasonable to allow us to make our determination.&#160; After reviewing the results of our country of origin inquiry, we determined that we had reason to believe that 3TG necessary for the functionality or production of our products from the twenty-two suppliers may have originated in a Covered Country during 2014, all within the meaning of the Rule. Therefore, we determined that the Rule&nbsp;required us to conduct due diligence regarding the source of such 3TG.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">4.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Due Diligence and Results</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Due Diligence</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In addition to implementing our conflict minerals compliance framework, in light of the responses to our inquiries from twenty-two suppliers that contained information suggesting that 3TG were sourced from Covered Countries, we completed specific due diligence measures in an effort to obtain additional information.&#160; In particular, we communicated further with the relevant suppliers seeking additional information as to whether any of the 3TG that these suppliers reported were actually contained in components or parts that the suppliers supplied to us, whether any of the 3TG that these suppliers reported in fact originated in a Covered Country and whether any of the 3TG that these suppliers reported benefit armed groups in Covered Countries.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In the process, we received responses that included the names of entities that our suppliers listed as smelters or refiners in their supply chains. We compared these entities to the</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">7<a name="PB_7_115129_141"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='7',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CFSI list of known smelters and refiners. Of the twenty-two suppliers that suggested they may source 3TG from Covered Countries, three provided us with lists of smelters or refiners, all of which appear on CFSI&#146;s list of certified &#147;Conflict-Free&#148; entities, and an additional three suppliers provided us with a list of smelters that are not located in Covered Countries or indicated that all of the 3TG in their supply chains is attributable to scrap or recycled sources. The smelter and refiner processing facilities attributable to the remaining 16 of the twenty-two suppliers do not appear on CFSI&#146;s list of certified Conflict-Free smelters or refiners. Despite our due diligence efforts and attempts to follow up with each of the remaining 16 suppliers to obtain additional information regarding their respective smelter and refiner processing facilities, we did not receive any reliable information indicating that these remaining facilities benefit armed groups in Covered Countries.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conclusion</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We conducted our due diligence in good faith.&#160; After reviewing the results of our due diligence, we did not find any evidence to suggest that any of the 3TG in our supply chain that may have originated in a Covered Country (a)&nbsp;finances any armed groups in the Covered Countries or (b)&nbsp;is actually contained in our products.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">5.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Future Actions to Improve Our Process</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In addition to the commitments set forth in our Statement on Conflict Minerals, we also intend to take the following steps to improve our conflict minerals program:</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">a.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Continue to review our training programs at least annually to make sure they remain aligned with current regulations, our initiatives, and the resources we use.</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">b.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Continue to engage with suppliers and direct them to training resources to attempt to increase the response rate and improve the content of the supplier survey responses.</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">c.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Continue to engage with suppliers to assist them in their efforts to improve the quality of information that they obtain from their supply chains.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">8<a name="PB_8_115137_7608"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='8',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">d.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Continue to engage any of our suppliers found to be supplying us with 3TG from sources in the Covered Countries that they cannot demonstrate are &#147;conflict free&#148; to encourage them to establish an alternative source of 3TG that they can demonstrate is &#147;conflict free&#148;.</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">e.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Continue to work with trade associations and others to define and improve best practices and build leverage over the supply chain in accordance with the OECD Guidance.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">9<a name="PB_9_115143_8146"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='9',FILE='C:\JMS\108184\15-13199-1\task7437794\13199-1-kg.htm',USER='108184',CD='Jun  1 11:53 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

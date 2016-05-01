@@ -1,0 +1,1086 @@
+<SEC-DOCUMENT>0000941548-15-000013.txt : 20150601
+<SEC-HEADER>0000941548-15-000013.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601154850
+ACCESSION NUMBER:		0000941548-15-000013
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAMERON INTERNATIONAL CORP
+		CENTRAL INDEX KEY:			0000941548
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL & GAS FILED MACHINERY & EQUIPMENT [3533]
+		IRS NUMBER:				760451843
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13884
+		FILM NUMBER:		15903248
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1333 WEST LOOP SOUTH
+		STREET 2:		STE 1700
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+		BUSINESS PHONE:		7135133322
+
+	MAIL ADDRESS:	
+		STREET 1:		1333 WEST LOOP SOUTH
+		STREET 2:		STE 1700
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COOPER CAMERON CORP
+		DATE OF NAME CHANGE:	19950315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>formsd.htm
+<DESCRIPTION>FORM SD 2015
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Cameron
+    Document created using Disclosure Solutions PROFILE 3.1.1.0
+    Copyright 1995 - 2015 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif" bgcolor="#ffffff" text="#000000">
+<div>
+<div>&#160;</div>
+
+<div>
+<hr style="BORDER-TOP: black 4px solid; HEIGHT: 10px; BORDER-BOTTOM: black 1px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto">
+<br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">UNITED STATES</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Washington, D.C. 20549</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">FORM SD</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">SPECIALIZED DISCLOSURE REPORT</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div>
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Cameron International Corporation</div>
+
+<div><br>
+</div>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Exact name of registrant as specified in its charter)</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+<table id="535ae895c50b4e1bb79b2aaccf3f60e5" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 38.88%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Delaware</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">___________________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(State or other</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">jurisdiction of</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">incorporation)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 27.78%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">1-13884</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">_________________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Commission</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">File Number)</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 33.34%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">76-0451843</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">___________________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(I.R.S. Employer</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">Identification No.)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+<table id="5016040c21c94261be163696f45b5995" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 52.94%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">1333 West Loop South, Suite 1700,</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Houston, Texas</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">________________________________________</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 47.06%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">77027</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">_______________</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 52.94%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Address of Principal Executive Offices)</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 47.06%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Zip Code)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><br>
+ &#160;</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">
+<table id="ddc14d354e4846389472206bf9714bc2" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, Serif; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">Grace B. Holmes</div>
+</td>
+<td style="WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(713) 513-3300</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Name and telephone number, including area code, of the </div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">person to contact in connection with this report.)</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies:</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: left">
+<table id="269f5caec5bb480fa62c6244fe547609" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">_&#8730;__</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014.</td>
+</tr>
+</table>
+</div>
+
+<div>
+<hr style="BORDER-TOP: black 1px solid; HEIGHT: 10px; BORDER-BOTTOM: black 4px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto">
+<br>
+</div>
+
+<div><br>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 1- Conflict Minerals Disclosure</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; FONT-STYLE: italic; TEXT-ALIGN: left">Item 1.01 Conflict Minerals Disclosure and Report</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Cameron International Corporation has filed its Conflict Minerals Report for the calendar year ended December 31, 2014 as Exhibit 1.01.&#160; The Conflict Minerals Report is available at http://investors.c-a-m.com/compliance.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Information concerning conflict minerals from recycled or scrap sources that may be contained in our in-scope products is included in the Conflict Minerals Report and is incorporated in this Form SD by reference.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; FONT-STYLE: italic; TEXT-ALIGN: left">Item 1.02 Exhibit</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Attached as an exhibit to this Form SD is the Conflict Minerals Report required by Item 1.01.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-TOP: 6pt">Section 2- Exhibits</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; FONT-STYLE: italic; TEXT-ALIGN: left">Item 2.01 Exhibits</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Exhibit 1.01 &#8211; Conflict Minerals Report of Cameron International Corporation.</div>
+
+<div><br>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div><br>
+ &#160;</div>
+
+<div><br>
+ &#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt">SIGNATURES</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt">CAMERON INTERNATIONAL CORPORATION</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="097a2fdf62d346ba9898e4347b878604" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 216pt; align: right"><u>/s/ William C. Lemmer</u></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">June 1, 2015</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="811e809ee98c4da7b3c63bf13fc5f483" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">By:</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">William C. Lemmer</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="c639d024cab24b5b91cf00281c39059e" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">Title:</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">Senior Vice President and General Counsel</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>ex101.htm
+<DESCRIPTION>EXHIBIT 1.01
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Cameron
+    Document created using Disclosure Solutions PROFILE 3.1.1.0
+    Copyright 1995 - 2015 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif" bgcolor="#ffffff" text="#000000">
+<div style="TEXT-ALIGN: left">
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: right; MARGIN-LEFT: 36pt; TEXT-INDENT: -35.95pt">Exhibit 1.01</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center; MARGIN-LEFT: 36pt; TEXT-INDENT: -35.95pt">Cameron International Corporation</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center; MARGIN-LEFT: 36pt; TEXT-INDENT: -35.95pt">Conflict Minerals Report</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center; MARGIN-LEFT: 36pt; TEXT-INDENT: -35.95pt">For the Year Ended December 31, 2014</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">This Conflict Minerals Report of Cameron International Corporation (the "Company" or "Cameron") for calendar year 2014 is presented pursuant to Rule 13p-1 under the Securities Exchange Act of 1934, as amended, and the requirements of Form SD (collectively, "the Rule").&#160; The Rule imposes certain reporting obligations on SEC registrants whose products they manufacture or contract to manufacture contain Conflict Minerals.&#160; "Conflict Minerals" and "3TG," as used herein and consistent with the Rule, are cassiterite, columbite-tantalite, gold, wolframite and the derivatives tin, tantalum and tungsten, without regard to their location of origin.</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: justify; MARGIN-TOP: 18pt">Forward-Looking Statements</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">This document contains "forward-looking statements" made within the meaning of the Private Securities Litigation Reform Act of 1995.&#160; Words such as "believes," "anticipates," "plans," "may," "intends," "will," "should," "expects" and similar expressions or the use of the future tense are intended to identify forward-looking statements.&#160; In addition, any statements that do not relate to historical or current facts or matters are forward-looking statements.&#160; Statements concerning current conditions may also be forward-looking if they imply a continuation of current conditions.&#160; Examples of forward-looking statements within this document include, but are not limited to, statements concerning the additional steps that Cameron intends to take to mitigate the risk that its 3TG benefits armed groups.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Forward-looking statements are subject to risks and uncertainties that could cause actual actions or performance to differ materially from those expressed in the forward-looking statements.&#160; These risks and uncertainties include, but are not limited to: (1) the continued implementation of satisfactory traceability and other compliance measures by Cameron's direct and indirect suppliers on a timely basis or at all; (2) whether smelters and refiners and other market participants responsibly source 3TG; and (3) political and regulatory developments, whether in the Democratic Republic of the Congo ("DRC") region, the United States or elsewhere.&#160; You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of the filing of this document.&#160; Cameron does not intend, and undertakes no obligation, to publish revised forward-looking statements to reflect events or circumstances after the date of the filing of this document or to reflect the occurrence of unanticipated events.</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: left; MARGIN-LEFT: 18pt; MARGIN-TOP: 18pt; TEXT-INDENT: -18pt">Overview</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">Cameron is a leading provider of flow and pressure control equipment products, systems and services to worldwide oil and gas industries.&#160;&#160; Cameron is subject to the Rule because it manufactures and contracts to manufacture products that contain </font>3TG.</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">Cameron does not directly source 3TG from mines, smelters or refiners and believes that it is many levels removed from these market participants.&#160; Cameron, therefore, has limited influence over mines, smelters and refiners.&#160; Furthermore, because of the depth, geographic diversity and constant evolution of Cameron's supply chain and competitive factors affecting its supplier base, it has challenges identifying market participants</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">1</div>
+
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">upstream from its direct suppliers.&#160; However, through the efforts described in this Conflict Minerals Report, Cameron seeks to ensure that its sourcing practices are consistent with its Conflict Minerals Policy described below.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">Cameron has filed this Conflict Minerals Report because, for 2014, despite its due diligence efforts discussed herein, it was unable to determine the origin of at least a portion of the 3TG contained in all of the in-scope products that it manufactured or contracted to manufacture.&#160; None of the 3TG contained in Cameron's in-scope products were determined by it to directly or indirectly finance or benefit armed groups in the DRC or an adjoining country.&#160; However, it did not conclude that any of its products were "DRC conflict free."&#160; The terms "adjoining country," "armed group" and "DRC conflict free" have the meanings contained in the Rule.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: left">Conflict Minerals Policy</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron has adopted a company policy for the supply chain of 3TG (the "Policy").</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Under the Policy, Cameron will work with its suppliers to develop due diligence practices to enable full compliance with the Rule.&#160; The Policy indicates that Cameron also expects its suppliers to adopt a similar policy, to respond to annual inquiries related to 3TG and to undertake reasonable due diligence with their supply chain to understand the source of origin of the minerals contained in the parts, components and products they provide to Cameron in order to allow for proper disclosure and compliance with the Rule.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify; MARGIN-TOP: 12pt">In the event that a supplier cannot or will not adhere to the above requirements, the Policy indicates that it is Cameron's intent to take appropriate actions to seek sources of supply that can and do comply with the Rule.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: justify; MARGIN-TOP: 18pt">Reasonable Country of Origin Inquiry</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify; MARGIN-TOP: 12pt">As required by the Rule, for 2014, Cameron conducted a "reasonable country of origin inquiry." Cameron's outreach included 4,181 direct suppliers (the "Suppliers") it identified as having provided it with components, parts or products that contain 3TG or that Cameron believes may have provided it with components, parts or products that contain 3TG.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">For 2014, the Suppliers identified to Cameron 228 unique smelters and refiners, some of which processed more than one type of 3TG mineral, as potentially having processed the 3TG contained in its in-scope products, as described under "Product, Smelter, Refiner and Country of Origin Information."&#160; Based on Cameron's reasonable country of origin inquiry, it concluded that 19 of these smelters and refiners sourced solely from outside of the DRC and its adjoining countries., In connection with Cameron's reasonable country of origin inquiry, the Suppliers identified 4 smelters and refiners that may have partially sourced recycled or scrap content.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron's origin conclusions were based on analysis conducted by a service provider (the "Service Provider") that it retained to assist with the collection, validation and review and analysis of the information received from the Suppliers.&#160; Some of the compliance activities described in this Conflict Minerals Report were performed by the Service Provider on Cameron's behalf.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Pursuant to the Rule, based on the results of its reasonable country of origin inquiry, Cameron was required to conduct due diligence for 2014. These due diligence efforts are discussed in this Conflict Minerals Report.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">For its reasonable country of origin inquiry, to the extent applicable, Cameron utilized the same processes and procedures as for its due diligence.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">2</div>
+
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: left; MARGIN-TOP: 18pt">Design of Due Diligence Program</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: justify; MARGIN-TOP: 12pt">Design Framework</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron's due diligence process is designed to conform with the Organisation for Economic Co-operation and Development's Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, including the supplements on tin, tantalum and tungsten and on gold (Second Edition, 2013) (the "OECD Guidance").</div>
+
+<div><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: justify">Selected Elements of Design Framework</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">The OECD Guidance has established a five-step framework for due diligence as a basis for responsible global supply chain management of minerals from conflict-affected and high-risk areas. Selected elements of Cameron's program design are discussed below. The headings below conform to the headings used in the OECD Guidance for each of the five steps. Selected due diligence measures that Cameron took in respect of 2014 are discussed under "Due Diligence Program Execution."</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: left"><u>OECD Guidance Step 1: Establish strong company management systems</u></div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic"><u>Internal team</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic">.&#160; </font>Cameron has a Conflict Minerals Steering Committee comprised of executive-level and business- level supply chain directors who provide both governance and oversight over the execution of the 3TG compliance program, some of whom also have direct contact with our suppliers.&#160; The Steering Committee meets on a regular basis and is supported by the Conflict Minerals project team, led by a program manager.&#160; Some of the functional areas participating on the Steering Committee and the project team include Engineering, Finance, I.T., Legal, Quality and Supply Chain.&#160; Cameron supplements its compliance efforts with specialist outside counsel and the Service Provider.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic"><u>Conflict Minerals Policy</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic">.&#160; </font>Cameron has adopted the Policy, which is described earlier in this Conflict Minerals Report.&#160; The Policy is posted on Cameron's website and is distributed to relevant employees and suppliers.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic"><u>Data-Gathering Tool</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic">.&#160; </font>Through the Service Provider, Cameron uses the Conflict Minerals Reporting Template developed by the Conflict-Free Sourcing Initiative (the "CFSI") to identify smelters and refiners in its supply chain.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic"><u>Standard Operating Procedures</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic">.&#160; </font>Standard operating procedures have been developed to guide and sustain Cameron's 3TG compliance program.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic"><u>Records Retention</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic">.&#160; </font>Cameron stores records of due diligence processes, findings and resulting decisions and any other business records relating to 3TG due diligence for at least five years.&#160; These records are generally stored in an electronic format.</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic"><u>Grievance Mechanism</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic">.&#160; </font>Customers, suppliers, stakeholders and other external parties can report concerns with and violations of the Policy through Cameron's ethics and compliance channel, by web or email.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: left"><u>OECD Guidance Step Two: Identify and assess risk in the supply chain</u></div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">The Service Provider requests by email that suppliers provide Cameron with information, through the completion of a CFSI Conflict Minerals Reporting Template or the Service Provider's equivalent survey mechanism, </div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">3</div>
+
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">concerning the usage and source of 3TG in the suppliers' products, as well as information concerning the suppliers' related compliance measures.&#160; Cameron or the Service Provider then contacts by email or phone suppliers that do not respond to the request within the specified time frame.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">The Service Provider reviews the responses received from suppliers for plausibility, consistency and gaps.&#160; It then contacts by email or phone suppliers who submit a response that triggers specified quality control flags.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Smelter and refiner information provided by a supplier is reviewed against the Service Provider's internal database. To the extent not in that database, the Service Provider requests the supplier to confirm that the listed entity is a smelter or refiner.&#160; Smelter and refiner information also is reviewed by the Service Provider against the lists of "compliant" and "active," or the equivalent, smelters and refiners published by the CFSI, the London Bullion Market Association ("LBMA") and the Responsible Jewellery Council ("RJC").&#160; To the extent that a smelter or refiner identified by a supplier is not listed as compliant or the equivalent by an independent third-party, the Service Provider attempts to contact the smelter or refiner to gain more information about its sourcing practices, including countries of origin and transfer and whether there are internal due diligence procedures in place or other processes the smelter or refiner takes to track the chain of custody on the source of its 3TG.&#160; Internet research is also performed to determine whether there are any outside sources of information regarding the smelter's or refiner's sourcing practices.&#160; "Red flags" are assigned to smelters and refiners where there is evidence of sourcing from a "Level 2 country" (i.e., a known or plausible country for smuggling out of the DRC region, export or transit) or declaration of sourcing from countries which are unknown reserves for a given metal.&#160; Compliant smelters and refiners are reviewed against the Service Provider's internal country of origin database.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">If a supplier does not provide information concerning the processors of 3TG in its supply chain, the Service Provider requests information on the suppliers' Tier 2 suppliers.&#160; The Tier 2 suppliers, and subsequent tiers of suppliers as identified to the Service Provider, are then contacted by the Service Provider following the procedures described above.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Based on the information furnished by Cameron's suppliers, the Service Provider and other information known to Cameron, it assesses the risks of sourcing from non-compliant sources.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: justify"><u>OECD Guidance Step Three: Design and implement a strategy to respond to identified risks</u></div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron's Conflict Minerals Steering Committee and Conflict Minerals project team regularly report the findings of their supply chain risk assessment to Cameron's senior leadership.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron addresses identified risks on a case-by-case basis.&#160; This flexible approach enables it to tailor the response to the risks identified.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: justify"><u>OECD Guidance Step Four: Carry out independent third-party audit of supply chain due diligence at identified points in the supply chain</u></div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">In connection with Cameron's due diligence, if a smelter or refiner is identified as a point in Cameron's supply chain, the Service Provider reviews information concerning independent third-party audits of such smelters and refiners made available by the CFSI, the LBMA and the RJC.</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic"><u>OECD Guidance Step 5:</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><u>&#160;</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic"><u>Report on supply chain due diligence</u></font></div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron files a Form SD, and to the extent applicable a Conflict Minerals Report, with the Securities and Exchange Commission, and makes these filings available on its website.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">4</div>
+
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: justify">Due Diligence Program Execution</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify; MARGIN-TOP: 12pt">In connection with Cameron's 3TG due diligence for 2014, the following due diligence measures were performed.&#160; These were not all of the measures that Cameron took in furtherance of its 3TG compliance program or pursuant to the Rule and the OECD Guidance.&#160; For a discussion of the design of Cameron's due diligence measures, please see "Design of Due Diligence Program."</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="d6098edecfe248cca8bd81b6756c1e7c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">The Service Provider requested by email that the Suppliers provide a completed Conflict Minerals Reporting Template.&#160; Requests were sent to 4,181 Suppliers.&#160; An email also was sent describing Cameron's compliance program requirements and including a link to the Service Provider's on-line supplier education portal and contact email addresses and telephone numbers for obtaining answers to questions and/or guidance on completing Cameron's survey request.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="6365d603f3584b8fb4069a611941ed5a" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Suppliers were requested to provide responses at the product level (i.e., responses specific to the products they sold to Cameron, rather than for the products they sold to all of their customers).&#160; To facilitate reporting at the product level, the products Cameron sourced from a Supplier were communicated to the Supplier as part of the survey request.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="94bdd4da94d4404baaf28794962fc7c3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">The Service Provider then made contact by email or phone with all Suppliers who did not respond to the request within a specified time frame.&#160; To the extent that, after the foregoing efforts, the Supplier still did not provide the information requested, an escalation process was initiated.&#160; The escalation process consisted of direct outreach by Cameron personnel to the Supplier.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="244bb03f48094dd9a6f7481e0b8d9815" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">The Service Provider reviewed the responses received from the Suppliers based on its internally-developed written review criteria for plausibility, consistency and gaps.&#160; As part of that review, if a Supplier indicated that there was no 3TG in the products it supplied to Cameron, the Service Provider reviewed those responses for plausibility and Suppliers were also given an opportunity to provide a certification of that determination.&#160; The Service Provider contacted by email or phone the Suppliers who submitted a response which triggered specified quality control flags.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="e36be709e16d40708426c2f50a2a4922" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">The Service Provider reviewed the smelters and refiners identified by the Suppliers against those contained in its internal database. To the extent not in that database, it requested the Supplier confirm that the listed entity is a smelter or refiner.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="2fa5d7af1acc4d3d9d49df05d3de77ba" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">With respect to those completed responses identifying a smelter or refiner, the Service Provider then&#160; reviewed that information against the lists of compliant and active, or the equivalent, smelters and refiners published by the CFSI, the LBMA and the RJC.&#160; 132 of the smelters and refiners identified by the Suppliers were listed as compliant or the equivalent for at least one type of 3TG metal by an independent third-party as of April 15, 2015, and 56 were listed as active or the equivalent.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="6d9f7b0d13df402b83f636bf9200201f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; COLOR: #000000; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">With respect to the </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">98 </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">smelters and refiners identified by a Supplier that were not listed as compliant or the equivalent by an independent third-party for a particular 3TG metal, the Service Provider attempted to contact the smelter or refiner and/or consulted publicly available information to attempt to determine the minerals processed by the smelter or refiner, the country of origin, whether the 3TG was from sources that directly or indirectly financed or benefitted armed groups in the DRC or an adjoining country and the smelter or refiner's due diligence measures.</font></td>
+</tr>
+</table>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">5</div>
+
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="6754f2978c3345eaadbe9a04e3393590" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">For those Suppliers that did not provide information concerning the processors of 3TG in their supply chain, the Service Provider requested information on the Suppliers' Tier 2 suppliers.&#160; The Tier 2 suppliers, and subsequent tiers of suppliers identified to the Service Provider, were then contacted by the Service Provider.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="f727f3736b63490f8e002b3e081ce246" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Cameron's Conflict Minerals Steering Committee and project team regularly reported the findings of its supply chain risk assessment to Cameron's senior leadership.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="fba75c168a374c439526dd3d7734261c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">In addition, to mitigate the risk that the 3TG contained in Cameron's in-scope products directly or indirectly finance or benefit armed groups in the DRC or an adjoining country:</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="c8cec9d58dbc48ba91bbcf61ac397bee" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 49.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">o</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Cameron assessed the need for identifying alternative 3TG suppliers to replace those suppliers that do not respond to its information requests.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="ad78300be0d642f7a34116dab57a4598" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 49.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">o</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">As part of its outreach on Cameron's behalf, the Service Provider furnished the Suppliers with written information discussing the Rule, the OECD Guidance and Cameron's compliance requirements.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="8336f261a05741e1bde25bad217d7d47" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 49.5pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">o</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Through the Service Provider, compliance training and other compliance resources were made available to Cameron's suppliers.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron received responses from 74% of the Suppliers it categorized as high spend.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: left; MARGIN-LEFT: 18pt; TEXT-INDENT: -18pt">Product, Smelter, Refiner and Country of Origin Information</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: left">In-Scope Product Categories</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron's in-scope products include products in the following categories.&#160; Note that not all of Cameron's products in these categories were in-scope for purposes of its compliance.</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="770485786384408f94e7b47ee7509ce0" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 0pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">Drilling equipment packages, blowout preventers, drilling risers, top drives, draw works, complete wellhead and Christmas tree systems for onshore and offshore applications, subsea production systems and manifolds and aftermarket parts.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="6ef98c8e14bb4ab6b1afafed210fbd7d" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 0pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">Valves, actuators, chokes and aftermarket parts and measurement products that include totalizers, turbine meters, flow computers, chart recorders, ultrasonic flow meters and sampling systems.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="a355267c51574aa2954743a4b8378157" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 0pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">Oil and gas separation equipment, heaters, dehydration and desalting units, gas conditioning units, membrane separation systems, water processing systems, integral engine-compressors, separable reciprocating compressors, two and four-stroke cycle gas engines, turbochargers, integrally-geared centrifugal compressors, compressor systems and controls.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: left; MARGIN-TOP: 18pt">Identified Smelters and Refiners</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron did not find that any of its 2014 in-scope products supported conflict (i.e., contained 3TG that directly or indirectly financed or benefitted an armed group, as defined by the Rule, in the DRC or an adjoining country). But, due to the challenges of tracing a multi-tier supply chain, for 2014, Cameron was unable to determine the origin of at least a portion of the 3TG in each of its in-scope products.&#160; As a result, Cameron was unable to conclude that any of its products were "DRC conflict free."</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">In connection with its 2014 reasonable country of origin inquiry or due diligence, as applicable, the Suppliers</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">6</div>
+
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">identified to Cameron the facilities described below as potentially having processed the 3TG contained in Cameron's in-scope products.&#160; Due to Cameron's position in the supply chain, which is discussed earlier in this Conflict Minerals Report, it relies on its suppliers for accurate smelter and refiner information and its reasonable country of origin inquiry and due diligence measures do not provide absolute certainty regarding the source and chain of custody of the 3TG contained in its in-scope products.&#160; Please see the notes following the table for additional information concerning the information in the table.</div>
+
+<div style="BACKGROUND-COLOR: #ffffff">
+<div></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, Serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-TOP: 18pt">Smelter and Refiner and Country of Origin Information<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">(1)</sup></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<table id="5feb9a78470348f1bb7e911f21aa5981" style="FONT-SIZE: 10pt; HEIGHT: 150px; FONT-FAMILY: 'Times New Roman', Times, Serif; WIDTH: 48%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 8%">&#160;</td>
+<td style="BORDER-TOP: #000000 2px solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="3">
+<div style="BACKGROUND-COLOR: #ffffff">
+<div>&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-VARIANT: normal; FONT-WEIGHT: normal; FONT-STYLE: normal; TEXT-ALIGN: center; BACKGROUND-COLOR: #ffffff"><u>Compliant</u></div>
+
+<div>&#160;</div>
+</div>
+</td>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; WIDTH: 8%">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 17px">
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; WIDTH: 8%">&#160;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-VARIANT: normal; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%; BACKGROUND-COLOR: #ffffff">
+<div><u>DRC Region Sourced</u></div>
+</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, Serif; FONT-VARIANT: normal; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%; BACKGROUND-COLOR: #ffffff">
+<div style="TEXT-ALIGN: center"><u>Non-DRC Region Sourced</u></div>
+</td>
+<td style="FONT-SIZE: 10pt; FONT-VARIANT: normal; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%; BACKGROUND-COLOR: #ffffff">
+<div><u>Recycled <font style="FONT-FAMILY: 'Times New Roman', Times, serif">or Scrap</font></u></div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="BACKGROUND-COLOR: #ffffff"><u>Active</u></div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="BACKGROUND-COLOR: #ffffff"><u>Known</u></div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 22px">
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff">Tantalum</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">37</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">1</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">1</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">0</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">2</div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 19px">
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff">Tin</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">&#160;27</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">7</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">1</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">20</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">19</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff">Tungsten</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">&#160;31</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">33</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">0</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">18</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">2</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff">Gold</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">63</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">11</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">2</div>
+</td>
+<td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">24</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #000000 2px solid; WIDTH: 8%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; BACKGROUND-COLOR: #ffffff">20</div>
+</td>
+</tr>
+</table>
+
+<div style="TEXT-ALIGN: center; BACKGROUND-COLOR: #ffffff">&#160;</div>
+
+<div style="TEXT-ALIGN: justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">(1)</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.14pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">Please<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#160;</font>note the following in connection with the information contained in the foregoing table:</font></div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="303fad93668447e2ad7539ba4c83721c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(a)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">The smelters and refiners described in the table were identified by the Suppliers.&#160; However, not all of the included smelters and refiners may have processed the 3TG contained in Cameron's in-scope products, since many of the Suppliers reported to Cameron at a "company" level the 3TG contained in all of their products, not just that in the products that they sold to Cameron.&#160; Some Suppliers also may have reported smelters and refiners that were not in their supply chain due to over-inclusiveness in the information received from their suppliers.&#160; The smelters and refiners reflected above may not be all of the smelters and refiners in Cameron's supply chain, since many Suppliers were unable to identify all of the smelters and refiners used to process the 3TG content contained in the products reported to Cameron and not all of the Suppliers responded to Cameron's inquiries.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="3dbdcd9366154a2a9ab723fc2273661d" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(b)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">All compliance status information in the table is as of April 15, 2015.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="32f964f715224861a624e7b3652a1f7c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(c)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">"Compliant" means that a smelter or refiner was listed as compliant with the Conflict-Free Smelter Program's ("CSFP") assessment protocols, including through mutual recognition, or was indicated as "Re-audit in process."&#160; Included smelters and refiners were not necessarily Compliant for all or part of 2014 and may not continue to be Compliant for any future period.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="BACKGROUND-COLOR: #ffffff">
+<div style="TEXT-ALIGN: justify">
+<table id="1dc1cd5a7da247c99d3a0de7d953e8db" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(d)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">"Active" means that the smelter or refiner was listed as having submitted a signed Agreement for the Exchange of Confidential Information and Auditee Agreement contracts to the CFSP or, according to information published by the CFSI, the smelter has agreed to complete a CFSP validation audit within two years of membership issuance by the Tungsten Industry &#8211; Council Minerals Council.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="2a6489ab484143e79094dd3a205c7d8b" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(e)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">A smelter or refiner is listed as "Known" if it was not Compliant or Active.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="936bc3747f5945818cd496dd1db80646" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(f)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">"DRC Region" means the DRC and its adjoining countries.&#160; Origin information was derived from information obtained or otherwise provided by the Service Provider.&#160; Compliant smelters and refiners are included under each category from which their 3TG originates, based on information provided to us by the Service Provider.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify">
+<table id="9bcbf7cf547b412696713679677ae581" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; WIDTH: 36pt; align: right">(g)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto">The compliance status reflected in the table is based solely on information made publicly available by the CFSI, LBMA and/or RJC, without independent verification by Cameron.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: justify">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-STYLE: italic; TEXT-ALIGN: justify">Country of Origin Information</div>
+
+<div><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify; MARGIN-TOP: 12pt">The countries of origin of the 3TG processed by the Compliant smelters and refiners described above may have included the countries listed below.&#160; Cameron has not been able to determine the country of origin of any of the other smelters and refiners described in the table.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">7</div>
+
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">L1 &#8211; Countries that are not identified as conflict regions or plausible areas of smuggling or export of from these regions of 3TG: Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Canada, Chile, China, Colombia, Cote d'Ivoire, Czech Republic, Djibouti, Egypt, Estonia, Ethiopia, France, Germany, Guyana, Hungary, India, Indonesia, Ireland, Israel, Japan, Kazakhstan, Laos, Luxembourg, Madagascar, Malaysia, Mongolia, Myanmar, Namibia, Netherlands, Nigeria, Peru, Portugal, Russia, Sierra Leone, Singapore, Slovakia, South Korea, Spain, Suriname, Switzerland, Taiwan, Thailand, United Kingdom, United States, Vietnam and Zimbabwe.</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">L2 &#8211; Countries that are known or plausible countries for smuggling, export out of region or transit of materials containing 3TG: Kenya, Mozambique and South Africa.</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">L3 &#8211; The DRC and its nine adjoining countries:&#160;Angola, Burundi, Central African Republic, Republic of Congo, Rwanda, South Sudan, Uganda, United Republic of Tanzania and Zambia.</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">DRC &#8211; The Democratic Republic of the Congo.</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">In addition, some of the described smelters and refiners are believed to have processed 3TG originating from recycled or scrap sources.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron endeavored to determine the mine or location of origin of the 3TG contained in its in-scope products by requesting that the Suppliers provide it with a completed CFSI Conflict Minerals Reporting Template and through the other procedures followed by it and the Service Provider that are described in this Conflict Minerals Report.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: justify; MARGIN-TOP: 18pt">Future Risk Mitigation Efforts</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Cameron intends to take the following additional steps during 2015, either directly or through the Service Provider, to mitigate the risk that any of the 3TG in its in-scope products could benefit armed groups:</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="5f55992ab73d4069b2f680564bd7edd6" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Utilize Revision 4.0 of the CFSI Conflict Minerals Reporting Template for 2015 supplier outreach.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="15e16e499fdc490a8fbe43cade88734e" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Continue to assess the need for identifying alternative 3TG suppliers to replace non-reporting suppliers.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="c8db293c1cf44c67ae21b05be232b323" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Encourage Suppliers providing company level information for 2014 to provide product level information for 2015 through ongoing outreach with these Suppliers.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="eca974629fa44c178f19757ed14b1b34" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Engage with Suppliers providing incomplete responses or providing no responses for 2014, to help ensure that they provide requested information for 2015.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="f1e717a3c0804ffc9f9c868bd830a0d1" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Monitor and encourage the continuing development and progress of traceability measures at Suppliers indicating for 2014 that the source of 3TG was unknown or undeterminable.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="dce440b83a4944ed89e567628bb681b6" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Communicate to new in-scope suppliers Cameron's sourcing expectations, including through the dissemination of the Policy to them.&#160; In addition, as new in-scope suppliers are added, work with these suppliers to ensure that they understand the requirements of the Policy, the Rule and the OECD Guidance.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="6f41dab0519b476bbbc6e78f1fa8cb38" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Participate in selected industry initiatives to identify smelters and refiners in the supply chain.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="27e8cf6acf514124b71f380689a17362" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; COLOR: #000000; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; TEXT-ALIGN: justify; WIDTH: auto"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">Develop a 3TG flow-down clause that requires suppliers to identify their 3TG sourcing, for inclusion in new or renewed direct supplier contracts, and</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">work with Cameron's supply chain leadership to develop an effective approach to integrating the 3TG flow-down provision into appropriate contracts.</font></td>
+</tr>
+</table>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">8</div>
+
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; TEXT-ALIGN: justify">
+<table id="085a49d7234246b7bf2a2e7c54227094" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">&#183;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; VERTICAL-ALIGN: top; COLOR: #000000; TEXT-ALIGN: justify; WIDTH: auto">Contact smelters and refiners identified as a result of the due diligence process who were not certified as compliant or the equivalent by an independent third-party, requesting that they obtain an audit from a recognized industry program, such as the CFSP.</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">All of the foregoing steps are in addition to the steps Cameron took in respect of 2014, which it intends to continue to take in respect of 2015 to the extent applicable.</div>
+</div>
+
+<div id="DSPFPageNumberArea" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, Serif; TEXT-ALIGN: center">9</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

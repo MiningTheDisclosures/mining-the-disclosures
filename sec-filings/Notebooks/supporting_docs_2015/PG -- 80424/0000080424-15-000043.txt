@@ -1,0 +1,1641 @@
+<SEC-DOCUMENT>0000080424-15-000043.txt : 20150601
+<SEC-HEADER>0000080424-15-000043.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601113110
+ACCESSION NUMBER:		0000080424-15-000043
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		3
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PROCTER & GAMBLE Co
+		CENTRAL INDEX KEY:			0000080424
+		STANDARD INDUSTRIAL CLASSIFICATION:	SOAP, DETERGENT, CLEANING PREPARATIONS, PERFUMES, COSMETICS [2840]
+		IRS NUMBER:				310411980
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00434
+		FILM NUMBER:		15901978
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PROCTER & GAMBLE PLAZA
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+		BUSINESS PHONE:		5139831100
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PROCTER & GAMBLE PLAZA
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROCTER & GAMBLE CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>conflictmineralsye2014.htm
+<DESCRIPTION>CONFLICT MINERALS YEAR ENDED 2014
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: The Procter & Gamble Company
+    Document created using EDGARfilings PROfile 3.3.0.0
+    Copyright 1995 - 2015 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt" bgcolor="#ffffff" text="#000000">
+<div>&#160;
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: bold 14pt/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><br class="Apple-interchange-newline">
+ UNITED STATES</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: bold 14pt/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: bold 12pt/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Washington, D.C. 20549</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: bold 14pt/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><font style="FONT-SIZE: 14pt">FORM</font>&#160;SD</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: bold 12pt/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Specialized Disclosure Report</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><img src="pglogo.jpg"></div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+<table style="WIDTH: 100%; FONT-SIZE: 12pt" id="da1ae178caff486db90a4356bd7d8daa" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 1583px; BORDER-TOP: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 14pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">THE PROCTER &amp; GAMBLE COMPANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 1583px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">(Exact name of registrant as specified in its charter)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: center; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+<table style="WIDTH: 100%; FONT-SIZE: 12pt" id="d7824bdca1594396914a163dc3f1b3d5" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 528px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">Ohio</div>
+</td>
+<td style="WIDTH: 47px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 456px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">1-434</div>
+</td>
+<td style="WIDTH: 47px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 505px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">31-0411980</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 528px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">(State or other jurisdiction</div>
+
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">of incorporation)</div>
+</td>
+<td style="WIDTH: 47px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+<td style="WIDTH: 456px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">(Commission File Number)</div>
+</td>
+<td style="WIDTH: 47px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+<td style="WIDTH: 505px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">(IRS Employer</div>
+
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">Identification Number)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: left; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+<table style="WIDTH: 100%; FONT-SIZE: 12pt" id="76d59e302f724dcb8d2c0638d14b4a18" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 1031px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">One Procter &amp; Gamble Plaza, Cincinnati, Ohio</div>
+</td>
+<td style="WIDTH: 47px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 505px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">45202</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 1031px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">(Address of principal executive offices)</div>
+</td>
+<td style="WIDTH: 47px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+<td style="WIDTH: 505px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">Zip Code</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: left; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+<table style="WIDTH: 100%; FONT-SIZE: 12pt" id="f03e4570dde5464b9ebadb846424fc7c" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 1031px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">Giles Roblyer</div>
+</td>
+<td style="WIDTH: 47px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 505px" valign="top">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">(513) 983-1100</div>
+</td>
+</tr>
+
+<tr>
+<td style="TEXT-ALIGN: center; WIDTH: 1583px; FONT-SIZE: 12pt; FONT-WEIGHT: normal" valign="top" colspan="3">(Name and telephone number, including area code, of the person to contact in connection with this report.)</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: left; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-ALIGN: left; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+<table style="WIDTH: 100%; FONT-SIZE: 12pt" id="c637be5bf07f47febcc9e06a0419385e" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="TEXT-ALIGN: left; TEXT-INDENT: 9pt; PADDING-LEFT: 0pt; WIDTH: 1583px; MARGIN-LEFT: 446pt; FONT-SIZE: 12pt; BORDER-TOP: black 2px solid; FONT-WEIGHT: normal" valign="top" colspan="2">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies:</td>
+</tr>
+
+<tr>
+<td style="TEXT-ALIGN: center; WIDTH: 80px" valign="middle">&#160;&#160;</td>
+<td style="WIDTH: 1503px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1.3; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 80px" valign="top" align="left">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1.3; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: wingdings; MARGIN-LEFT: 13pt; MARGIN-RIGHT: 0pt">x</div>
+</td>
+<td style="WIDTH: 1503px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1.3; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN-RIGHT: 0pt">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014.</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 1583px" valign="top" colspan="2" align="left">
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 1.3; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: wingdings; MARGIN-LEFT: 13pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0pt; DISPLAY: block; FONT: 13px/1 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: bold 12pt 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Section 1 - Conflict Minerals Disclosure</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline; FONT: bold 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: bold 12pt 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Item 1.01 Conflict Minerals Disclosure and Report</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt" id="65a56275586040e48c7fe77f67a94a5c" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 100%">
+<div style="TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt"><font style="FONT-SIZE: 12pt">The Procter &amp; Gamble Company (the "Company") is filing this Specialized Disclosure Report (Form SD), including the Conflict Minerals Report attached as Exhibit 1.01 hereto, for the calendar year ended December 31, 2014 to comply with Rule 13p-1 of the Securities Exchange Act of 1934, as amended. This report has been posted and is publicly available on the Company's website at </font><font style="FONT-SIZE: 12pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif"><u>http://www.pg.com/en_US/sustainability/policies_practices/conflict_minerals.shtml</u></font>.&#160;</font><font style="FONT-SIZE: 12pt">Information on the Company's website is not and should not be considered part of, nor is it incorporated by reference into, this Form SD.</font></div>
+
+<div>&#160;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: bold 12pt 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Item 1.02 Exhibit</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 12pt 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">The Company's Conflict Minerals Report for calendar year 2014 is filed as Exhibit 1.01 of this report and is incorporated herein by reference.</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: bold 12pt 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Section 2 - Exhibits</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><font style="FONT-SIZE: 12pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Exhibit No.<font style="LETTER-SPACING: 9pt" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt" id="TAB2">&#160;</font></font><font style="FONT-SIZE: 12pt; FONT-WEIGHT: bold">&#160;</font><font style="FONT-SIZE: 12pt; FONT-WEIGHT: bold">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="FONT-SIZE: 12pt; FONT-WEIGHT: normal">&#160;<font style="FONT-SIZE: 12pt; FONT-WEIGHT: normal"><font style="FONT-SIZE: 12pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Descrip</font><font style="FONT-SIZE: 12pt; FONT-WEIGHT: normal; TEXT-DECORATION: underline"><font style="FONT-WEIGHT: bold">tion&#160;&#160;&#160;</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></font></font></div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 12pt 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Conflict Minerals Report of The Procter &amp; Gamble Company, as required by Items 1.01 and 1.02 of this Form.</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><font style="DISPLAY: inline; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">&#160;</font>
+
+<div>
+<hr style="TEXT-ALIGN: left; WIDTH: 1583px; COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">&#160;</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><font style="LETTER-SPACING: 9pt" id="TAB2">&#160;<font style="FONT-WEIGHT: bold">&#160;&#160;</font></font><font style="FONT-WEIGHT: bold">&#160;<font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;&#160;&#160;</font><font style="LETTER-SPACING: 9pt; FONT-WEIGHT: bold" id="TAB2">&#160;</font></font><br>
+</div>
+
+<div style="TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; FONT: 13px 'Times New Roman'; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+<div style="TEXT-ALIGN: center; DISPLAY: block; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; FONT-WEIGHT: bold">SIGNATURE</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; DISPLAY: block; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; DISPLAY: block; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; FONT-WEIGHT: normal">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</div>
+
+<div style="TEXT-ALIGN: left; DISPLAY: block; FONT-FAMILY: 'Times New Roman'; MARGIN-LEFT: 423pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">THE PROCTER &amp; GAMBLE COMPANY</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 423pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 423pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 423pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 423pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; DISPLAY: block; FONT-FAMILY: 'Times New Roman'; MARGIN-LEFT: 423pt; FONT-SIZE: 12pt">BY:&#160;<u>&#160;&#160;&#160;</u><u>/s/Jon R. Moeller&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</u></div>
+
+<div style="TEXT-ALIGN: left; DISPLAY: block; FONT-FAMILY: 'Times New Roman'; MARGIN-LEFT: 450pt; FONT-SIZE: 12pt">Jon R. Moeller</div>
+
+<div style="TEXT-ALIGN: left; DISPLAY: block; FONT-FAMILY: 'Times New Roman'; MARGIN-LEFT: 450pt; FONT-SIZE: 12pt">Chief Financial Officer</div>
+
+<div style="TEXT-ALIGN: left; DISPLAY: block; FONT-FAMILY: 'Times New Roman'; MARGIN-LEFT: 450pt; FONT-SIZE: 12pt">June 1, 2015</div>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>exhibit101.htm
+<DESCRIPTION>ITEM 1.01
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: The Procter & Gamble Company
+    Document created using EDGARfilings PROfile 3.3.0.0
+    Copyright 1995 - 2015 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 4pt; FONT-SIZE: 12pt">Exhibit 1.01</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 4pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">The Procter &amp; Gamble Company</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 4pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Conflict Minerals Report</div>
+
+<div style="MARGIN-BOTTOM: 4pt; FONT-SIZE: 12pt"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">This Conflict Minerals Report for the year ended December 31, 2014 is provided by The Procter &amp; Gamble Company (the "Company") pursuant to Rule 13p-1 under the Securities Exchange Act of 1934 (the "Rule").&#160; Under the Rule, we are required to make specific disclosures regarding our manufactured products that contain conflict minerals, provided those conflict minerals are necessary to the functionality or production of those products.&#160; As defined by the Rule, and for purposes of this report, the conflict minerals are cassiterite, columbite-tantalite, gold, wolframite, and their derivatives, which are limited to tin, tantalum, and tungsten ("Conflict Minerals"; tin, tantalum, tungsten and gold collectively are referred to as "3TG").&#160; &#160; References in this report to "we," "us" or "our" refers to the Company and our subsidiaries, unless otherwise specified or unless the context otherwise requires.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">As detailed below, based on our reasonable country of origin inquiry, the Company has no reason to believe that the 3TG in any of our products is funding armed conflict in the Democratic Republic of Congo or an adjoining country (collectively, the "Covered Countries").&#160; However, it remains challenging for many companies and their suppliers (including us and our suppliers) to gather complete and reliable data.&#160; For that reason, we have not been able to rule out the possibility that some Conflict Minerals in our products may have originated in the Covered Countries and may not be from recycled or scrap sources.&#160; Consequently, we exercised due diligence on the Conflict Minerals' origin and chain of custody and we are providing this Conflict Minerals Report to describe our due diligence processes and results.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="db7ee0b5700c4a29b284340b4d83044d" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 18pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">1.</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">&#160;Company Overview</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company is a global leader in retail goods, focused on providing branded consumer packaged goods of superior quality and value to our consumers around the world. Our products are sold in more than 180 countries and territories primarily through mass merchandisers, grocery stores, membership club stores, drug stores, department stores, salons, high-frequency stores and distributors. We continue to expand our presence in other channels, such as perfumeries and e-commerce. We have on-the-ground operations in approximately 70 countries, including more than 130 plants and more than 250 shipping locations worldwide.&#160; In total, across all aspects of our business (e.g., raw materials, packaging, services, equipment), we work with approximately 80,000 suppliers.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company sells more than 100 branded products. The vast majority of these products do not contain Conflict Minerals.&#160;&#160; Based on an extensive review of our products, only a small number of products were identified as falling within the scope of the Rule: blades and razors, batteries, electric charging devices, electric toothbrushes, powered beauty devices and small electronic appliances.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="2bc8524167a8423393982dc3e02da5ff" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 18pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">2.</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Conflict Minerals Program and Compliance Systems</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">Our Conflict Minerals Program has been designed to conform, in all material respects, with the framework described in The Organisation for Economic Cooperation and Development ("OECD") Due Diligence Guidance for Responsible Supply Chain of Minerals from Conflict-Affected and High-Risk Areas ("OECD Guidance") and the related Supplements for gold and for tin, tantalum and tungsten.&#160; We are a "downstream company" within the meaning of the OECD Guidance, and, therefore, have designed our Conflict Minerals Program in a manner consistent with the guidance specifically applicable to downstream companies in the OECD Guidance.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="50d90f8c7ed64eabaa940272abf97b5e" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 54pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 36pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">a)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Conflict Minerals Policy</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt"><font style="FONT-SIZE: 12pt">The Company has adopted a Conflict Minerals Policy, which is publicly available on our website at <font style="FONT-FAMILY: 'Times New Roman', Times, serif">http://www.pg.com/en_US/sustainability/policies_practices/conflict_minerals.shtml</font></font><font style="FONT-SIZE: 12pt">.</font></div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="b90d1e5b36a4480ead2d49574f60b1ad" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 54pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 36pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">b)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Internal Management Systems and Controls</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="fe9f156877ff4663a6eca86a3c2b27d0" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 90pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 54pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">i)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">&#160;Compliance Team</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">In order to facilitate our compliance with the Rule, the Company created a&#160; multi-functional core team ("Core Team"), which includes representatives from Purchases, Product Supply, Sustainability, Research &amp; Development, Finance &amp; Accounting, Global Business Services, Corporate Communications, Corporate Compliance and Legal.&#160; The Core Team designed an extensive Conflict Minerals Program, including, but not limited to, processes for supply chain review, supplier and employee outreach, due diligence and risk management.&#160; Senior management has been briefed about the progress of our Conflict Minerals Program efforts.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="e59ef5a438e64105b1c1a3431f7f5ac3" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 90pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 54pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">ii)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Control Systems</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">As a downstream company, the Company does not generally have a direct relationship with 3TG smelters and refiners.&#160; Consequently, we are engaging with other companies through trade associations and industry initiatives, such as the Electronics Industry Citizenship Coalition-Global e-Sustainability Initiative's ("EICC-GeSI") Conflict-Free Sourcing Initiative ("CFSI"), to improve transparency with respect to smelters and other upstream participants in the supply chain.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">In addition to our Conflict Minerals Policy, our work is governed by:</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="e6b3fc07c77d47798d897a978eae793b" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 54pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 36pt; FONT-SIZE: 12pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">the Company's Worldwide Business Conduct Manual, which contains the global standards P&amp;G employees must follow to ensure they uphold P&amp;G's Purpose, Values and Principles in their daily work (available at <font style="FONT-FAMILY: 'Times New Roman', Times, serif">http://www.pg.com/en_US/downloads/company/governance/Policy_Worldwide_Business_Conduct_Manual.pdf</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif">)</font>;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="80bbfa4916ec4acc9fc66658cbd41946" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 54pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 36pt; FONT-SIZE: 12pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">our Sustainability Guidelines for External Business Partners, which outline the values we seek in the suppliers with whom we do business (available at <font style="FONT-FAMILY: 'Times New Roman', Times, serif">http://www.pgsupplier.com/en/pg-values/sustainability.shtml</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif">);</font> and</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="8d51e02b605d4200bf10d5472dce0f1e" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 54pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 36pt; FONT-SIZE: 12pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">our Human Rights Policy Statement, which outlines our commitment to respect human rights and the expectation that our business partners share this commitment (available at <font style="FONT-FAMILY: 'Times New Roman', Times, serif">http://pgsupplier.com/en/_downloads/Human_Rights_Policy_Statement.pdf</font>).</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="a23fdd151eed412c81e284c8602b0fbf" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 90pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 54pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">iii)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Supplier Engagement</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">Soon after the Rule was adopted, we began engaging with our suppliers to ensure they were aware of the Rule and the implications for them as suppliers of the Company.&#160;&#160; The Company sent mailings to all Company suppliers that we anticipated would be within the scope of the Rule, informing them that each in-scope supplier would be expected to have a conflict minerals policy in place and to implement a system to trace the origin of any 3TG supplied to the Company as defined in the template developed by the EICC-GeSI (the "Template"), which was attached.&#160; We also provided a Company contact to answer any questions the suppliers had regarding implementation of the Rule.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">As described in our Conflict Minerals Policy, we will engage with any of our suppliers if we have reason to believe that the supplier is providing the Company with 3TG that may support conflict in the Covered Countries, with the goal of establishing an alternative source of 3TG that does not support such conflict.&#160; To date, we have found no instance where there is reason to believe our sourcing of 3TG is being used to fund armed conflict in the Covered Countries; therefore, it has not been necessary to seek alternative sources or terminate a contract.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="7c7bace2604949c5abc095a2e9a0806c" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 90pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 54pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">iv)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">&#160;Grievance Mechanism</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company is committed to creating an environment that fosters open communication. The Company has well-established grievance mechanisms through which both employees and suppliers can report violations of the law or Company policies. For employees, the Company has created the Worldwide Business Conduct Manual Helpline (the "Helpline"), which is staffed by an independent third party and provides an anonymous way to report concerns about potential violations 24 hours a day, 7 days a week. For suppliers, the Company encourages them to report any ethical concerns or policy violations, as outlined at <font style="FONT-FAMILY: 'Times New Roman', Times, serif">http://www.pgsupplier.com/en/pg-values/report-a-concern.shtml</font>. This reporting mechanism is operated by a third-party supplier to help ensure anonymity.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">To date, the Company has received no reports through either mechanism indicating any potential concerns with our Conflict Minerals Policy, our 3TG sourcing or our Conflict Minerals Program.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="b3a4403da1d046f787624969d46ea085" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 90pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 54pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">v)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Maintenance of Records</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company has adopted a policy to maintain relevant documentation.</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 36pt; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">c)</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Identify and Assess Risks in the Supply Chain</font></div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">As previously stated, the Company has more than 100 brands and works with approximately 80,000 suppliers worldwide.&#160; Through an extensive review of our supply chain in 2013, we determined a list of products within the scope of the Rule and identified 268 direct suppliers for these in-scope products.&#160; In 2014, we further reviewed these suppliers through a survey with a 100% response rate, enabling us to narrow this list to 62 in-scope suppliers.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The breadth and complexity of our supply chain creates a challenge in identifying all parties who are upstream from our direct suppliers.&#160; Therefore, we must rely on our direct suppliers to provide information on the origin of the 3TG contained in components and materials supplied to us, including sources of 3TG that are supplied to them from suppliers further upstream in the supply chain.&#160; In addition, we participate in trade and industry associations, as described above, to help further identify and assess the risks.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="4a16cb513a754ffdb2aa1c56fdc52b86" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 18pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">3.</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Due Diligence</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">Our due diligence measures have been designed to conform, in all material respects, with the portions of the OECD guidance applicable to a "downstream company."</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="6a878c8e97a84d3fa9b025896e5cd305" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 54pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">a)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Survey Requests</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company conducted a survey of 62 suppliers using the EICC-GeSI Template, representing suppliers that we determined potentially supplied 3TG for in-scope products. The Template was developed by EICC and GeSI to facilitate disclosure and communication of information regarding a company's supply chain and includes questions regarding the supplier's conflict-free policy, recipient's engagement with its direct suppliers, and the smelters the supplier (and its suppliers) use.&#160; In addition, the Template contains questions about the origin of any 3TG provided by the supplier, as well as the supplier's due diligence.&#160; Written instructions and recorded training illustrating the use of the tool are available on the EICC website.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company sent the Template directly to suppliers and provided reminders to the recipients on a regular basis until a response was received.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="ee57ce9449df430bb820ecb45127bd28" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 54pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">b)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Survey Responses</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company received responses from all the suppliers surveyed.&#160; Members of the Core Team reviewed these responses for completeness and to determine if any potential red flags were present, in accordance with the requirements of our Conflict Minerals Program, and followed up as needed with suppliers to clarify responses.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">Our responses included varying degrees of information regarding the names and locations of 3TG smelters used by each supplier.&#160; Some suppliers included smelter data for 3TG that we know is contained in components and materials supplied to us.&#160; For this group, we analyzed and compared the 3TG smelters against the list of facilities that have received a "conflict free" designation through the Conflict Free Sourcing Initiatives' ("CFSI") Conflict Free Smelter Program as of May 27, 2015.&#160; Of these 72 smelters, 52 are certified as conflict free by CFSI, including the three smelters who are identified as sourcing from Covered Countries by CFSI.&#160; Another seven smelters are on the CFSI Active list as of May 27, 2015 and have committed to undergo a CFSI audit to be designated conflict free.&#160; The known smelters are listed in Attachment A.&#160;&#160; While we have no indication that any of our remaining suppliers are sourcing from any smelters that source from the Covered Countries, we have insufficient data at this time to validate the status of any other smelters or refiners.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="6cbd1c05b5ee4506b153a699b01cdd2b" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 54pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">c)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Reporting</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company has filed this Conflict Minerals Report for 2014 with the SEC. We have also made this report available on our website at http://www.pg.com/en_US/sustainability/policies_practices/conflict_minerals.shtml.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="5487ae45cb9c4699bac80e798dc31bd5" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 18pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">4.</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Our Efforts to Determine the Mine or Location of Origin with Greatest Possible Specificity</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">As a downstream company, we rely upon independent assessment programs to provide upstream information such as the mine or location of origin.&#160; Consistent with the OECD Guidance, our efforts to determine the mine or location of origin of necessary Conflict Minerals in material supplied to us with the greatest possible specificity consisted primarily of a review of whether the smelters reported to be in our suppliers' supply chain were verified as compliant with the Conflict Free Smelter Program.&#160; CFSI has developed an audit protocol for verification of entities as compliant with the Conflict Free Smelter Program in accordance with the OECD Guidance and in conjunction with complementary traceability schemes in the Covered Countries.&#160; The Conflict Free Smelter List is composed of entities that are compliant with the Conflict Free Smelter Program and that have been subject to an independent third party audit to assess whether the entity employed policies, practices, and procedures to source conflict free minerals.&#160; We are a member of CFSI and have access to CFSI country of origin information for entities on the Conflict Free Smelter List.&#160; CFSI has chosen to address confidential business information concerns by aggregating the countries of origin for Conflict Minerals sourced by such entities on the Conflict Free Smelter List.&#160; CFSI requires that the independent auditor make an examination of the countries of origin for processed Conflict Minerals as well as the location of the mine, even if the specific mine or location of origin for these minerals within a country is not provided to CFSI members.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">More generally, in 2014, we endeavored to determine the mine or location of origin for Conflict Minerals in the supplied materials with the greatest possible specificity by using our due diligence measures described above, including, for example, (i) surveying our in-scope suppliers using the Template; (ii) comparing the list of entities identified by our surveyed in-scope suppliers as smelters of Conflict Minerals against information provided by the CFSI to identify those smelters that have received a conflict free designation; and (iii) reviewing available information from CFSI on the mine or location of origin of necessary Conflict Minerals from the smelters described in clause (ii) of this paragraph.&#160; The country of origin information that we were able to obtain through these efforts in included in Attachment A.</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="185d4e5720034d95b33a57941a2840d9" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 18pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">5.</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Steps to Mitigate Risk</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The Company will continue to work to improve its Conflict Minerals due diligence process.&#160; To further mitigate the risk that any Conflict Minerals in our products finance or benefit armed groups, we are making the following commitments:</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="41b13c23542548eda3f8cd4b586542bb" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 36pt; FONT-SIZE: 12pt">a)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">As a Company, we will engage in additional supplier engagement to increase the number and quality of supplier responses;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="b31ff47b07c349d0892b4f029eb85e85" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 36pt; FONT-SIZE: 12pt">b)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">When we become aware of a supplier that is not in compliance with our Conflict Minerals Policy, we will engage with the supplier for a remedy and, where necessary, find an alternative source of 3TG; and</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt" id="10a378f0d94a4b439c0cef72cec3aed6" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 36pt; FONT-SIZE: 12pt">c)</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">We will continue to invest in and build relationships with relevant trade associations/industry initiatives to help improve supply chain diligence best practices consistent with OECD Guidance.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 12pt; MARGIN-BOTTOM: 12pt; CLEAR: both" id="DSPFPageBreakArea">
+<hr style="PAGE-BREAK-AFTER: always; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="FONT-SIZE: 12pt">ATTACHMENT A</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><br>
+</font><font style="FONT-SIZE: 12pt">Smelters and Countries of Origin</font></div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">The following facilities have been reported to us by our suppliers as part of their supply chain for components and materials known to contain covered Conflict Minerals. Each is listed by CFSI as a smelter or refiner.&#160; The facility names are listed as they appear on the CFSI smelter list.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt"><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Gold</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt" id="f9df82c41b9c484d88459b757db75281" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Allgemeine Gold- und Silberscheideanstalt, A.G.</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Johnson Matthey Inc</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Tanaka Kikinzoku Kogyo K.K.</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Argor-Heraeus SA</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Matsuda Sangyo Co., Ltd.</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">The Refinery of Shandong Gold Mining Co., Ltd</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Asahi Pretec Corporation</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Metalor Technologies (Hong Kong), Ltd.</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Western Australian Mint trading as The Perth Mint</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Eco-System Recycling Co., Ltd.</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Metalor Technologies SA</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Zhongyuan Gold Smelter of Zhongjin Gold Corporation</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Heimerle + Meule GmbH</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Mitsubishi Materials Corporation</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Heraeus Ltd. Hong Kong</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Nihon Material Co., Ltd.</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%; FONT-SIZE: 12pt">Heraeus Precious Metals GmbH &amp; Co. KG</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Shandong Zhaojin Gold &amp; Silver Refinery Co., Ltd</div>
+</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><br>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Tin</div>
+
+<div style="FONT-SIZE: 12pt"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt" id="b64d9592578549fa9d774a031a8f35cc" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Alpha</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="FONT-SIZE: 12pt">PT Bukit Timah</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>VQB Mineral and Trading Group Joint Stock Company</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">Cooper Santa</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">PT DS Jaya Abadi</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>Heraeus Materials Technology GmbH &amp; Co., KG</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div style="FONT-SIZE: 12pt">CV United Smelting</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">PT Eunindo Usaha Mandiri</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>CV Serumpun Sebalai</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div>Dowa</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">PT Karimun Mining</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>Gejiu Zi-Li</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div>EM Vinto</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">PT Mitra Stania Prima</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>Huichang Jinshunda Tin Co., Ltd</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">
+<div>Fenix Metals</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">PT Prima Timah Utama</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>Jiangxi Nanshan</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">Gejiu Non-Ferrous Metal Processing Co., Ltd.</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">PT Refined Bangka Tin</div>
+</td>
+<td style="WIDTH: 33.33%">Kai Unita Trade Limited Liability Company</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">China Tin Group Co., Ltd.</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">PT Sariwiguna Binasentosa</div>
+</td>
+<td style="WIDTH: 33.33%">Linwu Xianggui Smelter Co.</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">Malaysia Smelting Corporation (MSC)</td>
+<td style="WIDTH: 33.33%">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">PT Stanindo Inti Perkasa</div>
+</td>
+<td style="WIDTH: 33.33%">Minmetals Ganzhou Tin Co., Ltd.</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">Minera&#231;&#227;o Taboca S.A.</td>
+<td style="WIDTH: 33.33%">PT Tambang Timah</td>
+<td style="WIDTH: 33.33%">Novosibirsk Integrated Tin Works</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">Minsur</td>
+<td style="WIDTH: 33.33%">PT Timah</td>
+<td style="WIDTH: 33.33%">PT Bangka Kudai Tin</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">Mitsubishi Materials Corporation</td>
+<td style="WIDTH: 33.33%">PT Tinindo Inter Nusa</td>
+<td style="WIDTH: 33.33%">PT Koba Tin</td>
+</tr>
+
+<tr style="HEIGHT: 21px">
+<td style="WIDTH: 33.33%">O.M. Manufacturing (Thailand) Co., Ltd.</td>
+<td style="WIDTH: 33.33%">Rui Da Hung</td>
+<td style="WIDTH: 33.33%">YiXing Copper Manufactory Co., Ltd</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">OMSA</td>
+<td style="WIDTH: 33.33%">Soft Metais, Ltda.</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">PT Artha Cipta Langgeng</td>
+<td style="WIDTH: 33.33%">Thaisarco</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">PT Babel Inti Perkasa</td>
+<td style="WIDTH: 33.33%">White Solder Metalurgia e Minera&#231;&#227;o, Ltda.</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">PT Bangka Putra Karya</td>
+<td style="WIDTH: 33.33%">Yunnan Chengfeng</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">PT Bangka Tin Industry</td>
+<td style="WIDTH: 33.33%">Yunnan Tin Company, Ltd.</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">PT Belitung Industri Sejahtera</td>
+<td style="WIDTH: 33.33%">Magnu's Minerais Metais e Ligas, Ltda.</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">&#160;</td>
+<td style="WIDTH: 33.33%">PT ATD Makmur Mandiri Jaya</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%">&#160;</td>
+<td style="WIDTH: 33.33%">Metallo Chimique</td>
+<td style="WIDTH: 33.33%"></td>
+</tr>
+</table>
+
+<font style="FONT-SIZE: 12pt"><br>
+</font><font style="FONT-SIZE: 12pt"><br>
+</font></div>
+
+<div>
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Tungsten</div>
+
+<div style="FONT-SIZE: 12pt"><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">HC Starck GmbH</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 12pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt">Countries of origin of the Conflict Minerals these smelters process are believed to include the following countries.&#160; This information was provided through CFSI and is aggregated for confidentiality purposes.&#160; While some countries listed below are Covered Countries, the smelters identified as sourcing from those countries have all been certified as conflict free by CFSI.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 12pt"><br>
+</div>
+
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt" id="d9a7705e271742418ddff1c0c6c6391a" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Angola</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Djibouti</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Luxembourg</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Rwanda</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Argentina</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Egypt</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Madagascar</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Sierra Leone</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Australia</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Estonia</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Malaysia</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Singapore</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Austria</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Ethiopia</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Mongolia</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">South Africa</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Belgium</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">France</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Mozambique</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">South Sudan</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Brazil</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Germany</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Myanmar</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Suriname</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Burundi</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Guyana</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Netherlands</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Switzerland</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Central African Republic</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">India</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Nigeria</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Thailand</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Chile</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Indonesia</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Peru</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Uganda</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">China</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Ireland</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Plurinational State of Bolivia</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">United Kingdom of Great&#160; &#160;&#160; Britain and Northern Ireland</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Colombia</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Israel</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Portugal</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">United Republic of Tanzania</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Cote D'Ivoire</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Japan</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Republic of Congo</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">United States of America</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Czech Republic</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Kenya</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Republic of Korea</div>
+</td>
+<td style="WIDTH: 29.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Zambia</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 25.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Democratic Republic of Congo</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Lao People's Democratic Republic</div>
+</td>
+<td style="WIDTH: 22.56%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">Russian Federation</div>
+</td>
+<td style="WIDTH: 29.32%; FONT-SIZE: 12pt; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+</table>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>pglogo.jpg
+<TEXT>
+begin 644 pglogo.jpg
+M_]C_X``02D9)1@`!`@$`E@"6``#_[@`.061O8F4`9``````!_^$`ND5X:68`
+M`$U-`"H````(``0!&@`%`````0```#X!&P`%`````0```$8!*``#`````0`"
+M``"':0`$`````0```$X``````)8````!````E@````$````!DH8`!P```%``
+M``!@`````%5.24-/1$4``$8`:0!L`&4`(`!W`'(`:0!T`'0`90!N`"``8@!Y
+M`"``00!D`&\`8@!E`"``4`!H`&\`=`!O`',`:`!O`'``J``@`#4`+@`P``#_
+M[0K04&AO=&]S:&]P(#,N,``X0DE-`^T``````!``E@````$``0"6`````0`!
+M.$))300-```````$````>#A"24T#\P``````"```````````.$))300*````
+M```!```X0DE-)Q````````H``0`````````".$))30/U``````!(`"]F9@`!
+M`&QF9@`&```````!`"]F9@`!`*&9F@`&```````!`#(````!`%H````&````
+M```!`#4````!`"T````&```````!.$))30/X``````!P``#_____________
+M________________`^@`````_____________________________P/H````
+M`/____________________________\#Z`````#_____________________
+M________`^@``#A"24T$"```````$`````$```)````"0``````X0DE-!!0`
+M``````0````".$))300,``````E``````0```'````!#```!4```5_````DD
+M`!@``?_8_^``$$I&248``0(!`$@`2```__X`)D9I;&4@=W)I='1E;B!B>2!!
+M9&]B92!0:&]T;W-H;W"H(#4N,/_N``Y!9&]B90!D@`````'_VP"$``P("`@)
+M"`P)"0P1"PH+$14/#`P/%1@3$Q43$Q@1#`P,#`P,$0P,#`P,#`P,#`P,#`P,
+M#`P,#`P,#`P,#`P,#`P!#0L+#0X-$`X.$!0.#@X4%`X.#@X4$0P,#`P,$1$,
+M#`P,#`P1#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#/_``!$(`$,`<`,!
+M(@`"$0$#$0'_W0`$``?_Q`$_```!!0$!`0$!`0`````````#``$"!`4&!P@)
+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
+M6G)]*?3]:MMFW=]+9ZC7;=R#7T/HM5C+JNGXU=M9W,>VFL.:1^<QS6;FN5Y)
+M.&28%"1`[7HJE(&7A86=5Z&;CU95,AWIW,;8V1P[98'-1TD`2#8-$=E-7"Z7
+MTWIX<,#$IQ`^-XHK;7NCC=Z;6[E'(Z-TC*M==E8./?:\`/LLJ8]Q`&T;G/:Y
+MSO:KB2/N3OBXCQ']*_4JFL[IG37X@P7XE+L-NC<8UM-0CPIV^G_T57I^KGU>
+MHL%M/3,.JQIEKV45M<#_`"7-8M%)$9)BP)2%[ZJH*2223%*22224_P#_T_54
+ME\JI)*?JI)?*J22GZJ27RJDDI^JDE\JI)*?JI)?*J22GZJ27RJDDI^JDE\JI
+M)*?_V3A"24T$!@``````!P`(`````0$`_^(,6$E#0U]04D]&24Q%``$!```,
+M2$QI;F\"$```;6YT<E)'0B!865H@!\X``@`)``8`,0``86-S<$U31E0`````
+M245#('-21T(``````````````````/;6``$`````TRU(4"`@````````````
+M```````````````````````````````````````````````````18W!R=```
+M`5`````S9&5S8P```80```!L=W1P=````?`````48FMP=````@0````4<EA9
+M6@```A@````49UA96@```BP````48EA96@```D`````49&UN9````E0```!P
+M9&UD9````L0```"(=G5E9````TP```"&=FEE=P```]0````D;'5M:0```_@`
+M```4;65A<P``!`P````D=&5C:```!#`````,<E120P``!#P```@,9U120P``
+M!#P```@,8E120P``!#P```@,=&5X=`````!#;W!Y<FEG:'0@*&,I(#$Y.3@@
+M2&5W;&5T="U086-K87)D($-O;7!A;GD``&1E<V,`````````$G-21T(@245#
+M-C$Y-C8M,BXQ```````````````2<U)'0B!)14,V,3DV-BTR+C$`````````
+M`````````````````````````````````````````````````````````%A9
+M6B````````#S40`!`````1;,6%E:(`````````````````````!865H@````
+M````;Z(``#CU```#D%A96B````````!BF0``MX4``!C:6%E:(````````"2@
+M```/A```ML]D97-C`````````!9)14,@:'1T<#HO+W=W=RYI96,N8V@`````
+M`````````!9)14,@:'1T<#HO+W=W=RYI96,N8V@`````````````````````
+M````````````````````````````````````````9&5S8P`````````N245#
+M(#8Q.38V+3(N,2!$969A=6QT(%)'0B!C;VQO=7(@<W!A8V4@+2!S4D="````
+M```````````N245#(#8Q.38V+3(N,2!$969A=6QT(%)'0B!C;VQO=7(@<W!A
+M8V4@+2!S4D="`````````````````````````````&1E<V,`````````+%)E
+M9F5R96YC92!6:65W:6YG($-O;F1I=&EO;B!I;B!)14,V,3DV-BTR+C$`````
+M`````````"Q2969E<F5N8V4@5FEE=VEN9R!#;VYD:71I;VX@:6X@245#-C$Y
+M-C8M,BXQ``````````````````````````````````!V:65W```````3I/X`
+M%%\N`!#/%``#[<P`!!,+``-<G@````%865H@``````!,"58`4````%<?YVUE
+M87,``````````0````````````````````````*/`````G-I9R``````0U)4
+M(&-U<G8````````$``````4`"@`/`!0`&0`>`",`*``M`#(`-P`[`$``10!*
+M`$\`5`!9`%X`8P!H`&T`<@!W`'P`@0"&`(L`D`"5`)H`GP"D`*D`K@"R`+<`
+MO`#!`,8`RP#0`-4`VP#@`.4`ZP#P`/8`^P$!`0<!#0$3`1D!'P$E`2L!,@$X
+M`3X!10%,`5(!60%@`6<!;@%U`7P!@P&+`9(!F@&A`:D!L0&Y`<$!R0'1`=D!
+MX0'I`?(!^@(#`@P"%`(=`B8"+P(X`D$"2P)4`ET"9P)Q`GH"A`*.`I@"H@*L
+M`K8"P0++`M4"X`+K`O4#``,+`Q8#(0,M`S@#0P-/`UH#9@-R`WX#B@.6`Z(#
+MK@.Z`\<#TP/@`^P#^00&!!,$(`0M!#L$2`15!&,$<01^!(P$F@2H!+8$Q`33
+M!.$$\`3^!0T%'`4K!3H%2058!6<%=P6&!98%I@6U!<4%U07E!?8&!@86!B<&
+M-P9(!ED&:@9[!HP&G0:O!L`&T0;C!O4'!P<9!RL'/0=/!V$'=`>&!YD'K`>_
+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
+:Z]U[W[KW7O?NO=>]^Z]U[W[KW7O?NO=?_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

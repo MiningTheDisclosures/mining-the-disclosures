@@ -1,0 +1,598 @@
+<SEC-DOCUMENT>0001193125-15-207804.txt : 20150601
+<SEC-HEADER>0001193125-15-207804.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601091230
+ACCESSION NUMBER:		0001193125-15-207804
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOODYEAR TIRE & RUBBER CO /OH/
+		CENTRAL INDEX KEY:			0000042582
+		STANDARD INDUSTRIAL CLASSIFICATION:	TIRES AND INNER TUBES [3011]
+		IRS NUMBER:				340253240
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01927
+		FILM NUMBER:		15901514
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1144 E MARKET ST
+		CITY:			AKRON
+		STATE:			OH
+		ZIP:			44316
+		BUSINESS PHONE:		2167962121
+
+	MAIL ADDRESS:	
+		STREET 1:		1144 E MARKET ST
+		CITY:			AKRON
+		STATE:			OH
+		ZIP:			44316
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d933970dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Specialized Disclosure Report </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>THE GOODYEAR
+TIRE&nbsp;&amp; RUBBER COMPANY </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Ohio</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-1927</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>34-0253240</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>200 Innovation Way, Akron, Ohio</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>44316-0001</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>David L. Bialosky, Esq. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Senior Vice President, General Counsel and Secretary </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(330) 796-2121 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and
+telephone number, including area code, of the person to contact in connection with this report) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to
+indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 &#150; Conflict Minerals Disclosure </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Conflict Minerals Disclosure and Report </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Introduction </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The terms &#147;Goodyear,&#148; &#147;Company&#148; and &#147;we,&#148; &#147;us&#148; or &#147;our&#148; wherever used herein refer to The Goodyear
+Tire&nbsp;&amp; Rubber Company together with all of its consolidated U.S.&nbsp;and foreign subsidiary companies, unless the context indicates to the contrary. Terms used herein that are defined in Item&nbsp;1.01(d) of Form SD are used as defined
+therein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We are one of the world&#146;s leading manufacturers of tires, engaging in operations in most regions of the world. Together with our
+U.S.&nbsp;and international subsidiaries and joint ventures, we develop, manufacture, market and distribute tires for most applications. We also manufacture and market rubber-related chemicals for various applications. We manufacture our products in
+50 manufacturing facilities in 22 countries, including the United States, and we have marketing operations in almost every country around the world. We are one of the world&#146;s largest operators of commercial truck service and tire retreading
+centers. In addition, we operate approximately 1,200 tire and auto service center outlets where we offer our products for retail sale and provide automotive repair and other services. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Description of Reasonable Country of Origin Inquiry (&#147;RCOI&#148;) </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Following a review of the raw materials and components used to manufacture our products, we determined that the following components are necessary to the
+functionality of certain of our products and contain conflict minerals: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Bead wire, which is used in all tires, allows a tire to be mounted on a rim and includes bronze electroplating to improve wire to rubber adhesion properties (other than radial aircraft tires which use brass
+electroplating). Bronze is a metal alloy consisting primarily of copper and tin. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Tungsten studs, which are used in certain studded winter replacement tires sold in Europe. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">RFID chips, which are incorporated into certain commercial replacement tires sold in Latin America and race tires, contain tin, tungsten and gold. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2014, our spending on bead wire constituted approximately 97% of our spending on the components described above, making tin the most significant conflict
+mineral in our supply chain by a wide margin. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We sent the EICC-GeSI Conflict Minerals Reporting Template (each a &#147;Template&#148; and collectively
+the &#147;Templates&#148;) to each of the suppliers that directly supply us with any of the components described above in order to collect further information on, among other things, the country of origin of the conflict minerals contained in our
+products. Once we received a completed Template from a supplier, we evaluated the Template for completeness and accuracy, and made further inquiries of our suppliers in order to clarify or improve the quality of their responses to us. Our objective
+was to identify each of the smelters that placed conflict minerals into our supply chain, which we believed would facilitate our ability to identify the country of origin of the conflict minerals contained in our products. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 2 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2014, we had a total of 14 direct suppliers of the components described above. We received Templates that we
+deemed to be complete, or acceptable representation letters as to country of origin, from all of those suppliers. We deemed a Template to be complete if it identified all of the smelters in a supplier&#146;s supply chain. Based on the Templates that
+we received, we identified 36&nbsp;total smelters, including 19 tin smelters, 8 tungsten smelters and 9 gold refiners, that provided conflict minerals that were ultimately incorporated into our products. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2014, we became a member of the Conflict-Free Sourcing Initiative (&#147;CFSI&#148;), an industry initiative that audits smelters&#146; and refiners&#146;
+due diligence activities. We used the Reasonable Country of Origin Inquiry report that we received as part of our CFSI membership (the &#147;CFSI RCOI Report&#148;) to identify the country of origin for 27 of our smelters. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on the CFSI RCOI Report, we identified two tin smelters and one tungsten smelter that supplied conflict minerals to our suppliers and that we had reason
+to believe may have sourced conflict minerals from the Democratic Republic of the Congo or an adjoining country (collectively, the &#147;Covered Countries&#148;). Based on the CFSI RCOI Report, we also determined that a portion of (1)&nbsp;our
+conflict minerals did not originate in the Covered Countries (21 smelters) and (2)&nbsp;our conflict minerals were solely from recycled or scrap sources (3 smelters). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">With respect to the remaining 9 smelters, we reviewed representations made by certain smelters, reviewed our suppliers&#146; and the smelters&#146; websites
+and conducted open-source internet searches for any further information on our suppliers and the smelters regarding the country of origin of the conflict minerals they used. Based on those additional inquiries, we had no reason to believe that our
+conflict minerals from those smelters may have originated in the Covered Countries. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For information on the due diligence that we performed with respect
+to the source and chain of custody of the conflict minerals sourced from the smelters whose conflict minerals may have originated in the Covered Countries, see the Conflict Minerals Report attached hereto as Exhibit 1.01. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Form SD and the related Conflict Minerals Report are available on our Internet website at http://investor.goodyear.com/sec.cfm. Please note, however,
+that information contained on our Internet website is not incorporated by reference into this Form SD or otherwise considered to be a part of this document. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Exhibit </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Conflict Minerals Report required by Item&nbsp;1.01 is attached hereto as Exhibit 1.01. See
+Item&nbsp;2.01 below. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 &#150; Exhibits </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Exhibits </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exhibit 1.01 &#150; Conflict Minerals Report </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 3 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly
+authorized undersigned. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Goodyear Tire&nbsp;&amp; Rubber Company </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(Registrant) </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="63%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">By:</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ David L. Bialosky</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">David L. Bialosky</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Senior Vice President, General Counsel and
+Secretary</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">Date: June&nbsp;1, 2015</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 4 - </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d933970dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>THE GOODYEAR TIRE&nbsp;&amp; RUBBER COMPANY </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Conflict Minerals Report </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the Year Ended December&nbsp;31, 2014 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Introduction </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The terms &#147;Goodyear,&#148;
+&#147;Company&#148; and &#147;we,&#148; &#147;us&#148; or &#147;our&#148; wherever used herein refer to The Goodyear Tire&nbsp;&amp; Rubber Company together with all of its consolidated U.S.&nbsp;and foreign subsidiary companies, unless the context
+indicates to the contrary. Terms used herein that are defined in Item&nbsp;1.01(d) of Form SD are used as defined therein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For a brief description of our
+business and products and the necessary components of our products that contain conflict minerals, see the Form SD to which this Conflict Minerals Report is attached. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Description of Due Diligence Measures </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We have designed
+our due diligence measures to conform, in all material respects, with the framework in the Organisation for Economic Co-operation and Development (OECD) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and
+High-Risk Areas, Second Edition 2013 (&#147;OECD Guidance&#148;) and the related Supplements on tin, tantalum, tungsten and gold. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Conflict Minerals
+Report is available on our Internet website as an Exhibit to Form SD at http://investor.goodyear.com/sec.cfm. Please note, however, that information contained on our Internet website is not incorporated by reference into this Conflict Minerals
+Report or otherwise considered to be a part of this document. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Establishment of Strong Company Management Systems</U> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To lead our initial compliance efforts with respect to conflict minerals and to develop a sustainable process for future compliance, a cross-functional team
+was created that includes associates from the following departments: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Global Procurement </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Global Environmental, Health, Safety&nbsp;&amp; Sustainability </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Corporate Accounting and Reporting </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Law </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Corporate Compliance and Ethics </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Internal Audit </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The activities of this team are directed by an executive steering committee comprised of the
+leaders of the departments listed above. As the needs of this team continue to evolve, members will be added or removed to address specific needs in the compliance process. This team provides periodic updates to the executive steering committee, as
+well as the Audit Committee of the Board of Directors, regarding our ongoing compliance efforts. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In December 2012, Goodyear&#146;s Supplier Code of Conduct was updated to include the following provision with
+respect to conflict minerals: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;Suppliers shall source minerals, derivatives of minerals, and other raw materials in a manner that respects human
+rights. Suppliers shall avoid directly or indirectly financing or benefiting armed groups in the Democratic Republic of Congo (DRC) and/or its adjoining countries. Suppliers are required, from time to time, to certify that all materials and products
+supplied to Goodyear either: i) do not contain tantalum, tin, tungsten or gold or ii) if they do contain those elements, Suppliers shall cooperate with Goodyear in determining the country of origin and the source (including the applicable smelter)
+and chain of custody of those elements.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">All suppliers of components that contain conflict minerals are required to agree to the Supplier Code of
+Conduct in order to do business with us, and we reserve the right to terminate our business relationship with any supplier found not to be in compliance with the Supplier Code of Conduct. The Supplier Code of Conduct is specifically incorporated
+into the terms and conditions of our North American purchase orders and is in the process of being incorporated into purchase orders globally. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In order
+to increase awareness of conflict minerals issues, we developed internal and external communications aimed at (1)&nbsp;sourcing raw materials and components in a manner that respects human rights, (2)&nbsp;identifying conflict minerals in our
+products, (3)&nbsp;collecting information with respect to the country of origin, source and chain of custody of conflict minerals, and (4)&nbsp;responding appropriately to inquiries from our customers. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Any associate, supplier or customer may choose to report a policy violation, including a violation of our Supplier Code of Conduct, or raise a question
+through the Goodyear Integrity Hotline, which is run by an independent service. Reports of policy violations may be made anonymously. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Identification
+and Assessment of Risks in the Supply Chain</U> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We sent the EICC-GeSI Conflict Minerals Reporting Template (each a &#147;Template&#148; and collectively
+the &#147;Templates&#148;) to each of the suppliers that directly supply us with components that contain conflict minerals in order to collect product-level information on all of the smelters in their supply chain, as well as the country of origin,
+source and chain of custody of those conflict minerals. Once we received a completed Template from a supplier, we evaluated the Template for completeness and accuracy, and made further inquiries of our suppliers in order to clarify or improve the
+quality of their responses to us. Our objective was to identify each of the smelters that placed conflict minerals into our supply chain, which we believed would facilitate our ability to identify the source and chain of custody of the conflict
+minerals contained in our products. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2014, we became a member of the Conflict-Free Sourcing Initiative (&#147;CFSI&#148;), an industry initiative that
+audits smelters&#146; and refiners&#146; due diligence activities, in order to satisfy several of the recommendations outlined in the OECD Guidance. Through our membership in the CFSI, we reviewed information provided by the Conflict-Free Smelter
+Program of the CFSI to assist us </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 2 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+in determining whether a smelter was sourcing conflict minerals in a socially responsible manner. If a smelter was included on the Compliant Smelter List maintained by the CFSI, we determined
+that we would rely on the results of that third party audit for purposes of (1)&nbsp;the risk assessment with respect to the conflict minerals supply chain and (2)&nbsp;the evaluation of whether the smelter has effective due diligence practices.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We also reviewed representations made by certain smelters, reviewed our suppliers&#146; and the smelters&#146; websites and conducted open-source
+internet searches for any further information on our suppliers and the smelters regarding the source and chain of custody of the conflict minerals they used, including information with respect to the mine or location of origin of the ore processed
+by the smelters. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Design and Implementation of a Strategy to Respond to Identified Risks</U> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2014, we established a more formal process by which we will assist suppliers in complying with their conflict minerals reporting obligations to us and will
+decide whether to continue doing business with suppliers who are unwilling or unable to comply with the Supplier Code of Conduct, which requires suppliers to &#147;source minerals, derivatives of minerals, and other raw materials in a manner that
+respects human rights&#148; and to &#147;avoid directly or indirectly financing or benefiting armed groups in the Democratic Republic of Congo (DRC) and/or its adjoining countries.&#148; We reserve the right to terminate our business relationship
+with any supplier found not to be in compliance with the Supplier Code of Conduct. We are not currently aware of any supplier who has breached this provision of our Supplier Code of Conduct and, therefore, no corrective action has been required.
+</P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Independent Third-Party Audit of Smelter&#146;s Due Diligence Practices</U> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For calendar year 2014, we relied on independent third party audits of a smelter&#146;s due diligence of its conflict minerals supply chain that were conducted
+by the CFSI. In the future we intend to rely on such audits that are conducted by the CFSI or other similar industry initiatives or by governments. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Annual Reporting on Supply Chain Due Diligence</U> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To the
+extent required by Section&nbsp;13(p) of the Securities Exchange Act of 1934 and Rule 13p-1 thereunder, we will annually provide a Conflict Minerals Report as an exhibit to Form SD that describes our due diligence practices with respect to conflict
+minerals that we know or have reason to believe may have originated in the Democratic Republic of the Congo or an adjoining country (collectively, the &#147;Covered Countries&#148;), including with respect to our management systems, risk assessment
+and risk management activities. We will also provide an independent private sector audit of our Conflict Minerals Report to the extent required by law. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Results of 2014 Due Diligence Inquiries</U> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2014, we had
+a total of 14 direct suppliers of the necessary components of our products that contain conflict minerals. We received Templates that we deemed to be complete, or acceptable representation letters as to country of origin, from all of those
+suppliers. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 3 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As a result of our reasonable country of origin inquiry (&#147;RCOI&#148;) described in the Form SD, we
+identified the following smelters that supplied conflict minerals to our suppliers and that we had reason to believe may have sourced conflict minerals from the Covered Countries: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="35%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:24.80pt; font-size:8pt; font-family:Times New Roman">Smelter</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:53.40pt; font-size:8pt; font-family:Times New Roman">Conflict Mineral</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:63.85pt; font-size:8pt; font-family:Times New Roman">Location of Smelter</P></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Malaysia Smelting Corporation</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Butterworth,&nbsp;Penang,&nbsp;Malaysia</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Thaisarco</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Tin</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Amphur&nbsp;Muang,&nbsp;Phuket,&nbsp;Thailand</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Wolfram Bergbau und H&uuml;tten AG</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Tungsten</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">St. Martin im Sulmtal,&nbsp;Austria</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Each of the smelters identified above has in place policies or statements regarding conflict minerals that express their
+commitment to sourcing conflict minerals from the Covered Countries in a responsible and ethical manner. Each smelter is also included on the relevant Compliant Smelter List maintained by the CFSI. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">However, we ultimately were unable to determine whether our products were &#147;DRC conflict free&#148; in 2014 due to (1)&nbsp;the difficulty inherent in
+obtaining complete and accurate information from entities that are far-removed from us in the supply chain, (2)&nbsp;our corresponding inability to determine definitively the country of origin of a portion of the conflict minerals that we used in
+our products, and (3)&nbsp;the immaturity of the currently available smelter certification processes. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">All of the tires that we manufacture contain bead
+wire, which in turn contains tin (except for radial aircraft tires). An indeterminate portion of the tin that is incorporated into the bead wire we use is ultimately provided to us through a number of our suppliers by Malaysia Smelting Corporation
+and Thaisarco. Certain commercial replacement tires sold in Latin America and race tires contain RFID chips, which in turn contain tin, tungsten and gold. An indeterminate portion of the tin that is incorporated into the RFID chips we use is
+ultimately provided to us through our supplier by Thaisarco. An indeterminate portion of the tungsten that is incorporated into tungsten-studded winter replacement tires sold in Europe is ultimately provided to us through our supplier by Wolfram
+Bergbau und H&uuml;tten AG. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Appendix A to this Report sets forth the potential countries of origin of the necessary conflict minerals in our products
+that are supplied to us by the three smelters identified above. In order to determine the related mines or locations of origin of those conflict minerals, we relied upon the due diligence measures described above and found: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Malaysia Smelting Corporation stated on its public website that it sources between 15-20% of its tin from predominantly artisanal miners in Central Africa, the majority of which is from Rwanda and the southern Katanga
+Province of the Democratic Republic of the Congo. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Thaisarco stated on its public website that it began sourcing from mines in Rwanda in early 2014, following a number of years during which it did not source tin from Africa. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Wolfram Bergbau und H&uuml;tten AG stated on its public website that it sources its raw material from its mine in Mittersill, Austria, scrap and other mines around the world. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on the guidance provided by the staff of the Division of Corporation Finance in its &#147;Statement on the Effect of the Recent Court of Appeals
+Decision on the Conflict Minerals Rule&#148; dated April&nbsp;29, 2014, we have not provided an independent private sector audit of our 2014 Conflict Minerals Report. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 4 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Future Due Diligence Process Enhancements </U></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">During 2014, we saw a significant improvement in the quality and timeliness of the information that we received from our suppliers. As the requirements imposed
+upon U.S. public companies with respect to conflict minerals reporting become more widely understood by suppliers globally, we anticipate that we will experience further improvements in the quality and timeliness of our suppliers&#146; responses to
+us. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In addition, we have implemented, or are considering implementing, the following enhancements to our due diligence process: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top">While all suppliers of components that contain conflict minerals have agreed to the Supplier Code of Conduct, we plan to continue to implement new purchase order terms and conditions globally that specifically
+incorporate our Supplier Code of Conduct. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top">We plan to provide additional supplier communications through materials that we now have access to as a result of our membership in the CFSI. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 5 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>Appendix A </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>Potential Countries of Origin</U> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Angola</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Germany</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Portugal</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Argentina</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Guyana</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Republic of Congo</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Australia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Hungary</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Russia</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Austria</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">India</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Rwanda</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Belgium</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Indonesia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Sierra Leone</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Bolivia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Ireland</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Singapore</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Brazil</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Israel</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Slovakia</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Burundi</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Japan</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">South Africa</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Canada</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kazakhstan</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">South Korea</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Central African Republic</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Kenya</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">South Sudan</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Chile</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Laos</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Spain</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">China</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Luxembourg</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Suriname</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Colombia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Madagascar</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Switzerland</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">C&ocirc;te D&#146;Ivoire</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Malaysia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Taiwan</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Czech Republic</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mongolia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tanzania</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Democratic&nbsp;Republic&nbsp;of&nbsp;the&nbsp;Congo</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Mozambique</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Uganda</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Djibouti</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Myanmar</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United Kingdom</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Egypt</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Namibia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">United&nbsp;States&nbsp;of&nbsp;America</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Estonia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Netherlands</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Vietnam</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Ethiopia</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Nigeria</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zambia</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">France</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Peru</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Zimbabwe</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 6 - </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

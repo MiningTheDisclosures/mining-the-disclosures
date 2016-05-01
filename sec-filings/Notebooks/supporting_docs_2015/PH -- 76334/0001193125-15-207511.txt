@@ -1,0 +1,466 @@
+<SEC-DOCUMENT>0001193125-15-207511.txt : 20150601
+<SEC-HEADER>0001193125-15-207511.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601065355
+ACCESSION NUMBER:		0001193125-15-207511
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PARKER HANNIFIN CORP
+		CENTRAL INDEX KEY:			0000076334
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS FABRICATED METAL PRODUCTS [3490]
+		IRS NUMBER:				340451060
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04982
+		FILM NUMBER:		15901201
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6035 PARKLAND BOULEVARD
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124-4141
+		BUSINESS PHONE:		2168963000
+
+	MAIL ADDRESS:	
+		STREET 1:		6035 PARKLAND BOULEVARD
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124-4141
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PARKER APPLIANCE CO
+		DATE OF NAME CHANGE:	19670907
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d933881dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Specialized Disclosure Report </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Parker-Hannifin Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Ohio</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-4982</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>34-0451060</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>6035 Parkland Boulevard </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Cleveland, Ohio 44124-4141 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Thomas L. Meyer </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Vice
+President &#150; Law </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>216.896.2809 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and telephone number, including area code, of person to contact in connection with this report.) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form
+applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Section&nbsp;1. Conflict Minerals Disclosure </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Conflict Minerals Disclosure and Report</B>.<B> </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Conflict Minerals Disclosure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Parker-Hannifin Corporation (including its consolidated subsidiaries, the &#147;<I></I><B><I>Company</I></B><I></I>&#148;) is filing this Form
+SD pursuant to Rule&nbsp;13p-1 under the Securities Exchange Act of 1934 for the reporting period from January&nbsp;1, 2014 to December&nbsp;31, 2014 (the &#147;<B><I>Reporting Period</I></B>&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Rule 13p-1, through Form SD, requires the disclosure of certain information if a company manufactures or contracts to manufacture products for
+which certain &#147;<B><I>conflict minerals</I></B>&#148; (as defined below) are necessary to the functionality or production of such products. Form SD defines &#147;conflict minerals&#148; as: (i)(a) columbite-tantalite (or coltan, the metal ore
+from which tantalum is extracted), (b)&nbsp;cassiterite (the metal ore from which tin is extracted), (c)&nbsp;gold and (d)&nbsp;wolframite (the metal ore from which tungsten is extracted), or their derivatives, which are currently limited to
+tantalum, tin and tungsten; or (ii)&nbsp;any other mineral or its derivatives determined by the U.S. Secretary of State to be financing conflict in the Democratic Republic of the Congo or an &#147;adjoining country,&#148; as such term is defined in
+Form SD (collectively, the &#147;<B><I>Covered Countries</I></B>&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company&#146;s operations may at times manufacture, or
+contract to manufacture, products for which conflict minerals are necessary to the functionality or production of those products (collectively, the &#147;<B><I>products</I></B>&#148;). As required by Form SD, the Company has conducted a good faith
+reasonable country of origin inquiry (&#147;<B><I>RCOI</I></B>&#148;) regarding the conflict minerals included in its products during the Reporting Period, which the Company refers to as the &#147;<B><I>Subject Minerals</I></B>,&#148; to determine
+whether any such Subject Minerals originated in the Covered Countries and/or whether any of the Subject Minerals were from recycled or scrap sources. Where applicable, the Company has conducted additional due diligence regarding the sources of the
+Subject Minerals. The results of the Company&#146;s RCOI regarding the Subject Minerals, as well as its additional due diligence regarding the sources of such Subject Minerals, are contained in the Company&#146;s Conflict Minerals Report, a copy of
+which is filed as Exhibit 1.01 to this Form SD, and is publicly available at www.parker.com. The content on, or accessible through, any web site referred to in this Form SD is not incorporated by reference into this Form SD unless expressly noted.
+</P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Exhibit</B>.<B> </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As specified in Section&nbsp;2 of Form SD, the Company is hereby filing
+its Conflict Minerals Report as Exhibit 1.01 to this Form&nbsp;SD. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Section&nbsp;2 Exhibits </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Exhibits</B>.<B> </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The following exhibit is filed as part of this Form SD. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>1.01</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Conflict Minerals Report of Parker-Hannifin Corporation</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the duly authorized undersigned. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>PARKER-HANNIFIN CORPORATION </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman"><B>/s/ John G. Dedinsky</B></P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">June&nbsp;1, 2015</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">John G. Dedinsky</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="center">(Date)</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Vice President, Global Supply Chain and Procurement</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>1.01</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Conflict Minerals Report of Parker-Hannifin Corporation</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d933881dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Parker-Hannifin Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Conflict Minerals Report </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the reporting period from January&nbsp;1, 2014 to December&nbsp;31, 2014 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Conflict Minerals Report (this &#147;<B><I>Report</I></B>&#148;) of Parker-Hannifin Corporation (including its consolidated subsidiaries,
+the &#147;<B><I>Company</I></B>&#148;) has been prepared pursuant to Rule 13p-1 and Form SD promulgated under the Securities Exchange Act of 1934 for the reporting period from January&nbsp;1, 2014 to December&nbsp;31, 2014 (the &#147;<B><I>Reporting
+Period</I></B>&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><I>Forward-looking statements contained in this Report are made based on known events and circumstances at the
+time of release, and as such, are subject in the future to unforeseen uncertainties and risks. Statements in this Report which express a belief, expectation or intention, as well as those that are not historical fact, are forward-looking statements,
+including statements related to the Company&#146;s compliance efforts and expected actions identified in this Report. These forward-looking statements are subject to various risks, uncertainties and assumptions, including, among other matters, the
+Company&#146;s customers&#146; requirements to use certain suppliers, the Company&#146;s suppliers&#146; responsiveness and cooperation with the Company&#146;s due diligence efforts, the Company&#146;s ability to implement improvements in its
+conflict minerals program and the Company&#146;s ability to identify and mitigate related risks in its supply chain. If one or more of these or other risks materialize, actual results may vary materially from those expressed. For a more complete
+discussion of these and other risk factors, see the Company&#146;s other filings with the Securities and Exchange Commission (&#147;</I><B><I>SEC</I></B><I>&#148;), including its Annual Report on Form 10-K for the year ended June&nbsp;30, 2014 and
+subsequent Quarterly Reports on Form&nbsp;10-Q. The Company makes these statements as of the date of this disclosure, and undertakes no obligation to update them unless otherwise required by law. </I></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Rule 13p-1, through Form SD, requires the disclosure of certain information if a company manufactures or contracts to manufacture products for
+which certain &#147;conflict minerals&#148; (as defined below) are necessary to the functionality or production of such products. Form SD defines &#147;<B><I>conflict minerals</I></B>&#148; as: (i)(a) columbite-tantalite (or coltan, the metal ore
+from which tantalum is extracted), (b)&nbsp;cassiterite (the metal ore from which tin is extracted), (c)&nbsp;gold and (d)&nbsp;wolframite (the metal ore from which tungsten is extracted), or their derivatives, which are currently limited to
+tantalum, tin and tungsten; or (ii)&nbsp;any other mineral or its derivatives determined by the U.S. Secretary of State to be financing conflict in the Democratic Republic of the Congo or an &#147;adjoining country,&#148; as such term is defined in
+Form SD (collectively, the &#147;<B><I>Covered Countries</I></B>&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company&#146;s operations may at times manufacture, or
+contract to manufacture, products for which conflict minerals are necessary to the functionality or production of those products (collectively, the &#147;<B><I>products</I></B>&#148;). For the Reporting Period, the Company reasonably determined that
+the following product groups contain conflict minerals: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="88%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="18%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="80%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Hydraulics:</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">electronic displays; electronic I/O controllers; integrated hydraulic circuits; and power units.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Automation:</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">AC/DC drives &amp; systems; electric actuators, gantry robots &amp; slides; and stepper motors, servo motors, drives &amp; controls.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Fluid Connectors:</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">diagnostic equipment.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Instrumentation:</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">analytical instruments &amp; sample conditioning systems; electronic controllers; and high purity gas delivery fittings, valves, regulators &amp; digital flow controllers.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Filtration:</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">analytical gas generators; nitrogen &amp; hydrogen generators; and water desalination and purification filters &amp; systems.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Engineered Materials:</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">metal &amp; plastic retained composite seals.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Aerospace:</B></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">control systems &amp; actuation products; power conditioning &amp; management systems; and thermal management.</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As required by Form SD, the Company has conducted a good faith reasonable country of origin
+inquiry (&#147;<B><I>RCOI</I></B>&#148;) regarding the conflict minerals included in the products described above during the Reporting Period, which the Company refers to as the &#147;<B><I>Subject Minerals</I></B>,&#148; to determine whether any
+such Subject Minerals originated in the Covered Countries and/or whether any of the Subject Minerals were from recycled or scrap sources. Where applicable, the Company has conducted additional due diligence regarding the sources of the Subject
+Minerals. The results of the Company&#146;s RCOI regarding the Subject Minerals, as well as the Company&#146;s additional due diligence regarding the sources of such Subject Minerals, are contained in this Report, which is publicly available at
+www.parker.com. The content on, or accessible through, any web site referred to in this Report is not incorporated by reference into this Report unless expressly noted. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B><U>RCOI and Due Diligence Process.</U> </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company has conducted a good faith RCOI
+regarding the Subject Minerals. This good faith RCOI was reasonably designed to determine whether any of the Subject Minerals originated in the Covered Countries and whether any of the Subject Minerals may be from recycled or scrap sources, in
+accordance with Form SD and related guidance provided by the SEC. The Company also exercised due diligence on the source of the Subject Minerals. The Company&#146;s due diligence measures have been designed to follow the framework in the
+Organization for Economic Co-operation and Development Due Diligence Guidance for Responsible Supply Chain of Minerals from Conflict-Affected and High Risk Areas: Second Edition, including the related supplements on gold, tin, tantalum and tungsten
+(the &#147;<B><I>OECD Guidelines</I></B>&#148;). </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>RCOI </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company&#146;s global supply chain is complex. In the course of its business operations, the Company may purchase materials and components
+containing conflict minerals. These materials and components may, in turn, be included in the Company&#146;s products. Because the Company does not purchase conflict minerals directly from mines, smelters or refiners, there are many third parties in
+the supply chain between the Company and the original sources of conflict minerals. As a result, the Company relies on its direct material suppliers to provide information regarding the origin of any conflict minerals that are included in its
+products. In accordance with the OECD Guidelines and related guidance provided by the SEC, the Company works with its direct material suppliers to identify, where possible, the smelters and/or refiners and countries of origin of the Subject
+Minerals. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">During the Reporting Period, the Company continued to identify direct material suppliers that it believed could potentially
+provide materials or components containing Subject Minerals (collectively, the &#147;<B><I>Covered Suppliers</I></B>&#148;). During the Reporting Period, the Company maintained the certain questions regarding conflict minerals in its existing
+web-based supplier portal, which the Company refers to as &#147;PHconnect,&#148; to determine whether each such Covered Supplier was supplying materials or components to the Company that contained Subject Minerals and, if so, to determine the source
+of such Subject Minerals. The Company&#146;s PHconnect system requires suppliers to, among other matters, confirm the source of any conflict minerals contained in materials or components supplied to the Company and to provide annual updates
+regarding such responses. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Given the size and complexity of the Company&#146;s global supply chain, the Company focused on its largest
+suppliers, ranked by the amount the Company spends with each such supplier, and suppliers that had the highest probability of supplying the Company with materials or components containing Subject Minerals (<I>e.g.</I>, electronics). An escalation
+process was initiated with Covered Suppliers who continued to be non-responsive after the above contacts were made, or whose initial (or subsequent) response was not complete or otherwise warranted clarification or confirmation. Using a risk-based
+approach, the Company evaluated responses from the Covered Suppliers for plausibility, consistency, and gaps both in terms of which materials or components were stated to contain or not contain Subject Minerals, as well as the origin of those
+Subject Minerals. The Company engaged certain Covered Suppliers, holding discussions and reviewing the results of their internal due diligence efforts, to ensure that the Company&#146;s inquiries regarding conflict minerals were understood and
+complied with. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">For the Reporting Period, the Company obtained representations from suppliers representing approximately 83% of its total
+direct material spend during the Reporting Period, up from 70% during the period from January 2013 through December 2013. Such representations included, from certain Covered Suppliers, the <FONT STYLE="white-space:nowrap">Conflict-Free</FONT>
+Sourcing Initiative (&#147;<B><I>CFSI</I></B>&#148;) Conflict Minerals Reporting Template indicating the facility at which the Subject Minerals were processed. Based on the information obtained pursuant to the RCOI process described above, the
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Company does not have sufficient information with respect to the Reporting Period to determine the country of origin of all of the Subject Minerals. The Company&#146;s RCOI procedures are an
+evolving process. See &#147;<I>Additional Due Diligence and Risk Mitigation</I>&#148; below for additional detail. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>Due Diligence
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company&#146;s due diligence process is based on the OECD Guidelines. Due diligence measures undertaken by the Company during the
+Reporting Period included the following: </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Establish Strong Company Management Systems </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Internal Team to Support Supply Chain Due Diligence. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company maintains an internal team to manage conflict minerals engagement with its suppliers. During the Reporting Period, the Company
+held meetings with senior members of the Company&#146;s law department, supply chain management department and environmental/health/safety department to educate the Company&#146;s procurement, sales and compliance personnel on the SEC&#146;s rules
+regarding conflict minerals and to ensure the timely implementation of the Company&#146;s conflict minerals programs. This center-led team of subject matter experts is responsible for working with the Company&#146;s employees to provide training and
+guidance, implement reporting systems and facilitate communication between departments with respect to compliance with the SEC&#146;s reporting requirements regarding conflict minerals. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Internal Measures Taken to Strengthen Engagement with Suppliers. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company&#146;s conflict minerals reporting compliance measures are managed at the division level where the supplier relationship exists.
+Each division is responsible for managing the conflict minerals, if any, provided by its supply base and for identifying, where possible, the supplier of such conflict minerals in the Company&#146;s materials or components. Using PHconnect, the
+Company engages suppliers of conflict minerals, communicates its reporting obligations with respect to conflict minerals and follows up with such suppliers to ensure ongoing compliance. During the Reporting Period, the Company also:
+(i)&nbsp;continued to educate key employees regarding conflict minerals; (ii)&nbsp;continued to respond to questions from the Company&#146;s supplier base regarding conflict minerals; and (iii)&nbsp;maintained its internal training for responses to
+questions from the Company&#146;s customers regarding conflict minerals. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Identify and Assess Risks in the Supply Chain </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As discussed above, the Company continues to assess its supply chain risks and work with its suppliers in developing greater supply chain
+transparency. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Implement Additional Terms and Conditions and Supplier Code of Conduct </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">During the Reporting Period, the Company strengthened its commitment to the responsible sourcing of conflict minerals though the implementation
+of specific terms and conditions in certain supply agreements and purchase orders. These additional terms and conditions require, among other matters, that no materials or components supplied under such contract may contain any conflict minerals
+that directly or indirectly finance any armed group that has been identified as a perpetrator of human rights abuses. These new terms and conditions are included in all new or renewed contracts. In addition, during the Reporting Period the Company
+amended its supplier code of conduct to prohibit suppliers from supplying the Company with certain conflict minerals originating in the Covered Countries. This amended supplier code of conduct is accessed by suppliers through the Company&#146;s
+PHconnect system. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Design and Implement a Strategy to Respond to Identified Risks </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company is committed to maintaining high standards of corporate responsibility through its compliance with Form SD. As required by Form SD,
+the Company is reporting the findings of its RCOI and additional due diligence measures through the preparation of this Report. The Company&#146;s internal team that manages conflict minerals engagement with the Company&#146;s suppliers also works
+to address any significant due diligence findings as </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+they arise. For example, as noted above, the Company conducted additional due diligence for certain Covered Suppliers who provided inadequate or incomplete initial responses to the Company&#146;s
+RCOI. The Company uses its PHconnect system to monitor the use of conflict minerals in its supply chain. Data from the PHconnect system is used at the corporate, group and division levels to oversee the Company&#146;s supplier base and to provide
+key metrics to decision makers to assist with the Company&#146;s conflict minerals reporting compliance and to provide meaningful comparisons regarding supply chain transparency across the Company. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Carry Out Independent Third-Party Audit of Smelter&#146;s / Refiner&#146;s Due Diligence Practices </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Where possible, the Company has relied on third party assurances and certifications. For example, the Company accepts as reliable any smelter
+that is a member of the CFSI Conflict Free Smelter program. To the extent that other audited supplier certifications are provided to the Company, the Company may consider reliance on a case-by-case basis. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Report Annually on Supply Chain Due Diligence </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Report is publicly available at www.parker.com and meets the OECD recommendation to report annually on supply chain due diligence. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Diligence Results. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Based on the information obtained pursuant to the RCOI and due
+diligence process described above, the Company does not have sufficient information, with respect to the Reporting Period, to determine the known facility/smelter or country of origin of the Subject Minerals. Although the Company received responses
+from certain Covered Suppliers in connection with its RCOI that listed smelter or refiner names, such Covered Suppliers were unable to accurately report which specific smelters were part of the supply chain for the Subject Minerals. For example, the
+majority of Covered Suppliers reported their sourcing results on a company-wide basis, rather than on a product-specific basis or were unable to determine the facility/smelter and/or country of origin for the Subject Minerals. A Covered
+Supplier&#146;s failure to identify a specific facility/smelter and/or country of origin at any point in its supply chain will drive an equivalent response for the Company and, therefore, the Company is unable to report any known facilities/smelters
+and/or countries of origin for the Subject Minerals at this time. The Company continues to implement and refine its conflict minerals program to improve its supply chain transparency by obtaining more accurate and more complete information from its
+suppliers. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>3.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Additional Due Diligence and Risk Mitigation. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Within the Company&#146;s supplier
+relationships, the Company seeks to manage its sourcing processes ethically, and to hold the Company and its suppliers to high standards of behavior. This means that the Company is committed to working with its suppliers to encourage responsible
+practices throughout the supply network. The Company expects to take the following steps, among others, to improve its RCOI process and due diligence measures: </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Continuous Improvement of Supply Chain Due Diligence </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company expects to continue to improve its supply chain due diligence efforts. Such measures may include, but are not limited to: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">assessing the presence of conflict minerals in its supply chain; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">clearly communicating expectations with regard to transparency of supplier sourcing of conflict minerals; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">increasing the response rate for RCOI process; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">continuing to monitor and track the Company&#146;s performance of risk mitigation and response rate for RCOI process; and </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">continuing to compare RCOI results to information collected via independent conflict free smelter validation programs such as the CFSI Conflict Free Smelter program. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

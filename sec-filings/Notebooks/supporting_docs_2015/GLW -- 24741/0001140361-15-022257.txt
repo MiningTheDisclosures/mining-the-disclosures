@@ -1,0 +1,2433 @@
+<SEC-DOCUMENT>0001140361-15-022257.txt : 20150529
+<SEC-HEADER>0001140361-15-022257.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529104011
+ACCESSION NUMBER:		0001140361-15-022257
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORNING INC /NY
+		CENTRAL INDEX KEY:			0000024741
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRAWING AND INSULATING NONFERROUS WIRE [3357]
+		IRS NUMBER:				160393470
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03247
+		FILM NUMBER:		15897657
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE RIVERFRONT PLAZA
+		CITY:			CORNING
+		STATE:			NY
+		ZIP:			14831
+		BUSINESS PHONE:		6079749000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE RIVERFRONT PLAZA
+		CITY:			CORNING
+		STATE:			NY
+		ZIP:			14831
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CORNING GLASS WORKS
+		DATE OF NAME CHANGE:	19890512
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>formsd.htm
+<DESCRIPTION>CORNING INC NY SD 12-31-2014
+<TEXT>
+<html>
+<head>
+<title>Unassociated Document</title>
+<!--Licensed to: Summit Financial Printing, LLC
+    Document created using EDGARfilings PROfile 3.3.0.0
+    Copyright 1995 - 2015 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" bgcolor="#ffffff">
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Washington, D.C. 20549</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">FORM SD</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">SPECIALIZED DISCLOSURE REPORT</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="976fb577016c43eaa047db76fa8babb2" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 80%; BORDER-TOP: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">CORNING INCORPORATED</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 80%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">(Exact Name of Registrant as Specified in Charter)</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 80%; FONT-FAMILY: times new roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="1d85da5db6194b819b89987aa66141e6" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 28%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: -0.9pt">New York</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: -0.9pt">(State or Other Jurisdiction</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: -0.9pt">of incorporation)</div>
+</td>
+<td style="WIDTH: 28%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">1-3247</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">(Commission File No.)</div>
+</td>
+<td style="WIDTH: 23%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">16-0393470</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">(I.R.S. Employer</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Identification Number)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="1b2577908561413e8124ad8d0eec2a12" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 28%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: -0.9pt">One&#160;Riverfront&#160;Plaza,&#160;Corning&#160;New&#160;York</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: -0.9pt">(Address of Principal Executive Offices)</div>
+</td>
+<td style="WIDTH: 28%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+<td style="WIDTH: 23%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">14831</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">(Zip Code)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="a057627f6310480f8b482e495b181cb9" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 28%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: -0.9pt">Daniel P. Christmas</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+<td style="WIDTH: 28%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+<td style="WIDTH: 23%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">(607)&#160;974-9000</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 28%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+<td style="WIDTH: 28%" valign="top">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">(Name and telephone number, including</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">area code, of the person to contact in</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">connection with this report.)</div>
+</td>
+<td style="WIDTH: 23%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="f1c78e6d10c04e45ad8e705e7717d207" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: black 4px double; WIDTH: 80%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies:</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="list" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td style="WIDTH: 45pt" align="right">
+<div style="DISPLAY: inline; FONT-FAMILY: Wingdings; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#253;<font style="FONT-FAMILY: 'Times New Roman'">&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="30e59a9d0b7544d693b0546bb9572ff4" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: black 4px double; WIDTH: 79%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" id="PGBRK">
+<div id="FTR">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt" id="GLFTR"></div>
+</div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%" id="PN">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div id="HDR">
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt" id="GLHDR"></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 5.65pt">Section 1 - Conflict Minerals Disclosure</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 5.65pt">Item 1.01 Conflict Minerals Disclosure and Report</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.65pt">Corning Incorporated evaluated its current product lines and determined that certain products we manufacture or contract to manufacture contain tin, tantalum, tungsten and/or gold (3TG).&#160;&#160;The results of our reasonable country of origin inquiry and due diligence are contained in the Conflict Minerals Report filed herewith.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.65pt">A copy of the Company&#8217;s Conflict Minerals Report is provided as Exhibit 1.01 hereto and is publicly available on the Investor Relations page of Corning&#8217;s website (see <font style="DISPLAY: inline; TEXT-DECORATION: underline">http://www.corning.com/investor_relations/index.aspx</font> and click on &#8220;SEC Filings&#8221;).</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 5.65pt">Item 1.02 Exhibit</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.65pt">As specified in Section 2, Item 2.01, Corning Incorporated is hereby filing its Conflict Minerals Report as Exhibit 1.01 to this report.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 5.65pt">Section 2 - Exhibits</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 5.65pt">Item 2.01 Exhibits</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.65pt">The following exhibit is filed as part of this report</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="46d146a6688543e6a62f566eabdadd0c" cellspacing="0" cellpadding="0">
+<tr>
+<td style="PADDING-BOTTOM: 2px; WIDTH: 16%" valign="top" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt; TEXT-DECORATION: underline">Exhibit&#160;Number</div>
+</td>
+<td style="PADDING-BOTTOM: 2px; WIDTH: 5%; FONT-FAMILY: times new roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+<td style="WIDTH: 61%" valign="top" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt; TEXT-DECORATION: underline">Description</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 16%; DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+<td style="WIDTH: 5%; DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+<td style="WIDTH: 61%; DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+</tr>
+
+<tr>
+<td style="WIDTH: 16%" valign="top" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">1.01</div>
+</td>
+<td style="WIDTH: 5%; DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt" valign="top">&#160; </td>
+<td style="WIDTH: 61%" valign="top" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Conflict Minerals Report of Corning Incorporated.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" id="PGBRK">
+<div id="FTR">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt" id="GLFTR"></div>
+</div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%" id="PN">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div id="HDR">
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt" id="GLHDR"></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">SIGNATURES</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="1e754f3da8bc49d19955b2771f24c1fb" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 47%" valign="top" colspan="2" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">CORNING&#160;INCORPORATED</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+<td style="WIDTH: 6%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+<td style="WIDTH: 27%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+</tr>
+
+<tr>
+<td style="WIDTH: 47%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom" colspan="2">&#160; </td>
+<td style="WIDTH: 6%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+<td style="WIDTH: 27%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+</tr>
+
+<tr>
+<td style="WIDTH: 5%" valign="bottom" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">By:</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 42%" valign="bottom" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">/s/ Kirk P. Gregg</div>
+</td>
+<td style="WIDTH: 6%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 27%" valign="bottom">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">May&#160;29,&#160;2015</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 5%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+<td style="WIDTH: 42%" valign="bottom" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Kirk P. Gregg</div>
+</td>
+<td style="WIDTH: 6%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+<td style="WIDTH: 27%" valign="bottom">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">(Date)</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 5%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+<td style="WIDTH: 42%" valign="bottom" align="left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Executive&#160;Vice&#160;President&#160;and&#160;Chief&#160;Administrative&#160;Officer</div>
+</td>
+<td style="WIDTH: 6%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+<td style="WIDTH: 27%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+</tr>
+
+<tr>
+<td style="WIDTH: 47%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom" colspan="2">&#160; </td>
+<td style="WIDTH: 6%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+<td style="WIDTH: 27%; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" valign="bottom">&#160; </td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<hr style="TEXT-ALIGN: center; BACKGROUND-COLOR: #000000; HEIGHT: 2px; COLOR: #000000; MARGIN-LEFT: auto; MARGIN-RIGHT: auto" noshade="noshade">
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>ex1-01.htm
+<DESCRIPTION>EXHIBIT 1.01
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Summit Financial Printing, LLC
+    Document created using EDGARfilings PROfile 3.3.0.0
+    Copyright 1995 - 2015 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 5.45pt">Exhibit 1.01</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Corning Incorporated</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Conflict Minerals Report</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">For The Year Ended December 31, 2014</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">This Conflict Minerals Report (CMR) for the year ended December 31, 2014 is presented to comply with Rule 13p-1 under the Securities Exchange Act of 1934 (the Rule). The Rule was adopted by the Securities and Exchange Commission (SEC) to implement reporting and disclosure requirements related to conflict minerals as directed by the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act). The Rule imposes certain reporting obligations on SEC registrants whose manufactured products contain conflict minerals which are necessary to the functionality or production of their products. Conflict Minerals are defined as cassiterite, columbite-tantalite, gold, wolframite, and their derivatives, which are limited to tin, tantalum, tungsten, and gold (3TG).</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 6pt">This report is available on the Investor Relations page of Corning&#8217;s website (see <font style="DISPLAY: inline; TEXT-DECORATION: underline">http://www.corning.com/investor_relations/index.aspx</font> and click on &#8220;SEC Filings&#8221;).</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">1.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Company Overview</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">This report has been prepared by management of Corning Incorporated (herein referred to as &#8220;Corning,&#8221; the &#8220;Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; or &#8220;our&#8221;). The information includes the activities of all majority-owned subsidiaries and variable interest entities that are required to be consolidated in accordance with US Generally Accepted Accounting Policies. It does not include the activities of subsidiaries or variable interest entities that are not required to be consolidated.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning is a world leader in the manufacture of specialty glass and ceramics. Drawing on more than 160 years of materials science and process engineering knowledge, Corning creates and makes keystone components that enable high-technology systems for consumer electronics, mobile emissions control, telecommunications and life sciences. Corning operates in five reportable segments: Display Technologies, Optical Communications, Environmental Technologies, Specialty Materials and Life Sciences. Corning manufactures and processes products at approximately 90 plants in 17 countries.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">2.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Products Overview</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning&#8217;s principal products, by segment, are as follows:</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning&#8217;s Display Technologies segment manufactures glass substrates for active matrix liquid crystal displays (LCDs) that are used primarily in notebook computers, flat panel desktop monitors, and LCD televisions.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning&#8217;s Optical Communications segment is classified into two main product groupings &#8211; carrier network and enterprise network. The carrier network product group consists primarily of products and solutions for optical-based communications infrastructure for services such as video, data and voice communications. The enterprise network product group consists primarily of optical-based communication networks of products and solutions sold to businesses, governments and individuals for their own use.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning&#8217;s Environmental Technologies segment manufactures ceramic substrates and filter products for emissions control in mobile and stationary applications around the world.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">The Specialty Materials segment manufactures products that provide more than 150 material formulations for glass, glass ceramics and fluoride crystals to meet demand for unique customer needs. Consequently, this&#160;segment operates in a wide variety of commercial and industrial markets that include display optics and components, semiconductor optics components, aerospace and defense, astronomy, ophthalmic products, telecommunications components and cover glass that is optimized for portable display devices and televisions.</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning&#8217;s Life Sciences segment is a leading developer, manufacturer and global supplier of scientific laboratory products, including general labware and equipment, as well as specialty surfaces, media and reagents, that are used for cell culture research, bioprocessing, genomics, drug discovery, microbiology and chemistry.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">3.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Supply Chain Overview</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning maintains complex and diverse supply chains across its reported segments, involving thousands of suppliers to the Company.&#160;&#160;We rely on our direct suppliers to provide information on the origin of the 3TG contained in components and materials supplied to us &#8211; including sources of 3TG that are supplied to them from lower tier suppliers. Contracts with our suppliers are frequently in force for three years or more and we cannot unilaterally impose new contract terms and flow-down requirements. As we enter into new contracts, or our contracts renew, we are adding a clause to relevant agreements that requires suppliers to provide information about the source of conflict minerals and smelters. It will take a number of years to ensure that all our relevant supplier contracts contain appropriate flow-down clauses related to conflict minerals. In the meantime, as described below, we are working with selected suppliers to ensure they provide the 3TG sourcing information until the contracts can be amended.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Based upon technical knowledge regarding our products, as well as the results of the prior year&#8217;s supplier survey, relevant personnel in each of our reported segments identified the suppliers to survey regarding whether the components or materials supplied to Corning by such suppliers contain 3TG.&#160;&#160;We relied upon these suppliers, approximately 215 in total, to provide us with information about whether the components or materials supplied to Corning contain 3TG; and if so, the source of such conflict minerals. Our direct suppliers are similarly reliant upon information provided by their suppliers, or in the case of distributors from whom we purchase components or materials, reliant upon the manufacturers of such items. Many of our larger suppliers are also SEC registrants and subject to the Rule.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt">4.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; FONT-SIZE: 10pt">Reasonable </font>Country of Origin Inquiry (RCOI) and RCOI Conclusion</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="50a78a50cff3445ab62f5e86e6445f30" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">4.1</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Requests for Information</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">We conducted a survey of those suppliers described above using the template developed by the Electronic Industry Citizenship Coalition&#174; (EICC&#174;) and The Global e-Sustainability Initiative (GeSI), known as the CFSI Reporting Template (the Template). The Template was developed to facilitate disclosure and communication of information regarding smelters that provide material to a company&#8217;s supply chain. It includes questions regarding a company&#8217;s conflict-free policy, engagement with its direct suppliers, and a listing of the smelters the company and its suppliers use. In addition, the template contains questions about the origin of conflict minerals included in their products, as well as supplier due diligence. Written instructions and recorded training illustrating the use of the tool is available on EICC&#8217;s website. The Template is being used by many companies in their due diligence processes related to conflict minerals.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="fa554c57811848d390bae3394dd1e389" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">4.2</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Survey Responses</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">We received some type of response from nearly all of the suppliers we surveyed.&#160;&#160;These responses ranged from general corporate statements regarding conflict minerals to fully completed Templates. We reviewed the responses against criteria developed to determine which responses required further engagement with our suppliers. These criteria included untimely or incomplete responses as well as inconsistencies within the data reported in the Template.&#160;&#160;We have worked directly with these suppliers to obtain revised responses, although ultimately many suppliers reported that they were currently engaged in their own supply chain due diligence efforts and were therefore unable to provide definitive information to us.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Where the Template responses included the names of entities listed by our suppliers as smelters or refiners, we consulted the CFSI publically-available information to determine whether such entities had been identified as certified Conflict-Free.&#160;&#160;In many cases, the Template responses did not provide smelter information; this was one of the items that we typically requested in follow-up communications with suppliers.&#160;&#160;Ultimately many suppliers were unable to provide us with smelter information because they were engaged in their own efforts to obtain that information from their suppliers.</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Many of the responses received provided data at a company or divisional level or, as described above, were unable to specify the smelters or refiners used for components supplied to Corning.&#160;&#160;In many instances, we engaged in follow-up communications with suppliers to request that they provide a Template response specific to the components or materials supplied to Corning; however, in many cases, the suppliers were unable to do so because they were still working to obtain detailed information from their own suppliers.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="0e1ea4887661417c8d8e66077685ba70" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">4.3</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">RCOI Conclusion</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Based upon the results of our RCOI, we were able to determine that no 3TG are contained in the products sold by Corning&#8217;s Environmental Technologies segment.&#160;&#160;In Corning&#8217;s Display Technologies segment, our RCOI determined that while tin is contained in the products sold by this segment, the tin is not sourced from the Covered Countries.&#160;&#160;For Corning&#8217;s remaining segments (Optical Communications, Specialty Materials, and Life Sciences), we were unable to determine whether the 3TG in the products for such segments originated in the Covered Countries because of the incomplete information received from our supply chain to date.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Based on RCOI responses we have received from certain suppliers, we believe that certain of the 3TG contained in the products for our Optical Communications, Specialty Materials, or Life Sciences segments may have originated in the Democratic Republic of the Congo or an adjoining country (the Covered Countries).&#160;&#160;Thus, we are required under the Rule to conduct due diligence on the source and chain of custody of those minerals and submit to the SEC a Conflict Minerals Report as an Exhibit to Form SD.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Due Diligence Program</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="ec3a4811f2644bbcb1db2c062a43c4a1" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.1</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Design of Due Diligence</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.4pt">Our due diligence measures have been designed to conform, in all material respects, with the framework in The Organization for Economic Co-operation and Development (OECD) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, Second Edition, 2013 (OECD Guidance) and the related Supplements for gold and for tin, tantalum and tungsten.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="bae424d7bf064591a26b7db9ea3886e2" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.2</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Establish Strong Company Management Systems</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="c3afc65039c442cca208c5aa2bd2d371" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.2.1</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Conflict Minerals Policy</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">We have adopted the following conflict minerals policy:</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Consistent with Corning&#8217;s commitment to corporate social responsibility, and in order to meet the requirements of the Dodd-Frank Wall Street Reform Act, section 1502, Corning commits to conducting a &#8220;reasonable country of origin inquiry&#8221; with all our suppliers of 3TG containing component, supplies or raw materials.&#160;&#160;If Corning becomes aware of a supplier whose supply chain includes a 3TG metal from a conflict source, Corning will take the reasonable steps to address the situation, including the potential reassessment of supplier relationships, depending on factors such as the criticality of the specific part and the availability of alternate suppliers. Corning expects our suppliers will comply with our requests to provide statements and perform due diligence about the source of any conflict minerals in their products which are provided to us in order to ensure alignment throughout the supply chain.</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.85pt">For additional information about our commitment to responsible sourcing and other human rights, please see the &#8220;Corporate Citizenship&#8221; page of our website, available at <font style="DISPLAY: inline; TEXT-DECORATION: underline">http://www.corning.com/about_us/corporate_citizenship/index.aspx</font>, as well as Corning&#8217;s Code of Conduct, available on our website at <font style="DISPLAY: inline; TEXT-DECORATION: underline">www.corning.com/WorkArea/showcontent.aspx?id=29265</font>.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Our conflict minerals policy is publicly available on our website at the following link:&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">www.corning.com/WorkArea/showcontent.aspx?id=59699</font>.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="1a7f5c96064045dbb60f3e85351b2648" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.2.2</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Internal Team</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.5pt">Corning has established a management system for conflict minerals. Our management system includes a steering team sponsored by the Vice President, Global Supply Management as well as executive-level representatives from the company&#8217;s finance and legal functions.&#160;&#160;Reporting to the steering team is a core working team, which is led by a Strategic Sourcing Manager from the Supply Chain Materials Group in our Global Supply Management organization.&#160;&#160;This core team, which includes subject matter experts from relevant functions such as finance, legal, and global supply management, is responsible for implementing our conflict minerals compliance strategy. Senior management is briefed about the results of our due diligence efforts on a regular basis.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="2ad9c93ee1184c5f89db42d5912c5089" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.2.3</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Control Systems</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.35pt">As we do not typically have a direct relationship with 3TG smelters and refiners, we have relied upon industry-wide initiatives to disclose upstream actors in the supply chain.&#160;&#160;Specifically, as part of our due diligence efforts we have utilized the smelter information provided by the Electronics Industry Citizenship Coalition-Global e-Sustainability Initiative&#8217;s (EICC-GeSI) Conflict Free Sourcing Initiative (CFSI).</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">In addition, with the assistance of personnel from Corning&#8217;s accounting, control and reporting function, we developed a detailed risk control matrix through which Corning&#8217;s conflict minerals program can be evaluated and monitored.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="c53ef3cc01f74b8e9cc2d36877544a6e" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.2.4</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Supplier Engagement</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">With respect to the OECD requirement to strengthen engagement with suppliers, we have added a conflict minerals clause to our purchase order terms and conditions and relevant contract templates in order to communicate to suppliers our expectations and requirements regarding the sourcing of and disclosure of conflict minerals.&#160;&#160;We also include our Supplier Code of Conduct in our supplier contracts which contains Corning&#8217;s expectations for suppliers with respect to humane labor conditions, health and safety, and environmental factors, among others.&#160;&#160;A copy of our Supplier Code of Conduct is available at <font style="DISPLAY: inline; TEXT-DECORATION: underline">http://www.corning.com/about_us/suppliers/code_of_conduct.aspx</font>.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="1db616aa828841b68ca7b9fabef2ec28" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.2.5</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Grievance Mechanism</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning&#8217;s Supplier Code of Conduct, referenced in 5.2.4 above, instructs suppliers that questions or concerns may be submitted to Corning&#8217;s third party telephone and web hotline service.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="9f370d1531b44bf19b5c039a7b2a02be" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.2.6</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Maintain Records</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning has an existing document retention policy which governs the retention of documentation relevant to our due diligence efforts.</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="70a7c409ad654917bec7a160992b734e" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.3</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Identify and Assess Risks in the Supply Chain</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.35pt">Because of our size, the complexity of our products, and the depth and breadth of our supply chain, it is difficult to identify actors upstream from our direct suppliers.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 5.35pt">Thus, as described above, we conducted a survey of relevant suppliers using the EICC-GeSI Template to identify suppliers who may be supplying one or more 3TG to Corning.&#160;&#160;Our internal team reviewed these responses for completeness and&#160;determined what suppliers were most at risk of supplying to Corning from the Covered Countries.&#160;&#160;We identified missing information and internal inconsistencies in the survey results received and where necessary requested further information from the relevant suppliers.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="671baa054ee24d2abd19c01563aa4090" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.4</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Design and Implement a Strategy to Respond to Risks</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">As described in our conflict minerals policy, we intend to engage with any of our suppliers whom we have reason to believe are supplying us with 3TG from sources that may support conflict in the DRC or any adjoining country to appropriately address the situation, which may include establishing an alternative source of 3TG that does not support such conflict, as provided in the OECD guidance.&#160;&#160;The result and timing will depend upon factors such as the criticality of the specific part and the availability of alternate suppliers.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">As of the date of this filing, we have found no instances where it was necessary to terminate a contract or find a replacement supplier due to 3TG sourced from the Covered Countries.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="1e411dc51ba346bbba4ff1d982c2be3d" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.5</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Carry out Independent Third Party Audit of Supply Chain Due Diligence at Identified Points in the Supply Chain</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning does not have a direct relationship with 3TG smelters and refiners, nor do we perform direct audits of these entities within our supply chain.&#160;&#160;However, we do rely upon the industry (e.g., EICC and CFSI) efforts to influence smelters and refiners to get audited and certified through the CFSI&#8217;s Conflict Free Smelter program.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="df6b16bd66dd4804bb609b599b6a9ae4" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.6</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Report on Supply Chain Due Diligence</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">In addition to this report, see our website at <font style="DISPLAY: inline; TEXT-DECORATION: underline">http://www.corning.com/about_us/suppliers/index.aspx</font> for further information about Corning&#8217;s commercial relationships with its suppliers.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="2f61ddda2ea141398635a33ea3b9a502" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.6.1</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Due Diligence Process</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning conducted a survey of its relevant suppliers (as described above) using the template developed jointly by the Electronic Industry Citizenship Coalition&#174; (EICC&#174;) and The Global e-Sustainability Initiative (GeSI), known as the CFSI Reporting Template (the &#8220;Template&#8221;).&#160;&#160;The Template was developed to facilitate disclosure and communication of information regarding smelters that provide material to a company&#8217;s supply chain. It includes questions regarding a company&#8217;s conflict-free policy, engagement with its direct suppliers, and a listing of the smelters the company and its suppliers use. In addition, the Template contains questions about the origin of conflict minerals included in their products, as well as supplier due diligence. Written instructions and recorded training illustrating the use of the tool is available on CFSI&#8217;s website.</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="a81649b892034f24810372090f96ae44" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.6.2</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Survey Responses</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Corning surveyed approximately 215 suppliers based upon the likelihood that such suppliers supplied materials or components to Corning that contained one or more 3TG.&#160;&#160;Corning created a database which contains these supplier responses as well as the results of the review of such responses by Corning&#8217;s internal team.&#160;&#160;A total of 13 suppliers indicated in their survey responses that they sourced&#160;&#160;3TG from the Covered Countries; six of these suppliers were able to confirm that such 3TG came from smelters designated as &#8220;conflict free&#8221; by the CFSI, while seven were continuing to investigate their supply chains to verify the source of the 3TG involved.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="ceb408b2be1f44469c063d4cb18a641b" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.6.3</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Efforts to Determine Country of Origin of Mine or 3TG</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">We have determined that seeking information about 3TG smelters and refiners in our supply chain through the use of the Template with our relevant suppliers represents the most reasonable effort we are able to make to determine the mines or locations of origin of the 3TG in our supply chain.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="296730a8ce474866990341c5ef05f3a9" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">5.6.4</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Efforts to Identify Smelters or Refiners</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Because of the incomplete information provided to us by our suppliers in response to our surveys, or the receipt of company-level responses that do not provide information specific to materials or components supplied to Corning, in many cases the smelters and refiners we have identified to date cannot be tied to specific Corning products.&#160;&#160;However, in certain instances, our suppliers did provide Templates specific to the products supplied to Corning.&#160;&#160;Smelter information included in such product-specific Templates has been included herein as Exhibit 1 to this report.&#160;&#160;Of the 85 smelters identified on these product-specific Templates, as of May 26, 2015, 70 were identified as &#8220;conflict free&#8221; by the CFSI and 5 were actively working toward a &#8220;conflict free&#8221; designation.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">6.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Steps to be taken to mitigate risk</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">We intend to take the following steps to improve the due diligence conducted to further mitigate any risk that the necessary conflict minerals in our products could benefit armed groups in the DRC or adjoining countries:</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="c5219714993a46d2809d3f7ade2c6f54" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td style="WIDTH: 36pt" align="right">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">A.&#160;&#160;</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Include a conflict minerals flow-down clause in relevant new or renewed supplier contracts.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="796c0b23e1de47cf9b8bee1ceca8b11f" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td style="WIDTH: 36pt" align="right">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">B.&#160;&#160;</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Engage with suppliers to attempt to increase the response rate and improve the content of the supplier survey responses.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="fb0b8178a8624bb29b69ce1fb38a818f" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td style="WIDTH: 36pt" align="right">
+<div style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">C.&#160;&#160;</div>
+</td>
+<td>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Engage any of our suppliers found to be supplying us with 3TG from sources that support conflict in the DRC or any adjoining country to address the situation, which could include establishing an alternative source of 3TG that does not support such conflict, depending on factors such as the criticality of the specific part and the availability of alternate suppliers.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">This report contains &#8220;forward-looking statements&#8221; (within the meaning of the Private Securities Litigation Reform Act of 1995), which are based on current expectations and assumptions about Corning&#8217;s business operations, that involve substantial risks and uncertainties that could cause actual results to differ materially. These risks and uncertainties include: the effect of global political, economic and business conditions; product demand and industry capacity; manufacturing efficiencies; availability of critical components and materials; new product commercialization; and product and components performance issues. These and other risk factors are detailed in Corning&#8217;s filings with the Securities and Exchange Commission. Forward-looking statements speak only as of the day that they are made, and Corning undertakes no obligation to update them in light of new information or future events.</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Exhibit 1: EICC-GeSI Smelter List<font style="FONT-SIZE: 70%; VERTICAL-ALIGN: text-top"><a href="#ref.ID0E3QBG">1</a></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="cc532291ed124245bab373f813a7e2c7" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-TOP: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Metal</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%; BORDER-TOP: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Smelter Name</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0pt">Smelter Country</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Argor-Heraeus SA*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">SWITZERLAND</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Asahi Pretec Corporation*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">JAPAN</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Caridad</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">MEXICO</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CCR Refinery &#8211; Glencore Canada Corporation*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CANADA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Heraeus Ltd Hong Kong*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Heraeus Precious Metals GmbH &amp; Co. KG*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">GERMANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Kennecott Utah Copper LLC*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED&#160;STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Materion*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Matsuda Sangyo Co., Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">JAPAN</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Metalor Technologies SA*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">SWITZERLAND</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Metalor USA Refining Corporation*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Ohio Precious Metals, LLC*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Royal Canadian Mint*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CANADA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Shandong Zhaojin Gold &amp; Silver Refinery Co. Ltd*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">The Refinery of Shandong Gold Mining Co. Ltd*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Umicore SA Business Unit Precious Metals Refining*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">BELGIUM</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gold</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">United Precious Metal Refining, Inc.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Conghua Tantalum and Niobium Smeltry*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Duoluoshan*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Exotech Inc.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">F&amp;X Electro-Materials Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Global Advanced Metals Boyertown*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck Co., Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">THAILAND</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck GmbH*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">GERMANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck GmbH Goslar*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">GERMANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck GmbH Laufenburg*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">GERMANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck Hermsdorf GmbH*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">GERMANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck Inc.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">JAPAN</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck Smelting GmbH &amp; Co.KG*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">GERMANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Hi-Temp*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">JiuJiang JinXin Nonferrous Metals Co., Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Jiujiang Tanbre Co., Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">KEMET Blue Powder*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<hr>
+<div><a id="ref.ID0E3QBG" name="ref.ID0E3QBG">&#160; </a>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">1</font> Per the Conflict Free Smelter Program, as of 5/26/2015, Source:&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">http://www.conflictfreesourcing.org/conflict-free-smelter-refiner-lists/</font>:</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Verified as Conflict Free as of 5/26/2015</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: Times New Roman; MARGIN-LEFT: 0pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Progressing towards Conflict Free Status as of 5/26/2015</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+
+<br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="c3fca310267c4a91bb80038d09034542" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%; BORDER-TOP: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">LSM Brasil S.A.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">BRAZIL</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Mitsui Mining &amp; Smelting*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">JAPAN</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Molycorp Silmet A.S.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">ESTONIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Ningxia Orient Tantalum Industry Co., Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Plansee SE Liezen*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">AUSTRIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">QuantumClean*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED&#160;STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">RFH Tantalum Smeltry Co., Ltd*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Solikamsk Magnesium Works OAO*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">RUSSIAN&#160;FEDERATION</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Taki Chemicals*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">JAPAN</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Telex*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Ulba*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">KAZAKHSTAN</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tantalum</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Zhuzhou Cemented Carbide*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Alpha*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">UNITED STATES</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">China Yunnan</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Cooper Santa</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">BRAZIL</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CV United Smelting*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">EM Vinto*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">BOLIVIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gejiu Non-Ferrous Metal Processing Co. Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Gejiu Zi-Li</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Huichang Jinshunda Tin Co. Ltd</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Indonesian State Tin Corporation Mentok Smelter</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Malaysia Smelting Corporation (MSC)*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">MALAYSIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Metallo Chimique*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">BELGIUM</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Minera&#231;&#227;o Taboca S.A.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">BRAZIL</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Minsur*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PERU</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Mitsubishi Materials Corporation*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">JAPAN</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">OMSA*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">BOLIVIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Babel Inti Perkasa*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Bangka Kudai Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Bangka Putra Karya*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Bangka Tin Industry*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Belitung Industri Sejahtera*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Bukit Timah*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Koba Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Refined Bangka Tin*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Sariwiguna Binasentosa*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Stanindo Inti Perkasa*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Tambang Timah</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Timah (Persero), Tbk*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT Tinindo Inter Nusa*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="display: block; text-indent: 0pt; width: 100%; margin-left: 0pt; margin-right: 0pt;">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+ &#160;</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt" id="0c4bcbeec47d4920bec03faff63312ed" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%; BORDER-TOP: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">PT. Bangka Tin Industry*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Thailand Smelting and Refining Co., Ltd.</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">THAILAND</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Thaisarco*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">THAILAND</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">White Solder Metalurgia e Minera&#231;&#227;o Ltda.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">BRAZIL</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Yunnan Chengfeng Non-ferrous Metals Co., Ltd.**</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Yunnan Tin Company Limited*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tin</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Yunnan Tin Group (Holding) Co. Ltd.*</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tungsten</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">A.L.M.T. Corp.**</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">JAPAN</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tungsten</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">H.C. Starck Smelting GmbH &amp; Co.KG**</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">GERMANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tungsten</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Jiangwu H.C. Starck Tungsten Products Co., Ltd.**</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Tungsten</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 49%" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">Nui Phao H.C. Starck Tungsten Chemicals Manufacturing LLC**</div>
+</td>
+<td style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 19%; BORDER-RIGHT: black 2px solid" valign="top">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; FONT-FAMILY: times new roman; MARGIN-LEFT: 9pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 0pt">VIETNAM</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" size="2" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right; WIDTH: 100%; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt"></div>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

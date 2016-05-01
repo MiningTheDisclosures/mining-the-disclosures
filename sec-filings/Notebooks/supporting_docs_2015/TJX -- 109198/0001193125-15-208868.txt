@@ -1,0 +1,338 @@
+<SEC-DOCUMENT>0001193125-15-208868.txt : 20150601
+<SEC-HEADER>0001193125-15-208868.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601152433
+ACCESSION NUMBER:		0001193125-15-208868
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TJX COMPANIES INC /DE/
+		CENTRAL INDEX KEY:			0000109198
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		IRS NUMBER:				042207613
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04908
+		FILM NUMBER:		15903108
+
+	BUSINESS ADDRESS:	
+		STREET 1:		770 COCHITUATE RD
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01701
+		BUSINESS PHONE:		508-390-2662
+
+	MAIL ADDRESS:	
+		STREET 1:		770 COCHITUATE ROAD
+		CITY:			FRAMINGHAM
+		STATE:			MA
+		ZIP:			01701
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZAYRE CORP
+		DATE OF NAME CHANGE:	19890625
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d937544dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>FORM SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>WASHINGTON, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED DISCLOSURE REPORT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>THE TJX
+COMPANIES, INC. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>DELAWARE</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-4908</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>04-2207613</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>770 Cochituate Road, Framingham, MA 01701 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Scott Goldenberg </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(508)&nbsp;390-1000 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name
+and telephone number, including area code, of the person to contact in connection with this report) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to
+indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act of 1934 (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014 </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 - Conflict Minerals Disclosure </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left">Item&nbsp;1.01</TD>
+<TD ALIGN="left" VALIGN="top">Conflict Minerals Disclosure and Report </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Conflict Minerals Disclosure </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company has filed a Conflict Minerals Report, included as Exhibit 1.01 to this Form and available on its website, www.tjx.com, in the Investor Information
+section at: <U>http://investor.tjx.com/phoenix.zhtml?c=118215&amp;p=irol-sec</U> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Information appearing on www.tjx.com is not a part of, and is not
+incorporated by reference into, this Form SD. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left">Item&nbsp;1.02</TD>
+<TD ALIGN="left" VALIGN="top">Exhibit </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company is hereby filing its Conflict Minerals Report as Exhibit 1.01 to this Form. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 - Exhibits </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left">Item&nbsp;2.01</TD>
+<TD ALIGN="left" VALIGN="top">Exhibits </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:23.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Exhibit<BR>No.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:37.25pt; font-size:8pt; font-family:Times New Roman">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>1.01</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Conflict Minerals Report, as required by Items 1.01 and 1.02 of this Form.</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">THE TJX COMPANIES, INC.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Scott Goldenberg</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Scott Goldenberg</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Senior Executive Vice President,</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Chief Financial Officer</TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Dated: June&nbsp;1, 2015 </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Exhibit Index </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:23.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Exhibit<BR>No.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:37.25pt; font-size:8pt; font-family:Times New Roman">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>1.01</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Conflict Minerals Report, as required by Items 1.01 and 1.02 of this Form</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d937544dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">Exhibit 1.01 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">The TJX Companies, Inc. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Conflict
+Minerals Report for the reporting period </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">from January&nbsp;1, 2014 to December&nbsp;31, 2014 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Introduction </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Under the Securities Exchange Act of 1934,
+Rule 13p-1 (the Rule) and Form SD, public companies are required to report certain information when they manufacture or contract to manufacture products where specified minerals, defined as conflict minerals, are determined to be necessary to the
+functionality or production of those products. These minerals are columbite-tantalite (coltan), cassiterite and wolframite (including their derivatives, which for the purpose of the Rule are tin, tantalum and tungsten) and gold. Companies are
+required to perform an assessment, referred to as the Reasonable Country of Origin Inquiry or RCOI, to determine if the conflict minerals appearing in these products originated, or may have originated in the region covered by the Rule: the
+Democratic Republic of the Congo (referred to as the DRC) and the adjoining countries, consisting presently of Angola, Burundi, Central African Republic, the Republic of the Congo, Rwanda, South Sudan, Tanzania, Uganda, and Zambia. If applicable,
+companies then must perform additional diligence on the source and chain of custody of those conflict minerals. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Overview </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The TJX Companies, Inc. (TJX or the Company) is an off-price retailer of apparel and home fashions with over 3,400 stores offering a rapidly changing
+assortment of merchandise, including apparel and home fashions. The Company&#146;s strategies to acquire merchandise are intentionally flexible to allow the buying organization to react to frequently changing opportunities and trends in the market
+and to adjust how and what is acquired as well as when it is acquired. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Products acquired by TJX from the market that TJX does not manufacture or contract
+to manufacture (as referenced in the Rule) are outside the scope of the Rule. However, a portion of the products sold by TJX could be considered to be in scope, which, under the Rule and SEC guidance, depends on the degree of influence exercised by
+TJX over the materials, parts, ingredients, or components to be included in a product and whether the product contains any amount of any conflict mineral. The portion of the products sold by TJX that it believes could be considered to be in scope of
+the Rule are referred to in this Report as covered products. The covered products reflect many complicated supply chains of many different vendors, with a number of third parties between the original source of any raw materials, the manufacturer,
+and TJX. TJX does not own or control manufacturing facilities and is several layers removed from any smelter or refiner providing minerals for covered products. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To complete the first step of the process, the RCOI, TJX used the Conflict Minerals Reporting Template developed and updated by the Electronic Industry
+Citizenship Coalition and Global e-Sustainability Initiative (referred to as the reporting template) to survey vendors that could be supplying products in scope of the Rule (covered vendors) with questions about their conflict mineral use and supply
+chain, including: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">whether they used conflict minerals, </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">whether they sourced minerals from the covered region, and </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">whether they had company-level compliance programs on conflict minerals. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company assessed the reporting
+template responses according to a set of risk-based evaluation criteria established by the Company, including, for example, if the vendor provided information about the </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+smelters used as support for the response to whether they sourced from the covered region. As a result of the RCOI, the Company concluded that, at that stage in the analysis, it could not
+reasonably be determined that its covered vendors sourced outside the covered region. The Company performed additional diligence, described below, on the set of covered vendors it could not reasonably determine sourced outside the covered region and
+determined that the covered products were DRC &#147;conflict undeterminable&#148; under the Rule. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Description of Diligence Design and Diligence
+Performed </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">TJX&#146;s diligence framework was designed to materially conform to the Organization for Economic Cooperation and Development&#146;s Due
+Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High Risk Areas (second edition, which includes the Supplement on Tin, Tantalum and Tungsten and the Supplement on Gold). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><I>Establish strong company management systems. </I>TJX has established a conflict minerals steering committee (the committee) including
+representatives from compliance, legal, and internal audit to implement and oversee its conflict minerals compliance program. The committee worked with executives in various areas at the Company, including merchandising, finance, compliance, legal
+and internal audit to review its diligence program and supplier training, through specific conflict minerals outreach and as a topic integrated with its more general established training programs. The committee also has developed a policy statement
+which, among other things, provides that the Company is committed to complying with the Rule and sets forth TJX&#146;s expectation that its vendors not knowingly source conflict minerals in a way that would benefit armed forces in the covered
+region. The policy is provided to vendors through a corporate vendor intranet and in the Corporate Responsibilities section of tjx.com and includes information on how to report concerns. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><I>Identify and assess risk in the supply chain. </I>TJX used a survey process to request supply chain information from the covered vendors
+for due diligence (as well as the earlier RCOI). TJX used the reporting template and multiple follow-up requests to attempt to increase the number of respondents and provided additional instructional materials to help suppliers understand and
+complete the reporting template. As part of this process, TJX communicated its expectations that those vendors cooperate with the Company&#146;s compliance efforts and, as necessary, reach out to third parties within their own supply chains to
+collect relevant information. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">TJX evaluated the information provided by each vendor determined to be in scope of the due diligence
+process according to a set of risk-based factors established by the Company, including, for example, whether the vendor provided smelter information and information about internal policies regarding conflict minerals. If the information provided was
+determined to be complete and reliable under the Company&#146;s established protocol, TJX focused on the vendor&#146;s smelter information to try to validate that vendor&#146;s supply chain information. TJX compared smelters identified in the
+covered vendors&#146; responses against lists of facilities included in industry conflict-free smelter certification programs including the Conflict-Free Smelter Program, or CFSP, the Responsible Jewelry Council Chain-of-Custody Certified Entities,
+the London Bullion Market Association Good Delivery List and the ITRI Tin Supply Chain Initiative Full Member List (collectively, the certified conflict-free lists) to help determine if the vendors&#146; minerals were sourced from mines that did not
+benefit armed forces in the covered region. TJX performed additional research on identified smelters listed in the certified conflict-free lists to determine if there was current publicly available information that might invalidate the conflict-free
+determination of the smelter. If the information provided by a vendor was determined to be incomplete or unreliable under the Company&#146;s protocol, TJX considered the information insufficient to evaluate the supply chain reliably. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><I>Design and implement a strategy to respond to identified risks. </I>As part of the program,
+the Company used its assessment protocol to evaluate vendor responses based on criteria like completeness, consistency of responses and other risk-based factors like smelter location. Using this protocol, TJX categorized the responses to isolate
+covered vendors who provided responses that were deemed insufficient, including because they provided incomplete information. TJX designed and implemented a process to follow up with those vendors to communicate the expectations that the vendor
+cooperate with the compliance program and either solicit additional information about the vendor&#146;s supply chain or reiterate the need for that vendor to provide timely and complete responses, including by reaching out to third parties within
+their supply chain as necessary. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><I>Carry out independent third party audits of supply chain due diligence at identified points in the
+supply chain.</I> The Company considered the due diligence findings of the CFSP, along with the certification programs accepted by the CSFP, as part of its program, assessing as part of its diligence processes the membership or listing of smelters
+on certified conflict-free lists. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><I>Report on supply chain due diligence. </I>The Company prepared and filed a Form SD and this Report
+to publicly report the results of the supply chain due diligence. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Products and Results of Diligence </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company determined that a portion of the products in apparel, including jewelry, and home fashions, could be considered to be in the scope of the Rule.
+Through the diligence processes described above on its covered vendors, the Company collected the names of 19 smelters reported by these covered vendors, of which 16 TJX considered to be &#147;validated&#148; smelters, meaning the smelter was either
+included on a certified conflict-free list or included in the list of &#147;Standard Smelter Names&#148; in the reporting template. Of those 16 &#147;validated&#148; smelters, 11 were on a certified conflict-free list. As most of these vendors
+reported their information at a company level rather than at a product level and a number used more than one smelter, it was not possible for the Company to connect the specific smelters that were used to process minerals reliably with specific
+covered products, or more generally to determine the country or origin or the mine or location of origin of the minerals in the covered products. The Company is generally many steps away from the purchaser of the ore or minerals, and therefore
+relies on its covered vendors to provide it with accurate upstream information about smelters and refiners. The Company has therefore concluded that the covered products were DRC &#147;conflict undeterminable&#148; under the Rule. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company expects to take steps to enhance its due diligence measures to try to further mitigate the risk that the conflict minerals in covered products
+supported armed groups in the covered region. These steps include, among others, working to incrementally increase the response rate for the next reporting cycle, continuing to engage with its vendors and reminding vendors of the requirements under
+the Rule and the Company&#146;s policy, including its expectations that all covered vendors cooperate with its diligence efforts. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>CAUTIONARY NOTE
+REGARDING FORWARD-LOOKING STATEMENTS </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Conflict Minerals Report contains &#147;forward-looking statements&#148; intended to qualify for the safe
+harbor from liability established by the Private Securities Litigation Reform Act of 1995. Forward-looking statements are inherently subject to risks, uncertainties and potentially inaccurate assumptions. Such statements give our current
+expectations or forecasts of future events; they do not relate strictly to historical or current facts. We have generally identified such statements by using words indicative of the future such as &#147;anticipate,&#148; &#147;believe,&#148;
+&#147;could,&#148; &#147;estimate,&#148; &#147;expect,&#148; &#147;forecast,&#148; &#147;intend,&#148; &#147;looking forward,&#148; &#147;may,&#148; &#147;plan,&#148; &#147;potential,&#148; &#147;project,&#148; &#147;should,&#148;
+&#147;target,&#148; &#147;will&#148; and &#147;would&#148; or any variations of these words or other words with similar meanings. All statements that address activities, events or developments that we intend, expect or believe may occur in the
+future are forward-looking statements within the meaning of Section&nbsp;27A of the Securities Act of 1933, as amended, and Section&nbsp;21E of the Securities Exchange Act of 1934, as amended, or Exchange Act. These &#147;forward-looking
+statements&#148; may relate to such matters as our future actions and results and the outcome of diligence efforts. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We cannot guarantee that the results and other expectations expressed, anticipated or implied in any
+forward-looking statement will be realized. The risks set forth under Item&nbsp;1A of the Form 10-K filed with the Securities and Exchange Commission on March&nbsp;31, 2015 describe major risks to our business. A variety of factors including these
+risks could cause our actual results and other expectations to differ materially from the anticipated results or other expectations expressed, anticipated or implied in our forward-looking statements. If known or unknown risks materialize, or if our
+underlying assumptions prove inaccurate, actual results could differ materially from past results and those anticipated, estimated or projected in the forward-looking statements. You should bear this in mind as you consider forward-looking
+statements. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our forward-looking statements speak only as of the dates on which they are made, and we do not undertake any obligation to update any
+forward-looking statement, whether to reflect new information, future events or otherwise. You are advised, however, to consult any further disclosures we may make in our future reports to the Securities and Exchange Commission (&#147;SEC&#148;), on
+our website, or otherwise. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

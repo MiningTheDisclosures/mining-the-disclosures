@@ -1,0 +1,579 @@
+<SEC-DOCUMENT>0000034088-15-000025.txt : 20150528
+<SEC-HEADER>0000034088-15-000025.hdr.sgml : 20150528
+<ACCEPTANCE-DATETIME>20150528115648
+ACCESSION NUMBER:		0000034088-15-000025
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		1
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150528
+DATE AS OF CHANGE:		20150528
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		15894526
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9724441000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>filename1.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+
+<html>
+
+<head>
+<meta content="text/html; charset=utf-8" />
+
+
+
+
+
+&nbsp;</head>
+
+<body><a name="page_1"></a><DIV bclPageBorder STYLE="PADDING-TOP: 0.5in; PADDING-BOTTOM: 0.5in; WIDTH: 100%; PADDING-RIGHT: 0.5in; PADDING-LEFT: 0.5in">
+
+<DIV bclHeader>
+
+
+<p style="margin:0in;margin-bottom:.0001pt;tab-stops:center 3.25in right 6.5in;"><font face=Calibri,sans-serif lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+
+</DIV>
+<p style="margin:0in;margin-bottom:.0001pt;"><font face=Calibri,sans-serif lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">UNITED STATES</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">SECURITIES AND
+EXCHANGE COMMISSION</font></b><font face="Times New Roman,serif" lang=EN-US style="font-size:14.0pt;"> &nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">Washington, D.C. 20549 </font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:14.0pt;">FORM SD</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:12.0pt;">SPECIALIZED DISCLOSURE REPORT<br>
+<br>
+</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:20.0pt;">Exxon Mobil Corporation</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">(Exact name of the
+registrant as specified in its charter)</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align=center>
+
+<table cellpadding=0 cellspacing=0 border=0 style="border-collapse:collapse;margin-left:9.9pt;width:100%;">
+ <tr>
+  <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" style="font-size:12.0pt;">New Jersey</font></b></p>
+  </td>
+ <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" style="font-size:12.0pt;">1-2256</font></b></p>
+  </td>
+ <td valign=top width=34% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" style="font-size:12.0pt;">13-5409005</font></b></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">(State or other jurisdiction
+  of</font></p>
+  </td>
+ <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">(Commission</font></p>
+  </td>
+ <td valign=top width=34% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">(IRS Employer </font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&#160; incorporation or
+  organization)</font></p>
+  </td>
+ <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">File Number)</font></p>
+  </td>
+ <td valign=top width=34% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">Identification No.)</font></p>
+  </td>
+ </tr>
+</table>
+
+
+</div>
+
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:12.0pt;">5959 LAS COLINAS BOULEVARD, IRVING, TEXAS 75039-2298</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (Address of
+principal executive offices) (Zip Code)</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:12.0pt;">Joe Horne (972) 444-1000</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">(Name and telephone
+number, including area code, of the person to contact in connection with this
+report)</font><font face="Times New Roman,serif" lang=EN-US style="font-size:12.0pt;"> &nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:1.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align=left><table cellpadding=0 cellspacing=0 border=0 style="border-collapse:collapse;margin-left:9.9pt;width:100%;">
+ <tr>
+  <td valign=top width=17% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=66% style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=17% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=17% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=66% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=17% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table></div>
+
+
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">Check the appropriate box to indicate the rule pursuant to
+which this form is being filed, and provide the period to which the information
+in this form applies:</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">[X] Rule 13p-1 under the Securities Exchange Act (17 CFR
+240.13p-1) for the reporting period from January 1 to December 31, 2014.</font></p>
+
+
+
+
+
+
+
+
+
+<DIV bclFooter>
+
+
+<p style="margin:0in;margin-bottom:.0001pt;tab-stops:center 3.25in right 6.5in;"><font face=Calibri,sans-serif lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+
+</DIV>
+</DIV><HR noshade STYLE="page-break-after: always" align="center" width="100%" size=2><a name="page_2"></a><DIV bclPageBorder STYLE="PADDING-TOP: 0.5in; PADDING-BOTTOM: 0.5in; WIDTH: 100%; PADDING-RIGHT: 0.5in; PADDING-LEFT: 0.5in">
+
+<DIV bclHeader>
+
+
+<p style="margin:0in;margin-bottom:.0001pt;mso-line-height-rule:exactly;mso-pagination:widow-orphan no-line-numbers;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;line-height:.7pt;">&nbsp;</font></p>
+
+
+</DIV>
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;"></font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">Item
+1.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Conflict Minerals Disclosure</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">Section
+13(p) of the Securities Exchange Act of 1934 and Rule 13p-1 thereunder
+(collectively, the &#8220;conflict mineral rules&#8221;) require ExxonMobil to make certain
+disclosures concerning supply sources for conflict minerals &#8211; principally
+consisting of gold, tin, tungsten, or tantalum &#8211; that may be necessary to the
+manufacture or functionality of our products.&#160; Terms and phrases used but not
+defined in this disclosure have the meanings given under the conflict mineral
+rules.&#160;&#160; </font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">ExxonMobil manufactures or
+contracts to manufacture certain catalysts for which tin or tungsten are
+necessary to the product&#8217;s functionality.&#160; ExxonMobil also makes use of certain
+tin and tungsten catalysts in our own refineries and chemical plants.&#160; Depending
+on the type of catalysis process used, trace amounts of such minerals may exist
+in some of our finished products.&#160; </font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">We have conducted in good
+faith a reasonable country of origin inquiry regarding the conflict minerals
+described above for 2014.&#160; Such inquiry is reasonably designed to determine
+whether any of these minerals originated in the Democratic Republic of the
+Congo (&#8220;DRC&#8221;) or an adjoining country, or are from recycled or scrap sources.&#160;
+The inquiry included obtaining written representations from each of our
+suppliers for these minerals to the effect that (i) the supplier has conducted
+its own reasonable country of origin inquiry within the meaning of the conflict
+mineral rules with respect to minerals sold to ExxonMobil; and (ii) based on
+such inquiry, the supplier has determined such minerals do not originate in the
+DRC or an adjoining country, or are from recycled or scrap sources, or the
+supplier has no reason to believe such minerals may have originated in the DRC
+or an adjoining country.&#160; We have also amended each of our contracts with
+suppliers of conflict minerals to require the supplier to maintain procedures
+reasonably designed to ensure any conflict minerals sold to ExxonMobil are not
+sourced from the DRC or an adjoining country, and to require prompt notice to
+us of any breach of this covenant.&#160; </font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">Based on these inquiries, we
+have no reason to believe any of the conflict minerals necessary for products
+we manufactured or contracted to manufacture in 2014 may have originated in the
+DRC or an adjoining country.</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">This Conflict Minerals
+Disclosure is available on ExxonMobil&#8217;s website at:
+http://corporate.exxonmobil.com/en/current-issues/accountability/conflict-minerals/disclosure</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+
+
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+
+<DIV bclFooter>
+
+
+<p align=center style="border:none;margin:0in;margin-bottom:10.0pt;mso-border-shadow:yes;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;text-align:center;"><font style="border:none;mso-bidi-font-family:Times New Roman;mso-bidi-font-size:11.0pt;mso-bidi-language:AR-SA;mso-fareast-font-family:Calibri;"><a name="_GoBack_0"></a><font style="mso-no-proof:yes;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;line-height:115%;">2</font></font></font><font face=Calibri,sans-serif style="border:none;mso-bidi-font-family:Times New Roman;mso-bidi-language:AR-SA;mso-fareast-font-family:Calibri;">&nbsp;</font></p>
+
+
+</DIV>
+</DIV><HR noshade STYLE="page-break-after: always" align="center" width="100%" size=2><a name="page_3"></a><DIV bclPageBorder STYLE="PADDING-TOP: 0.5in; PADDING-BOTTOM: 0.5in; WIDTH: 100%; PADDING-RIGHT: 0.5in; PADDING-LEFT: 0.5in">
+
+<DIV bclHeader>
+
+
+<p style="margin:0in;margin-bottom:.0001pt;mso-line-height-rule:exactly;mso-pagination:widow-orphan no-line-numbers;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;line-height:.7pt;">&nbsp;</font></p>
+
+
+</DIV>
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">SIGNATURE</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the duly authorized
+undersigned.</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<div align=left><table cellpadding=0 cellspacing=0 border=0 style="border:none;border-collapse:collapse;width:100%;">
+ <tr>
+  <td valign=top width=9% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=38% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">EXXON
+  MOBIL CORPORATION</font></p>
+  </td>
+ <td valign=top width=27% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=16% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=10% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=9% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=38% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=27% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=16% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=10% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=9% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=38% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=27% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=16% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=10% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=9% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=38% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=27% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=16% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=10% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=9% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=38% style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">/s/
+  ANDREW P. SWIGER</font></p>
+  </td>
+ <td valign=top width=27% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;text-decoration:none;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=16% style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">May
+  28, 2015</font></p>
+  </td>
+ <td valign=top width=10% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=9% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=38% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">By
+  Andrew P. Swiger</font></p>
+  </td>
+ <td valign=top width=27% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=16% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (Date)</font></p>
+  </td>
+ <td valign=top width=10% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=9% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=38% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&#160;&#160;&#160;&#160;&#160;
+  Senior Vice President and</font></p>
+  </td>
+ <td valign=top width=27% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=16% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=10% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=9% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=38% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&#160;&#160;&#160;&#160;&#160;
+  Principal Financial Officer</font></p>
+  </td>
+ <td valign=top width=27% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=16% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=10% style="border:none;padding:0in 5.75pt 0in 0in;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table></div>
+
+
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+
+
+
+<DIV bclFooter>
+
+
+<p align=center style="border:none;margin:0in;margin-bottom:10.0pt;mso-border-shadow:yes;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;text-align:center;"><font style="border:none;mso-bidi-font-family:Times New Roman;mso-bidi-font-size:11.0pt;mso-bidi-language:AR-SA;mso-fareast-font-family:Calibri;"><a name="_GoBack_0"></a><font style="mso-no-proof:yes;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;line-height:115%;">3</font></font></font><font face=Calibri,sans-serif style="border:none;mso-bidi-font-family:Times New Roman;mso-bidi-language:AR-SA;mso-fareast-font-family:Calibri;">&nbsp;</font></p>
+
+
+</DIV>
+</DIV><HR noshade align="center" width="100%" size=2></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

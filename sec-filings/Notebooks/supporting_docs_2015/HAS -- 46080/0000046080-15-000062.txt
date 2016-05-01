@@ -1,0 +1,1661 @@
+<SEC-DOCUMENT>0000046080-15-000062.txt : 20150529
+<SEC-HEADER>0000046080-15-000062.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529113206
+ACCESSION NUMBER:		0000046080-15-000062
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HASBRO INC
+		CENTRAL INDEX KEY:			0000046080
+		STANDARD INDUSTRIAL CLASSIFICATION:	GAMES, TOYS & CHILDREN'S VEHICLES (NO DOLLS & BICYCLES) [3944]
+		IRS NUMBER:				050155090
+		STATE OF INCORPORATION:			RI
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06682
+		FILM NUMBER:		15897914
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1027 NEWPORT AVE
+		STREET 2:		P O BOX 1059
+		CITY:			PAWTUCKET
+		STATE:			RI
+		ZIP:			02861
+		BUSINESS PHONE:		4014318697
+
+	MAIL ADDRESS:	
+		STREET 1:		200 NARRAGANSETT PARK DRIVE
+		CITY:			PAWTUCKET
+		STATE:			RI
+		ZIP:			02862-0200
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HASBRO BRADLEY INC
+		DATE OF NAME CHANGE:	19850814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HASBRO INDUSTRIES INC
+		DATE OF NAME CHANGE:	19840917
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HASSENFELD BROTHERS INC
+		DATE OF NAME CHANGE:	19720615
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>formsd2014.htm
+<DESCRIPTION>FORM SD - SPECIALIZED DISCLOSURE REPORT
+<TEXT>
+<html>
+<head>
+<title>&#160;</title>
+<!--Licensed to: BryceBrnet13
+    Document created using Disclosure Solutions PROFILE 3.2.0.0
+    Copyright 1995 - 2015 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">UNITED STATES</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Washington, D.C. 20549</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">FORM SD</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Specialized Disclosure Report</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">HASBRO, INC.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Exact name of registrant as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left"><br>
+</div>
+
+<table id="50a4ed73608247acbfd38bd88ad481e4" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 30.71%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160; Rhode Island</div>
+</td>
+<td style="WIDTH: 8.18%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 22.4%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">1-6682</div>
+</td>
+<td style="WIDTH: 8.19%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 30.53%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">05-0155090</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 30.71%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(State or other jurisdiction of incorporation or organization)&#160;</div>
+</td>
+<td style="WIDTH: 8.18%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 22.4%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Commission File Number)</div>
+</td>
+<td style="WIDTH: 8.19%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 30.53%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(IRS Employer Identification No.)</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 30.71%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 8.18%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 22.4%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 8.19%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 30.53%; VERTICAL-ALIGN: bottom">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 61.29%; VERTICAL-ALIGN: bottom" colspan="3">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">1027 Newport Avenue, Pawtucket, Rhode Island</div>
+</td>
+<td style="WIDTH: 38.71%; VERTICAL-ALIGN: bottom" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">02861</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 61.29%; VERTICAL-ALIGN: bottom" colspan="3">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">&#160;(Address of principal executive offices)&#160;&#160;</div>
+</td>
+<td style="WIDTH: 38.71%; VERTICAL-ALIGN: bottom" colspan="2">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Zip code)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;Deborah Thomas, Chief Financial Officer, (401) 431-8697</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Name and telephone number, including area code, of the person to contact in connection with this report)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies:</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">X&#160;&#160; Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Introduction:</div>
+
+<div><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro, Inc. ("Hasbro," the "Company," "we," "us," or "our") (NASDAQ: HAS) is a global company committed to Creating the World's Best Play Experiences.&#160; We strive to do this through deep consumer engagement and the application of consumer insights, the use of immersive storytelling to build our brands, product innovation and development of global business reach.&#160; We apply these principles to leverage our owned and controlled brands, including LITTLEST PET SHOP, MAGIC: THE GATHERING, MONOPOLY, MY LITTLE PONY, NERF, PLAY-DOH and TRANSFORMERS, as well as our premier partner brands.&#160; From toys and games to television programming, motion pictures, digital gaming and a comprehensive licensing program, Hasbro fulfills the fundamental need for play and connection for children and families around the world.&#160; We are headquartered in Pawtucket, Rhode Island and have approximately 5,200 employees worldwide, approximately 2,700 of whom are located in the United States.</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Some of Hasbro's products include electronics and other components that contain tin, tungsten, tantalum and/or gold (referred to hereafter as "conflict minerals" or "3TG").&#160; Accordingly, we are subject to Section 1502 of the&#160; Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the "Dodd-Frank Act" or the "Act") and Rule 13p-1 under the Securities and Exchange Act of 1934 (the "Final Rule").</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro has a Conflict Minerals Policy which expresses our commitment to (i) sourcing components and materials from companies that share our values around human rights, ethics, and environmental responsibility, (ii) utilizing due diligence practices to identify conflict minerals and their sources in our supply chain and (iii) ultimately achieving the objective that any conflict minerals included in our products are sourced from smelters identified as conflict free or are otherwise subject to supplier diligence sufficient to determine that such minerals are not being used to support armed conflict in the Democratic Republic of the Congo and adjoining countries.&#160; Hasbro's Conflicts Minerals Policy can be found at the following internet address {http://csr.hasbro.com/has12-conflict-minerals-policy.php}.</div>
+
+<div style="MARGIN-BOTTOM: 12pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 1 - Conflict Minerals Disclosures</div>
+
+<div style="MARGIN-BOTTOM: 12pt"><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1.01 Conflict Minerals Disclosure and Report</div>
+
+<div style="MARGIN-BOTTOM: 12pt"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro has determined that during the 2014 calendar year, we contracted to manufacture certain products containing 3TG and have determined that these minerals are necessary to the functionality or production of these products.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">We conducted a Reasonable Country of Origin Inquiry ("RCOI") to assess whether the necessary conflict minerals in our products originated from the Covered Countries<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">1</sup>.&#160; Under our RCOI methodology, Hasbro undertook an applicability assessment to identify the products containing 3TG and the relevant contract manufacturers of those products, as well as direct suppliers to our owned and operated manufacturing facilities producing those products.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">As a result of the applicability assessment, all direct suppliers and non-Asian contract manufacturers supplying products that we believed contain 3TG were considered at-risk and were surveyed about the existence and source of conflict minerals in their products sold to us.&#160; With regard to contract manufacturers in Asia, we surveyed our entire contract manufacturer base (not just those that were considered at-risk) about the existence and source of conflict minerals in their products sold to us.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Utilizing the methodology above and based on the information provided by our business units and gathered from our sourcing and technology systems and records, we identified a total of 48 direct suppliers and contract manufacturers whom we believed may be at-risk for sourcing 3TG, directly or indirectly, from the Covered Countries. All 48 of these contract manufacturers and at-risk direct suppliers were surveyed using a technology platform that employs a conflict minerals reporting template based on the questionnaire developed by the Electronic Industry Citizenship Coalition <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#8211;</font> Global eSustainability Initiative (EICC/GeSI).<br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Many of Hasbro<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s suppliers are not subject to the Dodd-Frank Act or initially were unfamiliar with the Act<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s reporting requirements.&#160; Beginning in 2013 and continuing in 2014 Hasbro conducted training with all direct suppliers and contract manufacturers, to educate these manufacturers as to the requirements of the Act related to conflict minerals. We developed, produced and uploaded a web-based training that provided a summary of the law related to conflict minerals, our obligations under the Act, and the role of our at-risk direct suppliers and contract manufacturers in assisting us to comply with the requirements of the Act related to conflict minerals. The presentation was supplemented with step-by-step instructions for logging onto and responding to the Hasbro conflict minerals electronic reporting survey.&#160; Hasbro also established an e-mail box for supplier questions about the Final Rule or for assistance in completing the conflict minerals reporting survey.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro sent surveys to 48 direct suppliers and contract manufacturers in 2014.&#160; In 2013, when we surveyed our direct suppliers and contract manufacturers we asked for responses at the vendor company level, such that each survey respondent received one questionnaire for all products they supplied to Hasbro.&#160; In 2014, we continued to survey our direct suppliers at the company level.&#160; However, as part of our continual improvement process and our efforts to increase our ability to link suppliers and smelters to individual product categories, in 2014 we surveyed our contract manufacturers at the product category level (our four product categories being Boys, Girls, Preschool and Games, each of which is described in Section 4 of the attached Conflicts Mineral Report).&#160; We did this surveying at the product category level for all contract manufacturers with the exception of one contract manufacturer who only provides products in the Games category to us.&#160; As such, for that one contact manufacturer, they received a single company-level survey as they had in the prior year.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Relevant contract manufacturers received a separate survey for each of the four product categories for which they supplied products or components to us. As such, an individual contract manufacturer could receive up to four separate surveys, if they were supplying products for each of our Boys, Girls, Preschool and Games categories.&#160; We sent an aggregate of 101 surveys to the 48 direct suppliers and contract manufacturers we surveyed in 2014. Of the 48 direct suppliers and contract manufacturers surveyed, 42 responded, representing an 88% response rate.&#160;&#160; This compared to an 85% response rate to our surveys in 2013.&#160; Going forward, as part of our process of continual improvement, we will continue to follow-up with the vendors that have not responded or who have provided incomplete responses, such as not providing a complete smelter list, or not receiving conflict minerals data from all of their relevant suppliers.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">In our survey results only five of our contract manufacturers indicated potential sourcing of 3TG from the Covered Countries.&#160; All five of those contract manufacturers disclosed a smelter list and all but one of the listed smelters for those five contract manufacturers are either currently designated as compliant by the Conflict Free Smelter Program (CFSP) or are in the process of actively seeking such designation.&#160; All of these disclosed smelters are included in the full list of smelters reported to us by our direct suppliers and contract manufacturers which is attached to our Conflict Minerals report as Annex 1.&#160; However, we are currently unable to track the flow of specific 3TG at our contract manufacturers or direct suppliers into our products. Even where a contract manufacturer has disclosed potential sourcing of 3TG from the Covered Countries and/or has disclosed a smelter(s) which are not designated as CFSP compliant, at this point we cannot determine if the 3TG in our products or components from that direct supplier or contract manufacturer is in fact coming from the Covered Countries or funding conflict, or if it is from recycled or scrap materials.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">As discussed in more detail in our Conflict Minerals Report included as Exhibit 1.01 to this report, based on these responses, and in light of the complexity of our supply chain, we were unable to determine at this time that our necessary conflict minerals did not originate in the Covered Countries or are not from recycled or scrap sources.&#160; Accordingly, we have conducted due diligence on the source and chain of custody of the necessary conflict minerals contained in our products as described in the Conflict Minerals Report included as Exhibit 1.01.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1.02 Exhibit</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">In accordance with Rule 13p-1 under the Securities Exchange Act of 1934 ('Rule 13p-1"), this Specialized Disclosure Form ("Form SD") and the associated Conflict Minerals Report are posted to a publically available Internet site at the following internet address </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">{</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">http://csr.hasbro.com/has14-conflict-minerals-report.php</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">}.</font></div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 2 - Exhibits</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Exhibit 1.01 - Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form.</div>
+
+<br>
+<br>
+<hr style="WIDTH: 2in; COLOR: #000000; TEXT-ALIGN: left; BACKGROUND-COLOR: #000000" noshade="noshade">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left"><sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">1</sup><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#160;</font>The Democratic Republic of Congo and its adjoining countries (Angola, Burundi, Republic of the Congo, Central African Republic, Rwanda, South Sudan, Republic of Tanzania, Uganda, or Zambia).</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Signature</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro, Inc.</div>
+
+<div>___________________________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">(Registrant)</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">By:<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-VARIANT: normal; FONT-WEIGHT: normal; FONT-STYLE: normal"><u> /s/ Deborah Thomas</u></font></font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.01pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;<font style="FONT-SIZE: 11pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-VARIANT: normal; FONT-WEIGHT: normal; FONT-STYLE: normal"><u><font style="FONT-SIZE: 10pt">May 29, 2015</font>&#160;&#160;</u></font>&#160;&#160;&#160;&#160;&#160;</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 5.14pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">Deborah Thomas</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">(Date)</font></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Executive Vice President and Chief Financial Officer</div>
+
+<div style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">(Signature and Title)</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.05pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>cmreport.htm
+<DESCRIPTION>HASBRO, INC. CONFLICT MINERALS REPORT
+<TEXT>
+<html>
+<head>
+<title>&#160;</title>
+<!--Licensed to: BryceBrnet13
+    Document created using Disclosure Solutions PROFILE 3.2.0.0
+    Copyright 1995 - 2015 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Exhibit 1.01 <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#8211;</font> Conflict Minerals Report (CMR)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Conflict Minerals Report of Hasbro, Inc.</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 1: Introduction and Company Overview</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">This is the Conflict Minerals Report of Hasbro, Inc. (herein referred to as <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>Hasbro,<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font> the <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>company,<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>we,<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>us,<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font> or <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>our<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>) for calendar year 2014 in accordance with Rule 13p-1 under the Securities and Exchange Act of 1934 (<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>Rule 13p-1<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>). Numerous terms in this report are defined in Rule 13p-1 and Form SD and the reader is invited to refer to those sources for complete definitions of these terms.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro, Inc. (NASDAQ: HAS) is a global company committed to Creating the World<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s Best Play Experiences.&#160; We strive to do this through deep consumer engagement and the application of consumer insights, the use of immersive storytelling to build our brands, product innovation and development of global business reach.&#160; We apply these principles to leverage our owned and controlled brands, including LITTLEST PET SHOP, MAGIC: THE GATHERING, MONOPOLY, MY LITTLE PONY, NERF, PLAY-DOH and TRANSFORMERS, as well as our premier partner brands.&#160; From toys and games to television programming, motion pictures, digital gaming and a comprehensive licensing program, Hasbro fulfills the fundamental need for play and connection for children and families around the world.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Some of Hasbro<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s products include electronics and other components that contain tin, tungsten, tantalum and/or gold (referred to hereafter as <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>conflict minerals<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font> or <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>3TG<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>).&#160; Accordingly, we are subject to the disclosure requirements of Section 1502 of the&#160; Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>Dodd-Frank Act<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font> or the <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>Act<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>) and Rule 13p-1 under the Securities and Exchange Act of 1934.&#160; Hasbro has concluded that during the 2014 calendar year, we contracted to manufacture products containing 3TG and have determined that these minerals are necessary to the functionality or production of these products.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">As described in Form SD, we conducted a Reasonable Country of Origin Inquiry (<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>RCOI<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>) to assess whether the necessary conflict minerals in our products originated from the Covered Countries.&#160; Based on our RCOI, we were unable to determine that our necessary conflict minerals did not originate in the Covered Countries or are not from recycled or scrap sources.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 2: Due diligence framework</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro designed its due diligence measures to conform, in all material respects, with the internationally recognized due diligence framework as set forth in the Organization for Economic Cooperation and Development (OECD) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas (OECD, 2013) ("OECD Framework") and related supplements for gold and for tin, tantalum and tungsten.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 3: Due diligence measures undertaken</div>
+
+<div style="TEXT-ALIGN: left"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro's due diligence efforts for 2014 (which incorporated steps taken in 2013 as part of our establishment of a conflicts mineral policy and management systems) included the following steps:</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 36pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Establish company management systems:</font>&#160; Hasbro:</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 36pt">&#160;</div>
+
+<div>
+<table id="8590f5ec69a74778870c884f8d73d44f" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Established a policy statement in 2013 with respect to sourcing of minerals from the Democratic Republic of Congo (<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>DRC<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">"</font>) and its adjoining countries and published this statement online at the following internet address {http://csr.hasbro.com/has12-conflict-minerals-policy.php}. This policy was updated and enhanced in 2014 to reinforce our commitment to the ultimate goal that any conflict minerals included in our products are sourced from smelters identified as conflict free or are otherwise subject to supplier diligence sufficient to determine that such minerals are not being used to fund armed conflict in the DRC and its adjoining countries.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="051d91a94d59432d8c14e02f3e7fa50a" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Established an internal governance structure in 2013 that included a cross functional conflict minerals steering committee and working group comprised of representatives from Global Operations, Quality Assurance, Corporate Social Responsibility, Information Technology, Legal, Finance and Investor Relations.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="444f0548dcdc42bc90323520dadad6a0" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Implemented a supply chain diligence system through the use of a conflict minerals reporting survey.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="e4183fdd7a0d41e9b166bc853ecb5fdd" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Continued to engage with at-risk suppliers of owned and operated manufacturing facilities (direct suppliers) and third party vendors (contract manufacturers) that Hasbro believed were most likely to supply products containing&#160; 3TG, by sending a notification letter to such suppliers and vendors at the start of the RCOI stating that Hasbro is subject to Section 1502 of the Dodd-Frank Act, and that their cooperation in responding to the survey is expected.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="917cbe787bf44ecb81d14682d29515b2" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Conducted supply chain surveys based on the EICC/GeSI conflict minerals questionnaire with 48 direct suppliers and contract manufacturers identified during our applicability assessment and RCOI.&#160; Unlike in 2013, when each direct supplier and contract manufacturer received one survey, in 2014 we employed separate surveys for each of the Company<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s four product categories: Boys, Girls, Preschool and Games, for contract manufacturers, such that an individual at-risk contract manufacturer could receive up to four individual surveys if they were providing products in each of the Company<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s four product categories.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="90f8cddfc4d14e11a485f095a82ad080" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Provided surveyed direct suppliers and contract manufacturers with links to conflict minerals web-based training presentations that included an overview of the conflict minerals rules under the Dodd-Frank Act, as well as trainings on how to complete the survey.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="51c8b9d9e0964974800effeffd0188ea" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Developed a grievance mechanism in 2013, which was continued in 2014, to enable the reporting of grievances via the Hasbro Conflict Minerals email.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="6c164552211145b98c60ed4f789f269a" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Established a plan in 2013, which was continued in 2014, to retain conflict minerals program documentation for at least 5 years.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 36pt">Identify and assess risks in the supply chain</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="4d254adba2d741758031d18111d36e52" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Suppliers surveyed were asked to identify smelters and refiners that process conflict minerals contained in our products, including country of origin, based on the EICC/GeSI conflict minerals questionnaire.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="b547b9c6496f4eab8043492017f6ed79" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Every survey received was logged in our technology platform and reviewed manually by Hasbro personnel.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="19dc703dc98c498c9195de01a3680a27" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Non-responsive suppliers and survey responses that we believed to be incomplete or inconsistent were identified for additional follow-up.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="82ed9a200868412992a41dfd6034e8f4" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Reasons for follow-up with suppliers included, but were not limited to, that the suppliers did not provide a complete smelter list or did not receive complete conflicts mineral sourcing information from all of their relevant suppliers.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="98c9175538e64ba6b3695328a86ce532" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Smelters identified by suppliers surveyed by Hasbro were compared against the list maintained by the Conflict Free Smelter Program.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 110.7pt"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 36pt">Design and implement a strategy to respond to identified risks</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="cc031e5869614a17bcba38cf0f239929" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">The results of the survey review and associated risks were reported to members of the steering committee.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="193ecd24262540a4971e0d2e3423491a" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Suppliers that did not respond to Hasbro<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s initial survey request were sent&#160; escalation letters requesting that they provide the information requested.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="d94ca951e7aa4ce7ac188e95025a8dc2" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Suppliers who provided incomplete or inconsistent responses were sent a follow-up corrective action letter asking them to update their survey response.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="398f03d0b0784632b64cd74750680adb" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 90pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro contacted suppliers who identified smelters that were not designated as conflict free to determine if they had any additional information regarding country of origin of the conflict minerals and to remind them of the responsible sourcing policy.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 36pt">Carry out independent third-party audit of smelter/refiner due diligence practices</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 108pt">Hasbro is a downstream consumer of necessary conflict minerals and is many steps removed from smelters and refiners who provide minerals and ores. Hasbro does not purchase raw minerals or ores, and does not, to the best of its knowledge, directly purchase 3TG from any of the Covered Countries.&#160; Therefore, Hasbro does not perform or direct audits of smelters and refiners within the supply chain, but rather we rely on the audits carried out by the Conflict Free Sourcing Initiative (CFSI).</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 36pt">Report annually on supply chain due diligence</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 108pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">This report and the associated Form SD are available online at the following internet address {</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">http://csr.hasbro.com/has14-conflict-minerals-report.php</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">}.</font></div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 4: Determination</div>
+
+<div><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Based on the due diligence described above, Hasbro has determined that for its products containing necessary conflict minerals, Hasbro is not able to determine if such conflict minerals did or did not originate in the Covered Countries or are from recycled or scrap sources.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro's product categories that may include products containing 3TG are (1) Boys; (2) Girls; (3) Preschool; and (4) Games:</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="0d06a4e576cd402d91508c2f5acc2955" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Boys:&#160; </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">Boys products include action figures, vehicles, playsets and role play items.&#160; </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">Boys</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"> franchise brands include the NERF line of sports and action products and TRANSFORMERS action figures and accessories. Our boys</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"> category also included SUPER SOAKER water blasters, G.I. JOE action figures and accessories and entertainment-based licensed products based on popular movie, television and comic book characters.</font></div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="b9d2619b54e341c3b36d5dff3eebc36e" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Girls: </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">In our Girls business we offer small dolls and fashion dolls, creative play products, and active role play products.&#160; </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">Girls</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"> franchise brands comprise LITTLEST PET SHOP, MY LITTLE PONY and NERF REBELLE. Other major girls</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"> brands included FURREAL FRIENDS, BABY ALIVE, EASY BAKE and FURBY.</font></div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="b6998ee74c3e44b7b455f013cd582de1" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Pre-school: </font>Franchise brand offerings in the preschool category included PLAY-DOH and TRANSFORMERS RESCUE BOTS products. Other major preschool brands included PLAYSKOOL.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt"><br>
+</div>
+
+<div>
+<table id="eb61fc2701a74fab990495ec6ab600c2" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Games: </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">Our games category included an assortment of brands delivered on various gaming platforms, including action battling, board, off-the-board, digital, trading card and role-playing games. Franchise brands in Games comprise MAGIC: THE GATHERING and MONOPOLY, and other major game brands included in our Games business are BATTLESHIP, BOP-IT, CANDYLAND, CLUE, CONNECT 4, CRANIUM, DUEL MASTERS, ELEFUN &amp; FRIENDS, GAME OF LIFE, JENGA, OPERATION, RISK, SORRY!, TRIVIAL PURSUIT, TWISTER, and YAHTZEE.</font></div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro does not, to the best of its knowledge, directly purchase 3TG from any of the Covered Countries.&#160; As a downstream consumer of 3TG, Hasbro must rely on its suppliers to gather information about smelters and refiners in the supply chain. Hasbro has received responses from 88% of the direct suppliers and contract manufacturers it surveyed (the survey included all 48 direct suppliers and contract manufacturers identified as being at risk for incorporating 3TG into products supplied to Hasbro).&#160;&#160; The responses from 18 of the direct suppliers and contract manufacturers surveyed included a list of smelters used by such parties.&#160; Of those 18 respondents, five indicated potential sourcing of conflicts minerals from the Covered Countries.&#160; All five of those contract manufacturers disclosed a smelter list and all but one of the listed smelters for those five contract manufacturers are either currently designated as compliant by the Conflict Free Smelter Program (CFSP) or are in the process of actively seeking such designation.&#160; All of these disclosed smelters are included in the full list of smelters reported to us by our direct suppliers and contract manufacturers which is attached to our Conflict Minerals report as Annex 1.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: justify">With regard to the responses to our survey that identified specific smelters, we cannot be certain that the identified smelters supplied 3TG for products supplied to Hasbro rather than for a different customer of that direct supplier or contract manufacturer. For this reason we have been unable to identify with confidence the specific smelters used to process the 3TG in our products or the country of origin or the mine or location of origin of the 3TG in our products, or whether the 3TG in our products is from scrap or recycled sources.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">The responding direct suppliers and contract manufacturers declared a total of 49 unique smelter names as the source of 3TG.&#160; Of the 49 declared smelters, 34 have been designated as conflict free under the Conflict Free Smelter Program (CFSP), and an additional 6 smelters are actively pursuing such designation at this time.&#160; That leaves 9 smelters on the list of declared smelters that are not currently CFSP compliant or actively pursuing such designation.&#160; The source of conflict minerals from those smelters is undetermined at this time and we are not able to determine currently whether 3TG from any of those smelters were used in our products.&#160; Set forth in Annex 1 is a list of the 49 unique smelter names disclosed to us by our direct suppliers and contract manufacturers broken down into those that are currently CFSP compliant, those actively seeking such designation at this time, and other smelters.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;Our contract manufacturers supply finished products in every product category.&#160; Direct suppliers supply materials to our owned and operated manufacturing facilities for Games products.&#160; In 2013 all of the responses to our survey were at a company level and the suppliers were unable to report which specific smelters or refiners were part of the supply chain for products sold to Hasbro. In 2014 we surveyed contract manufacturers at the product category level, as part of our continual improvement efforts to increase our ability to ultimately link suppliers and smelters to specific product categories and products.&#160; However, at this time we are not able to link specific smelters and sources of conflict minerals to our product categories and products.</div>
+
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">The Hasbro sourcing model is designed to provide Hasbro flexibility to move production of products among suppliers based on supplier capacities and product demand.&#160; Consequently, there may be instances where the same Hasbro branded product is manufactured by multiple contract manufacturers, which increases the complexity in linking a product with specific smelters for all of its suppliers.&#160; With the level of information Hasbro has received from its direct suppliers and contract manufacturers and its current technology infrastructure, Hasbro has made progress from 2013 in its ability to begin connecting specific smelters or refiners to our direct suppliers and contract manufacturers for Hasbro product categories for the 2014 reporting year, but at this time Hasbro has not been able to determine the country of origin for the 3TG minerals in our product categories.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 5: Independent audit</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Pursuant to Rule 13p-1, Hasbro has determined that for 2014 an independent private sector audit is not required.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Section 6: Continuous Improvement efforts to mitigate risk</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hasbro has taken and intends to take the following steps to improve the number and quality of supplier responses in the next compliance period and to mitigate risk that the necessary conflict minerals used in Hasbro products may finance or benefit armed groups in the Covered Countries:</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="9fa0103134d943418d0cdf9ffe7c68cd" class="DSPFListTable" style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Continue to use contract terms and conditions for new contracts requiring direct suppliers and contract manufacturers to respond to inquiries regarding conflict minerals in a timely manner.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="547c31453d5e416e9f71b60b227a63ea" class="DSPFListTable" style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Continue engaging non-responsive and non-compliant suppliers from 2014 into the 2015 reporting period, with the objective of achieving a 100% response rate from all direct suppliers and contract manufacturers and obtaining complete smelter lists and the ability to link specific direct suppliers and contract manufacturers to particular smelters and to particular product categories.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="c0d020cb8bb847d5addbde8c19ed39f4" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">New in 2015 our Executive Vice President, Chief Global Operations and Business Development Officer is reaching out to direct suppliers and contract manufacturers who have not provided complete survey data.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="0620690f91da41d796bbd47599a2850a" class="DSPFListTable" style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Continue to work with direct suppliers and contract manufacturers to identify to the extent possible the source of conflict minerals used in Hasbro's products.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="41feb4f9ce7c423ea6663e5285b39aac" class="DSPFListTable" style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Build capabilities with active and new contract manufacturers by helping them understand the importance of this initiative to Hasbro and to encourage their participation in 2015 through supplier trainings.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="66f541c931c54a57a87987beea00f13c" class="DSPFListTable" style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Encourage direct suppliers and contract manufacturers to source from smelters that have received the conflict free designation or that are otherwise subject to adequate due diligence to ensure such minerals are not being used to fund conflict.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="9d457e6a643a40619e72cb945923c057" class="DSPFListTable" style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Continue working with our direct suppliers and contract manufacturers to better understand how individual sources of conflict minerals may apply to our individual product categories.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Certain statements in this Conflict Minerals Report contain "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include expectations concerning the Company's future actions to engage suppliers, to identify to the extent possible the source of 3TG minerals in its products and to take other actions regarding its product sourcing. The Company's actual actions or results may differ materially from those expected or anticipated in the forward-looking statements due to both known and unknown risks and uncertainties including, but not limited to, decisions to make changes in the Company<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s continual improvement efforts and delays or difficulties in engaging direct suppliers and contract manufacturers and identifying the source of 3TG contained in the Company<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">'</font>s products.</div>
+
+<div><br>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><u>Annex 1</u></div>
+
+<div><br>
+</div>
+
+<table id="81085154c117423eb2fa9838a6c3b189" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;CFSP Compliant Smelters</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Metal Name</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Smelter Name</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Smelter Country Name</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Allgemeine Gold-und Silberscheideanstalt A.G.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">GERMANY</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Argor-Heraeus SA</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">SWITZERLAND</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Heraeus Ltd. Hong Kong</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">HONG KONG</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Heraeus Precious Metals GmbH &amp; Co. KG</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">GERMANY</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">JX Nippon Mining &amp; Metals Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">JAPAN</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Matsuda Sangyo Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">JAPAN</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Metalor Technologies SA</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">SWITZERLAND</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">PAMP SA</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">SWITZERLAND</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Rand Refinery (Pty) Ltd</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">SOUTH AFRICA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">The Refinery of Shandong Gold Mining Co. Ltd</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Shandong Zhaojin Gold &amp; Silver Refinery Co. Ltd</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tanaka Kikinzoku Kogyo K.K.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">JAPAN</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Valcambi SA</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">SWITZERLAND</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Western Australian Mint trading as The Perth Mint</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">AUSTRALIA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Zhongyuan Gold Smelter of Zhongjin Gold Corporation</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 19px">
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tantalum</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">F&amp;X Electro-Materials Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tantalum</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Ulba</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">KAZAKHSTAN</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Alpha</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">UNITED STATES</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Mitsubishi Materials Corporation</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">JAPAN</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Malaysia Smelting Corporation (MSC)</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">MALAYSIA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">PT Bangka Putra Karya</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">INDONESIA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">PT Tambang Timah</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">INDONESIA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">PT Timah (Persero),Tbk</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">INDONESIA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">PT 2indo Inter Nusa</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">INDONESIA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 20px">
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">PT Tinindo Inter Nusa</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">INDONESIA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Thaisarco</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">THAILAND</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Yunnan Tin Company, Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Ganzhou Huaxing Tungsten Products Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Ganzhou Seadragon W &amp; Mo Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Ganzhou Grand Sea W &amp; Mo Group Co Ltd</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Global Tungsten &amp; Powders Corp.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">UNITED STATES</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Hunan Chunchang Nonferrous Metals Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Xiamen Tungsten (H.C.) Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Xiamen Tungsten Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="WIDTH: 2.96%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff" colspan="3">
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div>&#160;</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Smelters Actively Pursuing CFSP Designation</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 16px">
+<td style="WIDTH: 18.02%; VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 15px">
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 18.02%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Metal Name</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Smelter Name</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Smelter Country Name</div>
+</td>
+<td style="VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 18px">
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.02%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">China Tin Group Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.02%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Liuzhou China 2</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.02%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Yunnan Chengfeng Non-ferrous Metals Co.,Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 14px">
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.02%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Fujian Jinxin Tungsten Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.02%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Ganzhou Non-ferrous Metals Smelting Co., Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.02%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Zhangyuan Tungsten Co.,Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+<td style="VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<table id="128a3d29f4b14c46960a4fcba872d296" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 18.1%; VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;All Other Smelters</div>
+</td>
+<td style="WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 18.1%; VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+<td style="WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 14px">
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Metal Name</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Smelter Name</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BACKGROUND-COLOR: #d9d9d9">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">Smelter Country Name</div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 15px">
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gold</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">WuJiang HengYuan Metal Products Co.,Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">EM Vinto</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">BOLIVIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gejiu Kai Meng Industry and Trade LLC</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gejiu Non-Ferrous Metal Processing Co. Ltd.</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Gejiu Zi-Li</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">PT Koba Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">INDONESIA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Shen Zhen HuaJun Metal Products Co.,Ltd</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tin</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Yunxin Youse Dianjie Co.,Ltd</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">CHINA</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 18.1%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Tungsten</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 55.27%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">Kennametal Huntsville</div>
+</td>
+<td style="BORDER-RIGHT: #000000 2px solid; WIDTH: 26.72%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">UNITED STATES</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

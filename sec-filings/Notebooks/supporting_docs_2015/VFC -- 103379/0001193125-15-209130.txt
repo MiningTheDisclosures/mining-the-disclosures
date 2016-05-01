@@ -1,0 +1,486 @@
+<SEC-DOCUMENT>0001193125-15-209130.txt : 20150601
+<SEC-HEADER>0001193125-15-209130.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601162900
+ACCESSION NUMBER:		0001193125-15-209130
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			V F CORP
+		CENTRAL INDEX KEY:			0000103379
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEN'S & BOYS' FURNISHINGS, WORK CLOTHING, AND ALLIED GARMENTS [2320]
+		IRS NUMBER:				231180120
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05256
+		FILM NUMBER:		15903744
+
+	BUSINESS ADDRESS:	
+		STREET 1:		105 CORPORATE CENTER BOULEVARD
+		CITY:			GREENSBORO
+		STATE:			NC
+		ZIP:			27408
+		BUSINESS PHONE:		(336)424-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		P. O. BOX 21488
+		CITY:			GREENSBORO
+		STATE:			NC
+		ZIP:			27420
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VF CORPORATION
+		DATE OF NAME CHANGE:	19900621
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VANITY FAIR MILLS INC
+		DATE OF NAME CHANGE:	19690520
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d937274dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>Form SD
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED DISCLOSURE REPORT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>V. F.
+Corporation </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Pennsylvania</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-5256</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>23-1180120</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>105 Corporate Center Boulevard, Greensboro, NC</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>27408</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Laura C. Meagher 336-424-6000 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and telephone number, including area code, of the person to contact in connection with this report.) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form
+applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 - Conflict Minerals Disclosure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.01 Conflict Minerals Disclosure and Report </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As
+required by Rule 13p-1 under the Securities Exchange Act of 1934, as amended, and Form SD, a Conflict Minerals Report is provided as Exhibit 1.01 hereto. It is publicly available at www.vfc.com, but the contents of that site are not incorporated by
+reference into, and are not otherwise a part of, this Form SD. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.02 Exhibit </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Conflict Minerals Report required by Item&nbsp;1.01 is filed as Exhibit 1.01 to this Form SD. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 - Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2.01 Exhibits
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exhibit 1.01 &#150; Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form SD. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly
+authorized undersigned. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="5">V.F. Corporation</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">/s/ Laura C. Meagher</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Date: June 1, 2015</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Laura C. Meagher</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Vice President, General Counsel and Secretary</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d937274dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>V.F. Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Conflict Minerals Report </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For The Year Ended December&nbsp;31, 2014 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The information in this report includes the activities of V.F. Corporation and its consolidated subsidiaries (herein referred to as &#147;VF,&#148; the
+&#147;Company,&#148; &#147;we,&#148; &#147;us,&#148; or &#147;our&#148;). As used herein, &#147;conflict minerals&#148; are columbite-tantalite (coltan), cassiterite, gold, wolframite and the derivatives tantalum, tin and tungsten, without regard to
+the location of origin of the minerals or derivative metals. The &#147;Conflict Minerals Rule&#148; refers to Rule 13p-1 under the Securities Exchange Act of 1934, as amended, and Form SD. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>V.F. Corporation Overview</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">VF is a global leader in the design, manufacturing, marketing and
+distribution of branded lifestyle apparel, footwear and accessories. We own a broad portfolio of brands in the outerwear, footwear, denim, backpack, luggage, accessory, sportswear, occupational and performance apparel categories. VF&#146;s
+centralized global supply chain organization is responsible for sourcing and delivering products to our customers. On an annual basis, VF sources or produces approximately 522&nbsp;million units spread across more than 30 brands. Our products are
+obtained from 28 VF-operated manufacturing facilities (internally manufactured product) and approximately 2,000 contractor manufacturing facilities (sourced product) in over 50 countries. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We do not directly purchase conflict minerals from any source. VF has adopted a policy and related procedures, as described below in this Conflict Minerals
+Report, focused on VF&#146;s commitment to sourcing components and materials from suppliers that share our ethical values and that support compliance with the Securities and Exchange Commission&#146;s rules and regulations, including VF&#146;s
+disclosure obligations related to conflict minerals. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Reasonable Country of Origin Inquiry</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">VF developed a list of suppliers and products determined to be
+possibly in-scope for purposes of our compliance with the Conflict Minerals Rule based on our level of influence over the manufacturing process (in the case of products that we may have contracted to manufacture) and the potential use of conflict
+minerals in the products. For sourced product, we reached out to all suppliers. For internally manufactured product, we reached out to those component suppliers that we determined may have provided us with components that contained conflict
+minerals. In this Conflict Minerals Report, we refer to those suppliers that were included in our 2014 outreach as the &#147;Covered Suppliers.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our
+outreach included 881 Covered Suppliers. The responses that we received from our Covered Suppliers in respect to 2014 indicated that only a small portion of the Covered Suppliers supplied us with products or components that were in-scope for
+purposes of our Conflict Minerals Rule compliance. Many VF products do not contain any conflict minerals and, for those that do, conflict minerals content generally represents a small amount of the total materials content of the product. For
+example, conflict minerals may be found in items such as buttons, zippers, snaps and eyelets, although not all of these items are necessarily in-scope for purposes of our compliance. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">VF&#146;s &#147;reasonable country of origin inquiry&#148; (&#147;RCOI&#148;) process was designed to identify its manufactured (or contracted to be
+manufactured) products that may contain necessary conflict minerals, and, if these are present, obtain transparency into the conflict minerals supply chain for such products, and, more generally, to achieve engagement from its suppliers concerning
+responsible sourcing of conflict minerals. The specific goal of VF&#146;s RCOI was to determine whether the conflict minerals in its relevant products originated in the Democratic Republic of the Congo or an adjoining country (collectively, the
+&#147;Covered Countries&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the Conflict Minerals Rule, based on the results of our RCOI, we were required to conduct due diligence for
+2014. These due diligence efforts are discussed below. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For our RCOI, to the extent applicable, we utilized the same processes and procedures as for our
+due diligence. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>3.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Due Diligence Process</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Design of Due Diligence </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our conflict minerals due diligence processes were based on the Organisation for Economic Co-operation and Development Due Diligence Guidance for Responsible
+Supply Chains of Minerals from Conflict-Affected and High-Risk Areas (Second Edition 2013) (&#147;OECD Guidance&#148;), an internationally recognized due diligence framework. Our diligence measures were based on certain processes put in place for
+the Company&#146;s RCOI and included the following. These are not all of the discrete steps that were part of our due diligence. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Establish Strong
+Company Management Systems </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">VF has established a management system, as described below, consisting of a framework of policies, procedures,
+processes and organizational structure that supports our efforts to ensure that our products do not contain conflict minerals that support conflict in the Covered Countries. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><I>VF&#146;s Conflict Minerals Policy</I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Our conflict minerals policy (the &#147;Conflict Minerals Policy&#148;) indicates that VF expects all suppliers of our products and materials
+to cooperate with our conflict minerals procedures. We further expect all suppliers to seek to purchase materials that contain conflict minerals from sources determined not to be involved in funding conflict in the Covered Countries. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Our conflict minerals policy is publicly available on our website and is sent to relevant internal personnel and suppliers. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><I>Internal Team</I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">VF has a
+management system responsible for managing our conflict minerals compliance program (the &#147;Program&#148;). We have a team of subject matter experts directly responsible for management of the Program with members from our supply chain and legal
+departments. The team periodically reports on the progress of the Program to senior management and key internal stakeholders. VF has also enlisted a third party information management service provider (the &#147;Service Provider&#148;) to assist in
+our due diligence activities. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><I>Control Systems</I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">VF has policies that include, but are not limited to, our Code of Business Conduct, which outlines expected behaviors for all VF employees and
+our Global Compliance Principles, Terms of Engagement and Conflict Minerals Policy for our suppliers. VF is also in the process of incorporating conflict minerals compliance requirements into a number of contracts with its suppliers. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">We use the Conflict Minerals Reporting Template (the &#147;CMRT&#148;) developed by the Conflict-Free Sourcing Initiative (the
+&#147;CFSI&#148;) to collect information from suppliers. To provide better transparency within VF&#146;s supply chain and to facilitate communication of policies and expectations, the Service Provider conducts outreach and collects diligence results
+through an online platform (the &#147;Online Platform&#148;). This information is retained for at least five years. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><I>Supplier
+engagement and education</I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">VF&#146;s engagement with its Covered Suppliers consisted of multiple communications through email and
+telephone to educate them on our expectations for sourcing conflict minerals and the requirements of the Conflict Minerals Rule. Covered Suppliers were provided various avenues to obtain additional information and guidance regarding our Program,
+including an online supplier education portal, and contact email addresses and telephone numbers for obtaining answers to questions and/or receiving guidance on completing the information requests from VF. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><I>Grievance mechanism</I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">We
+have an Ethics Hotline through which employees, suppliers and other third parties can report violations of VF&#146;s policies, including violations of our Conflict Minerals Policy. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Identify and Assess Risk in the Supply Chain </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The
+Service Provider requested by email that the Covered Suppliers provide us with a completed CMRT. Requests </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+were sent to 881 Covered Suppliers. The Service Provider followed up by email or phone with all Covered Suppliers that did not respond to the request within a specified time frame. To the extent
+that, after the foregoing efforts, a Covered Supplier did not provide the information requested, an escalation process was initiated. The escalation process consisted of direct outreach by our personnel to the Covered Supplier. Responses were
+received from 89% of the Covered Suppliers. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Service Provider reviewed the responses received from the Covered Suppliers based on its
+internally-developed written review criteria for plausibility, consistency and gaps. As part of that review, if a Covered Supplier indicated that there were no conflict minerals in the products or materials that it supplied to us, the Service
+Provider reviewed those responses for plausibility and Covered Suppliers were also given an opportunity to provide a certification of that determination. The Service Provider followed up by email or phone with the Covered Suppliers that submitted a
+response that triggered specified quality control flags. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Service Provider reviewed the smelters and refiners identified by the Covered Suppliers
+against those contained in its internal database. To the extent not in that database, it requested that the Covered Supplier confirm that the listed entity is a smelter or refiner. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">With respect to those completed responses that identified a smelter or refiner, the Service Provider also compared that information against the lists of
+compliant and active, or the equivalent, smelters and refiners published by the CFSI, the London Bullion Market Association (&#147;LBMA&#148;) and the Responsible Jewellery Council (&#147;RJC&#148;). Twenty-nine of the smelters and refiners
+identified by the Covered Suppliers as potentially having processed conflict minerals contained in our in-scope products were listed as compliant or the equivalent by an independent third-party as of April&nbsp;14, 2015 and two were listed as active
+by the CFSI. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">With respect to those smelters and refiners identified by a Covered Supplier that were not listed as compliant or the equivalent by an
+independent third party, the Service Provider attempted to contact the smelter or refiner and/or consulted publicly available information to attempt to determine the minerals processed by the smelter or refiner, the country of origin, whether the
+conflict minerals were from sources that directly or indirectly financed or benefitted armed groups in a Covered Country and the smelter or refiner&#146;s due diligence measures. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For those Covered Suppliers that did not provide information concerning the processors of conflict minerals in their supply chain, the Service Provider
+requested information on the Covered Suppliers&#146; suppliers. These suppliers, and subsequent tiers of suppliers as identified to the Service Provider, were then contacted by the Service Provider. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Design and Implement a Strategy to Respond to Identified Risks </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">VF&#146;s implementation team provides periodic updates to senior management and key internal stakeholders on the progress of due diligence and supplier
+responsiveness and any identified risks. We address any identified risks on a case-by-case basis. This flexible approach enables us to tailor the response to the risks identified. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To ensure suppliers understand and meet our expectations, we regularly communicate information and guidance regarding our Program through a number of
+channels, including an online supplier education portal and direct communication from our sourcing hubs. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Carry out Independent Third-party Audit of
+Supply Chain Due Diligence at Identified Points in the Supply Chain </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We do not have a direct relationship with conflict minerals smelters or
+refiners and, therefore, do not perform direct audits of these entities within our supply chain. Instead, in connection with our due diligence, for the identified smelters and refiners, the Service Provider consulted information concerning
+independent third-party audits of smelters and refiners made available by the CFSI, the LBMA and the RJC. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Report on Supply Chain Due Diligence
+</I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">VF&#146;s Form SD and Conflict Minerals Report are annually filed and are publicly available on our website. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>4.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Risk Mitigation and Future Due Diligence Measures</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">VF intends to further improve our due diligence
+measures by taking the following steps, among others: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Use Revision 4.0 of the CMRT for our 2015 supplier outreach; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to incorporate conflict minerals compliance requirements into appropriate supplier contracts; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to encourage suppliers to take the steps needed to obtain and provide current, accurate and complete information about their smelters and refiners of conflict minerals by enhanced training materials and
+one-on-one outreach; </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to work with suppliers to help them understand and satisfy VF&#146;s conflict minerals compliance requirements; and </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Contact smelters identified and request their participation in obtaining &#147;conflict free&#148; designation from an industry program, to the extent that they are not already so designated. </TD></TR></TABLE>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>5.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Due Diligence Results</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">All of the responses received from the Covered Suppliers provided smelter and
+refiner data at a company level (meaning that the information pertained to all of the applicable Covered Supplier&#146;s products, not just those sold to us), or did not specify smelters and refiners. We were therefore unable to determine for 2014
+the smelters and refiners of necessary conflict minerals specific to our in-scope products. However, the smelters and refiners identified by the Covered Suppliers are described in the table below. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Because smelter and refiner information was furnished by the Covered Suppliers at a company level, all or a portion of the smelters and refiners described
+below may not be part of our supply chain. Furthermore, the smelters and refiners described in the table below may not be all of the smelters and refiners in our supply chain, since the Covered Suppliers were unable to identify all of the smelters
+and refiners used to process the necessary conflict minerals content contained in our in-scope products and not all of the Covered Suppliers responded to our inquiries. Due to our position in the supply chain, which is discussed earlier in this
+Conflict Minerals Report, we rely on our suppliers for accurate smelter and refiner information and our reasonable country of origin inquiry and due diligence measures do not provide absolute certainty regarding the source and chain of custody of
+the necessary Conflict Minerals contained in our in-scope products. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">None of the necessary conflict minerals contained in our in-scope products were
+determined by us to directly or indirectly finance or benefit armed groups in the Covered Countries. However, we did not have sufficient information to determine whether or not any of our products were &#147;DRC conflict free.&#148; The terms
+&#147;armed group&#148; and &#147;DRC conflict free&#148; have the meanings contained in the Conflict Minerals Rule. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Smelter and
+Refiner and Country of Origin Information<SUP STYLE="font-size:85%; vertical-align:top">(1)</SUP> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="5" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">Compliant</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">Active</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">Known</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">Covered&nbsp;Country<BR>Sourced</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">Non-Covered<BR>Country&nbsp;Sourced</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">Recycled&nbsp;or&nbsp;Scrap</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" ALIGN="center">Tantalum</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" ALIGN="center">Tin</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">9</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" ALIGN="center">Tungsten</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" ALIGN="center">Gold</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">15</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">0</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">We note the following in connection with the information contained in the foregoing table: </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top">All compliance status information in the table is as of April&nbsp;14, 2015, and is based solely on information made publicly available by the CFSI, without independent verification by us. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Compliant&#148; means that a smelter or refiner was listed as compliant with the Conflict-Free Smelter Program&#146;s (&#147;CFSP&#148;) assessment protocols, including through mutual recognition, or was indicated
+as &#147;Re-audit in process.&#148; Included smelters and refiners were not necessarily Compliant for all or part of 2014 and may not continue to be Compliant for any future period. We do not have information on the origin of the conflict minerals
+processed by any of the Compliant smelters and refiners prior to their respective compliance dates. </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Active&#148; means that the smelter or refiner was listed as having submitted a signed Agreement for the Exchange of Confidential Information and Auditee Agreement contracts to the CFSP. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top">A smelter or refiner is listed as &#147;Known&#148; if it was not Compliant or Active. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top">Origin information was derived from information provided by the Service Provider, based on information it received from the Covered Suppliers and its analyses. Some of the described smelters and refiners may have
+sourced from both within the Covered Countries and from outside that region. If a smelter or refiner sourced from multiple sources, it is included in the table under each applicable category. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We endeavored to determine the mine or location of origin of the necessary conflict minerals contained in our in-scope products by requesting that the Covered
+Suppliers provide us with a completed CMRT and through the other procedures followed by us and the Service Provider that are described in this Conflict Minerals Report. VF does not have sufficient information to conclusively determine the countries
+of origin of the necessary conflict minerals in its in-scope products. However, based on the information provided by VF&#146;s suppliers and the Service Provider, the following plausible potential countries of origin were identified to us:
+Argentina, Australia, Bolivia, Brazil, Canada, Chile, China, the DRC, Guyana, India, Indonesia, Japan, Kazakhstan, Malaysia, Myanmar, Nigeria, Peru, Portugal, Russia, Rwanda, South Africa, South Korea, Spain, Suriname, Thailand, United Kingdom and
+United States. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

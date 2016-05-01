@@ -1,0 +1,606 @@
+<SEC-DOCUMENT>0000950138-15-000388.txt : 20150601
+<SEC-HEADER>0000950138-15-000388.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601120248
+ACCESSION NUMBER:		0000950138-15-000388
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMERSON ELECTRIC CO
+		CENTRAL INDEX KEY:			0000032604
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP) [3600]
+		IRS NUMBER:				430259330
+		STATE OF INCORPORATION:			MO
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00278
+		FILM NUMBER:		15902085
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8000 W FLORISSANT AVE
+		STREET 2:		P O BOX 4100
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63136
+		BUSINESS PHONE:		3145532000
+
+	MAIL ADDRESS:	
+		STREET 1:		8000 W. FLORISSANT
+		STREET 2:		P.O. BOX 4100
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63136
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EMERSON ELECTRIC MANUFACTUING CO
+		DATE OF NAME CHANGE:	19730710
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>emersonsd_05212015.htm
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: bryancave
+    Document created using Disclosure Solutions PROFILE 3.2.0.0
+    Copyright 1995 - 2015 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">&#160;</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">UNITED STATES</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">WASHINGTON, D.C. 20549</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">FORM SD</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">Specialized Disclosure Report</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">Emerson Electric Co.</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Exact Name of Registrant as Specified in Charter)</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="32aefa6dc9184389a4d18d885875d0d4" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Missouri</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(State or Other</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Jurisdiction of</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Incorporation)</div>
+</td>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1-278</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Commission</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">File Number)</div>
+</td>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">43-0259330</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(I.R.S. Employer</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Identification Number)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="384eaa56d2b84020aaca6d84607ecfdb" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 66.29%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">8000 West Florissant Avenue</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">St. Louis, Missouri</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Address of Principal Executive Offices)</div>
+</td>
+<td style="WIDTH: 33.71%; VERTICAL-ALIGN: bottom">
+<div>&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">63136</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Zip Code)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Frank L. Steeves</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Executive Vice President, Secretary and General Counsel</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(314) 553-2000</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Name and Telephone Number, Including Area Code, of the</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Person to Contact in Connection with this Report.)</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies:</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12.85pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#9746;</font> Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014.</div>
+</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; PAGE-BREAK-AFTER: always; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+ Section 1 - Conflict Minerals Disclosure</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 9pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 1.01 and 1.02 Conflict Minerals Disclosure and Report, Exhibit</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">This Form SD is filed by Emerson Electric Co. (the &#8220;Company&#8221;) pursuant to Rule 13p-1 promulgated under the Securities Exchange Act, as amended, for the reporting period January 1, 2014 to December 31, 2014.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">A copy of the Company&#8217;s Conflict Minerals Report is provided as Exhibit 1.01 to this Form SD and incorporated by reference herein. The Company&#8217;s Conflict Minerals Report is available on the Company&#8217;s website at </font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000ff; FONT-SIZE: 10pt"><u>www.emerson.com</u></font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000ff; FONT-SIZE: 10pt">,&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Investor Relations, SEC Filings.</font></div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 9pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 9pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Section 2 - Exhibits</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 9pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 2.01 Exhibits</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">The following exhibit is filed with this Form SD:</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Exhibit 1.01 - Emerson Electric Co. Conflict Minerals Report for the reporting period January 1, 2014 to December 31, 2014.</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; PAGE-BREAK-AFTER: always; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 9pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURE</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 16pt; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="c56d2e4722a8492b9ce301f34f7cb688" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 100%; VERTICAL-ALIGN: top" colspan="2">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Emerson Electric Co.</div>
+
+<div>&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 11.74%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt">By:</div>
+</td>
+<td style="WIDTH: 88.26%; VERTICAL-ALIGN: bottom">&#160;<font style="FONT-VARIANT: normal; FONT-STYLE: normal; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: normal"><u>/s/ Frank L. Steeves</u></font></td>
+</tr>
+
+<tr>
+<td style="WIDTH: 11.74%; VERTICAL-ALIGN: bottom"></td>
+<td style="WIDTH: 88.26%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt">By: Frank L. Steeves</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 11.74%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 88.26%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt">Executive Vice President, Secretary and General Counsel</div>
+
+<div>&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 100%; VERTICAL-ALIGN: bottom" colspan="2">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt">Dated: June 1, 2015</div>
+
+<div>&#160;</div>
+</td>
+</tr>
+</table>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">&#160;</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>emersonsdexh10-1.htm
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: bryancave
+    Document created using Disclosure Solutions PROFILE 3.2.0.0
+    Copyright 1995 - 2015 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: right; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Exhibit 1.01</div>
+
+<div style="MARGIN-BOTTOM: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Emerson Electric Co.</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Conflict Minerals Report</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">For The Year Ended December 31, 2014</div>
+
+<div><br>
+</div>
+
+<div><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">1.</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;&#160;&#160;&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Overview</font></div>
+
+<div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">This report has been prepared by Emerson Electric Co. (&#8220;Emerson,&#8221; the &#8220;Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; or &#8220;our&#8221;) pursuant to Rule 13p-1 (the &#8220;Rule&#8221;) promulgated under the Securities Exchange Act of 1934, as amended. The Rule relates to the disclosure of certain information relating to &#8220;conflict minerals&#8221;, which are defined in the Rule as gold, columbite-tantalite (coltan), cassiterite and wolframite, and their derivatives of tantalum, tin and tungsten (referred to in this report as &#8220;3TG&#8221;)<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">.</font>&#160;Capitalized terms used in this report are those defined in the Rule except as otherwise stated.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Product Descriptions</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">The Company designs and supplies products and technology and delivers engineering services in a wide range of industrial, commercial and consumer end markets around the world. The business segments of the Company are organized primarily by the nature of the products and services they sell.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">The Process Management segment offers customers products and technology, and engineering, project management and consulting services for precision measurement, control, monitoring, asset optimization, and safety and reliability of oil and gas reservoirs and plants that process or treat various items.&#160; The Company&#8217;s array of products and services helps customers optimize their plant capabilities in the areas of plant safety and reliability, product quality and output efficiency.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">The Industrial Automation segment provides integrated manufacturing solutions to its customers at the source of manufacturing their own products. Products include motors, drives, power generating alternators, fluid controls, electrical distribution devices, materials joining equipment and power transmission solutions.&#160;</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">The Network Power segment designs, manufactures, installs and maintains products providing &#8220;grid-to-chip&#8221; electric power conditioning, power reliability and environmental control for telecommunications networks, data centers and other critical applications, and also provides comprehensive data center infrastructure management solutions. Products in this segment include critical power systems, uninterruptible power systems, thermal management, integrated data center control devices, software, monitoring and 24-hour service.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">The Climate Technologies segment provides products and services for all areas of the climate control industry, including residential heating and cooling, commercial air conditioning, and commercial and industrial refrigeration. The Company's technologies enable homeowners and businesses to better manage their heating, air conditioning and refrigeration systems for improved control and lower energy costs. Climate Technologies also provides services that digitally control and remotely monitor refrigeration units in grocery stores and other food distribution outlets to enhance food freshness and safety.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">The Commercial &amp; Residential Solutions segment includes a broad range of tools, storage products and appliance solutions.</div>
+</div>
+
+<div>&#160;</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Conflict Minerals Policy Statement</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Emerson&#8217;s conflict minerals policy statement is publicly available on our website at&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000ff; FONT-SIZE: 10pt"><u>www.emerson.com</u></font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">.</font></div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; PAGE-BREAK-AFTER: always; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+</div>
+
+<div style="MARGIN-BOTTOM: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Brief Description of Supply Chain</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt">The products that we manufacture are typically highly engineered, complex and contain thousands of parts from a vast network of direct suppliers around the world. There are generally multiple tiers of suppliers between the 3TG mines, smelters, and our direct suppliers. As a downstream purchaser, we are limited to relying on our direct suppliers to work with their upstream suppliers to provide us with accurate information about the origin of 3TG in the components, parts, or assemblies we purchase. Most of our supplier purchase contracts contain terms of years, but we include when possible new contract terms with flow-down requirements that compel our suppliers to support our due diligence efforts with respect to 3TG content.</div>
+
+<div><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">2</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">.</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;&#160;&#160;&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Reasonable Country of Origin Inquiry</font></div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">We conducted a risk-based engineering analysis of all of the products we manufacture or contract to manufacture to identify all direct suppliers providing us with items known to contain, or with a high probability of containing, 3TG. We then requested all of our identified direct 3TG suppliers to provide information to us regarding their 3TG content and smelters using the template developed by the Electronic Industry Citizenship Coalition&#174; (EICC&#174;) and The Global e-Sustainability Initiative (GeSI), known as the EICC-GeSI Conflict Minerals Reporting Template (the &#8220;Template&#8221;). The Template was developed to facilitate disclosure and communication of information regarding smelters and refiners that provide material to a manufacturer&#8217;s supply chain. It includes questions regarding a direct supplier&#8217;s conflict-free policy, its due diligence process, and information about its supply chain such as the names and locations of smelters and refiners as well as the origin of 3TG used by those facilities. Our supplier outreach efforts also included web-based training opportunities and escalation procedures for non-responding suppliers.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">3.</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;&#160;&#160;&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Due Diligence</font></div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Design of Due Diligence</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: normal">Our due diligence measures have been designed to conform, in all material respects, with the due diligence framework presented by The Organisation for Economic Co-operation and Development (OECD) in the publication <font style="FONT-STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">OECD (2013) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition, OECD Publishing&#160;</font>(OECD Guidance) and the related Supplements for gold and for tin, tantalum and tungsten, including the Final Downstream Report on one-year pilot implementation of the Supplement on Tin, Tantalum and Tungsten.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>MANAGEMENT SYSTEMS</u></div>
+
+<div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Vendor Expectations</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">We have adopted a conflict minerals policy statement related to our sourcing of 3TG and expect all of our suppliers to comply with that policy statement. In addition, our standard procurement contracts require compliance with all applicable legal requirements and Emerson&#8217;s Supplier Code of Conduct (</font>www.emerson.com<font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">).</font></div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Internal Team</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">We have established a management system to support supply chain due diligence related to 3TG. Our management system includes a steering committee sponsored by the Executive Vice-President, General Counsel and Secretary, and a global team of subject matter experts from each of our business segments, supply chain, engineering, law, and internal audit. The team of subject matter experts is responsible for implementing our Conflict Minerals compliance strategy.</div>
+</div>
+
+<div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Control Systems</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Together with other major manufacturers, we are members of the Conflict Free Sourcing Initiative (&#8220;CFSI&#8221;) that is working to develop conflict-free supply chains.&#160; In addition, we have established a records retention policy with respect to relevant documents.</div>
+</div>
+
+<div>&#160;</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Grievance Mechanism</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Employees and third parties may report a concern related to business conduct issues, including concerns related to conflict minerals, by clicking on the following website:&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000cc; FONT-SIZE: 10pt"><u>https://www.tnwgrc.com/emerson/</u></font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">. Alternatively, any employee or third party may contact the Board of Directors or any of its Committees directly by writing to the Corporate Secretary at: Emerson Electric Co. Board of Directors, c/o Corporate Secretary, 8000 W. Florissant Avenue, St. Louis, Missouri, 63136, USA.</font></div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; PAGE-BREAK-AFTER: always; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Supplier Engagement</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">We maintain a database of all of our 3TG suppliers and a record of their responses to our 3TG inquiries. This information allows us to monitor the progress of our 3TG suppliers in providing 3TG information and whether that progress is consistent with our values and policies, the OECD Guidance, the Rule, and applicable laws.</div>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>IDENTIFY AND ASSESS RISK IN THE SUPPLY CHAIN</u></div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Survey Responses</div>
+
+<div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Where responses were received from our suppliers, they were provided using the Template as well as other forms. We reviewed the results to determine which required further engagement. The criteria included non-responses, incomplete responses as well as inconsistencies within the data reported by those suppliers. We then engaged with as many of those suppliers as possible, seeking responses, additional information or clarifications as needed. We conducted multiple rounds of inquiries.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">A portion of our responding suppliers provided a list of smelters they used to process 3TG content contained in the components supplied to their customers. These responses were provided primarily on a company-wide basis and included the names of facilities listed by our suppliers as smelters or refiners. It was not possible to identify smelters by products with certainty. Where the smelter identification number was provided, we verified that the facility was listed on the CFSI smelter list included in the Template.&#160;We flagged those facilities not certified &#8220;conflict free&#8221; under the Conflict Free Smelter Program (&#8220;CFSP&#8221;) and asked them to participate in the CFSP.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Efforts to Determine Mine or Location of Origin.</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">We believe that requesting our direct suppliers to complete the Template and cross-checking to the CFSP database of conflict free smelters represents the best reasonable means to attempt to determine the mines or locations of origin of 3TG in our supply chain. We have reached this conclusion in part as a result of the recommendations resulting from the OECD Final Downstream Report on one-year pilot implementation of the Supplement on Tin, Tantalum and Tungsten.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">As outlined in the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, we support an industry initiative that audits smelters&#8217; and refiners&#8217; due diligence activities. That industry initiative is the EICC and GeSI&#8217;s Conflict-Free Sourcing Initiative. The data on which we relied for certain statements in this declaration were obtained through our membership in the CFSI, </font><font style="FONT-STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">EICC Unique Code: </font><font style="FONT-STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">[</font><font style="FONT-STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">EMRS</font><font style="FONT-STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">].</font><br>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>DESIGN AND IMPLEMENT A STRATEGY TO RESPOND TO RISKS</u></div>
+
+<div>
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="0e20ccd417a74155bd1f7647766f3e35" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 5%; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#8226;</div>
+</td>
+<td style="WIDTH: 95%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">We have adopted and implemented a risk management plan that outlines the company responses to identified risks.</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#8226;</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 95%; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: top; BORDER-LEFT-COLOR: ">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Senior management is briefed about our due diligence efforts on a regular basis.</div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 16px">
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#8226;</div>
+</td>
+<td style="WIDTH: 95%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">We have adopted a conflict minerals policy.</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#8226;</div>
+</td>
+<td style="WIDTH: 95%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">We have found no instance to date where it was necessary to temporarily suspend trade or disengage with a supplier.</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#8226;</div>
+</td>
+<td style="WIDTH: 95%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt">We engage in regular ongoing risk assessment through our suppliers&#8217; annual data submissions
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; FONT-SIZE: 10pt">and ongoing supplier engagement.</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-WEIGHT: bold"><u>CARRY OUT INDEPENDENT THIRD PARTY AUDIT OF SUPPLY CHAIN DUE DILIGENCE AT IDENTIFIED POINTS IN THE SUPPLY CHAIN</u></div>
+
+<div>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 10pt; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: normal">We do not typically have direct relationships with 3TG smelters and refiners and therefore do not perform audits of these entities. We support audits conducted by third parties through participation in the CFSI. We encourage all identified smelters and refiners not already undergoing an audit to take such action.</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>REPORT ON SUPPLY CHAIN DUE DILIGENCE</u><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">This Conflict Minerals Report constitutes our annual report on our 3TG due diligence, is available on our website at</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000ff; FONT-SIZE: 10pt">&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000ff; FONT-SIZE: 10pt"><u>www.emerson.com</u></font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000ff; FONT-SIZE: 10pt">&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">and is filed with the SEC.</font></div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><br>
+ &#160;</div>
+</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; PAGE-BREAK-AFTER: always; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">4.</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"> </font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Steps to be taken to mitigate risk</font></div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">We intend to continue to take the following steps to improve the due diligence conducted to further mitigate the risk that the 3TG in our products finance or benefit armed groups in the Covered Countries:</div>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="a1babb25d4994f6a9c1b60d66acc23d0" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; COLOR: #000000; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Continue to include a conflict minerals flow-down clause in new or renewed supplier contracts.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="b4fc6b434b9a45dcb5aeb4d38ff52b20" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; COLOR: #000000; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Continue to increase our focus on suppliers representing the highest risk of providing products containing 3TG.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="41fae02cd3fa487a90b448a1e2e5b2b7" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; COLOR: #000000; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Continue to engage directly with suppliers and provide them information and training resources to attempt to increase the response rates and improve the content of the supplier survey responses.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="84f9d173b62d4e338bf2f337aa7a6594" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; COLOR: #000000; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Continue to engage with and review our relationships with suppliers not cooperating with our due diligence efforts or found to be providing us with components or materials containing 3TG from sources that support conflict in the Covered Countries, and take action, where necessary or appropriate, to comply with our conflict minerals policy statement.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="723112796a454aecaea30f1f0c480fe3" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; COLOR: #000000; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Continue to participate in the Conflict-Free Sourcing Initiative in order to increase the number of smelters and refiners participating in the Conflict-Free Smelter Program.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="a7094645b8f54a4eb781288e828b57ae" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Symbol, serif; COLOR: #000000; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">&#183;</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; FONT-SIZE: 10pt">Continue to work with the OECD, our suppliers, and relevant trade associations to define and improve best practices and encourage responsible sourcing of 3TG.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div>&#160;</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,531 @@
+<SEC-DOCUMENT>0001104659-15-041599.txt : 20150528
+<SEC-HEADER>0001104659-15-041599.hdr.sgml : 20150528
+<ACCEPTANCE-DATETIME>20150528164205
+ACCESSION NUMBER:		0001104659-15-041599
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150528
+DATE AS OF CHANGE:		20150528
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOSTON SCIENTIFIC CORP
+		CENTRAL INDEX KEY:			0000885725
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				042695240
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11083
+		FILM NUMBER:		15895957
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 BOSTON SCIENTIFIC WAY
+		CITY:			MARLBOROUGH
+		STATE:			MA
+		ZIP:			01752-1234
+		BUSINESS PHONE:		508-683-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		300 BOSTON SCIENTIFIC WAY
+		CITY:			MARLBOROUGH
+		STATE:			MA
+		ZIP:			01752-1234
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>a15-12788_1sd.htm
+<DESCRIPTION>SD
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, DC 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;SD</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Specialized Disclosure Report</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">BOSTON SCIENTIFIC CORPORATION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">DELAWARE</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-11083</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">04-2695240</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS employer</font></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">jurisdiction of</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">file number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">identification no.)</font></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">300 Boston Scientific Way, Marlborough,   Massachusetts</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">01752-1234</font></b></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Zip code)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Timothy A. Pratt</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Executive Vice President, Chief Administrative Officer, General Counsel and Secretary</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(508) 683-4000</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name and telephone number, including area code, of the person to</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">contact in connection with this report)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box to indicate the rule&nbsp;pursuant to which this form is being filed, and provide the period to which the information in this form applies:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp;&nbsp; Rule&nbsp;13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105924\15-12788-1\task7430469\12788-1-ba.htm',USER='105924',CD='May 27 20:17 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Section&nbsp;1 &#151; Conflict Minerals Disclosure</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 1.01. Conflict Minerals Disclosure and Report</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This Form&nbsp;SD of Boston Scientific Corporation for the 2014 calendar year is filed in accordance with the rules&nbsp;under the Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;).&nbsp; Rule&nbsp;13p-1 under the Exchange Act (the &#147;Rule&#148;) requires certain registrants with the Securities and Exchange Commission (&#147;SEC&#148;) to file this specialized disclosure report on Form&nbsp;SD if such registrants have tin, tantalum, tungsten, and gold (collectively, &#147;conflict minerals&#148;) that are necessary to the functionality or production of a product manufactured by the registrant or contracted by that registrant to be manufactured.&nbsp; Terms not defined in this Form&nbsp;SD are defined in the Rule, Form&nbsp;SD and the Exchange Act Release No.&nbsp;34-67716 (August&nbsp;22, 2012).&nbsp; When used in this Form&nbsp;SD, the terms &#147;we,&#148; &#147;us,&#148; &#147;our,&#148; &#147;Boston Scientific&#148; and &#147;the Company&#148; mean Boston Scientific Corporation and its divisions and subsidiaries.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company has developed a conflict minerals policy that is publicly available on its website at http://www.bostonscientific.com/en-US/corporate-citizenship/compliance-ethics/conflict-minerals-policy.html.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We have determined that conflict minerals exist in at least one component of at least one product in each of our core businesses.&nbsp; These components contain conflict minerals that are necessary to the functionality or production of these products that we manufacture or contract to manufacture.&nbsp; Therefore, in accordance with the Rule&nbsp;and Form&nbsp;SD, we initiated a reasonable country of origin inquiry (&#147;RCOI&#148;) with our direct suppliers to determine whether any of the conflict minerals used in the production of our products may have been obtained from recycled or scrap sources and/or originated in the Covered Countries (as defined below).</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Our RCOI process employed a number of measures to make this determination, including the following:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Communication and engagement with our suppliers;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Distribution to our suppliers of the Electronic Industry Citizenship Coalition and The Global e-Sustainability Initiative Conflict Minerals Reporting Template (&#147;CMRT&#148;);</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Collection of the completed CMRT;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Review of the collected CMRTs to identify supplier risk level, as described further in our Conflict Minerals Report, determine country of origin and/or sourcing from recycled or scrap sources and determine if due diligence is required;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Implementation of a comprehensive system and business process to facilitate long-term sustainability of the RCOI process. This includes an inquiry into the presence of conflict minerals in every new or modified component that Boston Scientific purchases. The system and business process includes:</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Maintenance and tracking of supplier communications;</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Long-term storage and version history of supplier responses and forms;</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Determination of conflict minerals status of individual products; and</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Automatic &#147;red flag&#148; validations of completed CMRTs;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Follow-up communication with suppliers to update forms if their responses did not meet our review requirements and to understand and mitigate risks related to conflict minerals in their supply chains.</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Based on our RCOI, the Company has reason to believe that some of our necessary conflict minerals may have originated in the Democratic Republic of the Congo (the &#147;DRC&#148;) or in adjoining countries (collectively, with the DRC, the &#147;Covered Countries&#148;), and we have reason to believe that such conflict minerals may not be from recycled or scrap sources. As a result, we conducted due diligence on the source and chain of custody of these conflict minerals.&nbsp; Our due diligence process is described in our Conflict Minerals Report, which is attached as Exhibit&nbsp;1.01 to this Form&nbsp;SD.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This Form&nbsp;SD and the associated Conflict Minerals Report is publicly available on our website at: http://www.bostonscientific.com/content/dam/bostonscientific/corporate/citizenship/compliance-ethics/citizenship_confilict_minerals_report_2015.pdf.&nbsp; Information on or connected to our website (or the website of any third party) referenced in this Form&nbsp;SD is in addition to and not a part of or incorporated by reference into this Form&nbsp;SD (other than the Conflict Minerals Report).&nbsp; Such additional information speaks as of the date thereof and is not intended to be confirmed or updated by reference herein. Boston Scientific disclaims any liability or responsibility for or endorsement of the information on or connected to the website of a third party.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 1.02. Exhibit</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 2.01 of this Form&nbsp;SD is incorporated by reference into this Item 1.02.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Section&nbsp;2 &#151; Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 2.01. Exhibits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Exhibit&nbsp;1.01 &#151; Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form&nbsp;SD.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_165943_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\105924\15-12788-1\task7430469\12788-1-ba.htm',USER='105924',CD='May 27 20:17 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">S<b>IGNATURE</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:27.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">BOSTON   SCIENTIFIC CORPORATION</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date:&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp; May&nbsp;28, 2015</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>    </td>
+<td width="46%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:46.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/   John Bradley Sorenson</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:46.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">John   Bradley Sorenson, Senior Vice President,</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" valign="top" style="padding:0in 0in 0in 0in;width:46.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Manufacturing   and Supply Chain</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_170022_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\105924\15-12788-1\task7430469\12788-1-ba.htm',USER='105924',CD='May 27 20:17 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>a15-12788_1ex1d01.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit&nbsp;1.01</font></b></p>
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conflict Minerals Report of Boston Scientific Corporation</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For the Year Ended December&nbsp;31, 2014</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This Conflict Minerals Report (this &#147;Report&#148;) of Boston Scientific Corporation for the 2014 calendar year is filed in accordance with the rules&nbsp;under the Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;).&nbsp; Rule&nbsp;13p-1 under the Exchange Act (the &#147;Rule&#148;) imposes certain reporting and disclosure obligations on registrants with the Securities and Exchange Commission (&#147;SEC&#148;) that have tin, tantalum, tungsten, and gold (collectively, &#147;conflict minerals&#148;) that are necessary to the functionality or production of a product manufactured by the registrant or contracted by that registrant to be manufactured.&nbsp; Terms not defined in this Report are defined in the Rule, Form&nbsp;SD and the Exchange Act Release No.&nbsp;34-67716 (August&nbsp;22, 2012).&nbsp; When used in this report, the terms &#147;we,&#148; &#147;us,&#148; &#147;our,&#148; &#147;Boston Scientific&#148; and &#147;the Company&#148; mean Boston Scientific Corporation and its divisions and subsidiaries.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Information on or connected to our website (or the website of any third party) referenced in this Report is in addition to and not a part of or incorporated by reference into this Report. Such additional information speaks as of the date thereof and is not intended to be confirmed or updated by reference herein. Boston Scientific disclaims any liability or responsibility for or endorsement of the information on or connected to the website of a third party.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Company and Product Overview</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Boston Scientific Corporation is a worldwide developer, manufacturer and marketer of medical devices that are used in a broad range of interventional medical specialties.&nbsp; Our mission is to transform lives through innovative medical solutions that improve the health of patients around the world.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">During 2014, our products were offered for sale by seven core businesses in three segments: Interventional Cardiology (&#147;IC&#148;), Peripheral Interventions (&#147;PI&#148;), Cardiac Rhythm Management (&#147;CRM&#148;), Electrophysiology, Endoscopy, Urology and Women&#146;s Health and Neuromodulation. These products are generally sold directly to hospitals or physicians, making Boston Scientific the final step in the supply chain prior to these products reaching the end customer.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cardiovascular Segment</font></u><font size="2" style="font-size:10.0pt;">.&nbsp; Our IC business develops, manufactures and markets technologies for diagnosing and treating coronary artery disease and other cardiovascular disorders. We also offer structural heart products in international markets, which include a device for transcatheter aortic valve replacement and a device designed to close the left atrial appendage. Our PI business develops solutions used to diagnose and treat peripheral vascular disease and renal denervation systems in certain markets for the treatment of hypertension.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Rhythm Management Segment</font></u><font size="2" style="font-size:10.0pt;">.&nbsp; Our CRM&nbsp;business develops, manufactures and markets a variety of implantable devices including implantable cardioverter defibrillator systems and pacemaker systems that monitor the heart and deliver electricity to treat cardiac abnormalities.&nbsp; Our Electrophysiology business develops less-invasive medical technologies used in the diagnosis and treatment of rate and rhythm disorders of the heart.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">MedSurg Segment</font></u><font size="2" style="font-size:10.0pt;">.&nbsp; Our Endoscopy business develops and manufactures devices to treat a variety of medical conditions including diseases of the digestive and pulmonary systems.&nbsp; Our Urology and Women&#146;s Health business develops and manufactures devices to treat various urological and gynecological disorders. Our Neuromodulation business offers the Precision </font><font size="1" style="font-size:6.5pt;position:relative;top:-3.0pt;">&#174;</font><font size="2" style="font-size:10.0pt;">&#160;and Precision Spectra&#153; Spinal Cord Stimulation systems, used for the management of chronic pain.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Report Overview</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We completed a review of the products within each of our seven core businesses.&nbsp;&nbsp;We have determined that conflict minerals exist in at least one component of at least one product in each division.&nbsp; We have also determined that these conflict minerals are necessary to the functionality or production of these products that we manufacture or contract to manufacture.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In accordance with the Rule&nbsp;and Form&nbsp;SD, we initiated a reasonable country of origin inquiry (&#147;RCOI&#148;) with 164 of our direct material suppliers to determine whether the conflict minerals in the components supplied to us did or may have originated in the Democratic Republic of the Congo (the &#147;DRC&#148;) or an adjoining country (collectively with the DRC, the &#147;Covered Countries&#148;) and/or may have been from recycled or scrap sources. We surveyed fewer suppliers than in the previous reporting year because some suppliers previously indicated that their products do not contain conflict minerals. Based on our RCOI, we have reason to believe that the necessary conflict minerals may have originated in the Covered Countries, and we have reason to believe that such conflict minerals may not be from recycled or scrap sources.&nbsp; As a result, we conducted due diligence on the source and chain of custody of those conflict minerals.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Conflict Minerals Framework</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We designed our due diligence measures to conform, in all material respects, with the internationally recognized due diligence framework developed by the Organisation for Economic Co-operation and Development (&#147;OECD&#148;).&nbsp;<i> See</i> OECD (2013), OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition, OECD Publishing,<i> available at</i> http://dx.doi.org/10.1787/9789264185050-en, and the related Supplements for gold, tin, tantalum and</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105924\15-12788-1\task7430469\12788-1-kc.htm',USER='105924',CD='May 27 20:18 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">tungsten (collectively, the &#147;OECD Guidance&#148;).</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Company Management Systems</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We have established company management systems as follows:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 27.5pt;text-indent:-13.2pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><u style="font-style:italic;">Conflict Minerals Policy</u></i>.&nbsp; We have adopted a conflict minerals policy that is publicly available on our website at http://www.bostonscientific.com/en-US/corporate-citizenship/compliance-ethics/conflict-minerals-policy.html.</font></p>
+<p style="margin:0in 0in .0001pt 27.5pt;text-indent:-13.2pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><u style="font-style:italic;">Internal Team</u></i>.&nbsp; We have established a team of subject matter experts that is responsible for implementing our conflict minerals compliance program.&nbsp; Management oversight includes representatives from operations, supply chain, legal and finance.</font></p>
+<p style="margin:0in 0in .0001pt 27.5pt;text-indent:-13.2pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><u style="font-style:italic;">Control Systems</u></i>.&nbsp; We generally do not have direct relationships with smelters and refiners with respect to our conflict minerals.&nbsp; Therefore, we actively engage with our direct suppliers to help identify entities upstream from us in our supply chain.</font></p>
+<p style="margin:0in 0in .0001pt 27.5pt;text-indent:-13.2pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><u style="font-style:italic;">Supplier Engagement</u></i>.&nbsp; We have strong engagement with suppliers through our supplier quality agreements, a supplier on-boarding process and quality systems assessments.&nbsp; We also provide a copy of our supplier guidebook to suppliers and request that suppliers complete component material assessment forms to identify the presence of conflict minerals during component qualification.</font></p>
+<p style="margin:0in 0in .0001pt 27.5pt;text-indent:-13.2pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><u style="font-style:italic;">Grievance Mechanism</u></i>.&nbsp; We have an advice line, accessible on our external website, whereby employees and third parties, including suppliers, may ask questions, obtain guidance or report concerns.&nbsp; We have also established a dedicated mailbox, conflictminerals@bsci.com, to receive supplier requests, communications, feedback and questions.</font></p>
+<p style="margin:0in 0in .0001pt 27.5pt;text-indent:-13.2pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><u style="font-style:italic;">Maintain records</u></i>.&nbsp; We use our documentation management system to retain relevant documents.&nbsp; All conflict minerals supplier responses and forms are uploaded into our long-term information systems solution for conflict minerals.&nbsp; These records are kept in accordance with our document retention policies.</font></p>
+<p style="margin:0in 0in .0001pt 27.5pt;text-indent:-13.2pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Identification and Assessment of Supply Chain Risk</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We actively worked with our suppliers to identify entities upstream from us in our supply chain.&nbsp; We completed this survey process with 164 direct material suppliers, that either (i)&nbsp;did not previously provide a declaration indicating that no conflict minerals are utilized in their supply chain or (ii)&nbsp;we could not exclude from the scope of our RCOI process based on our available information.&nbsp; We received responses from 135 suppliers, or 82% of the suppliers we surveyed.&nbsp; Of the 135 suppliers that responded, 116 suppliers have informed us that certain components that are or may be supplied to us do or may contain conflict minerals.&nbsp; We rely on these suppliers to provide us with information about the source of conflict minerals contained in the components supplied to us. Our direct suppliers are similarly reliant upon information provided to them by their suppliers.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We have a review process to identify supplier risks based on information provided on the supplier&#146;s completed Conflict Minerals Reporting Template (&#147;CMRT&#148;). This review process includes the identification of &#147;red flags&#148; as well as an assessment of each supplier&#146;s implementation of due diligence practices.&nbsp;&nbsp;We conducted up to 5 red flag tests on each supplier&#146;s CMRT&nbsp;to uncover inconsistencies or risk in the supplier&#146;s response. In addition, we have implemented a comprehensive system that will perform automatic validations of each supplier&#146;s response on the CMRT.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Design and Implementation of a Strategy to Respond to Risks</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In response to this risk assessment, Boston Scientific has developed a risk management plan, through which the RCOI and Due Diligence Process are implemented, managed and monitored. We designed this risk management plan pursuant to the OECD Guidance.&nbsp; Updates to our risk assessment are provided to members of management on an as-needed basis.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As described above, we are working closely with our suppliers to identify the entities that are upstream from Boston Scientific in the supply chain.&nbsp; As part of our risk management plan, to help ensure suppliers understand our expectations, we have sent out communications with details on our conflict minerals framework, updated our guidebook for suppliers, and provided suppliers with links to the Conflict-Free Smelter Program training website.&nbsp; Additionally, we have added instructional materials that clearly outline our expectations for suppliers to both our external website and the supplier portal where suppliers submit completed forms.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Smelter Audits</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We generally do not have direct relationships with smelters and refiners with respect to conflict minerals and do not perform or direct audits of these entities within our supply chain.&nbsp; We support audits through our reliance upon the Conflict-Free Smelter Program.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Due Diligence Results</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Through our RCOI process, we determined whether due diligence was required for each supplier that we surveyed.&nbsp; Our RCOI process is outlined in our Form&nbsp;SD.&nbsp; Our due diligence process was a continuation of the RCOI Process for those suppliers that indicated on their CMRT&nbsp;that they know or have reason to believe they are sourcing from Covered Countries or that the source of the conflict minerals was uncertain or unknown, or as a result of our red flag tests.&nbsp; We exercised due diligence on the source and chain of custody of conflict minerals from these suppliers.&nbsp; We conducted a due diligence review of the completed CMRTs of these suppliers and took other appropriate steps as described below.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105924\15-12788-1\task7430469\12788-1-kc.htm',USER='105924',CD='May 27 20:18 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">When we received a response indicating that a supplier&#146;s sourcing of conflict minerals was uncertain or unknown, or as a result of our red flag tests, our due diligence process included the following steps:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Documenting whether the supplier intends to be conflict free (if indicated on their CMRT);</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Following-up with the supplier to determine if and when it intended to obtain country of origin information on the conflict minerals in its supply chain;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Documenting a follow-up date within our tracking system on when this information would be available, based on the supplier&#146;s feedback (if provided); and</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Incorporating a supplier into our risk management plan for follow-up if the supplier was non-responsive to our requests or responded that the supplier did not intend to survey its own suppliers.</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">When we received a response indicating that a supplier was sourcing from the Covered Countries, our due diligence process included the following steps:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Documenting whether the supplier intends to be conflict free (if indicated on their CMRT);</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Performing a review of the supplier&#146;s known smelters and identifying which of those smelters were sourcing from Covered Countries (if known);</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Comparing the supplier&#146;s smelters against the Conflict-Free Smelter Program list of certified smelters;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Following-up with the supplier on its next steps, if the smelters from Covered Countries were not certified under the Conflict-Free Smelter Program;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Incorporating the supplier into our risk management plan for appropriate follow-up (if needed).</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Based on our review of the CMRTs and these other due diligence measures, we assigned a determination to each supplier and categorized it based on supplier risk.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Our review of the suppliers&#146; CMRTs determined that approximately 116 of our suppliers provided components containing conflict minerals.&nbsp; Through our due diligence process, we identified 3 suppliers in our supply chain that had smelters in their supply chains that sourced from the Covered Countries and confirmed that materials from these smelters are used in the production of Boston Scientific products. The smelters are listed below; all smelters are conflict free certified. All other suppliers provided supplier-wide information. As a result, we were not able to determine whether the specific conflict minerals from such suppliers that were sourced from the Covered Countries were included in components we obtained from the suppliers and used in our products.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Smelters utilized in BSC&#146;s Supply Chain:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="17%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:17.18%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Metal</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="21%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:21.44%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Smelter&nbsp;Name</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="15%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:15.22%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Smelter&nbsp;Country</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="17%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:17.28%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">CFSI&nbsp;Identification</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="20%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:20.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Conflict&nbsp;Free<br>   Certified&nbsp;(CFSI)?</font></b></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;border:none;padding:0in 0in 0in 0in;width:17.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Tin</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;border:none;padding:0in 0in 0in 0in;width:21.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Malaysia   Smelting Corp</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="15%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;border:none;padding:0in 0in 0in 0in;width:15.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Malaysia</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="17%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;border:none;padding:0in 0in 0in 0in;width:17.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CID001105</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="20%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;border:none;padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Y</font></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Tantalum*</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" valign="top" style="padding:0in 0in 0in 0in;width:21.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">F&amp;X</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">China</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CID000460</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Y</font></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:17.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Tantalum*</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:21.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Global   Advanced Metals</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="15%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:15.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">United   States</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="17%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:17.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CID002557</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="20%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Y</font></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Tantalum*</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" valign="top" style="padding:0in 0in 0in 0in;width:21.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">HC   Starck GmbH</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Germany</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CID002545</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Y</font></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:17.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Tantalum*</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:21.44%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Ulba</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="15%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:15.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Kazakhstan</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="17%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:17.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CID001969</font></p>    </td>
+<td width="2%" valign="bottom" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:2.22%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="20%" valign="top" bgcolor="#CCEEFF" style="background:#CCEEFF;padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Y</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="1" width="25%" noshade color="black" align="left"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">* While the applicable CMRT indicated that the Boston Scientific supplier uses Tantalum in the production of its products at least some of which originates from the Covered Countries, the form does not distinguish between the Tantalum smelters used by the supplier that do source from the Covered Countries and the Tantalum smelters used by the supplier that do not source from the Covered Countries.&nbsp; As such, all of the Tantalum smelters used by the applicable supplier are included in the table above<b>.</b></font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2014 Product Determinations</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to SEC staff guidance, no company, including Boston Scientific, is required to describe its products as &#147;DRC conflict free,&#148; having &#147;not been found to be &#145;DRC conflict free,&#146;&#148; or &#147;DRC conflict undeterminable.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Facilities and Mine or Location of Origin</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As described above, the Company is several steps downstream from the facilities that process the necessary conflict minerals and the mines where the ore is located.&nbsp; The majority of responses we received from our suppliers that sourced from Covered Countries included information at a supplier-wide level. Where product level responses were received, and Boston Scientific was able to identify smelters that provide materials used directly in the production of our products, only smelter location, as shown above, was provided by the supplier. No mine information was available.&nbsp; As a result, we were unable to determine which facilities were used to process the necessary conflict minerals specific to our products.&nbsp; Similarly, we were unable to determine the country of origin of the necessary conflict minerals specific to our products.&nbsp; Our due diligence process, described above, reflects our efforts to determine with the greatest specificity the mines or location of origin of the conflict minerals necessary to the functionality or production of products we manufacture or contract to manufacture.&nbsp; We have not identified smelters sourcing from the Covered Countries that can be traced specifically to our products.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105924\15-12788-1\task7430469\12788-1-kc.htm',USER='105924',CD='May 27 20:18 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Continuous Improvement Efforts</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In 2014, BSC invested in a comprehensive system to facilitate long-term sustainability of the RCOI process. The system was purchased, tested, implemented and populated with data from 2013 and 2014 supplier surveys. Global procedures were developed to ensure long-term sustainability and global harmonization of the RCOI process. The system and process include:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Maintenance and tracking of supplier communications;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Long-term storage and version history of supplier responses and forms;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Determination of conflict minerals status of individual products; and</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Automatic &#147;red flag&#148; validations of completed CMRTs.</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105924\15-12788-1\task7430469\12788-1-kc.htm',USER='105924',CD='May 27 20:18 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

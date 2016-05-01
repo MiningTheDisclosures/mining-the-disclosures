@@ -1,0 +1,1067 @@
+<SEC-DOCUMENT>0001193125-15-206764.txt : 20150529
+<SEC-HEADER>0001193125-15-206764.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529163613
+ACCESSION NUMBER:		0001193125-15-206764
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		4
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LEAR CORP
+		CENTRAL INDEX KEY:			0000842162
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				133386776
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11311
+		FILM NUMBER:		15900050
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21557 TELEGRAPH ROAD
+		CITY:			SOUTHFIELD
+		STATE:			MI
+		ZIP:			48033
+		BUSINESS PHONE:		2484471500
+
+	MAIL ADDRESS:	
+		STREET 1:		21557 TELEGRAPH ROAD
+		CITY:			SOUTHFIELD
+		STATE:			MI
+		ZIP:			48033
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEAR CORP /DE/
+		DATE OF NAME CHANGE:	19960620
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEAR SEATING CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEAR SIEGLER SEATING CORP
+		DATE OF NAME CHANGE:	19900723
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d934037dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED DISCLOSURE REPORT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>LEAR
+CORPORATION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>001-11311</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>13-3386776</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(State or other jurisdiction<BR>of incorporation)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Commission<BR>File Number)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(IRS Employer<BR>Identification Number)</B></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>21557 Telegraph Road, Southfield, MI</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>48033</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Terrence B. Larkin </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Executive Vice President, Business Development, General Counsel and Corporate Secretary </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(248) 447-1500 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and
+telephone number, including area code, of the person to contact in connection with this report.) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to
+indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Introduction </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Lear Corporation (&#147;Lear&#148; or the &#147;Company&#148;) is a leading Tier 1 supplier to the global automotive industry. Our business spans all major
+automotive markets, and we supply seating and electrical distribution systems and related components to virtually every major automotive manufacturer in the world. As of December&nbsp;31, 2014, we have manufacturing, engineering and administrative
+capabilities in 34 countries with 219 locations and are continuing to grow our business in all automotive producing regions of the world. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Lear is a
+recognized global leader in complete automotive seat systems and key individual seat component parts. Our seating business consists of the design, development, engineering, just-in-time assembly and delivery of complete seat systems, as well as the
+design, development, engineering and manufacture of all major seat components, including seat structures and mechanisms, seat covers and surface materials such as fabric and leather, seat foam and headrests. Our electrical business consists of the
+design, development, engineering and manufacture of complete electrical distribution systems that route electrical signals and manage electrical power within a vehicle. Key components of our electrical business include wiring harnesses, terminals
+and connectors, junction boxes, battery chargers, electronic control modules and wireless control devices.</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Lear Corporation&#146;s policy on Conflict
+Minerals can be found at: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>http://www.lear.com/en/supplier_info/conflict-minerals.aspx?cat_id=20</U> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Information included on the Company&#146;s website is provided for informational purposes only and is not incorporated by reference herein. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1- Conflict Mineral Disclosure and Report </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.01 &#150; Conflict Minerals Disclosure </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In
+accordance with Rule 13p-1 under the Securities Exchange Act of 1934 (&#147;Rule 13p-1&#148;), Lear has filed this Specialized Disclosure Form (&#147;Form SD&#148;) and the associated Conflict Minerals Report and both reports are posted to the
+Company&#146;s publically available Internet site at: <U>www.lear.com.</U> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Information included on the Company&#146;s website is provided for
+informational purposes only and is not incorporated by reference herein. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.02 &#150; Exhibit </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exhibit 1.01 &#150; Conflict Minerals Report dated May&nbsp;29, 2015. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned
+thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" COLSPAN="3"><B>Lear Corporation</B></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: May&nbsp;29, 2015</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">By:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Jeffrey H. Vanneste</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Name:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Jeffrey H. Vanneste</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Title:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Senior Vice President and Chief Financial Officer</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:23.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Exhibit<BR>No.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:37.25pt; font-size:8pt; font-family:Times New Roman">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>1.01</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Conflict Minerals Report dated May 29, 2015.</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d934037dex101.htm
+<DESCRIPTION>EXHIBIT 1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>Exhibit 1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g934037g23m65.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>CONFLICT MINERALS REPORT </U></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Year Ended December&nbsp;31, 2014 </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Section&nbsp;1:
+Introduction and Company Overview </U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Conflict Minerals Report (the &#147;Report&#148;) covers the period of January&nbsp;1, 2014 through
+December&nbsp;31, 2014 in compliance with Rule 13p-1 (the &#147;Conflict Minerals Rule&#148;) under the Securities and Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;). Under the Dodd-Frank Wall Street Reform Act (the &#147;Dodd-Frank
+Act&#148;), the Securities and Exchange Commission (the &#147;SEC&#148;) issued the Conflict Minerals Rule to require certain companies to disclose their use of conflict minerals if those minerals are &#147;necessary to the functionality or
+production of a product&#148; manufactured by those companies. Under the Dodd-Frank Act, those minerals include tin, tungsten, tantalum, or gold (together, such minerals are referred to as &#147;3TG&#148;). Congress enacted the Conflict Minerals
+Rule due to concerns that the exploitation and trade of conflict minerals by armed groups is helping to finance conflict in the Democratic Republic of Congo (&#147;DRC&#148;) region. The Conflict Minerals Rule focuses on 3TG emanating from the DRC
+and nine adjoining countries (together, the &#147;DRC Covered Countries&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Lear Corporation (&#147;Lear&#148;) is a leading Tier 1 supplier to the
+global automotive industry.&nbsp;Our business spans all major automotive markets, and we supply seating and electrical distribution systems and related components to virtually every major automotive manufacturer in the world.&nbsp;As of
+December&nbsp;31, 2014, we have manufacturing, engineering and administrative capabilities in 34&nbsp;countries with 219 locations and are continuing to grow our business in all automotive producing regions of the world. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Lear is a recognized global leader in complete automotive seat systems and key individual seat component parts. Our seating business consists of the design,
+development, engineering, just-in-time assembly and delivery of complete seat systems, as well as the design, development, engineering and manufacture of all major seat components, including seat structures and mechanisms, seat covers and surface
+materials such as fabric and leather, seat foam and headrests. We are one of only two independent seat suppliers with global scale and the capability to design, develop, engineer, manufacture and deliver complete seat systems and components in every
+major automotive producing region in the world. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our electrical business consists of the design, development, engineering and manufacture of complete
+electrical distribution systems that route electrical signals and manage electrical power within a vehicle. Key components of our electrical business include wiring harnesses, terminals and connectors, junction boxes, battery chargers, electronic
+control modules and wireless control devices. We are one of only four suppliers with complete electrical distribution system and component capabilities in every major automotive producing region in the world. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our products are more fully described in our Annual Report, which can be accessed at: <U>http://lear.com/</U>. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Under the Conflict Minerals Rule adopted by the SEC, companies (including Lear) are required to publicly disclose their use of conflict minerals, including
+through filing a &#147;conflict minerals report&#148; as an exhibit to Form SD, the form created for conflict minerals disclosure. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Section&nbsp;2: Due Diligence Framework </U></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The final Conflict Minerals Rule adopted by the SEC requires that an issuer undertake a due diligence process and such due diligence follow a nationally or
+internationally recognized due diligence framework. Lear designed its due diligence measures to be in conformity, in all material respects, with the internationally recognized due diligence framework established by the Organisation for Economic
+Co-operation and Development (&#147;OECD&#148;), the Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas (the &#147;OECD Guidance&#148;), which satisfies the Conflict Minerals Rule requirements
+regarding due diligence. Because Lear&#146;s products, like those of many of our peers in the automotive industry, contain 3TG minerals, Lear also undertook to conduct a &#147;Reasonable Country of Origin Inquiry&#148; (as described in further
+detail below) regarding the origin of the 3TG minerals used in its products. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Section&nbsp;3: Due Diligence Measures Undertaken </U></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The following explains Lear&#146;s due diligence process. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Step 1: Strong Management System </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>A.
+Conflict Minerals Policy </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Lear developed and adopted a &#147;Conflict Minerals Policy&#148; that is published on Lear&#146;s public website at: <U>http://lear.com/</U> and is contained in Attachment A to this report. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The policy states that Lear will comply with the disclosure and reporting requirements of the conflict minerals rule of the Dodd-Frank Act, as well as the rules of the SEC promulgated under such Act. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The policy also states Lear requires legal and ethical sourcing of materials in our supply chain and, as part of our Conflict Minerals Sourcing Policy, imposes an obligation on Lear&#146;s suppliers to engage in due
+diligence of their respective supply chains to understand and report the content of the parts such suppliers provide to Lear. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>B. Internal Management Structure </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Cross Functional Team </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">A &#147;Cross Functional Team&#148; was appointed to support the supply chain due diligence undertaken by Lear. Representatives from Lear&#146;s Purchasing, Engineering, Finance, Corporate Compliance, Non-Production
+Purchasing, Information Technology, Environmental, Health and Safety, Philippines Engineering Technical Center and Legal departments serve on the team. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The purpose of the Cross Functional Team is to ensure availability of resources necessary to support Lear&#146;s supply chain due diligence process. The team monitors the execution and effectiveness of Lear&#146;s due
+diligence process and collaborates to develop improvements. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Report Findings to Designated Senior Management and Board of Directors </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">During 2014, Lear&#146;s Audit Committee and Board of Directors were provided an update relating to Lear&#146;s conflict minerals activities. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>C. Controls and Transparency Over the Mineral Supply Chain </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Industry Driven Programs </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The OECD Guidelines encourage participation in industry-driven programs to establish an industry-wide system of controls and transparency over the mineral supply chain including either a chain of custody or a
+traceability system. As outlined in the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Area, the internationally recognized standard on which our company&#146;s system is based, we support
+an industry initiative that audits smelters&#146; and refiners&#146; due diligence activities. The industry initiative is the Electronic Industry Citizenship Coalition <SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP> (EICC<SUP
+STYLE="font-size:85%; vertical-align:top">&reg;</SUP>) and the Global <FONT STYLE="white-space:nowrap">e-Sustainability</FONT> CoalitionGeSi&#146;s Conflict-Free Sourcing Initiative<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP> (CFSI<SUP
+STYLE="font-size:85%; vertical-align:top">&reg;</SUP>). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Lear participates in the Automotive Industry Action Group (&#147;AIAG&#148;), an automotive industry group whose members include original equipment manufacturers (&#147;OEM&#148;) and &#147;Tier 1&#148; suppliers. Lear
+participates in the AIAG Conflict Minerals Work Group (&#147;CMWG&#148;) which was established to prepare suppliers for reporting that will enable compliance with provisions of the conflict minerals rule. Lear participates in AIAG&#146;s Smelter
+Engagement Team (&#147;SET&#148;), a sub group of the CMWG. The SET conducts research and outreach encouraging smelters to participate in the CFSI which supports the validation and certification of smelters as conflict free. Certification through
+the CFSI validates chain of custody and/or traceability of the minerals from the mine to the smelter. This is the primary methodology for downstream suppliers (such as Lear) to have influence on the upstream supply base (such as the smelters).
+</TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>D. Company Engagement With Suppliers </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Lear has established an online supplier portal to strengthen Lear&#146;s engagement with its suppliers. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The supplier portal is available at Lear&#146;s website at: <U>http://lear.com/en/supplierinfo/</U> under the &#147;Supplier Information&#148; tab. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The &#147;Supplier Information&#148; tab provides updated web guides for suppliers. Web guides are referred to in the &#147;Terms and Conditions&#148; used by Lear when contracting with suppliers, and such web guides
+contain requirements not specifically identified in the Terms and Conditions. Also, under the &#147;Supplier Information&#148; tab, additional conflict mineral documents are provided (e.g., Lear&#146;s conflict mineral policy, supplier expectations,
+and communication requests to the supplier). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Suppliers are able to contact a Lear conflict minerals representative anytime via e-mail at: <U>conflictminerals@lear.com</U>. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>E. Grievance Mechanism </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The <U>conflictminerals@lear.com</U> mailbox is a mechanism available for any interested party to communicate their concerns/grievances regarding Lear&#146;s conflict minerals process. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">This mailbox is checked daily for communications from interested parties. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">No grievances were received during 2014. However, in the event that a grievance is submitted, the established process is to review the contents of the grievance, discuss with appropriate Lear individuals to seek
+resolution and communicate back to the person submitting the grievance. </TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Step 2 Identify and Assess Risk in Our Supply Chain </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Lear engaged in a number of steps to identify which of its suppliers are known to have 3TG in their products and request that such suppliers complete a
+template to assist Lear in identifying and assessing risks in its supply chain. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>A. Identification of Suppliers and Point of Contact
+</B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">To identify and assess risk in Lear&#146;s supply chain, as an initial step, Lear utilized the International Material Data System (&#147;IMDS&#148;) list of suppliers to identify suppliers that provide components to
+Lear. Lear communicated by <FONT STYLE="white-space:nowrap">e-mail</FONT> with its suppliers identified in the IMDS list known to have 3TG in their products. Lear also communicated by <FONT STYLE="white-space:nowrap">e-mail</FONT> with the top 100
+suppliers within Lear&#146;s seating and electrical businesses based on amounts spent. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Suppliers were requested to identify the individual(s) responsible for providing conflict mineral information for their company. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Non-responsive suppliers received a request from Lear a minimum of two times. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">A listing of non-responsive suppliers was sent to Lear&#146;s &#147;Purchasing Commodity Managers&#148; to assist in obtaining the requested information. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Once contact names and e-mail addresses were obtained, a Reasonable Country of Origin Inquiry (&#147;RCOI&#148;) was made using the Electronic Industry Citizenship
+Coalition<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP> (&#147;EICC<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP>&#148;) and The Global e-Sustainability Initiative (&#147;GeSi&#148;) template known as the CFSI Conflict
+Mineral Reporting Template (the &#147;Template&#148;), which is described in further detail below. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">A Reasonable Country of Origin Inquiry (&#147;RCOI&#148;) is an inquiry regarding the origin of conflict minerals that is designed to determine where the minerals used by Lear&#146;s suppliers originated or if they are
+from recycled or scrap sources. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The Template was developed by EICC and GeSi as a standard reporting template for companies to use to facilitate disclosure and communication of information regarding smelters that provide material to a company&#146;s
+supply chain. It includes questions regarding a company&#146;s conflict mineral free policy, engagement with its direct suppliers and a listing of the smelters the company and its suppliers use. In addition, the Template contains questions about the
+origin of conflict minerals included in suppliers&#146; products, as well as about the due diligence conducted by suppliers. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>B. Assessment of Risk </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Lear considered the following risk elements in its due diligence process: </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Completeness of the submission of information by Lear&#146;s suppliers, especially for those suppliers known to have 3TG in their components. The AIAG&#146;s Conflict Minerals Reporting Template (&#147;CMRT&#148;)
+Assessment Process was used to determine completeness of submission by analyzing the supplier&#146;s answers to each question contained in the CMRT. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Submission of smelter data and determination if smelters had been validated as conflict mineral free in accordance with the CFSI. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Consistency and substantiation of information by cross-checking submissions with the IMDS data. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">As questions arose regarding supplier submissions, Lear communicated by e-mail with the supplier for clarification and understanding. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Step 3: Design and Implement a Strategy to Respond to Identified Risks </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Lear&#146;s conflict minerals due diligence is an on-going, proactive process. During 2014, Lear&#146;s strategy for identifying risks focused on the following: </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">An assessment of all responses received from suppliers using the CMRT Assessment Process (Decision Tree) developed by AIAG&#146;s Conflict Minerals Work Group and the IMDS data information. Supplier responses were
+placed into four categories: accepted, inconsistent, incomplete, and rejected. Categorizing a response is prompted by the completeness of the answer. Suppliers were notified by e-mail of the status of their CMRT responses and if rejected, or if
+incomplete or inconsistent submissions, suppliers were asked to correct and resubmit. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Following up with 3TG suppliers as determined by the IMDS within Lear&#146;s supply chain that did not provide a completed Template in response to Lear&#146;s request for such information. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="20%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Lear&#146;s Purchasing Commodity Managers communicated by e-mail to engage non-responsive 3TG suppliers to provide Lear with a completed Template. Upon receipt of the Template, Lear utilized a decision tree process to
+assess the submission. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">A listing of smelter information provided to Lear by its supply chain was compiled. The listing contains conflict free smelters as well as facilities that are not on the CFSI conflict mineral free smelter list. As
+noted, the Company supports the CFSI and their independently verified list of conflict free smelters.</TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Step 4: Independent Third Party
+Audit of Supply Chain Due Diligence </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">As a downstream supplier, Lear does not have a direct relationship with 3TG smelters and does not perform or direct audits of these entities within our supply chain. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Step 5: Report on Supply Chain Due Diligence </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Lear has
+prepared this Report and the associated Form SD and made such documents available online at: <U>http://ir.lear.com/sec.cfm</U> </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Continuous
+Improvement Efforts to Mitigate Risk </U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As a result of our 2013 due diligence, Lear identified two continuous improvement efforts to improve the due
+diligence process and further mitigate risk for 2014 conflict mineral reporting: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Enhance and improve our RCOI and due diligence survey response rate by strengthening our engagement with suppliers. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Results: Lear saw improvement in the 2014 supplier response rates in the categories identified as &#147;All Suppliers&#148; and &#147;Suppliers Known To Have 3TG&#148;. The improved response rate is attributed to
+Lear&#146;s &#147;Purchasing Commodity Managers&#148; interaction with supplier contacts. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue to participate in the AIAG (as discussed in item C on page 3 of this report). </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Results: Lear participated on the AIAG CMWG by attending meetings in person and participating in conference calls. As a member of the CMWG, Lear provided input on the various topics and projects. Additionally during
+2014, Lear became a member of the AIAG SET and contributed to research and outreach encouraging smelters to participate in the CFSI. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">During
+2015, Lear&#146;s continuous improvement efforts to mitigate risk will focus on: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Implementing improvements of data analysis and reporting tools, including increased use of technology to facilitate identification of the status of suppliers&#146; smelters. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Continue participation in the AIAG SET and contribute to research and outreach projects which encourage smelters to participate in the CFSI. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Forward-Looking Statements </U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Report contains
+&#147;forward-looking statements&#148; about activities, events or developments that Lear intends, expects, projects, believes or anticipates will occur in the future. Forward-looking statements include all statements that do not relate solely to
+historical or current facts and can generally be identified by the use of future dates or words such as &#147;may,&#148; &#147;should,&#148; &#147;could,&#148; &#147;will,&#148; &#147;expects,&#148; &#147;seeks to,&#148; &#147;anticipates,&#148;
+&#147;plans,&#148; &#147;believes,&#148; &#147;estimates,&#148; &#147;intends,&#148; &#147;predicts,&#148; &#147;projects,&#148; &#147;potential&#148; or &#147;continue&#148; or the negative of such terms and other comparable terminology. Such
+statements are only our expectation of the outcome of future events. The outcome of the events described in these forward-looking statements is subject to substantial known and unknown risks, uncertainties and other factors that may cause results
+and developments to differ materially from those anticipated in our forward-looking statements. Lear&#146;s Form 10-K and subsequent filings with the SEC discuss some of the factors that could contribute to these differences. You are cautioned not
+to unduly rely on such forward-looking statements, which speak only as of the date made, when evaluating the information presented in this Report. Lear expressly disclaims any obligation or undertaking to disseminate any updates or revisions to any
+forward-looking statement contained herein, to reflect any change in its expectations with regard thereto, or any other change in events, conditions or circumstances on which any statement is based. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">Attachment A </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g934037g30k55.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">CONFLICT MINERALS POLICY </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On August&nbsp;22, 2012, under the Dodd-Frank Wall Street Reform and Consumer Protection Act, the U. S. Securities and Exchange Commission (SEC) approved the
+final rule to impose disclosure and reporting requirements related to conflict minerals (tin, tungsten, tantalum, and gold). The rule requires U. S. publicly traded companies to disclose the presence of conflict minerals originating in the
+Democratic Republic of the Congo (DRC) or adjoining countries in the products they manufacture, if the conflict minerals are necessary to the functionality or production of such products. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As a supplier in the automotive and non-automotive industries, Lear uses a variety of materials in the products it manufactures. The supply chain for these
+materials is complex. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">It is Lear&#146;s policy to comply with the disclosure and reporting requirements of Section&nbsp;1502 of the Dodd-Frank Wall
+Street Reform and Consumer Protection Act, as well as all rules of the SEC promulgated under such Act. Lear requires legal and ethical sourcing of materials in our supply chain and, as part of our Conflict Minerals Sourcing Policy, Lear requires its
+suppliers to engage in due diligence of their supply chain to understand and report the content of their parts supplied to Lear. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:54%; text-indent:-2%; font-size:10pt; font-family:Times New Roman">By: /s/ Matthew J. Simoncini </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:54%; text-indent:-2%; font-size:10pt; font-family:Times New Roman">President and Chief Executive Officer </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g934037g23m65.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g934037g23m65.jpg
+M_]C_X``02D9)1@`!`0$!+`$L``#_X@Q824-#7U!23T9)3$4``0$```Q(3&EN
+M;P(0``!M;G1R4D="(%A96B`'S@`"``D`!@`Q``!A8W-P35-&5`````!)14,@
+M<U)'0@``````````````````]M8``0````#3+4A0("``````````````````
+M`````````````````````````````````````````````!%C<')T```!4```
+M`#-D97-C```!A````&QW='!T```!\````!1B:W!T```"!````!1R6%E:```"
+M&````!1G6%E:```"+````!1B6%E:```"0````!1D;6YD```"5````'!D;61D
+M```"Q````(AV=65D```#3````(9V:65W```#U````"1L=6UI```#^````!1M
+M96%S```$#````"1T96-H```$,`````QR5%)#```$/```"`QG5%)#```$/```
+M"`QB5%)#```$/```"`QT97AT`````$-O<'ER:6=H="`H8RD@,3DY."!(97=L
+M971T+5!A8VMA<F0@0V]M<&%N>0``9&5S8P`````````2<U)'0B!)14,V,3DV
+M-BTR+C$``````````````!)S4D="($E%0S8Q.38V+3(N,0``````````````
+M````````````````````````````````````````````````````6%E:(```
+M`````/-1``$````!%LQ865H@`````````````````````%A96B````````!O
+MH@``./4```.06%E:(````````&*9``"WA0``&-I865H@````````)*````^$
+M``"VSV1E<V,`````````%DE%0R!H='1P.B\O=W=W+FEE8RYC:```````````
+M````%DE%0R!H='1P.B\O=W=W+FEE8RYC:```````````````````````````
+M``````````````````````````````````!D97-C`````````"Y)14,@-C$Y
+M-C8M,BXQ($1E9F%U;'0@4D="(&-O;&]U<B!S<&%C92`M('-21T(`````````
+M`````"Y)14,@-C$Y-C8M,BXQ($1E9F%U;'0@4D="(&-O;&]U<B!S<&%C92`M
+M('-21T(`````````````````````````````9&5S8P`````````L4F5F97)E
+M;F-E(%9I97=I;F<@0V]N9&ET:6]N(&EN($E%0S8Q.38V+3(N,0``````````
+M````+%)E9F5R96YC92!6:65W:6YG($-O;F1I=&EO;B!I;B!)14,V,3DV-BTR
+M+C$``````````````````````````````````'9I97<``````!.D_@`47RX`
+M$,\4``/MS``$$PL``UR>`````5A96B```````$P)5@!0````5Q_G;65A<P``
+M```````!`````````````````````````H\````"<VEG(`````!#4E0@8W5R
+M=@````````0`````!0`*``\`%``9`!X`(P`H`"T`,@`W`#L`0`!%`$H`3P!4
+M`%D`7@!C`&@`;0!R`'<`?`"!`(8`BP"0`)4`F@"?`*0`J0"N`+(`MP"\`,$`
+MQ@#+`-``U0#;`.``Y0#K`/``]@#[`0$!!P$-`1,!&0$?`24!*P$R`3@!/@%%
+M`4P!4@%9`6`!9P%N`74!?`&#`8L!D@&:`:$!J0&Q`;D!P0')`=$!V0'A`>D!
+M\@'Z`@,"#`(4`AT")@(O`C@"00)+`E0"70)G`G$">@*$`HX"F`*B`JP"M@+!
+M`LL"U0+@`NL"]0,``PL#%@,A`RT#.`-#`T\#6@-F`W(#?@.*`Y8#H@.N`[H#
+MQP/3`^`#[`/Y!`8$$P0@!"T$.P1(!%4$8P1Q!'X$C`2:!*@$M@3$!-,$X03P
+M!/X%#04<!2L%.@5)!5@%9P5W!88%E@6F!;4%Q075!>4%]@8&!A8&)P8W!D@&
+M609J!GL&C`:=!J\&P`;1!N,&]0<'!QD'*P<]!T\'80=T!X8'F0>L![\'T@?E
+M!_@("P@?"#((1@A:"&X(@@B6"*H(O@C2".<(^PD0"24).@E/"60)>0F/":0)
+MN@G/">4)^PH1"B<*/0I4"FH*@0J8"JX*Q0K<"O,+"PLB"SD+40MI"X`+F`NP
+M"\@+X0OY#!(,*@Q##%P,=0R.#*<,P`S9#/,-#0TF#4`-6@UT#8X-J0W##=X-
+M^`X3#BX.20YD#G\.FPZV#M(.[@\)#R4/00]>#WH/E@^S#\\/[!`)$"800Q!A
+M$'X0FQ"Y$-<0]1$3$3$13Q%M$8P1JA')$>@2!Q(F$D429!*$$J,2PQ+C$P,3
+M(Q-#$V,3@Q.D$\43Y10&%"<4211J%(L4K13.%/`5$A4T%585>!6;%;T5X!8#
+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
+&T44`?__9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g934037g30k55.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g934037g30k55.jpg
+M_]C_X``02D9)1@`!`0$!+`$L``#_X@Q824-#7U!23T9)3$4``0$```Q(3&EN
+M;P(0``!M;G1R4D="(%A96B`'S@`"``D`!@`Q``!A8W-P35-&5`````!)14,@
+M<U)'0@``````````````````]M8``0````#3+4A0("``````````````````
+M`````````````````````````````````````````````!%C<')T```!4```
+M`#-D97-C```!A````&QW='!T```!\````!1B:W!T```"!````!1R6%E:```"
+M&````!1G6%E:```"+````!1B6%E:```"0````!1D;6YD```"5````'!D;61D
+M```"Q````(AV=65D```#3````(9V:65W```#U````"1L=6UI```#^````!1M
+M96%S```$#````"1T96-H```$,`````QR5%)#```$/```"`QG5%)#```$/```
+M"`QB5%)#```$/```"`QT97AT`````$-O<'ER:6=H="`H8RD@,3DY."!(97=L
+M971T+5!A8VMA<F0@0V]M<&%N>0``9&5S8P`````````2<U)'0B!)14,V,3DV
+M-BTR+C$``````````````!)S4D="($E%0S8Q.38V+3(N,0``````````````
+M````````````````````````````````````````````````````6%E:(```
+M`````/-1``$````!%LQ865H@`````````````````````%A96B````````!O
+MH@``./4```.06%E:(````````&*9``"WA0``&-I865H@````````)*````^$
+M``"VSV1E<V,`````````%DE%0R!H='1P.B\O=W=W+FEE8RYC:```````````
+M````%DE%0R!H='1P.B\O=W=W+FEE8RYC:```````````````````````````
+M``````````````````````````````````!D97-C`````````"Y)14,@-C$Y
+M-C8M,BXQ($1E9F%U;'0@4D="(&-O;&]U<B!S<&%C92`M('-21T(`````````
+M`````"Y)14,@-C$Y-C8M,BXQ($1E9F%U;'0@4D="(&-O;&]U<B!S<&%C92`M
+M('-21T(`````````````````````````````9&5S8P`````````L4F5F97)E
+M;F-E(%9I97=I;F<@0V]N9&ET:6]N(&EN($E%0S8Q.38V+3(N,0``````````
+M````+%)E9F5R96YC92!6:65W:6YG($-O;F1I=&EO;B!I;B!)14,V,3DV-BTR
+M+C$``````````````````````````````````'9I97<``````!.D_@`47RX`
+M$,\4``/MS``$$PL``UR>`````5A96B```````$P)5@!0````5Q_G;65A<P``
+M```````!`````````````````````````H\````"<VEG(`````!#4E0@8W5R
+M=@````````0`````!0`*``\`%``9`!X`(P`H`"T`,@`W`#L`0`!%`$H`3P!4
+M`%D`7@!C`&@`;0!R`'<`?`"!`(8`BP"0`)4`F@"?`*0`J0"N`+(`MP"\`,$`
+MQ@#+`-``U0#;`.``Y0#K`/``]@#[`0$!!P$-`1,!&0$?`24!*P$R`3@!/@%%
+M`4P!4@%9`6`!9P%N`74!?`&#`8L!D@&:`:$!J0&Q`;D!P0')`=$!V0'A`>D!
+M\@'Z`@,"#`(4`AT")@(O`C@"00)+`E0"70)G`G$">@*$`HX"F`*B`JP"M@+!
+M`LL"U0+@`NL"]0,``PL#%@,A`RT#.`-#`T\#6@-F`W(#?@.*`Y8#H@.N`[H#
+MQP/3`^`#[`/Y!`8$$P0@!"T$.P1(!%4$8P1Q!'X$C`2:!*@$M@3$!-,$X03P
+M!/X%#04<!2L%.@5)!5@%9P5W!88%E@6F!;4%Q075!>4%]@8&!A8&)P8W!D@&
+M609J!GL&C`:=!J\&P`;1!N,&]0<'!QD'*P<]!T\'80=T!X8'F0>L![\'T@?E
+M!_@("P@?"#((1@A:"&X(@@B6"*H(O@C2".<(^PD0"24).@E/"60)>0F/":0)
+MN@G/">4)^PH1"B<*/0I4"FH*@0J8"JX*Q0K<"O,+"PLB"SD+40MI"X`+F`NP
+M"\@+X0OY#!(,*@Q##%P,=0R.#*<,P`S9#/,-#0TF#4`-6@UT#8X-J0W##=X-
+M^`X3#BX.20YD#G\.FPZV#M(.[@\)#R4/00]>#WH/E@^S#\\/[!`)$"800Q!A
+M$'X0FQ"Y$-<0]1$3$3$13Q%M$8P1JA')$>@2!Q(F$D429!*$$J,2PQ+C$P,3
+M(Q-#$V,3@Q.D$\43Y10&%"<4211J%(L4K13.%/`5$A4T%585>!6;%;T5X!8#
+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
+)<U]+444`?__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

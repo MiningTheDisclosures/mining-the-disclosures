@@ -1,0 +1,585 @@
+<SEC-DOCUMENT>0001193125-15-206469.txt : 20150529
+<SEC-HEADER>0001193125-15-206469.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529152158
+ACCESSION NUMBER:		0001193125-15-206469
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BECTON DICKINSON & CO
+		CENTRAL INDEX KEY:			0000010795
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				220760120
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04802
+		FILM NUMBER:		15899125
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BECTON DR
+		CITY:			FRANKLIN LAKES
+		STATE:			NJ
+		ZIP:			07417-1880
+		BUSINESS PHONE:		2018476800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BECTON DR
+		CITY:			FRANKLIN LAKE
+		STATE:			NJ
+		ZIP:			07417
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d933842dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center">United States </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center">Securities and Exchange Commission </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Washington, D.C. 20549 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED DISCLOSURE REPORT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center">Becton, Dickinson and Company </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(Exact name of registrant as specified in its charter) </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">New Jersey</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="center">001-4802</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="center">22-0760120</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(State or other jurisdiction of</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">incorporation or organization)</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(Commission</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">File Number)</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(IRS Employer</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Identification No.)</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 Becton Drive</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Franklin Lakes, New Jersey</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="center">074170-1880</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">(Address of principal executive offices)</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="center">(Zip Code)</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Fiona Susie </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(919) 206 7103 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(Name and telephone
+number, including area code, of the person to contact in connection with this report.) </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to indicate the rule pursuant to which
+this form is being filed, and provide the period to which the information in this form applies: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 &#150; Conflict Minerals Disclosure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.01 Conflict Minerals Disclosure and Report </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As
+required by Rule 13p-1 under the Securities Exchange Act of 1934, as amended, and Form SD, a Conflict Minerals Report is provided as an Exhibit to this Form SD and is available at the following Internet website: http://www.bd.com/sustainability. The
+information contained on our website is not incorporated by reference into this Form SD or our Conflict Minerals Report and should not be considered part of this Form SD or the Conflict Minerals Report. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Information concerning conflict minerals from recycled or scrap sources that may be contained in our in-scope products is included in the Conflict Minerals
+Report and is incorporated in this Form SD by reference. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.02 Exhibit </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Conflict Minerals Report required by Item&nbsp;1.01 is filed as Exhibit 1.01 to this Form SD. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 &#150; Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2.01
+Exhibits</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exhibit&nbsp;1.01 &#150; Conflict Minerals Report for the calendar year ended December&nbsp;31, 2014. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly
+authorized undersigned. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Becton, Dickinson and Company </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(Registrant) </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">/s/ Stephen Sichak, Jr.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">May 29, 2015</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"><FONT STYLE="font-size:10pt">Name:</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Stephen Sichak, Jr.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"><FONT STYLE="font-size:10pt">Title:</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Executive Vice President&nbsp;&amp; Chief Integrated</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Supply Chain Officer</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Exhibit</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>1.01</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Conflict Minerals Report for the calendar year ended December 31, 2014.</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d933842dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Conflict Minerals Report </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Becton, Dickinson and Company
+has included this Conflict Minerals Report as an exhibit to its Form SD for 2014, as required by Rule 13p-1 under the Securities Exchange Act of 1934, as amended, and Form SD (collectively, the &#147;Conflict Minerals Rule&#148;). The date of filing
+of this Conflict Minerals Report is May&nbsp;29, 2015. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Unless the context indicates otherwise, the term &#147;BD,&#148; &#147;we,&#148; &#147;us&#148;
+and &#147;our&#148; refer to Becton, Dickinson and Company and its consolidated subsidiaries for 2014. As used herein and consistent with the Conflict Minerals Rule, &#147;Conflict Minerals&#148; are columbite-tantalite (coltan), cassiterite, gold,
+wolframite and the derivatives tantalum, tin, and tungsten, without regard to the location of origin of the minerals or derivative metals. The &#147;Conflict Affected Region&#148; is defined as the Democratic Republic of the Congo and its adjacent
+countries, which include Angola, Burundi, Central African Republic, The Republic of the Congo, Rwanda, South Sudan, Tanzania, Uganda, and Zambia. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Overview </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BD is a leading medical technology company that
+partners with customers and stakeholders to address many of the world&#146;s most pressing and evolving health needs. Our innovative solutions are focused on improving medication management and patient safety; supporting infection prevention
+practices; equipping surgical and interventional procedures; improving drug delivery; aiding anesthesiology and respiratory care; advancing cellular research and applications; enhancing the diagnosis of infectious diseases and cancers; and
+supporting the management of diabetes. In 2015, BD acquired CareFusion Corporation. CareFusion is not discussed in this Conflict Minerals Report because the acquisition occurred after the reporting period. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BD is subject to the Conflict Minerals Rule because, for 2014, certain of the raw materials and components contained in some of the products that we
+manufactured or contracted to manufacture contained Conflict Minerals that were necessary to the functionality or production of the products. Many of our products do not contain any Conflict Minerals or are otherwise not in-scope for purposes of our
+Conflict Minerals Rule compliance. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We do not directly source Conflict Minerals from mines, smelters, or refiners, and we believe that we are many levels
+removed from these market participants and, therefore, have limited influence over their behavior. Furthermore, because of the depth, geographic diversity, and constant evolution of our supply chain, and due to competitive factors, we often have
+significant difficulty identifying market participants upstream from our direct suppliers. However, through the efforts described in this Conflict Minerals Report, we seek to ensure that our sourcing practices are consistent with our Conflict
+Minerals Policy, which is described below. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Our Conflict Minerals Policy </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BD expects its suppliers and subcontractors to source responsibly, respect human rights, and not contribute to conflict. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Without limiting the foregoing, BD expects that its suppliers and subcontractors will not knowingly source Conflict Minerals from sources that directly or
+indirectly finance or benefit armed groups in the Conflict Affected Region. In furtherance of this expectation and BD&#146;s obligations under the Conflict Minerals Rule, applicable BD suppliers and subcontractors (as defined by BD) will be expected
+to complete a declaration concerning the usage and source of any Conflict Minerals in the products supplied to us. As part of gathering the information for the declaration, applicable BD suppliers and subcontractors will be expected to conduct a
+reasonable country of origin inquiry and/or due diligence, as applicable, in accordance with the Conflict Minerals Rule and the Organisation for Economic Co-operation and Development&#146;s Due Diligence Guidance for Responsible Supply Chains of
+Minerals from Conflict-Affected and High-Risk Areas (the &#147;OECD Guidance&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In cases where suppliers or subcontractors are found to not be in
+compliance with our policy, we intend to work with and encourage them to source responsibly. Where these efforts fail or we believe that further engagement with a supplier or subcontractor is inappropriate, we will re-evaluate our business
+relationship. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Reasonable Country of Origin Inquiry; Smelter and Refiner and Country of Origin Information </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As required by the Conflict Minerals Rule, for 2014, we conducted a &#147;reasonable country of origin inquiry.&#148; Our outreach included 1,794 suppliers
+(the &#147;Suppliers&#148;) that we identified through our internal scoping process as having provided, or that we believe may have provided, us with raw materials or components that contain Conflict Minerals. As part of our materials review
+process, technical personnel within each of our business units reviewed raw materials newly added in 2014 that were used at our manufacturing sites to identify the potential presence of Conflict Minerals. Participating personnel in our scoping
+process included personnel from Global Procurement, Manufacturing, Operations and Research and Development. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Smelter and Refiner Information </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For 2014, our Suppliers identified to us the smelters and refiners described in the table below as potentially having processed the necessary Conflict Minerals
+contained in our in-scope products. We were able to determine the origin of only a portion (if any) of the necessary Conflict Minerals contained in each of our in-scope products. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Not all of the facilities described in the table below may have processed the necessary Conflict Minerals contained in our in-scope products. Many suppliers
+reported information to us at a &#147;company&#148; level (meaning that they reported all of the smelters and refiners that may have processed the Conflict Minerals contained in all of their products, not just those pertaining to the products sold
+to us). They also may have reported to us smelters and refiners that were not in our supply chain due to over-inclusiveness in the information received from their suppliers or for other reasons. Furthermore, the smelters and refiners described below
+may not be all of the smelters and refiners in our supply chain, since the Suppliers did not identify all of the smelters and refiners in their supply chains and because we did not receive responses from all of the Suppliers. Due to our position in
+the supply chain, we rely on our suppliers for accurate smelter and refiner information and our reasonable country of origin inquiry and due diligence measures do not provide absolute certainty regarding the source of the necessary Conflict Minerals
+contained in our in-scope products. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="58%"></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="9%"></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:36.50pt; font-size:8pt; font-family:Times New Roman">MINERAL</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">CFSI&nbsp;COMPLIANT</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">CFSI&nbsp;ACTIVE</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">OTHER&nbsp;KNOWN<BR>METAL&nbsp;PROCESSORS</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">TOTAL</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tin (Cassiterite)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;41</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">16</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">30</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;87</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tantalum (Columbite-Tantalite or Coltan)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;42</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;0</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;46</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Tungsten (Wolframite)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;15</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">20</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;39</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Gold</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;74</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">&nbsp;&nbsp;7</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">40</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">121</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:1.00px solid #000000">&nbsp;</P></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">TOTAL</P></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="center">172</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="center">43</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="center">78</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" ALIGN="center">293</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="border-top:3.00px double #000000">&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:10%">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman">As used in
+the table, &#147;compliant&#148; and &#147;active&#148; have the meanings given those terms by the Conflict-Free Sourcing Initiative (the &#147;CFSI&#148;). &#147;Other known metal processors&#148; are those additional smelters and refiners on the
+Standard Smelter Names tab of the CFSI&#146;s Conflict Minerals Reporting Template (the &#147;Conflict Minerals Reporting Template&#148;) and the list of known processing facilities published by the U.S. Department of Commerce (the &#147;Commerce
+Department List&#148;). The compliance status reflected in the table is based solely on information made publicly available by the CFSI as of May&nbsp;7, 2015 without independent verification by us. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the Conflict Minerals Rule, based on the results of our reasonable country of origin inquiry, we were
+required to conduct due diligence for 2014. These due diligence efforts are discussed later in this Conflict Minerals Report. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Origin Information
+</I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The identified countries of origin of the Conflict Minerals processed by the compliant smelters and refiners described in the table may have included
+the countries in the categories listed below. The listed countries of origin are derived from information made available by the CFSI to its members. Except for the DRC, the CFSI does not indicate individual countries of origin of the Conflict
+Minerals processed by compliant smelters and refiners. Instead, the CFSI indicates country of origin by category. Compliant smelters and refiners listed above were in each of the categories below: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">L1 &#150; Countries that are not identified as conflict regions or plausible areas of smuggling or export from these regions of Conflict Minerals: Argentina,
+Australia, Austria, Belgium, Bolivia, Brazil, Canada, Chile, China, Colombia, Cote d&#146;Ivoire, Czech Republic, Djibouti, Egypt, Estonia, Ethiopia, France, Germany, Guyana, Hungary, India, Indonesia, Ireland, Israel, Japan, Kazakhstan, Laos,
+Luxembourg, Madagascar, Malaysia, Mongolia, Myanmar, Namibia, Netherlands, Nigeria, Peru, Portugal, Russia, Sierra Leone, Singapore, Slovakia, South Korea, Spain, Suriname, Switzerland, Taiwan, Thailand, United Kingdom, United States, Vietnam and
+Zimbabwe. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">L2 &#150; Countries that are known or plausible countries for smuggling, export out of region or transit of materials containing Conflict
+Minerals: Kenya, Mozambique and South Africa. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">L3 &#150; The DRC and its nine adjoining countries: Angola, Burundi, Central African Republic, Republic of
+Congo, Rwanda, South Sudan, Uganda, United Republic of Tanzania and Zambia. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">DRC &#150; The Democratic Republic of the Congo. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In addition, according to information made available by the CFSI to its members, some of the compliant smelters and refiners processed Conflict Minerals
+originating solely from recycled or scrap sources and others processed both recycled and scrap content and newly mined content from one or more of the regions indicated above. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Because the CFSI generally does not indicate individual countries of origin of the Conflict Minerals processed by compliant smelters and refiners, we were not
+able to determine the countries of origin of the Conflict Minerals processed by the described compliant smelters and refiners with greater specificity. In addition, for some of the described compliant smelters and refiners, origin information is not
+disclosed. We did not determine the countries of origin of the Conflict Minerals processed by other smelters and refiners described in the table above. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We endeavored to determine the mine or location of origin of the Conflict Minerals contained in our in-scope products by requesting that Suppliers provide us
+with a completed Conflict Minerals Reporting Template. Where a smelter or refiner was identified, we then reviewed information made publicly available by the CFSI, information made available by it to its members or other publicly available
+information, in each case to the extent available, to try to determine the mine or location of origin. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on our due diligence, none of the necessary
+Conflict Minerals contained in our in-scope products were determined by us to directly or indirectly finance or benefit armed groups in the Conflict Affected Region. However, we were unable to conclude that any of our products were &#147;DRC
+conflict free.&#148; The terms &#147;armed group&#148; and &#147;DRC conflict free&#148; have the meanings contained in the Conflict Minerals Rule. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Due Diligence Program Design </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Design Framework
+</I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our due diligence measures relating to Conflict Minerals were designed to conform with the criteria set forth in the OECD Guidance (Second Edition
+2013). </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Selected Elements of Design Framework </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The OECD Guidance has established a five-step framework for due diligence as a basis for responsible global supply chain management of minerals from
+conflict-affected and high-risk areas. Selected elements of our program design are discussed below. However, these are not all of the elements of the program that we have put in place to help ensure that the Conflict Minerals contained in our
+products are responsibly sourced. Selected due diligence measures that we took in respect of 2014 are discussed under &#147;Due Diligence Program Execution.&#148; </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Conflict Minerals Policy </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We have adopted a Conflict
+Minerals Policy, as described in this Conflict Minerals Report. The Conflict Minerals Policy is posted on our website and distributed to selected employees and suppliers. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Conflict Minerals Team </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We have a centralized Conflict
+Minerals Team (the &#147;Core Team&#148;) to provide cross-functional oversight for the BD Conflict Minerals Program. The Core Team is comprised of representatives from Global Procurement, the Office of Global Sustainability, the Law Group,
+Corporate Regulatory Affairs, and all BD business units. The Core Team is led by a Program Leader with support and oversight from the Director, Global Product Stewardship, the executive leader of the program. Executive leadership of the program
+resides with Global Sustainability. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We also have a Conflict Minerals Steering Team (the &#147;Steering Team&#148;) responsible for overseeing the
+compliance activity while engaging with functional leadership around progress, reviewing and approving internal and external policy language, and collaborating with necessary third-party resources. The Steering Team consists of the Program Leader,
+Executive Leader, and representatives from Finance, Internal Audit, the Law Group, Corporate Regulatory Affairs, and Global Procurement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our compliance
+efforts are supplemented by specialist outside counsel. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Internal and External Communication of BD&#146;s Conflict Minerals Program and Training
+</I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We communicate to other relevant BD associates our commitment to comply with the Conflict Minerals Rule in writing and through in-person training
+sessions, and other live communications. In addition, the Core Team, the Steering Team, and other relevant BD associates are educated on the Conflict Minerals Rule and our compliance program. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We provide applicable suppliers and subcontractors with information on the Conflict Minerals Rule and BD&#146;s commitment to compliance with the Rule. BD
+communicates with suppliers in writing, through in-person meetings, and other live communications. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Participation in and Support of Multi-Stakeholder
+Initiatives </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We are a member of the Global e-Sustainability Initiative and the CFSI. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Data Storage and Retention </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BD utilizes an internal
+database for the maintenance of business records relating to Conflict Minerals due diligence, including records of due diligence processes, findings and resulting decisions. As recommended by the OECD Guidance, we are in the process of instituting a
+requirement that records be maintained for 5 years. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Contractual Compliance Requirements </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BD&#146;s Expectations for Suppliers, which contains our supplier compliance requirements relating to many different subject areas, includes compliance
+requirements relating to Conflict Minerals. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Grievance Mechanism </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We have a grievance mechanism for employees, suppliers and other interested parties to report violations of our Conflict Minerals Policy. We publicly
+communicate our grievance mechanism. Any grievances received are communicated to the Program Leader and Steering Team. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Collection, Assessment, and Internal Reporting of Supply Chain Information </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Suppliers that we determine to be in-scope or potentially in-scope are requested to complete a Conflict Minerals Reporting Template, which contains questions
+on the inclusion and source of Conflict Minerals in the materials they supplied to us and their compliance activities. If a supplier does not respond to our request within a reasonable time frame, or the supplier refuses to respond, this information
+is forwarded to Global Procurement as part of an escalation process. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Upon receipt of a Conflict Minerals Reporting Template from a supplier, the response
+is processed through our Supplier Response Analysis process. This process includes reviewing the supplier&#146;s responses against a series of identified &#147;red flags.&#148; Additionally, we review submitted Conflict Minerals Reporting Templates
+for certain errors and inaccuracies and follow up with these suppliers as well. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Smelter and refiner information provided by suppliers is reviewed against
+the Standard Smelter Names tab of the Conflict Minerals Reporting Template and the list of known processing facilities on the Commerce Department List. To the extent that a smelter or refiner identified by a supplier is not on either of these lists,
+we take additional steps to attempt to determine whether the listed entity is a smelter or refiner. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Smelter and refiner information is also reviewed
+against the lists of &#147;compliant&#148; and &#147;active&#148; smelters and refiners and country of origin information published by the CFSI. To the extent that a smelter or refiner identified by a supplier is not listed as compliant by the CFSI,
+we consult publicly available information to attempt to determine whether the smelter or refiner obtained Conflict Minerals from sources that directly or indirectly financed or benefitted armed groups in the Conflict Affected Region. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on the information furnished by suppliers and other information known to us, we assess the risk of adverse impact. The Steering Team reports the
+findings of its supply chain risk assessment to our Compliance and Ethics Committee on a regular basis. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We determine on a case-by-case basis the
+appropriate mitigation strategy for any identified non-compliance with our Conflict Minerals Policy and other supplier requirements and expectations relating to Conflict Minerals compliance. Potential outcomes under our mitigation strategy include
+continuing to work with the supplier while non-compliances are addressed, or suspending or terminating the relationship with the supplier. Under our mitigation strategy, to the extent that areas of non-compliance that require mitigation are
+identified, we monitor and track the performance of the mitigation efforts and report back to appropriate senior oversight personnel. Under our procedures, we also will undertake additional fact and risk assessments, as determined by the Steering
+Team, for non-compliances that require mitigation or after a change of circumstances. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Carry out Independent Third-party Audit of Supply Chain Due
+Diligence at Identified Points in the Supply Chain </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In connection with our due diligence, we utilize information made available by the CFSI concerning
+independent third-party audits of smelters and refiners. We are a member of the CFSI. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Report on Supply Chain Due Diligence </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We file a Form SD, and to the extent applicable a Conflict Minerals Report, with the Securities and Exchange Commission and make these documents available on
+our website. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Due Diligence Program Execution </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We
+performed the following due diligence measures in respect of the 2014 compliance period. These are not all of the measures that we took in respect of 2014 in furtherance of our Conflict Minerals Policy and Conflict Minerals compliance program or
+pursuant to the Conflict Minerals Rule and the OECD Guidance. For a discussion of the design of our due diligence measures, please see &#147;Due Diligence Program Design.&#148; </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top">We sent requests to 1,794 Suppliers to provide us with a completed Conflict Minerals Reporting Template. We followed up by email or phone with the Suppliers that did not provide a response within the specified time
+frame. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top">We reviewed the completed responses received from the Suppliers based on our &#147;red flags&#148; review criteria and for errors and inaccuracies. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top">We reviewed the smelters and refiners identified to us by the Suppliers against those contained on the Standard Smelter Names tab of the Conflict Minerals Reporting Template and the Commerce Department List. To the
+extent that a completed response identified a smelter or refiner not on that list, we (a)&nbsp;requested that the Supplier confirm that the listed entity is a smelter or refiner or (b)&nbsp;consulted publicly available information to attempt to
+determine whether the identified entity is a smelter or refiner. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top">To the extent that a completed response identified a smelter or refiner, we also reviewed that information against the list of compliant and active smelters and refiners published by the CFSI as of May&nbsp;7, 2015. See
+&#147;Smelter and Refiner Information&#148; for further information on the smelters and refiners identified by the Suppliers. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">5.</TD>
+<TD ALIGN="left" VALIGN="top">To the extent that a smelter or refiner identified by a Supplier was not listed as compliant by the CFSI, we consulted publicly available information to attempt to determine whether that smelter or refiner obtained
+Conflict Minerals from sources that directly or indirectly financed or benefitted armed groups in the Conflict Affected Region. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.</TD>
+<TD ALIGN="left" VALIGN="top">The Steering Team reported the findings of its supply chain assessment to our Compliance and Ethics Committee. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.</TD>
+<TD ALIGN="left" VALIGN="top">In addition, to mitigate the risk that the necessary Conflict Minerals contained in our in-scope products directly or indirectly finance or benefit armed groups in the Conflict Affected Region, we: </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">a.</TD>
+<TD ALIGN="left" VALIGN="top">Adopted and added to our Expectations for Suppliers compliance requirements relating to Conflict Minerals. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">b.</TD>
+<TD ALIGN="left" VALIGN="top">Adopted a grievance mechanism for employees, suppliers and other interested parties to report violations of our Conflict Minerals Policy and communicated to stakeholders the availability of this mechanism.
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">c.</TD>
+<TD ALIGN="left" VALIGN="top">Engaged our internal audit function to review our Conflict Minerals compliance program. Subsequent to the review, our internal audit function recommended enhancements to certain of our compliance processes and
+procedures. </TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Product Information </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our
+in-scope products for 2014 included a broad range of medical supplies, devices, laboratory equipment and diagnostic products we manufacture or contract to be manufactured. Not all of our products in each of these categories were in-scope for
+purposes of our compliance, i.e. not all of our products contain necessary Conflict Minerals or were manufactured or contracted to be manufactured by us. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Due to the challenges of tracing a multi-tier supply chain, for 2014, we were unable to determine at least a portion of the smelters and refiners, and
+countries of origin, of the necessary Conflict Minerals contained in each of our in-scope products. Identified smelters and refiners and country of origin information are described under &#147;Smelter and Refiner Information.&#148; </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Additional Mitigation Efforts </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We intend to take the
+following additional steps to mitigate the risk that the necessary Conflict Minerals contained in our in-scope products finance or benefit armed groups: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top">Monitor and encourage the continuing development and progress of traceability measures at Suppliers that indicated for 2014 that the source of Conflict Minerals was unknown or undeterminable. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top">Implement the requirement that records relating to Conflict Minerals due diligence be maintained for 5 years. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top">Implement enhancements to our red flag process. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top">Review supplier contract language relating to Conflict Minerals. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">5.</TD>
+<TD ALIGN="left" VALIGN="top">Reconcile previous versions of the CMRT smelter lists with the current release. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.</TD>
+<TD ALIGN="left" VALIGN="top">Utilize revision 4.0 of CMRT for 2015 supplier outreach. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.</TD>
+<TD ALIGN="left" VALIGN="top">Assess the recently-acquired CareFusion business&#146;s compliance procedures relating to Conflict Minerals. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The foregoing steps are in addition to the steps that we took for 2014, which we intend to continue to take for 2015 to the extent applicable. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

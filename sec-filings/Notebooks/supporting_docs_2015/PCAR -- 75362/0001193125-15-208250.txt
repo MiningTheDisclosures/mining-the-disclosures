@@ -1,0 +1,219 @@
+<SEC-DOCUMENT>0001193125-15-208250.txt : 20150601
+<SEC-HEADER>0001193125-15-208250.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601120035
+ACCESSION NUMBER:		0001193125-15-208250
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PACCAR INC
+		CENTRAL INDEX KEY:			0000075362
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				910351110
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14817
+		FILM NUMBER:		15902072
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PACCAR BUILDING
+		STREET 2:		777 106TH AVENUE NE
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+		BUSINESS PHONE:		425 468 7383
+
+	MAIL ADDRESS:	
+		STREET 1:		PACCAR BUILDING
+		STREET 2:		777 106TH AVENUE NE
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PACIFIC CAR & FOUNDRY CO
+		DATE OF NAME CHANGE:	19720707
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d932857dsd.htm
+<DESCRIPTION>SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED DISCLOSURE REPORT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>PACCAR Inc </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name
+of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>001-14817</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>91-0351110</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>777 106<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> Avenue NE, Bellevue, WA&nbsp;98004 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code&nbsp;(425)&nbsp;468-7400 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form
+applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014. </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 &#150; Conflict Minerals Disclosure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.01 Conflict Minerals Disclosure and Report, Exhibit </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A copy of PACCAR Inc&#146;s Conflict Minerals Report is filed as Exhibit 1.01 hereto and is publicly available at http://www.paccar.com. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1.02 Exhibit </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 &#150; Exhibits
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;2.01 Exhibits </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The following exhibit is
+filed as part of this report: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exhibit 1.01 &#151; Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report
+to be signed on its behalf by the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="57%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="37%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><B>PACCAR Inc</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: June 1, 2015</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">By:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ D.C. Anderson</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">D.C. Anderson</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Vice President and General
+Counsel</P></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d932857dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.01 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>PACCAR Inc Conflict Minerals Report for Calendar Year 2014 </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PACCAR Inc (&#147;PACCAR&#148;) has prepared this report in accordance with Rule 13p-1 under the Securities Exchange Act of 1934 (&#147;Rule 13p-1&#148;),
+which implements the requirements of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 for disclosure by registrants concerning the use of Conflict Minerals (gold, tin, tungsten or tantalum) in their products. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PACCAR Products </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PACCAR manufactures commercial vehicles sold
+worldwide under the Kenworth, Peterbilt and DAF nameplates, and industrial winches sold under the Braden, Carco and Gearmatic nameplates. Additional information regarding these products may be found at PACCAR.com and in its Form 10-K. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Due Diligence </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PACCAR formed a committee to lead its due
+diligence efforts. The committee reviewed the requirements of Rule 13p-1, and developed a plan for complying with its requirements, which included initiating best practices benchmarking with other original equipment manufacturers (OEMs) and key
+suppliers, and developing internal structures to support the development and implementation of those efforts. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PACCAR has informed its suppliers of its
+commitment to complying with Rule 13p-1&#146;s requirements concerning Conflict Minerals and to implementing a due diligence process, based on the Organisation for Economic Cooperation and Development (OECD) Due Diligence Guidance for Responsible
+Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition (OECD 2013), to mitigate the risk of inclusion of Conflict Minerals that are not Conflict Free in its products. A copy of PACCAR&#146;s Conflict Minerals Policy can
+be found at PACCAR.com at the following link: http://www.paccar.com/about-us/corporate-responsibility/ conflict-minerals-policy. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">After determining that
+Conflict Minerals were necessary to the production or function of many of its products, PACCAR conducted a reasonable country of origin inquiry (RCOI) and, as necessary, further due diligence, to determine if any Conflict Minerals contained in its
+products originated in the Democratic Republic of the Congo or adjoining countries (the &#147;Conflict Area&#148;), or were from recycled or scrap sources. The inquiry and due diligence included the following steps: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PACCAR transmitted a notice to approximately 350 of its largest (individually more than $1 million annual purchases) production suppliers worldwide, who
+represented 99% of PACCAR global production purchases, informing them of the need to complete the RCOI in 2014 to meet Rule 13p-1. PACCAR also posted the notice on its purchasing website and supplier portal. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PACCAR adopted the RCOI approach developed through the efforts of the Automotive Industry Action Group (AIAG),
+and the Conflict Free Smelter (CFS) program developed by the Electronic Industry Citizenship Coalition, Incorporated (EICC) and the Global e-Sustainability Initiative (GeSI). To increase consistency and minimize duplicate efforts in the reports
+requested from suppliers, PACCAR is registered and uses the i-POINT Conflict Minerals Platform (iPCMP) to conduct its RCOI with its suppliers and to report conflict mineral information using the EICC-GeSI template. iPCMP is endorsed by the AIAG and
+many automotive OEMs, and is used by their Tier 1 suppliers, many of whom also supply the commercial vehicle and capital goods markets. iPCMP software interprets the responses provided by the suppliers and flags missing information or areas of
+concern where additional due diligence may be required. The RCOI process requests the names of smelters and refiners used by suppliers to source the Conflict Minerals and provides periodic updates to the database of compliant CFS smelters. PACCAR
+issued RCOI requests to the production suppliers described above, using the iPCMP tool and EICC-GeSI template. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For the period from January&nbsp;1 through
+December&nbsp;31, 2014, PACCAR received responses from suppliers representing 84% of the total cost of its production purchases. This is an increase over the prior year&#146;s response rate of 73%. PACCAR&#146;s global supply chain is extensive,
+with multiple layers of suppliers and manufacturers between PACCAR and the smelters/refiners. PACCAR relies on its direct production suppliers to provide information as to the origin of the Conflict Minerals contained in parts and components
+supplied to it. These suppliers, in turn, were dependent on their own suppliers for information as to locations of smelters and mines used to produce Conflict Minerals in their products. The majority of PACCAR&#146;s suppliers have provided a
+company-level response which does not identify the smelters/refiners used for particular parts/components or business customers. From the responses received from its suppliers to date, PACCAR has not been able to fully determine the specific mines
+and smelters that processed the Conflict Minerals used in its products, or if the minerals are sourced from a recycler or scrap supplier. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Activity Since
+Year End 2014 </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PACCAR is continuing to work with suppliers, through the processes described above, to identify the sources of Conflict Minerals in its
+products. The use of iPCMP software helps PACCAR perform due diligence by identifying high risk RCOI reporting and information missing from supplier responses. Issues flagged provide the focus for additional due diligence or risk mitigation
+activities with a select group of suppliers. PACCAR will continue to work with its suppliers to develop an approach, consistent with OECD guidance, to identify Conflict Minerals sourced from the Conflict Area, and take reasonable steps to avoid
+their inclusion in its supply chain unless they are certified as conflict-free. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

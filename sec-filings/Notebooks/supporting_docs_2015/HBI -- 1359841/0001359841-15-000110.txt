@@ -1,0 +1,475 @@
+<SEC-DOCUMENT>0001359841-15-000110.txt : 20150527
+<SEC-HEADER>0001359841-15-000110.hdr.sgml : 20150527
+<ACCEPTANCE-DATETIME>20150527170115
+ACCESSION NUMBER:		0001359841-15-000110
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		3
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150527
+DATE AS OF CHANGE:		20150527
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hanesbrands Inc.
+		CENTRAL INDEX KEY:			0001359841
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-APPAREL & ACCESSORY STORES [5600]
+		IRS NUMBER:				203552316
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0103
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32891
+		FILM NUMBER:		15893057
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 EAST HANES MILL ROAD
+		CITY:			WINSTON-SALEM
+		STATE:			NC
+		ZIP:			27105
+		BUSINESS PHONE:		(336) 519-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 EAST HANES MILL ROAD
+		CITY:			WINSTON-SALEM
+		STATE:			NC
+		ZIP:			27105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>hbi-20150528xsd.htm
+<DESCRIPTION>SD
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2015 Workiva -->
+		<title>HBI-2015.05.28-SD </title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="sDBBDFCF8144B1BB55368337BD5FD3FCC"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;padding-top:4px;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">UNITED STATES</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Washington, D.C. 20549</font></div><div style="line-height:120%;font-size:9pt;"><font style="font-family:inherit;font-size:9pt;">&#160;</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><div style="line-height:120%;text-align:center;font-size:16pt;"><font style="font-family:inherit;font-size:16pt;font-weight:bold;">FORM SD</font></div><div style="line-height:120%;text-align:center;font-size:16pt;"><font style="font-family:inherit;font-size:16pt;font-weight:bold;">SPECIALIZED DISCLOSURE REPORT</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:20pt;"><font style="font-family:inherit;font-size:20pt;font-weight:bold;">Hanesbrands Inc.</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(Exact name of registrant as specified in its charter)</font></div><div style="line-height:120%;font-size:9pt;"><font style="font-family:inherit;font-size:9pt;">&#160;</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:73.2421875%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="30%"></td><td width="4%"></td><td width="31%"></td><td width="4%"></td><td width="31%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Maryland</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">001-32891</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">20-3552316</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;vertical-align:top;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;font-weight:bold;text-align:center;vertical-align:top;">(State or other jurisdiction</font></div><div style="text-align:center;vertical-align:top;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;font-weight:bold;text-align:center;vertical-align:top;">of incorporation)</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;font-weight:bold;">(Commission File Number)</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;font-weight:bold;">(IRS Employer Identification No.)</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:9pt;"><font style="font-family:inherit;font-size:9pt;">&#160;</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:67.578125%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="52%"></td><td width="4%"></td><td width="44%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">1000 East Hanes Mill Road</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Winston-Salem, NC</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">27105</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;font-weight:bold;">(Address of principal executive offices)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;font-weight:bold;">(Zip Code)</font></div></td></tr></table></div></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:461px;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="237px"></td><td width="20px"></td><td width="204px"></td></tr><tr><td colspan="3" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Joia M. Johnson                                Chief Legal Officer, General Counsel and Corporate Secretary</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(336) 519-8080</font></div></td></tr><tr><td colspan="3" style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;font-weight:bold;">(Name and telephone number, including area code, of the person to contact in connection with this report)</font></div></td></tr></table></div></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:9pt;">&#160;</font><font style="font-family:inherit;font-size:10pt;">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies:</font></div><div style="line-height:120%;padding-top:12px;text-align:left;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:94.7265625%;border-collapse:collapse;text-align:left;"><tr><td colspan="2"></td></tr><tr><td width="4%"></td><td width="96%"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">&#254;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;padding-top:6px;text-indent:32px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><a name="sF2F9E8E205F7D2D3C792337BD62F7F54"></a><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Section 1 - Conflict Minerals Disclosure</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Item 1.01 Conflict Minerals Disclosure and Report</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Conflict Minerals Disclosure</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">In accordance with Rule 13p-1 under the Securities Exchange Act of 1934, Hanesbrands Inc. (&#8220;HanesBrands&#8221; or the &#8220;Company&#8221;) has filed a Conflict Minerals Report for calendar year 2014 as Exhibit 1.01 hereto.  The Conflict Minerals Report is also available at </font><font style="font-family:inherit;font-size:10pt;font-style:italic;">www.HanesForGood.com</font><font style="font-family:inherit;font-size:10pt;">.</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">This Form SD and the Conflict Minerals Report filed as Exhibit 1.01 contain statements that are forward-looking, as that term is defined by the Private Securities Litigation Reform Act of 1995 or by the SEC in its rules, regulations and releases.  Forward-looking statements also include any statement that is not based on historical fact, including statements containing the words &#8220;believe,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;will,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;estimate,&#8221; &#8220;continue,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;expect,&#8221; and similar expressions.  The Company intends that such forward-looking statements be subject to the safe harbors created thereby.  All forward-looking statements are based on current expectations regarding important risk factors and should not be regarded as a representation by the Company or any other person that the results expressed therein will be achieved.  HanesBrands assumes no obligation to revise or update any forward-looking statements for any reason, expect as required by law.  Important factors that could cause actual outcomes to differ materially from those contained in any forward-looking statement include those described in the Company&#8217;s reports, including its Annual Report on Form 10-K for the fiscal year ended January 3, 2015 and other forms filed by the Company with the SEC.</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><a name="sC4F1DD76D46B131B1F63337BD556FBB5"></a><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Section 2 - Exhibits</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Item 2.01 Exhibits</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:683px;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="116px"></td><td width="30px"></td><td width="536px"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Exhibit&#160;1.01</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form.</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><a name="sF460AFA741B96CAF41DB337BD68363F0"></a><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURES</font></div><div style="line-height:120%;padding-top:12px;text-indent:32px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div><div style="line-height:120%;font-size:9pt;"><font style="font-family:inherit;font-size:9pt;">&#160;</font></div><div style="line-height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:98.6328125%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="40%"></td><td width="13%"></td><td width="4%"></td><td width="3%"></td><td width="40%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">May 27, 2015</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td colspan="3" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">HANESBRANDS INC.</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">By:</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">/s/ Joia M. Johnson</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Joia M. Johnson</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Chief Legal Officer, General Counsel and Corporate Secretary</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><a name="s48F0337E04A1DA7DA632337BD6A34355"></a><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Exhibits </font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:683px;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="116px"></td><td width="30px"></td><td width="536px"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Exhibit&#160;1.01</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form.</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>hbi-20140528xex101.htm
+<DESCRIPTION>EXHIBIT 1.01
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2015 Workiva -->
+		<title>HBI-2014.05.28-EX1.01 </title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="saf615f1ae6e14ad79843449ad4508e6c"></a><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><a name="sBAE665D2223A92485F3F337BD74984D6"></a><div style="line-height:120%;text-align:center;padding-left:48px;text-indent:-48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:center;padding-left:48px;text-indent:-48px;"><img src="hanesbrandslogoa01.jpg" style="height:44px;width:352px;"></div><div style="line-height:120%;text-align:center;padding-left:48px;text-indent:-48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:center;padding-left:48px;text-indent:-48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">Conflict Minerals Report for Calendar Year 2014</font></div><div style="line-height:120%;text-align:center;padding-left:48px;text-indent:-48px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">Pursuant to Rule 13p-1 under the Securities Exchange Act of 1934</font></div><div style="line-height:120%;text-align:center;padding-left:48px;text-indent:-48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">1.</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:inherit;font-size:11pt;font-weight:bold;">Introduction</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:11pt;">Hanesbrands Inc. (&#8220;HanesBrands,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221;) </font><font style="font-family:inherit;font-size:12pt;">is a socially responsible manufacturer and marketer of leading everyday basic apparel under some of the world&#8217;s strongest apparel brands. We </font><font style="font-family:inherit;font-size:11pt;">manufacture and contract to manufacture certain products that may contain columbite-tantalite (coltan), cassiterite, gold, wolframite or their derivatives, such as tantalum, tin and tungsten (collectively, &#8220;conflict minerals&#8221;).&#160; For example, tin or tin derivatives are found in zippers, hooks, fasteners, grommets, bra underwires and other metal components.  We are committed to sourcing materials from companies that share our values regarding human rights, ethics and environmental responsibility, and we seek to avoid the use of conflict minerals which directly or indirectly finance or benefit armed groups in the Democratic Republic of the Congo (the &#8220;DRC&#8221;) or adjoining countries.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Rule 13p-1 under the Securities Exchange Act of 1934 (&#8220;Rule 13p-1&#8221;) require public companies, including HanesBrands, to provide certain disclosures about conflict minerals that are necessary to the functionality or production of a product manufactured (or contracted to be manufactured) by the company.  This Conflict Minerals Report describes the measures we have taken to exercise due diligence on the source and chain of custody of the conflict minerals contained in our products manufactured during the 2014 calendar year (the &#8220;Reporting Period&#8221;).  Therefore, in connection with this Conflict Minerals Report, the term &#8220;Completed Products&#8221; refers to products that we manufactured or contracted to be manufactured during the Reporting Period.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">2.&#160;&#160;&#160;&#160;Reasonable Country of Origin Inquiry</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;padding-bottom:13px;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Our conflict minerals due diligence process began with a reasonable country of origin inquiry (&#8220;RCOI&#8221;) for all conflict minerals known to be contained in our Completed Products.  To implement the RCOI, the companies that provide relevant parts, materials and finished goods directly to HanesBrands (our &#8220;first tier suppliers&#8221;), as well as those of our licensees, were engaged to collect information regarding the presence and sourcing of conflict minerals used in those products</font><font style="font-family:inherit;font-size:11pt;font-weight:bold;">.</font><font style="font-family:inherit;font-size:11pt;">&#32;&#32;Information was collected, stored and evaluated largely using an online platform provided by a third party vendor, Source Intelligence. </font></div><div style="line-height:120%;padding-bottom:13px;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Our supplier engagement included some or all of the following steps:</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">An introductory email was sent to all of our first tier suppliers and those of our licensees (hereinafter, collectively referred to as &#8220;suppliers&#8221;) describing our Conflict Minerals Compliance Program and requesting information concerning the presence of conflict minerals in the supplier&#8217;s products.  </font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Following that introductory email, Source Intelligence sent a subsequent email to suppliers containing registration information and a survey request link for the online data collection platform.  In an effort to increase awareness of our Conflict Minerals Compliance Program, our suppliers were also introduced to the Source Intelligence Conflict Minerals Supplier Resource Center (https://conflictmineralresources.com) in this initial registration email.  The Supplier Resource Center was provided as an educational tool to facilitate a deeper understanding of our Conflict Minerals Compliance Program, supporting regulation and frequently asked questions concerning conflict minerals tracing.</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Up to seven additional reminder emails were sent to any non-responsive supplier from whom we requested survey completion</font><font style="font-family:inherit;font-size:11pt;font-weight:bold;">.</font></div></td></tr></table><br><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Suppliers who remained non-responsive to email reminders were contacted by telephone and offered assistance. This assistance included, but was not limited to, providing further information about our Conflict Minerals Compliance Program, explaining why the information was being collected, explaining how the information would be used and clarifying how the needed information could be provided.</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">If, after these efforts, a given supplier still did not provide the information requested, an escalation process was initiated.  The escalation process consisted of direct outreach to these suppliers by Hanesbrands employees requesting their participation in our Conflict Minerals Compliance Program. </font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">The RCOI utilized the Conflict Minerals Reporting Template (the &#8220;CMRT&#8221;) developed by the Conflict Free Sourcing Initiative (the &#8220;CFSI&#8221;) for data collection.  Source Intelligence assisted in evaluating supplier responses for plausibility, consistency and gaps, both in terms of information on the products that were stated to contain or not contain necessary conflict minerals and information on the origin of those conflict minerals.  Additional supplier contacts were conducted by Source Intelligence to address issues including implausible statements regarding the presence of conflict minerals, incomplete data on CMRTs, responses that did not identify smelters or refiners (&#8220;SORs&#8221;) and responses that indicated sourcing location without complete supporting information from the supply chain.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">A total of 159 suppliers were contacted as part of our RCOI process.  The response rate among these suppliers was 82%.  Of these responding suppliers, 15% indicated that certain components they produce contain one or more conflict minerals. </font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Based on the results of our RCOI, which indicated that one or more of our product components contained conflict minerals that may have originated in the DRC or an adjoining country, we exercised continued due diligence on the source and chain of custody of those conflict minerals as further described below.</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">3.  &#160;&#160;&#160;&#160;Conflict Minerals Due Diligence</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Our conflict minerals due diligence process is based on the Organization for Economic Cooperation and Development&#8217;s Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas (2d ed.) (2013) (the &#8220;OECD Guidance&#8221;).  It is important to note that the OECD Guidance was written for both &#8220;upstream&#8221; companies (those between the mine and the SORs) and &#8220;downstream&#8221; companies (those entities between the SORs and the retailer/consumer).  Because HanesBrands</font><font style="font-family:inherit;font-size:11pt;font-weight:bold;">&#32;</font><font style="font-family:inherit;font-size:11pt;">is a downstream company in the supply chain, our due diligence practices were tailored accordingly.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Our due diligence measures included the following:</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;">Establishing Strong Company Management Systems</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We have adopted a Conflict Minerals Policy, which details the standards by which our supply chain due diligence will be conducted.  Our Conflict Minerals Policy is publicly available at </font><font style="font-family:inherit;font-size:11pt;font-style:italic;">www.HanesforGood.com</font><font style="font-family:inherit;font-size:11pt;">.</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We have assembled an internal team in our Corporate Social Responsibility group to support the appropriate supply chain due diligence.</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We are working to establish a system of controls and transparency over our mineral supply chain through our work with Source Intelligence.  </font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We are implementing internal measures to strengthen our engagement with suppliers on these issues, including incorporating our Conflict Minerals Policy into contracts and/or agreements with relevant suppliers.</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;">Identifying and Assessing Risk in Our Supply Chain</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Through our work with Source Intelligence, we are engaging with the SORs to obtain mine of origin information and to assess whether those SORs have carried out reasonable due diligence regarding their use of minerals from conflict-affected and high-risk areas.</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;">Designing and Implementing a Strategy to Respond to Supply Chain Risks</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We regularly report risk management findings to senior management.</font></div></td></tr></table><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">With the help of Source Intelligence, we are in the process of devising and refining a more formal risk management plan to assist us in evaluating supplier relationships and avoiding the use of conflict minerals which directly or indirectly finance or benefit armed groups in the DRC or adjoining countries.</font></div></td></tr></table><div style="line-height:120%;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;">Carrying out Independent Third-Party Audits of Supply Chain Due Diligence</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Companies at identified points in the supply chain will, as appropriate and required, have their due diligence practices audited by independent third parties.</font></div></td></tr></table><div style="line-height:120%;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;">Reporting on Supply Chain Due Diligence</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We will report annually on our supply chain due diligence efforts, including posting our most recent Form SD and CMR at </font><font style="font-family:inherit;font-size:11pt;font-style:italic;">www.HanesforGood.com</font><font style="font-family:inherit;font-size:11pt;">.</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">4.</font><font style="font-family:inherit;font-size:11pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:inherit;font-size:11pt;font-weight:bold;">Smelters or Refiners and Country of Origin of Conflict Minerals</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We requested that our suppliers use the CMRT to identify the SORs used to produce any conflict minerals in their products and to identify the country of origin of the minerals. For those SORs that are known or thought to be sourcing from the DRC or an adjoining country, additional investigation was conducted by Source Intelligence to determine the source and chain of custody of the conflict minerals.  Source Intelligence relies on the following internationally accepted audit standards to determine which SORs are considered to be &#8220;DRC conflict free&#8221;:  the CFSI Conflict-Free Smelter Program, the London Bullion Market Association Good Delivery Program and the Responsible Jewellery Council Chain of Custody Certification.  If the SOR is not certified by these internationally recognized standards, Source Intelligence attempts to contact the SOR to gain more information about their sourcing practices, including countries of origin and transfer, as well as whether there are any internal due diligence procedures in place or other processes the SOR takes to track the chain of custody of its mineral ores.  Source Intelligence considers whether the SOR has a documented, effective and communicated conflict free sourcing policy, an accounting system to support a mass balance of materials processed and traceability documentation.  Internet research is also performed to determine whether there are any outside sources of information regarding the SOR&#8217;s sourcing practices.  As many as three contact attempts are made by Source Intelligence to these SORs to gather information on mine country of origin and sourcing practices.</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Based on these responses, we were able to verify the following list of SORs that were used to produce conflict minerals in our suppliers&#8217; products.  It should be noted that in many cases, the summarized SOR information provided to us by our suppliers was produced at a company or divisional level based on all of their products as a whole, rather than being limited to the specific products supplied to HanesBrands. As a result, we are unable to determine whether all of the SORs listed below were actually in our supply chain during the Reporting Period.</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;text-decoration:underline;">Gold</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Asahi Pretec Corporation*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Chimet S.p.A.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Nadir Metal Rafineri San. Ve Tic A.&#350;.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Heraeus Precious Metals GmbH &amp; Co. KG*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Istanbul Gold Refinery*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">LS-NIKKO Copper Inc.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Metalor Technologies (Hong Kong) Ltd.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Metalor Technologies SA*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Metalor USA Refining Corporation*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Mitsubishi Materials Corporation*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Nadir Metal Rafineri San. Ve Tic. A.&#350;.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Ohio Precious Metals, LLC*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Royal Canadian Mint*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Shandong Zhaojin Gold &amp; Silver Refinery*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Tanaka Kikinzoku Kogyo K.K.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Umicore Brasil Ltda*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Yunnan Copper Industry Co Ltd.</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;text-decoration:underline;">Tin</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Alpha*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">CNMC (Guangxi) PGMA Co. Ltd.</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">CV United Smelting*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Cooper Santa</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Empresa Metallurgica Vinto*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Geijiu Non-Ferrous Metal Processing Co.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Malaysia Smelting Corporation (MSC)*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Melt Metais e Ligas S/A*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Metallo Chimique*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Minera&#231;&#227;o Taboca S.A.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Minsur* </font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Operaciones Metalurgical S.A.*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">PT Koba Tin</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">PT Tambang Timah*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">PT Timah (Persero), Tbk*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Thaisarco*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Yunnan Tin Company Limited*</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;text-decoration:underline;">Tungsten</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">None</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;text-decoration:underline;">Tantalum</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">None</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;">*Denotes SORs that have received a &#8220;conflict free&#8221; designation from an independent third party audit program as of May 28, 2015.</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We believe the countries of origin for the conflict minerals produced by these SORs to include Angola, Argentina, Australia, Belgium, Bolivia, Brazil, Canada, Chile, China, the DRC&#185;, Ethiopia, France, Germany, Guinea, Guyana, India, Indonesia, Italy, Japan, Kazakhstan, Malaysia, Mexico, Morocco, Myanmar, Niger, Nigeria, Papua New Guinea, Peru, Philippines, Portugal, Russia, Rwanda&#185;, Saudi Arabia, Singapore, South Africa, Spain, Suriname, Sweden, Switzerland, Taiwan, Thailand, Turkey, the United Arab Emirates, the United Kingdom, the United States of America and Uzbekistan.</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;padding-bottom:13px;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-weight:bold;">5.&#160;&#160;&#160;&#160;Continuing Efforts</font></div><div style="line-height:120%;padding-bottom:15px;padding-top:15px;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">We continue to evaluate our supplier relationships to ensure continued compliance with our Conflict Minerals Policy and mitigate the risk that the conflict minerals contained in our products benefit armed groups in the DRC or adjoining countries.&#160; We are committed to continuously improving our supply chain due diligence efforts using the following measures:</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:11pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Continuing to assess the presence of conflict minerals in our supply chain;</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Clearly communicating expectations to our suppliers with regard to supplier performance, transparency and sourcing;</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Increasing the response rate for our RCOI process;</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Continuing to compare RCOI results to information collected through independent conflict free smelter validation programs such as the CFSI Conflict Free Smelter program; and</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:11pt;padding-left:24px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">Contacting smelters identified as a result of the RCOI process and requesting their participation in obtaining a &#8220;conflict free&#8221; designation from an industry program such as the CFSI Conflict Free Smelter program.</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;"><hr></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;font-style:italic;">&#185;Each SOR that indicated that certain of its conflict minerals originated in the DRC or an adjoining country has received a &#8220;conflict free&#8221; designation from an independent third party audit program.</font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>hanesbrandslogoa01.jpg
+<TEXT>
+begin 644 hanesbrandslogoa01.jpg
+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
+A%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110!__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

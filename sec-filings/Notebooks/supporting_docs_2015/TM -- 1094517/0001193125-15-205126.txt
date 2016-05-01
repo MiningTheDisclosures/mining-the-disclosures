@@ -1,0 +1,361 @@
+<SEC-DOCUMENT>0001193125-15-205126.txt : 20150529
+<SEC-HEADER>0001193125-15-205126.hdr.sgml : 20150529
+<ACCEPTANCE-DATETIME>20150529061805
+ACCESSION NUMBER:		0001193125-15-205126
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		2
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150529
+DATE AS OF CHANGE:		20150529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TOYOTA MOTOR CORP/
+		CENTRAL INDEX KEY:			0001094517
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			M0
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14948
+		FILM NUMBER:		15897117
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 TOYOTA CHO TOYOTA CITY
+		STREET 2:		AICHI PREFECTURE 471-8571
+		CITY:			JAPAN
+		STATE:			M0
+		ZIP:			00000
+		BUSINESS PHONE:		81-565-28-2121
+
+	MAIL ADDRESS:	
+		STREET 1:		TOYOTA MOTOR SALES USA INC
+		STREET 2:		19001 SOUTH WESTERN AVE PO BOX 2991
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90509-2991
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>d932508dsd.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form SD</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM SD
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SPECIALIZED DISCLOSURE REPORT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>TOYOTA
+JIDOSHA KABUSHIKI KAISHA </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>TOYOTA MOTOR CORPORATION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Translation of Registrant&#146;s Name into English) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Japan</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>001-14948</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>22-2251454</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Commission File Number)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>1 Toyota-cho, Toyota City, Aichi Prefecture, Japan</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>471-8571</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Hiroaki Shimizu </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Telephone number: +81 565 28-2121 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Facsimile number: +81 565 23-5800 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and telephone number, including area code, of the person to contact in connection with this report) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form
+applies: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><B>Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January&nbsp;1 to December&nbsp;31, 2014.</B> </TD></TR></TABLE>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;1 &#150; Conflict Minerals Disclosure </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>CONFLICT MINERALS DISCLOSURE AND REPORT </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Toyota Motor Corporation (together with its subsidiaries,
+&#147;Toyota&#148;, &#147;we&#148; or &#147;our&#148;) is primarily engaged in designing, manufacturing, assembling and selling passenger cars, minivans and commercial vehicles such as trucks, as well as related parts and accessories worldwide. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Toyota conducted a reasonable country of origin inquiry (&#147;RCOI&#148;) with due diligence, based on the Organization for Economic Co-operation and
+Development Guidelines, for its products related to automotive operations and marine operations. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As a result of the RCOI survey, Toyota was unable to
+determine whether all of its necessary conflict minerals originated in the Democratic Republic of the Congo or an adjoining country, or whether they come from recycled or scrap sources. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Conflict Minerals Disclosure </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Published Results</U> A
+copy of this Form SD and the attached Conflict Minerals Report may be found publicly on our website at: </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>http://www.toyota-global.com/investors/ir_library/</U> </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>EXHIBIT </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">See Item&nbsp;2.01. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Section&nbsp;2 &#150; EXHIBITS </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>EXHIBITS </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exhibit 1.01 &#150; Conflict Minerals Report </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly
+authorized undersigned. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Toyota Motor Corporation </P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="86%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Tetsuya Otake</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Tetsuya Otake</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Managing Officer</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date: May&nbsp;29, 2015 </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>2
+<FILENAME>d932508dex101.htm
+<DESCRIPTION>EX-1.01
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.01</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Exhibit 1.01 to Form SD filed on May&nbsp;29, 2015 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Conflict Minerals Report </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">as required by Items 1.01 and 1.02 of Form SD </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This report for the year ended December&nbsp;31, 2014 is presented to comply with Rule 13p-1 under the Securities Exchange Act of 1934 (&#147;Rule&#148;).
+This Rule was adopted by the Securities and Exchange Commission (&#147;SEC&#148;) to implement reporting and disclosure requirements related to conflict minerals as directed by the Dodd-Frank Wall Street Reform and Consumer Protection Act. The Rule
+imposes certain reporting obligations on SEC registrants whose manufactured products contain tin, tantalum, tungsten, or gold (&#147;3TG,&#148; also defined by Form SD as &#147;conflict minerals&#148;), and who have a reason to believe that the
+products they manufacture, or contract to manufacture, contain conflict minerals that are necessary to the functionality or production of those products. If the SEC registrant has a reason to believe that any of those conflict minerals may have
+originated in the Democratic Republic of the Congo (&#147;DRC&#148;) or an adjoining country (together with the DRC, the &#147;Covered Countries&#148;), or is unable to determine the country of origin of those conflict minerals, the SEC registrant
+is required to submit a Conflict Minerals Report to the SEC that includes a description of the measures it took to exercise due diligence on the conflict minerals&#146; source and chain of custody. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top"><U>Products</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Toyota Motor Corporation (together with its subsidiaries, &#147;Toyota&#148;,
+&#147;we&#148; or &#147;our&#148;) conducted a reasonable country of origin inquiry (&#147;RCOI&#148;) with due diligence for the following products. We were able to identify for some of our products the smelters where the metals were processed.
+However, we were unable to determine with reasonable certainty the mines or locations of origin of all the necessary conflict minerals contained in our supply chain. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Toyota produces and sells passenger cars, minivans and commercial vehicles such as trucks. Toyota&#146;s subsidiary, Daihatsu Motor Co., Ltd.
+(&#147;Daihatsu&#148;), produces and sells mini-vehicles and compact cars. Hino Motors, Ltd. (&#147;Hino&#148;), also a subsidiary of Toyota, produces and sells commercial vehicles such as trucks and buses. We also manufacture automotive parts,
+components and accessories for our own use and for sale to others. Our vehicles (produced by Toyota, Daihatsu and Hino) can be classified into two categories: hybrid vehicles and conventional engine vehicles. Our product line-up includes subcompact
+and compact cars, mini-vehicles, mid-size, luxury, sports and specialty cars, recreational and sport-utility vehicles, pickup trucks, minivans, trucks and buses. In addition, we also manufacture and sell pleasure boats, marine engines and a variety
+of marine components. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top"><U>Policy</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Toyota and its subsidiaries promote obtainment of materials with full
+deliberation and care to avoid the procurement or usage of materials which are unlawful or which are obtained through unethical or otherwise unacceptable means. We recognize that the issue of the conflict minerals originating in the Covered
+Countries is one of the significant social issues among supply chains. We aim at procurement and usage that are free from conflict minerals originating in the Covered Countries and relating to illegal conduct including human rights infringement. To
+realize such procurement and usage, we conduct inquiries tracing back through our supply chains and confirm if conflict minerals are used. In addition, we take appropriate steps to discontinue procurement of materials that can cause social problems
+or finance armed groups, if such usage is detected. Based on mutually beneficial relationships, we ask our suppliers to understand our policies and approaches and to promote responsible material procurement. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The link to Toyota&#146;s Policies and Approaches to Conflict Minerals Issues is included below: </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><U>http://www.toyota-global.com/sustainability/csr/stakeholders/partners/conflict_minerals.html</U> </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><U>http://www.toyota-global.com/sustainability/society/human_rights/#conflict_minerals</U> </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top"><U>Steps Taken to Identify Risks in the Supply Chain and Due Diligence Measures</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Due
+Diligence Design: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Toyota conducted due diligence on the source and chain of custody of its conflict minerals to ascertain whether these
+conflict minerals originated in the Covered Countries, or financed or benefited armed groups in any of such countries. Our conflict minerals due diligence measures have been designed to conform with the Organization for Economic Co-operation and
+Development Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, Second Edition, as applicable for tin, tantalum, tungsten, gold and downstream companies, in all material respects. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Due Diligence Measures Performed: </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Step 1 Establish strong company management systems:</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">Toyota has adopted a company policy
+for conflict minerals and CSR guidelines for business partners and communicated them to both internal and external parties. We have reinforced structure of the conflict minerals team within the organization, which was originally established in 2011
+to lead the due diligence on the origin of conflict minerals and chain of custody, by assigning additional members from engineering department. We also held sessions for suppliers as part of awareness-raising activities and explained the outline of
+the RCOI survey, including background and objectives. Further, we have streamlined the conflict minerals-related communication flow with relevant departments including overseas subsidiaries. It is designed that all the inquiries we receive from
+outside parties are raised to the conflict minerals team and discussed among the members of the team. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Step 2 Identify and assess risk in the supply chain:</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">Toyota, together with more than 20
+overseas subsidiaries, carried out the RCOI survey across the borders, pursuant to the discussions among management on Toyota&#146;s Policies and Approaches to Conflict Minerals Issues and measures relating to the RCOI survey. We have been using the
+Conflict Minerals Reporting Template published by the Conflict-Free Sourcing Initiative (&#147;CFSI&#148;) and compared the results of the survey on smelter information with the list of Conflict-Free Smelter Program (&#147;CFSP&#148;). As we have
+been closely communicating with major Tier-1 suppliers, some of the feedbacks we receive from them were integrated into the conflict minerals survey-related materials, such as survey manuals, FAQs and other tools. Those materials are provided to
+suppliers for free of charge, with the aim to provide support on the RCOI survey. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(iii)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Step 3 Design and implement a strategy to respond to identified risks:</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">Based on the
+risks identified in Step 2 above, Toyota discussed this assessment with Toyota&#146;s management, then designed and implemented a strategy to respond to such risks, which were documented as a risk management plan. We also requested survey
+cooperation through automotive industry organizations such as the Automotive Industry Action Group (&#147;AIAG&#148;) and the Japan Auto Parts Industries Association (&#147;JAPIA&#148;), and maintained regular communication including exchange of
+opinions. Through AIAG, we supported and contributed to CFSI activities. We have been an active member of the Japan Conflict Free Sourcing Working Group, which was established with other companies from the automotive industry and the electronics
+industry to collaborate with the Electronic Industry Citizenship Coalition and cooperate on smelters&#146; survey activities. We have visited some 3TG industry organizations through the Japan Conflict Free Sourcing Working Group. We also
+participated in the Public-Private Alliance for Responsible Minerals Trade (&#147;PPA&#148;). </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(iv)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Step 4 Carry out independent third-party audit of supply chain due diligence at identified points in the supply chain:</U> </TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">In 2014, the Japan Conflict Free Sourcing Working Group has interviewed 3TG industry organizations and smelters in Japan and encouraged them to
+participate in CFSP. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(v)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Step 5 Report on supply chain due diligence:</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">Toyota has compiled its results and filed
+this report in accordance with the Rule under Form SD. Further information is also available on our Sustainability Report and other materials posted to our website. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top"><U>Results for Calendar Year 2014</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Toyota was able to determine the origin of a portion of
+the conflict minerals contained in our supply chain and whether some of them come from recycled or scrap sources. We are, however, unable to determine all of the facilities used to process them, the country of origin, or the mine or location of
+origin. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Conflict minerals&#146; country of origin</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">Because sufficient information to identify a
+portion of the smelters/refiners and the countries of origin of conflict minerals was not provided by its suppliers, Toyota was unable to determine any of its products to be &#147;DRC conflict free&#148;, as defined by Form SD. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Facilities used to process conflict minerals</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">During the course of our due diligence on
+the source and chain of custody of the necessary conflict minerals, Toyota has collected information on some, but not all, of its smelters/refiners. Among those smelters/refiners, we found some of them processed minerals sourced in the Covered
+Countries. However, through our due diligence, we were unable to obtain sufficient information to determine whether those conflict minerals were from mines which financed or benefited any armed group. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(iii)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Efforts to determine the conflict minerals&#146; mines or locations of origin</U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">Through
+its participation in CFSP and the RCOI survey completed by its suppliers, Toyota has determined that its efforts to seek information about the conflict minerals smelters/refiners in its supply chain represents the most reasonable effort Toyota can
+make to determine the mines or locations of origin of the necessary conflict minerals contained in its supply chain. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">5.</TD>
+<TD ALIGN="left" VALIGN="top"><U>Steps Toyota Will Take Subsequent to Calendar Year 2014 </U> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The due diligence process
+discussed above is an ongoing process. As Toyota continues to conduct due diligence on its products, it will continue to refine procedures. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Toyota will conduct the following procedures, which is included in the risk management plan, to meet the goals and adhere to values set forth
+in the policy outlined above: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">a.</TD>
+<TD ALIGN="left" VALIGN="top">Toyota will improve the RCOI survey and due diligence. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">b.</TD>
+<TD ALIGN="left" VALIGN="top">Toyota will improve the measures of the RCOI survey based on feedback from major Tier-1 suppliers. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">c.</TD>
+<TD ALIGN="left" VALIGN="top">Toyota will conduct awareness-raising activities for suppliers such as providing conflict minerals survey-related materials including guidance manuals, holding sessions on a regular basis in cooperation with JAPIA and
+continuing to communicate and exchange opinions with trade partners with direct business. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">d.</TD>
+<TD ALIGN="left" VALIGN="top">Toyota will encourage smelters/refiners to participate in CFSP through the industry organizations such as AIAG and JAPIA. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">e.</TD>
+<TD ALIGN="left" VALIGN="top">Toyota will continue industry-wide cooperation such as contribution to CFSI through AIAG and participation in PPA. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">f.</TD>
+<TD ALIGN="left" VALIGN="top">Toyota will follow up with suppliers if there is a room for improvement in terms of responsible material procurement, which is among those described in Toyota Supplier CSR Guidelines as our expectations.
+</TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This Conflict Minerals Report was <I><U>not</U></I> subjected to an independent private sector audit, in accordance with Form SD. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

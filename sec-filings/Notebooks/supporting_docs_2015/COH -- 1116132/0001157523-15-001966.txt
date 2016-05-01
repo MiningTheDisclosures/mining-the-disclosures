@@ -1,0 +1,2368 @@
+<SEC-DOCUMENT>0001157523-15-001966.txt : 20150601
+<SEC-HEADER>0001157523-15-001966.hdr.sgml : 20150601
+<ACCEPTANCE-DATETIME>20150601163110
+ACCESSION NUMBER:		0001157523-15-001966
+CONFORMED SUBMISSION TYPE:	SD
+PUBLIC DOCUMENT COUNT:		4
+<RULE>
+<RULE-NAME>13p-1
+<ITEM>
+<ITEM-NUMBER>1.01
+<ITEM-PERIOD>20141231
+</ITEM>
+<ITEM>
+<ITEM-NUMBER>1.02
+<ITEM-PERIOD>20141231
+</ITEM>
+</RULE>
+FILED AS OF DATE:		20150601
+DATE AS OF CHANGE:		20150601
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COACH INC
+		CENTRAL INDEX KEY:			0001116132
+		STANDARD INDUSTRIAL CLASSIFICATION:	LEATHER & LEATHER PRODUCTS [3100]
+		IRS NUMBER:				522242751
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SD
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16153
+		FILM NUMBER:		15903786
+
+	BUSINESS ADDRESS:	
+		STREET 1:		516 WEST 34TH ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		2125941850
+
+	MAIL ADDRESS:	
+		STREET 1:		516 WEST 34TH ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SD
+<SEQUENCE>1
+<FILENAME>a51111635.htm
+<DESCRIPTION>FORM SD
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Business Wire-->
+    <!--Document Created using EDGARizerAgent 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman; FONT-VARIANT: small-caps; FONT-WEIGHT: bold; DISPLAY: inline">UNITED STATES</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman; FONT-VARIANT: small-caps; FONT-WEIGHT: bold; DISPLAY: inline">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Washington, D.C.&#160;&#160;20549</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">______</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman; FONT-VARIANT: small-caps; FONT-WEIGHT: bold; DISPLAY: inline">FORM SD</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-VARIANT: small-caps; FONT-WEIGHT: bold; DISPLAY: inline">SPECIALIZED DISCLOSURE REPORT</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="20%" style="PADDING-BOTTOM: 2px"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="20%" style="PADDING-BOTTOM: 2px"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="20%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Coach, Inc.</font></td>
+<td width="20%" style="PADDING-BOTTOM: 2px"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="20%" style="PADDING-BOTTOM: 2px"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td width="20%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="3" width="20%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;(Exact name of registrant as specified in its charter)</font></td>
+<td width="20%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="6%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Maryland</font></td>
+<td width="6%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="16%" style="PADDING-BOTTOM: 2px"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="8%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="12%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1-16153</font></td>
+<td width="8%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="16%" style="PADDING-BOTTOM: 2px"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="5%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="10%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">52-2242751</font></td>
+<td width="5%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td colspan="3" width="20%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;(State of</font></td>
+<td width="16%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="3" width="28%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Commission File Number)&#160;</font></td>
+<td width="16%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="3" width="20%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(IRS Employer</font></td>
+</tr><tr>
+<td colspan="3" width="20%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Incorporation)</font></td>
+<td width="16%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="3" width="28%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="16%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="3" width="20%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Identification No.)</font></td>
+</tr></table>
+</div>
+
+<div><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">&#160;&#160;&#160;&#160;516 West 34</font><font style="FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; TEXT-DECORATION: underline; DISPLAY: inline">th</font><font style="TEXT-DECORATION: underline; DISPLAY: inline"> Street, New York, NY 10001&#160;&#160;&#160;&#160;</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Address of principal executive offices) (Zip Code)</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">Todd Kahn (212) 594-1850&#160;</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Name and telephone number, including area code, of the person to contact in connection with this report.)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Check the appropriate box to indicate the rule pursuant to which this form is being filed, and provide the period to which the information in this form applies:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="DISPLAY: inline" face="Wingdings 2, serif">S</font> Rule 13p-1 under the Securities Exchange Act (17 CFR 240.13p-1) for the reporting period from January 1 to December 31, 2014.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Section 1 - Conflict Minerals Disclosure</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Item 1.01 Conflict Minerals Disclosure and Report</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">As required by Rule 13p-1 under the Securities Exchange Act of 1934, as amended, during the calendar year ended December 31, 2014, Coach, Inc. (&#8220;Coach&#8221;) contracted to manufacture certain products that contained &#8220;conflict minerals&#8221; necessary to their functionality. Conflict minerals are defined by the Securities and Exchange Commission as columbite-tantalite (coltan), cassiterite, gold, wolframite, or their derivatives, which are limited to tantalum, tin, and tungsten. Based on a reasonable country of origin inquiry, Coach concluded that additional due diligence was required and has therefore filed a Conflict Minerals Report.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">The Conflict Minerals Report, filed as Exhibit 1.01 hereto, is also publicly available at:</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">www.coach.com/conflict-minerals-policy.html</font><font style="TEXT-DECORATION: underline; DISPLAY: inline">.</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="DISPLAY: inline">The information contained on Coach&#8217;s website is not incorporated by reference into this Form SD or its Conflict Minerals Report and should not be considered part of this Form SD or the Conflict Minerals Report.</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="DISPLAY: inline">Information concerning necessary conflict minerals from recycled or scrap sources that may be contained in Coach&#8217;s in-scope products is included in the Conflict Minerals Report and is incorporated in this Form SD by reference.</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Items 1.02 Exhibit</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">The Conflict Minerals Report required by Item 1.01 is filed as Exhibit 1.01 to this Form SD.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Section 2 &#8211; Exhibits</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Item 2.01 Exhibits</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Exhibit 1.01 &#8211; Conflict Minerals Report as required by Items 1.01 and 1.02 of this Form, for the year ended December 31, 2014.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SIGNATURES</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the duly authorized undersigned.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">
+<div align="left">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td colspan="2" valign="top" width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">COACH, INC.</font></td>
+<td valign="top" width="57%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="3%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="30%">&#160;</td>
+<td valign="top" width="57%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="3%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="30%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="57%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="3%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="30%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="57%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+</tr><tr>
+<td align="left" valign="top" width="10%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></div>
+</td>
+<td valign="top" width="3%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">By: </font></div>
+</td>
+<td align="left" nowrap valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">/s/&#160;Todd Kahn</font></td>
+<td valign="top" width="57%" style="BORDER-BOTTOM: #ffffff solid"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;June 1, 2015</font></td>
+</tr><tr>
+<td valign="top" width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="3%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td align="left" nowrap valign="bottom" width="30%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Todd Kahn</font></td>
+<td valign="top" width="57%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="3%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="30%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Global Corporate Affairs Officer, General</font></td>
+<td valign="top" width="57%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="10%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="3%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+<td valign="top" width="30%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Counsel &amp; Secretary</font></td>
+<td valign="top" width="57%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;</font></td>
+</tr></table>
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 42pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.01
+<SEQUENCE>3
+<FILENAME>a51111635ex1_01.htm
+<DESCRIPTION>EXHIBIT 1.01
+<TEXT>
+<html>
+<head>
+    <title>a51111635ex1_01.htm</title>
+    <!--Licensed to: Business Wire-->
+    <!--Document Created using EDGARizerAgent 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Exhibit 1.01</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><img src="logo_coach.jpg" alt=""></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Coach, Inc.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Conflict Minerals Report</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">For the Calendar Year Ended December 31, 2014</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">I.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Introduction</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">This report has been prepared pursuant to Rule 13p-1 under the Securities Exchange Act of 1934, as amended, for the reporting period from January 1 to December 31, 2014, and relates to the process undertaken for Coach, Inc. (&#8220;Coach&#8221;) products that were contracted to be manufactured during calendar 2014 and that contain gold, tantalum, tin and/or tungsten (collectively the &#8220;3TG minerals&#8221;) that&#160;are necessary to the functionality or production of the products.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">II.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Applicability of the Conflict minerals Rule to Coach</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="BACKGROUND-COLOR: #ffffff; DISPLAY: inline">Coach, established in</font><font style="BACKGROUND-COLOR: #ffffff; DISPLAY: inline">&#160;</font>New York City<font style="BACKGROUND-COLOR: #ffffff; DISPLAY: inline">&#160;</font><font style="BACKGROUND-COLOR: #ffffff; DISPLAY: inline">in 1941, is a leading design house of modern luxury accessories and lifestyle collections with a rich heritage of pairing exceptional leathers and materials with innovative design. Coach is sold worldwide through Coach stores, select department stores and specialty stores, and through Coach&#8217;s website at</font><font style="BACKGROUND-COLOR: #ffffff; DISPLAY: inline">&#160;</font><font style="BACKGROUND-COLOR: #ffffff; DISPLAY: inline; TEXT-DECORATION: underline">www.coach.com</font><font style="BACKGROUND-COLOR: #ffffff; DISPLAY: inline">. The information contained on Coach&#8217;s website is not incorporated by reference into this Conflict Minerals Report or the Form SD, of which it is a part, and should not be considered part of this Conflict Minerals Report or the Form SD.</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach determined that it is subject to the requirements of the conflict minerals rule because of the degree of influence that it exercises over the design, materials, and components of some of its products that contain necessary 3TG minerals. Coach does not directly manufacture products but &#8220;contracts to manufacture&#8221;, and is far removed from the sources of ore from which these metals are produced and the smelters/refiners that process those ores. The efforts undertaken to identify the origin of those ores reflect our circumstances and position in the supply chain, and we must rely on our direct suppliers to work with their upstream suppliers so that they may provide us with accurate information about the origin of necessary 3TG minerals in the products that we contract to manufacture.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The products covered by this report include the following, although not all of Coach&#8217;s products in each of these categories are in-scope for purposes of its compliance:</font></div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 90pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Fashion Accessories</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 90pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Handbags</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 90pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Jewelry</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 90pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Footwear</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 90pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Ready-to-Wear</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;1</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><br>
+&#160;</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For 2014, Coach identified 49 suppliers of potentially in-scope products.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">III.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Coach&#8217;s Conflict Minerals Policy</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach has adopted a policy for the supply chain of 3TG minerals (&#8220;the Conflict Minerals Policy&#8221;).</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach believes in the dignity of, and respect for, individuals, as demonstrated in its policies on labor practices; Coach is concerned with the humanitarian abuses involved in the mining of 3TG minerals and subsequent financing of armed conflict. As such, Coach strives to deliver products to its consumers manufactured in an ethical way consistent with our humanitarian beliefs and to be compliant with the laws in the countries in which we operate. To enable this, Coach has adopted the following practices:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Instituted an assessment of its supply chain to identify areas where there is a high possibility of 3TG mineral use in its existing products;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Collaborate with suppliers to confirm 3TG mineral usage and potential sources of these minerals;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Work with its suppliers through the product development process to understand the likelihood of 3TG minerals being incorporated into the design; and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Expects its suppliers to adopt policies with respect to 3TG minerals consistent with Coach&#8217;s stance.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In order to achieve these objectives, Coach developed a process consistent with the Organisation for Economic Co-operation and Development (&#8220;OECD&#8221;) due diligence framework for 3TG minerals, as further discussed below.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">IV.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Reasonable Country of Origin Inquiry Information</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Following a risk assessment to scope where 3TG minerals may be found in our products, we conducted a &#8220;reasonable country of origin inquiry&#8221; (&#8220;RCOI&#8221;). The RCOI was undertaken on the products sourced directly by, and manufactured for, Coach in 2014. Coach does not directly manufacture products but &#8220;contracts to manufacture&#8221; from its suppliers products that may contain 3TG minerals necessary to their functionality. Initially, Coach conducted X-Ray fluorescence testing of raw materials and metallized fabrics and reviewed the analytical chemistry data from a sample of products to determine whether 3TG minerals were intentionally added to these items. We then identified the suppliers who supplied the materials. The survey was administered via a web-based portal by a third-party service provider (the &#8220;Service Provider&#8221;), with manual and automated follow-up communications to improve survey response rate, and to complement Coach&#8217;s internal management process. Coach&#8217;s conclusions concerning 3TG mineral origin are based on information provided by the Service Provider derived from supplier responses and the Service Provider&#8217;s own analysis.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;2</font></td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach and the Service Provider received survey responses, which were reviewed by both parties for plausibility, consistency and gaps. We required suppliers to provide corrections and clarification where needed.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">We believe our RCOI process was reasonably designed and performed in good faith.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the conflict minerals rule, based on the results of Coach&#8217;s RCOI, Coach was required to conduct due diligence for 2014. These due diligence efforts are discussed below. Country of origin information is provided under &#8220;Item VII. Country of Origin Information&#8221; below.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;3</font></td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">V.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Due Diligence</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Design of Due Diligence</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach designed its due diligence measures to conform with the OECD (2013), <font style="FONT-STYLE: italic; DISPLAY: inline">OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition, </font>OECD Publishing (the &#8220;OECD Guidance&#8221;), which includes the related supplements on tin, tantalum and tungsten and gold. Specifically, due to our classification as a &#8220;downstream&#8221; company within the supply chain, our due diligence practices were tailored accordingly based upon the OECD Guidance.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Due Diligence Measures Performed</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Based upon the OECD Guidance, Coach&#8217;s due diligence measures included the following elements. These are not all of the discrete elements and tasks that are part of our compliance program.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline">OECD Step One: &#8220;Establish strong company management systems&#8221;</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Adopted the Conflict Minerals Policy, as described earlier in this Conflict Minerals Report, which is reviewed annually. Our Conflict Minerals Policy is publicly available at <font style="DISPLAY: inline; TEXT-DECORATION: underline">www.coach.com/conflict-minerals-policy.html</font><font style="DISPLAY: inline; TEXT-DECORATION: underline">;</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Included the Conflict Minerals Policy in our restricted substances list and manual;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Assembled an internal team to support supply chain due diligence;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Assembled a 3TG minerals oversight committee which is accountable for ensuring Coach meets all regulatory requirements and enterprise goals. The committee consists of executive leadership from the operations, finance and legal department;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Designated an internal resource, the Manager of Corporate Sustainability Strategy, to manage the program; and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Adopted a policy to keep 3TG minerals records relating to due diligence for at least five years.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline">OECD Step Two: &#8220;Identify and assess risk in the supply chain&#8221;</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Sent requests to 49 suppliers to provide Coach with a completed Conflict Minerals Reporting Template (&#8220;CMRT&#8221;), which is the form developed by the Conflict Free Sourcing Initiative (the &#8220;CFSI&#8221;). Both Coach and the Service Provider followed up by phone and email with the suppliers that did not provide a response within a specified time frame. 100% of the suppliers surveyed responded to Coach&#8217;s request for information.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach and the Service Provider reviewed the responses received from suppliers. The Service Provider reviewed the responses for plausibility, consistency and gaps, and then followed up via phone or email with suppliers that submitted a response that triggered quality control flags.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;4</font></td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Service Provider reviewed the list of suppliers&#8217; smelters and refiners and compared those lists against the list of compliant or the equivalent smelters and refiners published in the connection with CFSI&#8217;s Conflict-Free Smelter Program (&#8220;CFSP&#8221;), the London Bullion Market Association&#8217;s (&#8220;LBMA&#8221;) Good Delivery List and the Responsible Jewellery Council&#8217;s (&#8220;RJC&#8221;) Chain of Custody Certification.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For those smelters and refiners identified by a supplier that were not listed as compliant or the equivalent by an independent third-party, the Service Provider attempted to contact the smelter or refiner to gain information about its sourcing practices, including origin and transfer, and to determine the source and chain of custody of the 3TG minerals.&#160;&#160;Internet research also was performed to determine whether there are any outside sources of information regarding the smelters or refiners sourcing practices.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline">OECD Step Three: &#8220;Design and implement a strategy to respond to identified risks&#8221;</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">We reported risk management findings to senior management. We also reported to the Board of Directors regarding the results of our analysis.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Suppliers were ranked based on their risk profile, provided by the third party. No vendors were identified as &#8220;high risk.&#8221;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline">OECD Step Four: &#8220;Carry out independent third-party audit of supply chain due diligence at identified points in the supply chain&#8221;</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In connection with Coach&#8217;s due diligence, the Service Provider, on Coach&#8217;s behalf, utilizes information made available by the CFSI, LBMA and RJC concerning independent third-party audits of smelters and refiners.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline">OECD Step Five: &#8220;Report on supply chain due diligence&#8221;</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">o</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach files a Form SD and a Conflict Minerals Report with the Securities and Exchange Commission and makes the filings publicly available at <font style="TEXT-DECORATION: underline">www.coach.com/conflict-minerals-policy.html.</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">VI.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;IDENTIFIED SMELTERS AND REFINERS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Based on the information provided by Coach&#8217;s suppliers and its own due diligence efforts within its supply chain for 2014,&#160;&#160;Coach believes that the facilities used to process the necessary 3TG minerals in Coach products may have included the smelters and refiners in Table 1 below. Coach received no information from our direct suppliers indicating that tantalum or tungsten was present in any of our products.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">This table makes use of the terms &#8220;Compliant&#8221;, &#8220;Active&#8221; and &#8220;Known&#8221;. &#8220;Compliant&#8221; means that a smelter or refiner was listed as compliant with the CFSI&#8217;s assessment protocols through mutual recognition, or was indicated as &#8220;Re-audit in process.&#8221; Included smelters and refiners were not necessarily compliant for all or part of 2014 and may not continue to be compliant for any future period. &#8220;Active&#8221; means that the smelter or refiner was listed by the CFSI as having submitted a signed Agreement for the Exchange of Confidential Information and Auditee Agreement. A smelter or refiner is listed as &#8220;Known&#8221; if it was not Compliant or Active but is listed on the CMRT Standard Smelter Names Tab or the list of smelters and refiners published by the U.S. Department of Commerce. The status information reflected in this table is current as of April 14, 2015.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;5</font></td>
+</tr></table>
+</div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach received data from its suppliers on a company-level basis, meaning that the suppliers reported 3TG minerals contained in all products, not just those in the products that they sold to Coach. Accordingly, not all included smelters and refiners listed below may have processed the necessary 3TG minerals contained in Coach&#8217;s in-scope products.&#160;&#160;Furthermore, the smelters and refiners listed in the table below may not be all of the smelters and refiners in Coach&#8217;s supply chain, since the suppliers were unable to identify all of the smelters and refiners used to process the necessary 3TG minerals content contained in Coach&#8217;s in-scope products. Due to its position in the supply chain, which is discussed earlier in this Conflict Minerals Report, Coach relies on its suppliers for accurate smelter and refiner information and its RCOI and due diligence measures do not provide absolute certainty regarding the source and chain of custody of the necessary 3TG minerals contained in its in-scope products.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Table 1: List of identified smelters and refiners</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Mineral</font></div>
+</td>
+<td valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Smelter Name</font></div>
+</td>
+<td valign="middle" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Status</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Asahi Pretec Corporation</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Chimet S.p.A.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Heraeus Ltd. Hong Kong</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Heraeus Ltd. Precious Metals GmbH &amp; Co. KG</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Istanbul Gold Refinery</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">LS-NIKKO Cooper Inc.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Metalor Technologies (Hong Kong) Ltd</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Metalor Technologies SA</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Metalor USA Refining Corporation</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Mitsubishi Materials Corporation</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Nadir Metal Rafineri San Ve. Tic A.S.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Ohio Precious Metals, LLC</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Royal Canadian Mint</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Shandong &amp; Zhaojin Gold &amp; Silver Refinery Co.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Solar Applied Materials Technology Corp.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tanaka Kikinzoku Kogyo K.K.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The Refinery of Shandong Gold Mining Co. LTD</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Umicore Brasil Ltda</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr></table>
+
+<div>&#160;</div>
+
+<div>
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;6</font></td>
+</tr></table>
+</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid; BORDER-TOP: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Umicore SA Business Unit Precious Metals Refining</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Valcambi SA</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Zijin Mining Group Co. Ltd</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Faggi Enrico SPA</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Guangdong Jinding Gold Limited</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gold</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Jiangxi Cooper Company Limited</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Alpha</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Cooper Santa</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CV United Smelting</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">EM Vinto</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Elmet S.L.U (Metallo Group)</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Gejiu Non-Ferrous Metals Processing Co. LTD</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Malaysia Smelting Corporation (MSC)</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Metallo- Chimique N.V.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Melt Metais E Ligas</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Mineracao Toboca S.A.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Minsur</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">OMSA</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Koba Tin</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Timah (Persero) Tbk Kundur</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">PT Timah</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Thaisarco</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Yunnan Tin Company Limited</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Compliant</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">China Tin Group Co., LTD</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Active</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Tin</font></div>
+</td>
+<td align="left" valign="middle" width="43%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CNMC (Guangxi) PGMA Co. LTD.</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-RIGHT: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Known</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">VII.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Country of Origin Information</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Following its due diligence efforts, Coach does not have sufficient information to conclusively determine the country of origin of the necessary 3TG minerals in at least a portion of its in-scope products. Of the 43 smelters and refiners of 3TG minerals identified for calendar year 2014, ten smelters and refiners were identified by the Service Provider as sourcing 3TG minerals at least in part from the Democratic Republic of the Congo (&#8220;DRC&#8221;) or adjoining countries; however, all ten smelters and refiners are listed as compliant by the CFSI as of April 14, 2015. 33 of the smelters and refiners were identified by the Service Provider as sourcing 3TG minerals from outside the DRC region, including from recycled or scrap sources, all of which were listed as compliant by the CFSI as of such date.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The countries of origin of the compliant smelters in the table above may have included the countries in the categories listed below.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;7</font></td>
+</tr></table>
+</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">L1 - Countries that are not identified as conflict regions or plausible areas of smuggling or export of from these regions of 3TG minerals: Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Canada, Chile, China, Colombia, Cote d&#8217;Ivoire, Czech Republic, Djibouti, Egypt, Estonia, Ethiopia, France, Germany, Guyana, Hungary, India, Indonesia, Ireland, Israel, Japan, Kazakhstan, Laos, Luxembourg, Madagascar, Malaysia, Mongolia, Myanmar, Namibia, Netherlands, Nigeria, Peru, Portugal, Russia, Sierra Leone, Singapore, Slovakia, South Korea, Spain, Suriname, Switzerland, Taiwan, Thailand, United Kingdom, United States, Vietnam and Zimbabwe.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">L2 - Countries that are known or plausible countries for smuggling, export out of region or transit of materials containing 3TG minerals: Kenya, Mozambique and South Africa.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">L3 - The DRC and its nine adjoining countries: Angola, Burundi, Central African Republic, Republic of Congo, Rwanda, South Sudan, Uganda, United Republic of Tanzania and Zambia.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach endeavored to determine the mine location of origin of the necessary 3TG minerals contained in its in-scope products by requesting that the suppliers provide it with a completed CMRT and through other procedures followed by Coach and its Service Provider that are described in this Conflict Minerals Report.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">VIII.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Steps to Improve Due Diligence</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Coach intends to further improve upon its supply chain due diligence via the following measures:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Continue to assess the presence and origin of 3TG minerals in its supply chain, using revision 4.0 of the CMRT for its 2015 supplier outreach;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Incorporate requirements relating to the responsible sourcing of 3TG minerals earlier in the supplier onboarding process;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Partner with suppliers to begin to identify their upstream suppliers where applicable by outreach earlier in the year ahead of the formal CMRT;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Encourage suppliers to partner with upstream suppliers to identify source materials through the adoption of their own conflict minerals policies;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Internally audit the strength effectiveness&#160;&#160;of our 3TG&#160;&#160;minerals program;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Encourage suppliers that have not yet done so to adopt and communicate their own responsible sourcing policies relating to 3TG minerals; and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td style="WIDTH: 21pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Symbol, serif"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#9679;</font></font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Identify uncooperative suppliers and work with them to achieve our sourcing expectations or seek alternatives.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">All of these steps are in addition to the steps that Coach took in respect of its 2014 compliance, which it intends to continue to take for 2015 to the extent applicable.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;8</font></td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-VARIANT: small-caps; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">IX.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Independent Private Sector Audit</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">During the two year transition period contemplated by the Conflict Minerals Rule, and pursuant to subsequent written guidance published by the Staff of the Division of Corporation Finance of the Securities and Exchange Commission (the &#8220;SEC&#8221;), we are not required to obtain an independent private sector audit.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">This document contains forward-looking statements based on management's current expectations. These statements can be identified by the use of forward-looking terminology such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;become,&#8221; &#8220;future,&#8221; &#8220;continue,&#8221; or comparable terms. Future results may differ materially from management's current expectations, based upon risks and uncertainties such as (1) the continued implementation of satisfactory traceability and other compliance measures by Coach&#8217;s direct and indirect suppliers on a timely basis, (2) whether smelters and refiners and other market participants responsibly source 3TG minerals, (3) political and regulatory developments within the&#160;&#160;DRC region, the United States or elsewhere, and (4) changes in Coach&#8217;s supplier base, etc. Undue reliance should not be placed on these forward-looking statements, which speak only as of the date of the filing of this document. Coach does not intend, and undertakes no obligation, to publish revised forward-looking statements to reflect events or circumstances after the date of the filing of this document to reflect the occurrence of unanticipated events. Please refer to Coach&#8217;s latest Annual Report on Form 10-K, its Quarterly Reports on Form 10-Q for the quarterly periods ended December 27, 2014 and March 28, 2015, and its other filings with the SEC for a complete list of risks and other factors.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="97%" style="TEXT-ALIGN: right"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<img src="numbers.jpg" alt=""></font></td>
+<td valign="middle" width="3%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;9</font></td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>logo_coach.jpg
+<DESCRIPTION>LOGO
+<TEXT>
+begin 644 logo_coach.jpg
+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
+DKA0]A5G5I3BJ?Z'T445W'RX4444`%%%%`!1116L-OG^B`__9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>numbers.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 numbers.jpg
+M_]C_X``02D9)1@`!`0$`R`#(``#_X0!F17AI9@``34T`*@````@`!`$:``4`
+M```!````/@$;``4````!````1@$H``,````!``(```$Q``(````0````3@``
+M``````#(`````0```,@````!4&%I;G0N3D54('8U+C`P`/_B#%A)0T-?4%)/
+M1DE,10`!`0``#$A,:6YO`A```&UN=')21T(@6%E:(`?.``(`"0`&`#$``&%C
+M<W!-4T94`````$E%0R!S4D="``````````````````#VU@`!`````-,M2%`@
+M(```````````````````````````````````````````````````````````
+M````$6-P<G0```%0````,V1E<V,```&$````;'=T<'0```'P````%&)K<'0`
+M``($````%')865H```(8````%&=865H```(L````%&)865H```)`````%&1M
+M;F0```)4````<&1M9&0```+$````B'9U960```-,````AG9I97<```/4````
+M)&QU;6D```/X````%&UE87,```0,````)'1E8V@```0P````#')44D,```0\
+M```(#&=44D,```0\```(#&)44D,```0\```(#'1E>'0`````0V]P>7)I9VAT
+M("AC*2`Q.3DX($AE=VQE='0M4&%C:V%R9"!#;VUP86YY``!D97-C````````
+M`!)S4D="($E%0S8Q.38V+3(N,0``````````````$G-21T(@245#-C$Y-C8M
+M,BXQ````````````````````````````````````````````````````````
+M``````````!865H@````````\U$``0````$6S%A96B``````````````````
+M````6%E:(````````&^B```X]0```Y!865H@````````8ID``+>%```8VEA9
+M6B`````````DH```#X0``+;/9&5S8P`````````6245#(&AT='`Z+R]W=W<N
+M:65C+F-H```````````````6245#(&AT='`Z+R]W=W<N:65C+F-H````````
+M`````````````````````````````````````````````````````&1E<V,`
+M````````+DE%0R`V,3DV-BTR+C$@1&5F875L="!21T(@8V]L;W5R('-P86-E
+M("T@<U)'0@``````````````+DE%0R`V,3DV-BTR+C$@1&5F875L="!21T(@
+M8V]L;W5R('-P86-E("T@<U)'0@````````````````````````````!D97-C
+M`````````"Q2969E<F5N8V4@5FEE=VEN9R!#;VYD:71I;VX@:6X@245#-C$Y
+M-C8M,BXQ```````````````L4F5F97)E;F-E(%9I97=I;F<@0V]N9&ET:6]N
+M(&EN($E%0S8Q.38V+3(N,0``````````````````````````````````=FEE
+M=P``````$Z3^`!1?+@`0SQ0``^W,``03"P`#7)X````!6%E:(```````3`E6
+M`%````!7'^=M96%S``````````$````````````````````````"CP````)S
+M:6<@`````$-25"!C=7)V````````!``````%``H`#P`4`!D`'@`C`"@`+0`R
+M`#<`.P!``$4`2@!/`%0`60!>`&,`:`!M`'(`=P!\`($`A@"+`)``E0":`)\`
+MI`"I`*X`L@"W`+P`P0#&`,L`T`#5`-L`X`#E`.L`\`#V`/L!`0$'`0T!$P$9
+M`1\!)0$K`3(!.`$^`44!3`%2`5D!8`%G`6X!=0%\`8,!BP&2`9H!H0&I`;$!
+MN0'!`<D!T0'9`>$!Z0'R`?H"`P(,`A0"'0(F`B\".`)!`DL"5`)=`F<"<0)Z
+M`H0"C@*8`J("K`*V`L$"RP+5`N`"ZP+U`P`#"P,6`R$#+0,X`T,#3P-:`V8#
+M<@-^`XH#E@.B`ZX#N@/'`],#X`/L`_D$!@03!"`$+00[!$@$501C!'$$?@2,
+M!)H$J`2V!,0$TP3A!/`$_@4-!1P%*P4Z!4D%6`5G!7<%A@66!:8%M07%!=4%
+MY07V!@8&%@8G!C<&2`99!FH&>P:,!IT&KP;`!M$&XP;U!P<'&0<K!ST'3P=A
+M!W0'A@>9!ZP'OP?2!^4'^`@+"!\(,@A&"%H(;@B"")8(J@B^"-((YPC["1`)
+M)0DZ"4\)9`EY"8\)I`FZ"<\)Y0G["A$*)PH]"E0*:@J!"I@*K@K%"MP*\PL+
+M"R(+.0M1"VD+@`N8"[`+R`OA"_D,$@PJ#$,,7`QU#(X,IPS`#-D,\PT-#28-
+M0`U:#70-C@VI#<,-W@WX#A,.+@Y)#F0.?PZ;#K8.T@[N#PD/)0]!#UX/>@^6
+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
+@T?3(3!8:?:EUM[6$N\GE1*S,0F^1V`).,^E%%%`'_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
