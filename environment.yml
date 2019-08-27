@@ -1,16 +1,10 @@
 name: mtd
 dependencies:
-  - python=3.4
-  - ipython-notebook
+  - beautifulsoup4
   - bokeh
-  - requests
+  - feedparser
+  - jupyterlab
   - pandas
-  - beautiful-soup
-  - nltk
-  - scikit-learn
-  - pip:
-    - oauth2
-    - Click
-    - flask
-    - flask-restful
-    - feedparser
+  - python
+  - requests
+  - toolz
